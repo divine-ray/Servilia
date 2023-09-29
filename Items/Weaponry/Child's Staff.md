@@ -10,4 +10,4 @@
 
 **Special Property:** *Hungry.* This Staff requires sustenance, charred meat or similarly burnt flesh, and will not function if not fed.
 
-The user gains quite some respect from [[Children of the Flame]].
+The user gains quite some respect from [[Children of The Flame]].

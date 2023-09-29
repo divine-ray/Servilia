@@ -15,8 +15,6 @@ I'm split on erotic/sexual content in this project, regardless if it is within t
 In case you actually try to read any of the stuff we made, here's a quick rundown of the folders:
 - Beings
 	- This is the category in which all creatures, NPCs, characters, species, races, and such are.
-- Clash's Stuff
-	- This is your place, I expect it to change if you start to write for/in this world.
 - Factions and cultures
 	- The political powers, religions, cults and other organisations.
 	- Cultures kinda overlap with species at some point, I haven't figured out a neat solution yet.

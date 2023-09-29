@@ -6,7 +6,7 @@ Marilee was once a widely renown and respected singer, who had secretly used mag
 
 (She sorta adapted Cant into a sung form)
 
-During her time, she ascended into almost being the guardian patron for the Cursed Undead, which drew the attention of the [[Children of the Flame]].
+During her time, she ascended into almost being the guardian patron for the Cursed Undead, which drew the attention of the [[Children of The Flame]].
 
 -   She has become Patron or Deity of Song, assisting devoted Bards.
 
@@ -14,7 +14,7 @@ During her time, she ascended into almost being the guardian patron for the Curs
 
 After several fatal attempts of the Children on her and the then-necropolis she got lethally injured and reached out to the fabled Cold, to heal her and to give a counterweight.
 
-Unfortunately, she was unaware about how [[the Cold]] functions and thus she did not prepare for its overtaking nature, and got completely frozen.
+Unfortunately, she was unaware about how [[The Cold]] functions and thus she did not prepare for its overtaking nature, and got completely frozen.
 
  
 

@@ -1,4 +1,4 @@
-Various buildings and structures left around the continent by [someone long gone](The%20Lavish%20Empire). 
+Various buildings and structures left around the continent by [someone long gone](The%20Lavish%20Empire.md). 
 Most of them remain functional through the maintenance of peculiar critters and other creatures, which [I](Kookie,%20Mage) did not inspect closer yet. 
 In this entry I will summarise the most notable ones i found repeatedly, and theorise their function. 
 

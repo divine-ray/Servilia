@@ -1,5 +1,5 @@
 *Note: This refers to the location, for the Entity assoicated, read [[Voidfish]].*
-When completely delved through all layers of  [[the Twilight]], people could access [[The Void]].
+When completely delved through all layers of  [[The Twilight]], people could access [[The Void]].
  Accessible through the [[Fountainhead]]'s borehole, [[The Abyss]].
  The [[Voidfish]] is this plane's #Shnūt .
 
