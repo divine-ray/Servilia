@@ -21,11 +21,28 @@
             "id": "5168f31b87dd5369",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Factions and Cultures/Cults and Religions/Lunatics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f81432bc77bf80b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Complete History of Servilia.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "History/Complete History of Servilia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "History/Complete History of Servilia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "History/Complete History of Servilia.md"
+              }
             }
           },
           {
@@ -189,7 +210,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -197,6 +219,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "zk-prefixer:Create new unique note": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -210,8 +234,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35f321f9d92a6d71",
+  "active": "f81432bc77bf80b9",
   "lastOpenFiles": [
+    "Structure/TO-DO/Before the First Era.md",
+    "History/Complete History of Servilia.md",
+    "Factions and Cultures/Cults and Religions/Lunatics.md",
+    "Factions and Cultures/Cults and Religions/Children of The Flame.md",
+    "Factions and Cultures/Amida.md",
+    "Factions and Cultures/Dwarves.md",
+    "Factions and Cultures/Cultures",
+    "Factions and Cultures/Organisations/The Zubin Society.md",
+    "Factions and Cultures/Organisations/Servilian Railroad and Train Network.md",
+    "Factions and Cultures/Cultures/Kva'al.md",
+    "Factions and Cultures/Cults and Religions/Followers of Mekhane.md",
+    "Untitled.md",
     "Beings/Creatures/Pseudoneo/Warped Angel.md",
     "Beings/Creatures/Pseudoneo/Symbioparasite.md",
     "Beings/Creatures/Pseudoneo/Songbird.md",
@@ -227,19 +263,8 @@
     "Beings/Species/Liches.md",
     "Beings/Species/Padian Shadowmaw.md",
     "Beings/Species/Lavish.md",
-    "Beings/Species/Eurasian Shadowmaw.md",
-    "Beings/Creatures/Ring of Fire.md",
     "Beings/Creatures/Pseudoneo",
-    "Beings/Creatures/Orb & Spire.md",
-    "Beings/Creatures/Oni of the Plains.md",
-    "Beings/Creatures/Night Runner.md",
-    "Beings/Creatures/Ice Cub.md",
-    "Beings/Creatures/Hollowed.md",
-    "Beings/Creatures/Flying PiSquid.md",
-    "Beings/Creatures/Faceless.md",
-    "Beings/Characters and People/Warlock Gaíz-an.md",
     "Beings/Characters and People/Thylyian",
-    "Beings/Characters and People/Soldier, Poet, King.md",
     "Beings/Characters and People/Exiled",
     "Beings/Characters and People/Amidae",
     "Beings/Species",
@@ -247,7 +272,6 @@
     "Beings/Characters and People",
     "Beings/Beyond",
     "Beings",
-    "Factions and Cultures/Factions/Thylyian",
     "History/Really coarse timeline.canvas",
     "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-52-43.svg",
     "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-50-28.svg",

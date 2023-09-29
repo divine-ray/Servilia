@@ -1,7 +1,7 @@
 The machine, a killer. 
 Death reincarnated as machine. 
 Engineered to perfection. 
-Relentless, driven by cold programming. [Cruel](Routines) and efficient. Rejected its [[War Constructor Borange Olbaz|creators]] and slaughtered them. 
+Relentless, driven by cold programming. [Cruel](Routines.md) and efficient. Rejected its [[War Constructor Borange Olbaz|creators]] and slaughtered them. 
 Wrath incarnate. It only finds peace in war, beauty in destruction. 
 It remains undefeated. 
 A winged behemoth, harbinger of death. Its shape, a cruel mock-up of the renown dragonkin. 

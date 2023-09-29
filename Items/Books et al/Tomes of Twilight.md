@@ -5,7 +5,7 @@ Each of these smaller books appears to be covered in a slight ethereal haze, whi
 ## Contents
 ### Requirements
 For a individual to be able to conduct and weave Twilit into elementary forces, one must:
-- Be capable of conducting Twilit through inputs and [outlets](Spellcasting%20Glove). 
+- Be capable of conducting Twilit through inputs and [outlets](Spellcasting%20Glove.md). 
 - Conduct Twilit in a way that does not cause too much/too little resistance.
 	- Having a too low resistance will conduct *too much* Twilit into the Woven, causing unforeseen spell reactions.
 	- Having a too high resistance will cause the caster's body to physically heat up, damaging their body, possibly causing death. 
