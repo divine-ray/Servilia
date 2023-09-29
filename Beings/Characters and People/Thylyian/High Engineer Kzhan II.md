@@ -1,0 +1,11 @@
+
+
+High-Ranking Mekhanite who invented the concept of steam-propelled projective weapons, also known as steam gun.
+
+Blazing orange hair and beard, commonly described as maniacally friendly. 
+
+One of the Patrons to the Citadel of the Gear, highly devout. 
+
+ 
+
+<https://open.spotify.com/album/3qHPyK7e96uprnWQWzVOnB?si=othOTJa8Rk64iWoef9R_vA>

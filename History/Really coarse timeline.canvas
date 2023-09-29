@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"type":"text","text":"Rapid expansion causes them to create and flood the [[Palga Basin]]","id":"3fe8599ea1a06995","x":427,"y":1212,"width":313,"height":88},
+		{"type":"text","text":"[[Lavish]] develop from molluscs and squids","id":"0098c819bf102cec","x":0,"y":1226,"width":250,"height":60},
+		{"type":"text","text":"The lavish discover the [[Twilight]] and start to tap it, magic is discovered ","id":"745786cb5b729974","x":962,"y":1020,"width":271,"height":112},
+		{"type":"text","text":"Humans somehow start to exist and settle in the area known as Thylyist\n","id":"fab60187146d82a7","x":-98,"y":315,"width":223,"height":141},
+		{"type":"text","text":"[[Schi ut-Pula]] sells the world due to being depressed, causes the [[Curse of the Undead]]","id":"161d34fd8c457eb0","x":-369,"y":1,"width":271,"height":132},
+		{"type":"file","file":"Realms/Utuw System/Schi/Servilia/Regions/Areas/City of Thylyist/City of Thylyist.md","id":"4ba957b331211722","x":371,"y":789,"width":428,"height":178},
+		{"type":"text","text":"Dragons evolve from lizards into sentient, airborne species ","id":"5c22f6acc5d46a68","x":77,"y":1440,"width":294,"height":79},
+		{"type":"text","text":" [[The Lavish Empire]] is founded and thriving","id":"7022b0b4e4bf1e29","x":973,"y":1219,"width":250,"height":74},
+		{"type":"text","text":"[[Schi ut-Pula]]s power radiates throughout the denizens of Schi, giving some determined individuals power and capability of magical degree\nThese are known as [[Ancients]]","id":"55fa35eb73ec8e29","x":920,"y":-3,"width":366,"height":139},
+		{"type":"text","text":"[[Sepulchre]] is founded or created as ghetto for the undead","id":"9b470c357ee11a72","x":975,"y":-280,"width":256,"height":77},
+		{"id":"3268b2fb58a7bac6","x":400,"y":-306,"width":288,"height":129,"type":"text","text":"As the population of Servilia continues to grow, the amounts of unresting deceased start to become a issue"},
+		{"type":"file","file":"Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Frisco.md","id":"7f710fbc47379bee","x":1920,"y":360,"width":411,"height":145},
+		{"type":"text","text":"Thylyian science incorporates the newfound powers in cooperation with the lavish","id":"bf952182ec8eb114","x":1264,"y":819,"width":302,"height":118},
+		{"id":"0395d6d957095630","x":1600,"y":1196,"width":250,"height":121,"type":"text","text":"The first few runs of [[Pseudoneo]] experiments turn out to be a blasting sucess."},
+		{"id":"c0a3d436afa801ed","x":1820,"y":819,"width":262,"height":105,"type":"text","text":"Hundreds of collaborative projects between Thylyist and the Lavish are made and completed"},
+		{"id":"493f8e67c18fabad","x":2199,"y":789,"width":264,"height":166,"type":"text","text":"Thylyist Council enrolls construction for the [[Archive of Old]], a massive library-university-archive complex to document and store all the knowledge gained"},
+		{"id":"081cfbc6f81fee40","x":2680,"y":1020,"width":250,"height":98,"type":"text","text":"Construction of the [[Fountainhead]] begins, a project not to finish for decades"},
+		{"id":"86ac6befba1136b3","x":2020,"y":1360,"width":251,"height":119,"type":"text","text":"[[Songbird||Songbirds]] are their first employed pseudoneo, delivering goods and people across Servilia. "}
+	],
+	"edges":[
+		{"id":"43b91edb2eaa081d","fromNode":"fab60187146d82a7","fromSide":"right","toNode":"4ba957b331211722","toSide":"left"},
+		{"id":"a421f94aaf7f79a9","fromNode":"0098c819bf102cec","fromSide":"right","toNode":"3fe8599ea1a06995","toSide":"left"},
+		{"id":"eb129a12af124110","fromNode":"3fe8599ea1a06995","fromSide":"right","toNode":"7022b0b4e4bf1e29","toSide":"left"},
+		{"id":"9cbcf66d9235ba53","fromNode":"7022b0b4e4bf1e29","fromSide":"top","toNode":"745786cb5b729974","toSide":"bottom"},
+		{"id":"2813a999a0641e6e","fromNode":"4ba957b331211722","fromSide":"right","toNode":"bf952182ec8eb114","toSide":"left"},
+		{"id":"caa16120d6d7ee52","fromNode":"745786cb5b729974","fromSide":"top","toNode":"bf952182ec8eb114","toSide":"left"},
+		{"id":"1e9538dec52d4de2","fromNode":"161d34fd8c457eb0","fromSide":"right","toNode":"55fa35eb73ec8e29","toSide":"left"},
+		{"id":"2cbea05e723040a6","fromNode":"745786cb5b729974","fromSide":"right","toNode":"0395d6d957095630","toSide":"left"},
+		{"id":"1ebb7ded3424b580","fromNode":"7022b0b4e4bf1e29","fromSide":"right","toNode":"0395d6d957095630","toSide":"left"},
+		{"id":"f451523b2f45facc","fromNode":"3268b2fb58a7bac6","fromSide":"right","toNode":"9b470c357ee11a72","toSide":"left"},
+		{"id":"63ada48d8166fe29","fromNode":"161d34fd8c457eb0","fromSide":"right","toNode":"3268b2fb58a7bac6","toSide":"left"},
+		{"id":"166cf84cd21c715d","fromNode":"bf952182ec8eb114","fromSide":"right","toNode":"c0a3d436afa801ed","toSide":"left"},
+		{"id":"32b0e66bc43509ee","fromNode":"0395d6d957095630","fromSide":"top","toNode":"c0a3d436afa801ed","toSide":"left"},
+		{"id":"693daeb026f31f9a","fromNode":"c0a3d436afa801ed","fromSide":"right","toNode":"493f8e67c18fabad","toSide":"left"},
+		{"id":"44518f9ae2cb925c","fromNode":"745786cb5b729974","fromSide":"right","toNode":"081cfbc6f81fee40","toSide":"left"},
+		{"id":"5e997547ac1b5272","fromNode":"0395d6d957095630","fromSide":"right","toNode":"86ac6befba1136b3","toSide":"left"}
+	]
+}

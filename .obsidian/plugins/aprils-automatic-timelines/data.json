@@ -1,0 +1,42 @@
+{
+  "metadataKeyEventStartDate": "fc-date",
+  "metadataKeyEventEndDate": "fc-end",
+  "metadataKeyEventTitleOverride": "fc-display-name",
+  "metadataKeyEventBodyOverride": "aat-event-body",
+  "metadataKeyEventPictureOverride": "aat-event-picture",
+  "metadataKeyEventTimelineTag": "timelines",
+  "noteInlineEventKey": "aat-inline-event",
+  "markdownBlockTagsToFindSeparator": ",",
+  "dateParserRegex": "(?<day>-?[0-9]*)-(?<month>-?[0-9]*)-(?<year>-?[0-9]*)",
+  "dateParserGroupPriority": "day,month,year",
+  "dateDisplayFormat": "{day}.{month}.{year}",
+  "lookForTagsForTimeline": true,
+  "lookForInlineEventsInNotes": true,
+  "applyAdditonalConditionFormatting": true,
+  "dateTokenConfiguration": [
+    {
+      "minLeght": 4,
+      "name": "year",
+      "type": "NUMBER",
+      "displayWhenZero": true,
+      "formatting": [],
+      "hideSign": false
+    },
+    {
+      "minLeght": 2,
+      "name": "month",
+      "type": "NUMBER",
+      "displayWhenZero": true,
+      "formatting": [],
+      "hideSign": false
+    },
+    {
+      "minLeght": 2,
+      "name": "day",
+      "type": "NUMBER",
+      "displayWhenZero": true,
+      "formatting": [],
+      "hideSign": false
+    }
+  ]
+}

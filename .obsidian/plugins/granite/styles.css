@@ -1,0 +1,32 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+
+:root {
+	--granite-size: 80px;
+}
+
+.granite-container {
+	position: fixed;
+	bottom: 60px;
+	right: 30px;
+}
+
+.granite-container img {
+	width: var(--granite-size);
+	height: var(--granite-size);
+	border-radius: var(--granite-size);
+}
+
+.granite-tooltip {
+	--background-modifier-message: var(--background-primary);
+	color: var(--text-normal) !important;
+	font-size: var(--font-ui-medium);
+	border-radius: 20px;
+	padding: var(--size-4-3) var(--size-4-6);
+}

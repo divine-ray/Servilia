@@ -1,0 +1,33 @@
+{
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-keyboard",
+    "editor:configure-toolbar",
+    "editor:toggle-comments",
+    "editor:swap-line-up",
+    "editor:swap-line-down",
+    "editor:fold-all",
+    "editor:unfold-all",
+    "editor:toggle-fold",
+    "editor:fold-more",
+    "editor:fold-less"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"e268a1307b4c46a0","type":"group","x":640,"y":-1900,"width":560,"height":1540,"label":"Dark Domain"},
+		{"id":"8918f5f2aa16553f","type":"file","file":"Realms/Planes/Dark Domain/The Void.md","x":700,"y":-1320,"width":400,"height":400},
+		{"id":"086b54252e91fc87","type":"file","file":"Realms/Planes/Dark Domain/Empire of Shadows.md","x":700,"y":-800,"width":400,"height":400},
+		{"id":"45016380e31fe6e4","type":"file","file":"Realms/Planes/Twilit.md","x":-160,"y":-1320,"width":400,"height":400},
+		{"id":"bc7fb6e09afd21ea","type":"file","file":"Beings/Beyond/Voidfish.md","x":1880,"y":-1235,"width":400,"height":230},
+		{"id":"f5b5d1ba2cd5b4b1","type":"file","file":"Beings/Beyond/Queen of Shadows.md","x":1880,"y":-670,"width":400,"height":140},
+		{"id":"d901e21444d7aba2","type":"file","file":"Realms/Planes/Dark Domain/Eternal Sea.md","x":700,"y":-1840,"width":400,"height":400},
+		{"id":"5a31e82a1b54ad03","type":"file","file":"Realms/Utuw System/Schi/Schi.md","x":-110,"y":-1720,"width":300,"height":220},
+		{"id":"ff7d171f94672dee","type":"text","text":"# Material Plane\n(Planets, moons, stars, etc)","x":-120,"y":-1960,"width":320,"height":120},
+		{"id":"188e46d290e7e874","x":-680,"y":-1980,"width":400,"height":220,"type":"file","file":"Beyond.md"}
+	],
+	"edges":[
+		{"id":"8b5dfee0d037e1fe","fromNode":"bc7fb6e09afd21ea","fromSide":"left","toNode":"8918f5f2aa16553f","toSide":"right","fromEnd":"arrow","label":"Is"},
+		{"id":"b11254d4f70f4abf","fromNode":"f5b5d1ba2cd5b4b1","fromSide":"left","toNode":"086b54252e91fc87","toSide":"right","label":"Rules"},
+		{"id":"00d9b94ecdf3a584","fromNode":"45016380e31fe6e4","fromSide":"right","toNode":"8918f5f2aa16553f","toSide":"left","label":"Gradient fades"},
+		{"id":"bb031cb7ecefb01c","fromNode":"ff7d171f94672dee","fromSide":"bottom","toNode":"5a31e82a1b54ad03","toSide":"top","label":"Has"},
+		{"id":"7b9f65aa05f89b6c","fromNode":"5a31e82a1b54ad03","fromSide":"bottom","toNode":"45016380e31fe6e4","toSide":"top","label":"Shapes"},
+		{"id":"0cc01c0b03973af7","fromNode":"ff7d171f94672dee","fromSide":"right","toNode":"d901e21444d7aba2","toSide":"left","label":"Absence thereof creates"},
+		{"id":"c8902ba052b6c286","fromNode":"d901e21444d7aba2","fromSide":"left","toNode":"5a31e82a1b54ad03","toSide":"right","label":"Schi is in the Eternal Sea"},
+		{"id":"9acb7bc611b90e69","fromNode":"8918f5f2aa16553f","fromSide":"top","toNode":"ff7d171f94672dee","toSide":"bottom","label":"Rivals"}
+	]
+}

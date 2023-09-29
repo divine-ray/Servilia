@@ -1,0 +1,13 @@
+#TODO 
+- [x] ~~Warp Stones~~
+- [ ] Twilight Rifts
+- [ ] Mounts
+	- [ ] Dragons
+	- [ ] Burrowing Worms
+	- [ ] Horses
+	- [ ] Amphitheriid
+- [ ] Vehicles
+	- [ ] [[that funny retro scifi stone motorcycle]]
+	- [ ] airships 
+	- [ ] Train
+	- [ ] Agrosy

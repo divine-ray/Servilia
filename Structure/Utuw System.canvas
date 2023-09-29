@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"type":"file","file":"Realms/Utuw System/Schi/Kynoly.md","id":"f2d7da2a070af854","x":2140,"y":247,"width":400,"height":400},
+		{"type":"file","file":"Realms/Utuw System/Schi/Opar.md","id":"e64caa930bd22fb2","x":2140,"y":-640,"width":400,"height":400},
+		{"type":"file","file":"Realms/Utuw System/Schi/Heaugi.md","id":"1f4ff034781ea8f1","x":2140,"y":-200,"width":400,"height":400},
+		{"type":"file","file":"Realms/Utuw System/Schi/Schi.md","id":"5304b339dae188b6","x":1540,"y":-292,"width":400,"height":584},
+		{"type":"file","file":"Realms/Utuw System/Scheties.md","id":"19f58af7cda127a2","x":1540,"y":360,"width":400,"height":400},
+		{"type":"file","file":"Structure/The Utuw System.md","id":"1c08cbf1e068adcf","x":260,"y":-1060,"width":520,"height":1120},
+		{"type":"file","file":"Sphill.md","id":"7e7541d3fce1e2a5","x":1540,"y":840,"width":400,"height":400},
+		{"type":"file","file":"Realms/Utuw System/Utuw.md","id":"023ef03fb691f437","x":960,"y":360,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"d9c54227cc79f151","fromNode":"023ef03fb691f437","fromSide":"right","toNode":"5304b339dae188b6","toSide":"left"},
+		{"id":"c4fd5c0d02af0c08","fromNode":"5304b339dae188b6","fromSide":"right","toNode":"e64caa930bd22fb2","toSide":"left"},
+		{"id":"ca329269743f17e8","fromNode":"5304b339dae188b6","fromSide":"right","toNode":"1f4ff034781ea8f1","toSide":"left"},
+		{"id":"6f975cff392f5f56","fromNode":"023ef03fb691f437","fromSide":"right","toNode":"19f58af7cda127a2","toSide":"left"},
+		{"id":"ce76c699399b5100","fromNode":"5304b339dae188b6","fromSide":"right","toNode":"f2d7da2a070af854","toSide":"left"},
+		{"id":"5ad3317b7bc45635","fromNode":"023ef03fb691f437","fromSide":"right","toNode":"7e7541d3fce1e2a5","toSide":"left"}
+	]
+}

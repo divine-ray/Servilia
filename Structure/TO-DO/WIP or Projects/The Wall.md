@@ -1,0 +1,2 @@
+The Wall, in the middle of nowhere. Made from what we assume to be white marble. Bricks are scattered around the lands, one finding to another through a curious adventurer. 
+It's mysterious, we do not know what it is built for. It is speculated that something will happen if it is completed. 
