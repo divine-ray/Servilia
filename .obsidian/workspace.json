@@ -84,13 +84,25 @@
               "type": "markdown",
               "state": {
                 "file": "Untitled.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "569a1c385f05c15e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Groupings/Factions/The Lavish Empire.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -164,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Groupings/Factions/The Lavish Empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Groupings/Factions/The Lavish Empire.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Groupings/Factions/The Lavish Empire.md"
               }
             }
           },
@@ -283,13 +295,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab5c71a6889300c2",
+  "active": "569a1c385f05c15e",
   "lastOpenFiles": [
+    "202310012242.md",
+    "Return of Automatia.md",
+    "~syncthing~Return of Automatia.md.tmp",
+    "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/Syksa, Lavish Capital.md",
+    "Groupings/Factions/The Lavish Empire.md",
+    "Untitled.md",
+    "Groupings/Factions/The Cold.md",
+    "Beings/Beyond/Twilight.md",
+    "Untitled 1.md",
     "Media/Maps/Cervilia 2023-09-29-22-41.map",
     "Media/Maps/Cervilia 2023-09-29-23-30.map",
     "Media/Maps/Cervilia 2023-09-30-00-26.map",
     "Media/Maps/Cervilia 2023-09-29-22-11.map",
-    "Untitled.md",
     "Structure/TO-DO/Ye' Good Olde TODO.md",
     "Groupings/Cults and Religions/Lunatics.md",
     "Seacurbury Fair.md",
@@ -313,16 +333,8 @@
     "Structure/TO-DO/Ramblings/twilight part 2.md",
     "Groupings/Organisations/Erudition Coven.md",
     "History/Complete History of Servilia.md",
-    "Structure/TO-DO/Before the First Era.md",
-    "Groupings/Cults and Religions/Children of The Flame.md",
-    "Groupings/Amida.md",
-    "Groupings/Dwarves.md",
     "Groupings/Cultures",
-    "Groupings/Organisations/The Zubin Society.md",
-    "Groupings/Organisations/Servilian Railroad and Train Network.md",
     "Beings/Creatures/Pseudoneo",
-    "Beings/Characters and People/Thylyian",
-    "Beings/Characters and People/Exiled",
     "History/Really coarse timeline.canvas",
     "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-52-43.svg",
     "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-50-28.svg",

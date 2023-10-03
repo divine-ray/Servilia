@@ -3,7 +3,7 @@
 This water-bound species shaped the once-dry [[Palga Basin]] into a massive body of water, sustaining their life.
 Settled within [[Syksa, Lavish Capital]]. 
 ### Decscription of the Species:
-[[Lavish]]
+![[Lavish]]
 
 ### Communication 
 Their primary means of communication were telepathy and changing the colour of their skin. Secondarily is the ejection of a pheromone and ink mixture that acts as longer term messages.
@@ -19,9 +19,9 @@ It is speculated that they could only advance so far due to the water shielding 
 
 ## Technology and Magic
 The Lavish were responsible for building the [[Fountainhead]].
-They wielded great arcane powers and bonded to the twilight, until they constructed the Fountainhead and tore a hole into the[[Twilight]].
+They wielded great arcane powers and bonded to the twilight, until they constructed the Fountainhead and tore a hole into the [[Twilit]].
 
-They engineered most of the [transport systems](Argrosy) in Thylyst and Servilia.
+They engineered most of the [transport systems](Argrosy) in Thylyist and Servilia.
 
 ### Supercollider Antimatter power project::
 [[SC-AM]]

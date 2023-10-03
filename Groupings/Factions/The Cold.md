@@ -5,7 +5,7 @@ tags: heart-of-cold, the-cold
 
 It's a semiamorphous organism residing in the [[Northern Reaches]] of the Realm, especially the Poles.
 
-It feeds on thermal energy (heat),  [[Twilight]] and Amarisk residues. 
+It feeds on thermal energy (heat),  [[Twilit]] and Amarisk residues. 
 
 
 
