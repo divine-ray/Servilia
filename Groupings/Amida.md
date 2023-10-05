@@ -18,7 +18,7 @@ Poverty is common, and food is scarce.
 - possibly discovered a [Lavish](The Lavish Empire) colony within [[Heaugi]]'s oceans, who are defending their refuge with extreme means and violence
 
 Amida as megacity has lifted the Thylyian dogma against non-human[^1] sentience, but ghettos and racism is still a daily issue and major source of criminality.
-[[Elf]] people still reside in their hunter-gatherer society in the Ninth Forest, but some deviants (Dark elves?) moved to Amida.
+[[Varuú]] people still reside in their busted society in the Ninth Forest, but some deviants (Dark elves?) moved to Amida.
 
 #### [[Numerator]]s
 Linked to external page.

@@ -52,7 +52,7 @@
 - [x] [[Voidfish]]
 - [ ] Zutavan, the sea serpent water deity residing around the lunar mangroves
 	- will absolutely kill everyone who does not toll their respect by blowing a conch horn or paying tribute 
-- [ ] Amphitheriids as mounts
+- [ ] [[Amphitheriid]] as mounts
 - [ ] Juno (Was mad so he shot at the sun)
 - [ ] Maou'oru (that one faint dream of the weird railway beach dude)
 - [ ] Evelyn as the stock character "prostitute with a heart of gold/wisdom"
@@ -126,6 +126,8 @@ throw golems and other constructs into placces, they're neat
  the trees are calling for my names; they whisper that i am wanted back home.
 ##### Wizards off the Coast
  as group of mages who are extremely selfish and greedy (as to nudge at the makers of D&D)
+ SHADOW WIZARD MONEY GANG 
+	 WE LOVE CASTING SPELLS
 ##### bones in the ocean
 some guy who almost drowned, but lost his humanity (turned hollow) in the near-death experience
 and now fulfils '*some*' role for the seafaring people and undead, akin to marilee
