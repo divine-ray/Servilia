@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groupings/Factions/The Lavish Empire.md",
+                "file": "Beings/Creatures/Night Runner.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Groupings/Factions/The Lavish Empire.md",
+                "file": "Beings/Creatures/Night Runner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Groupings/Factions/The Lavish Empire.md",
+                "file": "Beings/Creatures/Night Runner.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Groupings/Factions/The Lavish Empire.md"
+                "file": "Beings/Creatures/Night Runner.md"
               }
             }
           },
@@ -297,12 +297,14 @@
   },
   "active": "569a1c385f05c15e",
   "lastOpenFiles": [
+    "Groupings/Factions/The Lavish Empire.md",
+    "Media/Maps/Baria 2023-10-04-15-05.map",
+    "Beings/Creatures/Amphitheriid.md",
     "Media/Maps/Preia 2023-10-04-14-46.map",
     "202310012242.md",
     "Return of Automatia.md",
     "~syncthing~Return of Automatia.md.tmp",
     "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/Syksa, Lavish Capital.md",
-    "Groupings/Factions/The Lavish Empire.md",
     "Untitled.md",
     "Groupings/Factions/The Cold.md",
     "Beings/Beyond/Twilight.md",
@@ -332,9 +334,6 @@
     "Beings/Creatures/Undead Cat.md",
     "Structure/TO-DO/Ramblings/Now, how does the CoTBG or mekhanites affect the world.md",
     "Structure/TO-DO/Ramblings/twilight part 2.md",
-    "Groupings/Organisations/Erudition Coven.md",
-    "Groupings/Cultures",
-    "Beings/Creatures/Pseudoneo",
     "History/Really coarse timeline.canvas",
     "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-52-43.svg",
     "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-50-28.svg",
