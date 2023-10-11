@@ -42,23 +42,15 @@
             }
           },
           {
-            "id": "f81432bc77bf80b9",
+            "id": "b699cd8d1d4cab5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/Palga Basin.md",
+                "file": "The Old King.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "9c39d2c20e7081cf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -68,45 +60,9 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
-          },
-          {
-            "id": "9da3ef5e8615f5ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Eras/The Second Era/Fall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab5c71a6889300c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "569a1c385f05c15e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beings/Creatures/Night Runner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structure/TO-DO/How Dying ceased.md",
+                "file": "The Old King.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structure/TO-DO/How Dying ceased.md",
+                "file": "The Old King.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structure/TO-DO/How Dying ceased.md"
+                "file": "The Old King.md"
               }
             }
           },
@@ -299,9 +255,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "efd6834ba1f59580",
+  "active": "b699cd8d1d4cab5e",
   "lastOpenFiles": [
     "Structure/TO-DO/Ye' Good Olde TODO.md",
+    "Structure/TO-DO/How Dying ceased.md",
     "History/Eras/The Second Era/Fall.md",
     "Structure/TO-DO/Ye' Good Olde TODO.sync-conflict-20231010-171332-QELEOCQ.md",
     "Seacurbury Fair.md",
@@ -340,7 +297,6 @@
     "Argrosy.md",
     "First Vault 10 (player).png",
     "Forces.canvas",
-    "Letter to Clash №1.md",
     "History/Really coarse timeline.canvas",
     "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-52-43.svg",
     "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-50-28.svg",
