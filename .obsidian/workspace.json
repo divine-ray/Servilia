@@ -93,8 +93,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +167,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Eras/The Second Era/Fall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +183,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Eras/The Second Era/Fall.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -207,9 +204,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "History/Eras/The Second Era/Fall.md"
-              }
+              "state": {}
             }
           },
           {
@@ -287,8 +282,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9da3ef5e8615f5ef",
+  "active": "35f321f9d92a6d71",
   "lastOpenFiles": [
+    "Structure/TO-DO/Ye' Good Olde TODO.md",
+    "History/Eras/The Second Era/Fall.md",
     "Structure/TO-DO/Ye' Good Olde TODO.sync-conflict-20231010-171332-QELEOCQ.md",
     "Seacurbury Fair.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Lakehouse.md",
@@ -314,7 +311,6 @@
     "Media/Maps/Cervilia 2023-09-29-23-30.map",
     "Media/Maps/Cervilia 2023-09-30-00-26.map",
     "Media/Maps/Cervilia 2023-09-29-22-11.map",
-    "Structure/TO-DO/Ye' Good Olde TODO.md",
     "Groupings/Cults and Religions/Lunatics.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/Palga Basin.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/Fountainhead.md",
@@ -328,7 +324,6 @@
     "First Vault 10 (player).png",
     "Forces.canvas",
     "Letter to Clash №1.md",
-    "The Warrens of Unspeakable Horror 04.md",
     "History/Really coarse timeline.canvas",
     "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-52-43.svg",
     "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-50-28.svg",
