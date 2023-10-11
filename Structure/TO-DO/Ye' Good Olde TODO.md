@@ -14,7 +14,7 @@
 ### [[The First Era]]:
 - [x] Details and polish of ``[[Syksa, Lavish Capital]]`
 - [ ] [[History of Sepulchre and the Faceless|History of Sepulchre and the Faceless]]
-- [ ] [[how Death died]]
+- [ ] [[How Dying ceased]]
 - [ ] Pogrom & genocide upon Lavish and Varuú, [[Fall of the Lavish]]
 ### [[The Second Era]]:
 - ### Thylyist

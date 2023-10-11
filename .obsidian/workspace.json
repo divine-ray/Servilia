@@ -18,6 +18,18 @@
             }
           },
           {
+            "id": "efd6834ba1f59580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Structure/TO-DO/How Dying ceased.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5168f31b87dd5369",
             "type": "leaf",
             "state": {
@@ -93,7 +105,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,6 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Structure/TO-DO/How Dying ceased.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Structure/TO-DO/How Dying ceased.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +219,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Structure/TO-DO/How Dying ceased.md"
+              }
             }
           },
           {
@@ -282,7 +299,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35f321f9d92a6d71",
+  "active": "efd6834ba1f59580",
   "lastOpenFiles": [
     "Structure/TO-DO/Ye' Good Olde TODO.md",
     "History/Eras/The Second Era/Fall.md",
