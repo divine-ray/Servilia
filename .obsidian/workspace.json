@@ -58,23 +58,15 @@
             }
           },
           {
-            "id": "99a0c91f74e1c2d6",
+            "id": "9da3ef5e8615f5ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seacurbury Fair.md",
+                "file": "History/Eras/The Second Era/Fall.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "9da3ef5e8615f5ef",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -102,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -176,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beings/Creatures/Night Runner.md",
+                "file": "History/Eras/The Second Era/Fall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beings/Creatures/Night Runner.md",
+                "file": "History/Eras/The Second Era/Fall.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beings/Creatures/Night Runner.md"
+                "file": "History/Eras/The Second Era/Fall.md"
               }
             }
           },
@@ -295,8 +287,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "569a1c385f05c15e",
+  "active": "9da3ef5e8615f5ef",
   "lastOpenFiles": [
+    "Structure/TO-DO/Ye' Good Olde TODO.sync-conflict-20231010-171332-QELEOCQ.md",
+    "Seacurbury Fair.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Lakehouse.md",
+    "The Old King.md",
+    "Untitled.md",
+    "Beings/Creatures/Night Runner.md",
+    "Media/First Vault 10 (player).png",
+    "Media/First Vault 10.png",
+    "History/Seacurbury Fair.md",
+    "History/Return of Automatia.md",
     "Groupings/Factions/The Lavish Empire.md",
     "Media/Maps/Baria 2023-10-04-15-05.map",
     "Beings/Creatures/Amphitheriid.md",
@@ -305,7 +307,6 @@
     "Return of Automatia.md",
     "~syncthing~Return of Automatia.md.tmp",
     "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/Syksa, Lavish Capital.md",
-    "Untitled.md",
     "Groupings/Factions/The Cold.md",
     "Beings/Beyond/Twilight.md",
     "Untitled 1.md",
@@ -315,7 +316,6 @@
     "Media/Maps/Cervilia 2023-09-29-22-11.map",
     "Structure/TO-DO/Ye' Good Olde TODO.md",
     "Groupings/Cults and Religions/Lunatics.md",
-    "Seacurbury Fair.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/Palga Basin.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/Fountainhead.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Skalitz.md",
@@ -329,11 +329,6 @@
     "Forces.canvas",
     "Letter to Clash №1.md",
     "The Warrens of Unspeakable Horror 04.md",
-    "The Wall.sync-conflict-20230925-211020-ZEC3VA7.md",
-    "Universal Pantheon.md",
-    "Beings/Creatures/Undead Cat.md",
-    "Structure/TO-DO/Ramblings/Now, how does the CoTBG or mekhanites affect the world.md",
-    "Structure/TO-DO/Ramblings/twilight part 2.md",
     "History/Really coarse timeline.canvas",
     "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-52-43.svg",
     "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-50-28.svg",
@@ -342,8 +337,6 @@
     "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-41-10.svg",
     "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-46-56.svg",
     "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-41-10 (1).svg",
-    "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-40-23.svg",
-    "Media/snippets/Thylyian nuke.png",
     "Realms/Planes insanity.canvas",
     "Structure/Utuw System.canvas",
     "Untitled.canvas",
