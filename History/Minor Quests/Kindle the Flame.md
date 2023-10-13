@@ -1,5 +1,5 @@
 #QUEST 
-**Main objective: Supply The Flame with suitable Sacrifices.**
+**Main objective: Supply the [[Crimson Heart]] with suitable Sacrifices.**
 
  
 

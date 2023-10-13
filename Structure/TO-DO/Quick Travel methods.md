@@ -5,9 +5,9 @@
 	- [ ] Dragons
 	- [ ] Burrowing Worms
 	- [ ] Horses
-	- [ ] [[Amphitheriid]]
+	- [x] [[Amphitheriid]]
 - [ ] Vehicles
 	- [ ] [[that funny retro scifi stone motorcycle]]
 	- [ ] airships 
-	- [ ] [[Servilian Railroad and Train Network]]
-	- [ ] [[Agrosy]]
+	- [x] [[Servilian Railroad and Train Network]]
+	- [x] [[Argrosy]]

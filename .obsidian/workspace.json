@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structure/TO-DO/How Dying ceased.md",
+                "file": "Structure/TO-DO/Ye' Good Olde TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Old King.md",
+                "file": "Structure/TO-DO/Ye' Good Olde TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Old King.md",
+                "file": "Structure/TO-DO/Ye' Good Olde TODO.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Old King.md"
+                "file": "Structure/TO-DO/Ye' Good Olde TODO.md"
               }
             }
           },
@@ -255,15 +255,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b699cd8d1d4cab5e",
+  "active": "efd6834ba1f59580",
   "lastOpenFiles": [
-    "Structure/TO-DO/Ye' Good Olde TODO.md",
     "Structure/TO-DO/How Dying ceased.md",
+    "The Old King.md",
+    "how Death died.md",
+    "Structure/TO-DO/Ye' Good Olde TODO.sync-conflict-20231013-174243-QELEOCQ.md",
+    "Realms/Utuw System/Three Moons.md",
+    "Structure/TO-DO/WIP or Projects/Davern.md",
+    "Structure/TO-DO/Ye' Good Olde TODO.sync-conflict-20231013-194236-I3B2N7K.md",
+    "Structure/TO-DO/Ye' Good Olde TODO.md",
     "History/Eras/The Second Era/Fall.md",
     "Structure/TO-DO/Ye' Good Olde TODO.sync-conflict-20231010-171332-QELEOCQ.md",
     "Seacurbury Fair.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Lakehouse.md",
-    "The Old King.md",
     "Untitled.md",
     "Beings/Creatures/Night Runner.md",
     "Media/First Vault 10 (player).png",
@@ -287,14 +292,9 @@
     "Media/Maps/Cervilia 2023-09-29-22-11.map",
     "Groupings/Cults and Religions/Lunatics.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/Palga Basin.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/Fountainhead.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Skalitz.md",
-    "Realms/Utuw System/Scheties.md",
     "Media/Maps/Cervilia 2023-08-25-21-13.map",
     "Media/Cervilia 2023-08-25-21-13.map",
     "Cervilia 2023-08-25-21-13.map",
-    "Archive of Old.md",
-    "Argrosy.md",
     "First Vault 10 (player).png",
     "Forces.canvas",
     "History/Really coarse timeline.canvas",

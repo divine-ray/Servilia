@@ -40,3 +40,5 @@ The star. It is severed from it's origin. For it is a Pula, It is unknown.
 The golden. The home has served its purpose. It seeks a new purpose.
 
 The black. Loss of orientation.
+
+The lost one. For it seeks a reason, a desire. 

@@ -21,8 +21,8 @@
 	- [x]  `[[Thylyian Military|Thylyist Military]]`
 		- [ ]  sentinels
 	- [ ] His Divine Reassembly
-	- [ ] Church of the broken God
-		- [ ] Citadel of the Gear
+	- [ ] ~~Church of the broken God~~ Mekhanites
+		- [ ] [[Citadel of the Gear]]
 - [ ] [[Lost City of the Ninth Forest|Tombstone]], the City of Lost/Faceless
 - [ ] [[Witches]] in the ninth forest
 - [ ] [[Daeva Revolutionists]]
@@ -67,13 +67,14 @@
 - [ ] [[Scorched Acres]]
 - [ ] [[Green Swale of Seven Spires]] in the ninth forest
 - [ ] [[Ninth Forest]]
+	- [ ] forest of talking trees (dirty paws)
 - [ ] [[The Broken Orchestra]]
 - [ ] Abyss (transition into the void/twilight)
 	- [ ] cave system spanning from the ninth forest to the palga basin 
-- [ ] Seacurbury Fair
+- [x] Seacurbury Fair
 - [ ] Tankar Island (Lighthouse, tiny fishing village island)
 - [ ] caverns of the hollow mountains, ecosystem and creatures in it 
-- [ ] Elemental Libraries and Archives of Force
+- [x] Elemental Libraries and Archives of Force
 - [ ] [[Chromatic Calderas]] addition of having a part of mekhane
 
 
@@ -107,7 +108,7 @@ perhaps some mechanism to dispense material component pellets into the gauntlet?
 - The Great Three: Humans / Dragons / Lavish 
 	Yalgabaoth, -uh?- and -uhmm- 
 	The trinity of civilisations, grand comets, deities, cultures, moons, etc. 
-- Celestials 
+- Celestials -> [[Family of Utuw]]
 	- [[Darb ut-Tabānah]], all the other Tabanah
 	- [[Schi ut-Pula]], the other Pulastaya
 - categorise deities (beyond, celestial, demigods, heroic given power) (heroic given power are people like marilee or bones in the ocean guy who just became a icon through some fabled act)
@@ -130,7 +131,7 @@ Riders on the Storm
 ##### Constructs
 throw golems and other constructs into placces, they're neat
 ##### Mother,
- the trees are calling for my names; they whisper that i am wanted back home.
+ the trees (ninth forest subarea) are calling for my names; they whisper that i am wanted back home.
 ##### Wizards off the Coast
  as group of mages who are extremely selfish and greedy (as to nudge at the makers of D&D)
  SHADOW WIZARD MONEY GANG 
@@ -169,6 +170,10 @@ Zumindest die meisten D&D-Kampagnen erfordern die folgenden Elemente:
 Spelljammers or general spacefaring ships -> [[The Celestial Compendium of Schi]]
 dragons in space lmao
 perhaps rediscovery of lavish biotech merged with the arcane and tech resulting in sublight ships
+[[Spelljammers]]
+
+
+The Black Parade as military for Sepulchre
 ## Random ass thoughts 
 (honestly, I'm proud of this work. wowee.) 07.09.23:: what a world we live in, eh? :P
 time to quit before we start the dialogues again- 
@@ -180,3 +185,6 @@ and give potential confronting NPCs a little backstory that they could talk abou
 Rumours that spread and possibly motivate other people to gang up and form adventuring squads, etc. 
 Weather events that affect agriculture or cause fires.... 
 Time passes between sessions. stuff happens. (i.e. printing is developed, etc)
+
+https://normal-horoscopes.tumblr.com/post/651451212154208257/the-signs-and-dreams-ii
+https://archiveofourown.org/works/23859124/chapters/57346312
