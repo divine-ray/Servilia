@@ -23,8 +23,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structure/TO-DO/Ye' Good Olde TODO.md",
+                "file": "Groupings/Factions/The Lavish Empire.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e46e1ff0d2deb1d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development of Petrochemistry.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -47,7 +59,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Old King.md",
+                "file": "Universal Pantheon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acb4f79532390eef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fear and Hunger.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,9 +84,29 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "ff68e98f78dd4785",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "df81ee228b3e3358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Echoes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -136,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structure/TO-DO/Ye' Good Olde TODO.md",
+                "file": "Echoes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structure/TO-DO/Ye' Good Olde TODO.md",
+                "file": "Echoes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structure/TO-DO/Ye' Good Olde TODO.md"
+                "file": "Echoes.md"
               }
             }
           },
@@ -255,16 +299,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "efd6834ba1f59580",
+  "active": "df81ee228b3e3358",
   "lastOpenFiles": [
-    "Structure/TO-DO/How Dying ceased.md",
+    "Echoes.md",
+    "Fear and Hunger.md",
+    "Universal Pantheon.md",
+    "History/Return of Automatia.md",
+    "Structure/TO-DO/WIP or Projects/Automated Remains.md",
     "The Old King.md",
+    "Structure/TO-DO/Ye' Good Olde TODO.md",
+    "Development of Petrochemistry.md",
+    "Groupings/Factions/The Lavish Empire.md",
+    "Structure/TO-DO/WIP or Projects/Lavish Rework ⁄ Lore.md",
+    "Beings/Species/Lavish.md",
+    "Clocktowers beneath the Sea.md",
+    "Structure/TO-DO/How Dying ceased.md",
     "how Death died.md",
     "Structure/TO-DO/Ye' Good Olde TODO.sync-conflict-20231013-174243-QELEOCQ.md",
     "Realms/Utuw System/Three Moons.md",
     "Structure/TO-DO/WIP or Projects/Davern.md",
     "Structure/TO-DO/Ye' Good Olde TODO.sync-conflict-20231013-194236-I3B2N7K.md",
-    "Structure/TO-DO/Ye' Good Olde TODO.md",
     "History/Eras/The Second Era/Fall.md",
     "Structure/TO-DO/Ye' Good Olde TODO.sync-conflict-20231010-171332-QELEOCQ.md",
     "Seacurbury Fair.md",
@@ -274,24 +328,14 @@
     "Media/First Vault 10 (player).png",
     "Media/First Vault 10.png",
     "History/Seacurbury Fair.md",
-    "History/Return of Automatia.md",
-    "Groupings/Factions/The Lavish Empire.md",
     "Media/Maps/Baria 2023-10-04-15-05.map",
     "Beings/Creatures/Amphitheriid.md",
     "Media/Maps/Preia 2023-10-04-14-46.map",
-    "202310012242.md",
-    "Return of Automatia.md",
     "~syncthing~Return of Automatia.md.tmp",
-    "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/Syksa, Lavish Capital.md",
-    "Groupings/Factions/The Cold.md",
-    "Beings/Beyond/Twilight.md",
-    "Untitled 1.md",
     "Media/Maps/Cervilia 2023-09-29-22-41.map",
     "Media/Maps/Cervilia 2023-09-29-23-30.map",
     "Media/Maps/Cervilia 2023-09-30-00-26.map",
     "Media/Maps/Cervilia 2023-09-29-22-11.map",
-    "Groupings/Cults and Religions/Lunatics.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/Palga Basin.md",
     "Media/Maps/Cervilia 2023-08-25-21-13.map",
     "Media/Cervilia 2023-08-25-21-13.map",
     "Cervilia 2023-08-25-21-13.map",
