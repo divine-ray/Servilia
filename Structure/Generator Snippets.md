@@ -1,10 +1,9 @@
 # Locations
 ## Towns and Cities
 - Greenhome: A two-storey stone-walled building which has been completely overgrown by flowering vines, with scale-like leaves and thorny, writhing branches. It is the home of Nina, a young green dragon sage.
-- The Earth Shrine: A wondrous monolith of precious stone, said to hold the ruby heart of the world.
+-
+- The Earth Shrine: A wondrous monolith of precious stone, said to hold the ruby heart of the world. On every full moon, dew hued in the colour of that moon condenses on it. Local folks say it is crying. 
 - The ruins of a seven-sided tower, which appears restored upon the night of the new moon.
-
-- The Dragon Pottery: The workshop of a female dwarf potter named Gela, built within a large dragon kiln. Gela spends several months filling the shop with thrown pots, then bricks in the door and spends several days firing it. The opening of the fired kiln is a local festival.
 
 >The Gallows Tree: A long-dead ironwood tree, said to be haunted by the ghosts of the thieves and murderers which once hung from it.
 >	THIS FOR THE TWO HANGMEN
@@ -19,11 +18,11 @@
 - James' Armaments: A neglected weaponsmith's workshop, built around a shrine of Manael, Goddess of War.
 - The Broken Spear II: A shabby elven tavern, entirely managed by cats. Its name comes from being a perfect duplicate of The Broken Spear, another inn on the other side of town, from the building itself to its decor and even patrons.
  - The Stormspire: An obelisk of rune-carved stone, engraved with columns of arcane glyphs. Each time the spire is struck by lightning, it vanishes for exactly nine hours. Each time it returns, some of the glyphs have changed.
- - The House of Deseldo: A large half-timbered theatre, which has one door here and another in Orhyrst, City of the First Light
+ - The House of Deseldo: A large half-timbered theatre, which has one door here and another in [[Orhyrst, City of the First Light]].
  - The Dragon Stables: The original stalls of this huge stone-walled building were each large enough to hold a young dragon. They have been divided by wooden frames into horse stalls, which are hired out to merchants, pilgrims, and other travellers.
  - The Stone Dragon: A colossal petrified dragon stands over the street. It is said that the dragon will be made flesh again if any descendant of the wizard who imprisoned it passes by without leaving a coin.
  - The Sawmill: A derelict building of brick and slate, filled with complex dwarven machines. It is apparent that the building is a sawmill, but no-one has been able to work out how to operate it in many generations.
- - The Marut: An ancient stone colossus of unweathered stone, where local merchants come to make contracts. It is said that anyone who breaks an oath sworn upon the Marut will be slain before the next dawn.
+ - The Marut: An ancient cyclopean colossus of unweathered stone, where local merchants come to make contracts. It is said that anyone who breaks an oath sworn upon the Marut will be slain before the next dawn.
 # Items
 ## Potions
 ![[Potions]]

@@ -1,0 +1,8 @@
+Oh, the human has opened the door. 
+The human has seen us. Seen our remains. 
+We take the chance, show who we are.
+Rats, we are the Rats, Rats! 
+Take their food that they keep from us. Break into their homes. 
+Rats, Rats, We are the Rats!
+Show them our paint. Show them we're better. Our help from the others. 
+We are. Rats! are we Rats! Rats. 

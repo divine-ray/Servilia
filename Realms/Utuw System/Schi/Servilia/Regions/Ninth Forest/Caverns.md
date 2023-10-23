@@ -1,8 +1,3 @@
-Cave System
-
-Friday, 7. April 2023
-
-11:26
 
  
 
@@ -11,7 +6,7 @@ Friday, 7. April 2023
 It's certain that these caves have formerly been inhabited by at least one intelligent species, as we found rotten wood struts, leftovers of fibre and metal scraps.
 
  
-
+## Exploration 
 Most of these fibres and rotten cotton have been found in a medium sized "room", which bears naturally glowing crystals and something resembling a fireplace. The opening that we suspect of being a former fireplace doesn't show signs of typical uses, though, like char, ashes or cracks in the rock, yet the spot is vibrant with reminiscence and memories.
 
 Roughly based on the fibres, we assume that those products were piled up in the middle for unknown reason. We are assuming for storage purposes, but the fireplace and water flows are counterproductive for a long shelf life. Peculiar.

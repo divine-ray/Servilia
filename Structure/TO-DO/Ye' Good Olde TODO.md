@@ -59,17 +59,17 @@
 - [x] [[Voidfish]]
 - [ ] Zutavan, the sea serpent water deity residing around the lunar mangroves
 	- will absolutely kill everyone who does not toll their respect by blowing a conch horn or paying tribute 
-- [ ] [[Amphitheriid]] as mounts
+- [x] [[Amphitheriid]] as mounts
 - [ ] Juno (Was mad so he shot at the sun)
 - [ ] Maou'oru (that one faint dream of the weird railway beach dude)
 - [ ] Evelyn as the stock character "prostitute with a heart of gold/wisdom"
 ## Locations, Areas, etc
 - [ ] [[Scorched Acres]]
-- [ ] [[Green Swale of Seven Spires]] in the ninth forest
-- [ ] [[Ninth Forest]]
+- [x] [[Green Swale of Seven Spires]] in the ninth forest
+- [x] [[Ninth Forest]]
 	- [ ] forest of talking trees (dirty paws)
 - [ ] [[The Broken Orchestra]]
-- [ ] Abyss (transition into the void/twilight)
+- [x] Abyss (transition into the void/twilight)
 	- [ ] cave system spanning from the ninth forest to the palga basin 
 - [x] Seacurbury Fair
 - [ ] Tankar Island (Lighthouse, tiny fishing village island)
@@ -80,7 +80,7 @@
 
 ## Species
 - ### [[Varuú]] 
-the experiments of lavish pseudoneo capabilities on humanoids, infused with twilight, building the city know known as [[Lost City of the Ninth Forest|Tombstone]], and the [[Archive of Old]]. Probably the first group to be shoved into Exile. 
+the experiments of lavish pseudoneo capabilities on humanoids, infused with twilight, building the city known as [[Lost City of the Ninth Forest|Tombstone]], and the [[Archive of Old]]. Probably the first group to be shoved into Exile. 
 - ### eurasian shadowmaw, also rebrand to fit (Padia?)
 - ### northern glasswing??
 - [ ] [[Lavish Rework ⁄ Lore]]
@@ -108,7 +108,7 @@ perhaps some mechanism to dispense material component pellets into the gauntlet?
 - The Great Three: Humans / Dragons / Lavish 
 	Yalgabaoth, -uh?- and -uhmm- 
 	The trinity of civilisations, grand comets, deities, cultures, moons, etc. 
-- Celestials -> [[Family of Utuw]]
+- Celestials -> [[The Utuw Family]]
 	- [[Darb ut-Tabānah]], all the other Tabanah
 	- [[Schi ut-Pula]], the other Pulastaya
 - categorise deities (beyond, celestial, demigods, heroic given power) (heroic given power are people like marilee or bones in the ocean guy who just became a icon through some fabled act)
@@ -139,7 +139,7 @@ throw golems and other constructs into placces, they're neat
 ##### bones in the ocean
 some guy who almost drowned, but lost his humanity (turned hollow) in the near-death experience
 and now fulfils '*some*' role for the seafaring people and undead, akin to marilee
-
+ 
 ##### [[Nølkā]]
 The pre-first-era ancestors to the Children of the Flame, which warped flesh using amarisk. 
 They inspired the Lavish in their biotechnology, but eventually went extinct in the conflict of Mekhane v. Sarikite. Few tribal settlements exist, but those have slipped out of knowledge. 
@@ -147,6 +147,9 @@ They inspired the Lavish in their biotechnology, but eventually went extinct in 
 ##### Passing away of undead
 the terminal express and three moons initiative
 
+Charon has retired since the curse of undying has been set free, further complicating the departure of deceased
+The River Styx has dried out, thus other ways of departure from the mortal world are required, such as the terminal express 
+however this one's man-made and thus not granted divine perfection and blessings along its travels 
 ##### The system that explains modular armour and Splints
 > Armour may be modified at any time, given the required expertise. 
 > Some pieces may be fitted with splints, which enhance the capabilities of this piece. Splints may be of organic (i.e. scales) or of inorganic origin. 
@@ -174,6 +177,10 @@ perhaps rediscovery of lavish biotech merged with the arcane and tech resulting 
 
 
 The Black Parade as military for Sepulchre
+
+Cafe at the End of Time
+
+The Six Seals -> comets to moons 
 ## Random ass thoughts 
 (honestly, I'm proud of this work. wowee.) 07.09.23:: what a world we live in, eh? :P
 time to quit before we start the dialogues again- 

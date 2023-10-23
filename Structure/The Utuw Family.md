@@ -27,9 +27,9 @@ K-Main sequence, habitable zone 0.1228 AU - 0.1771 AU
 	- Shoemaker Levy
 - 3 significant comets
 	- Siblings to three moons of [[Schi]]:
-		1. Parop
-		2. Shifty
-		3. Herguami
+		1. [[Parop]]
+		2. [[Shifty]]
+		3. [[Herguami]]
 
 One moon per significant civilisation?
 Three moons, three comets, 
