@@ -1,3 +1,12 @@
+---
+tags:
+  - Undead
+  - Settlements
+  - Faction
+aliases:
+  - The undying City
+  - Undying
+---
 ##  The undying City
 #Undead #Settlements #Faction
 

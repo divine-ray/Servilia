@@ -1,0 +1,2 @@
+The long-plotted and anticipated overthrowing and coup-de-etat of the fully functional and well-established democratic [[Council of Thylyist]]. 
+Primary forces involved were the Highest [[Followers of Mekhane|Priests of Mekhane]] and their [[Thylyian Military|Zealous Soldiers]]. 

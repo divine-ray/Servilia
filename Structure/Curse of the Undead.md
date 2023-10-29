@@ -1,7 +1,7 @@
-ö#Undead 
-
 A plague, which swept the lands of Servilia. 
-Caused by [[Schi ut-Pula]]'s depression.
+Caused by [[Schi ut-Pula]]'s depression and the [[Last Resort]] of the [[Nølkā]]. 
+
+Affected individuals have been forcibly relocated and displaced into [[Sepulchre]], the Undead City. Rather, a ghetto. 
 
 It infects most if not all sentient beings, but mostly humanoids have been observed to succumb to it. 
 'Infected' people do not die in the traditional sense. Their body ceases to function in terms of metabolism and other otherwise deemed-essential biological processes, but the psyche remains functional and in control of the motive apparatus. 

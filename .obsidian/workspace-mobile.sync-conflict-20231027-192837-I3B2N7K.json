@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "1b756049c976c1e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbe2a252f041a655",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3366d37802a52b10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Structure/The Utuw Family.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf554f160d9ee2fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Structure/TO-DO/Before the First Era.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c43ae6bd1902fb8f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "67d78f832d73565b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5226d527c3b5e0d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3785835e2932df2f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d32ac6c065dd6061",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "symbiopa",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e69472c287e10974",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3b79dc51692368e2",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "e46744ef7ef3bb21",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9c6e8c906a5c96fd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8eeaf0d4162fb9f6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1a0637a91d912ee0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "67909447e1d80c4c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "83b9eb0d8ecd9d23",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {}
+        }
+      },
+      {
+        "id": "10fe2b66174a69e3",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "3e3a58d72fc76548",
+        "type": "leaf",
+        "state": {
+          "type": "FANTASY_CALENDAR",
+          "state": {}
+        }
+      },
+      {
+        "id": "cf297d5c69e21bcb",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "2db71d426cc22b3e",
+        "type": "leaf",
+        "state": {
+          "type": "online.larslockefeer.obsidian-plugin-todo",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "67d78f832d73565b",
+  "lastOpenFiles": [
+    "Items/Books et al/Epos' Manuscripts.md",
+    "Structure/Respawn explanations.md",
+    "Items/Books et al/The Celestial Compendium of Schi.md",
+    "Beings/Creatures/Pseudoneo/Symbioparasite.md",
+    "Beings/Characters and People/Amidae/Evelyn.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/Palga Basin.md",
+    "History/Story Snippets/Tunnels.md",
+    "Argrosy.md",
+    "Structure/TO-DO/Ye' Good Olde TODO.md",
+    "Dead Child's Lullaby.md",
+    "Red Telephone.md",
+    "Structure/TO-DO/Before the First Era.md",
+    "Structure/The Utuw Family.md",
+    "Realms/Utuw System/Schi/Opar.md",
+    "Realms/Utuw System/Schi/Heaugi.md",
+    "Green Swale of Seven Spires.md",
+    "Beings/Creatures/Amphitheriid.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Ninth Forest/Ninth Forest.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Ninth Forest/Caverns.md",
+    "Realms/Utuw System/Three Moons.md",
+    "The Abyss.md",
+    "The Tellurion.md",
+    "Rats.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Frisco.md",
+    "Structure/Generator Snippets.md",
+    "Beings/Creatures/Hollowed.md",
+    "Media/First Vault 10.png",
+    "Media/First Vault 10 (player).png",
+    "workspace-mobile.json",
+    "TEMP; MIGRATION/Meta/04_Currency_ Premarevy.files/filelist.xml",
+    "TEMP; MIGRATION/Meta/04_Currency_ Premarevy.files/image001.png",
+    "TEMP; MIGRATION/Meta/04_Currency_ Premarevy.files",
+    "TEMP; MIGRATION/DM internal things",
+    "TEMP; MIGRATION/Misc Ideas",
+    "TEMP; MIGRATION/Characters",
+    "TEMP; MIGRATION/TODO",
+    "TEMP; MIGRATION/Meta",
+    "TEMP; MIGRATION",
+    "First Vault 10.png",
+    "Untitled.canvas",
+    "First Vault 10 (player).png",
+    "History/Eras/The Third Era",
+    "History/Really coarse timeline.canvas",
+    "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-41-10.svg",
+    "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-52-43.svg",
+    "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-40-23.svg",
+    "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-46-56.svg",
+    "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-45-09.svg",
+    "Structure/Utuw System.canvas"
+  ]
+}

@@ -1,6 +1,6 @@
 #Thylyist #Thylyist-Government 
-Once the shining example of democracy, this institution has been overthrown after the Betrayal. 
-Ever since, the [[Thylyian Military]] reigns with a iron fist, thwarting any opposition and anything that could possibly threaten their reign. 
+Once the shining example of democracy, this institution has been overthrown after the [[Betrayal]].
+Ever since, the [[Followers of Mekhane]] reign with a [[Thylyian Military|iron fist]], thwarting any opposition and anything that could possibly threaten their reign. 
 
 	The council of seven individuals governing the City Empire of Thylyist. 
 	They are seen as ethereal and incorporeal from the population.
