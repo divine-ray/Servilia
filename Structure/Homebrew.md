@@ -14,3 +14,12 @@ Only few individuals (<100) are known to live without their culture, which are t
 ### Planar modifications
 there's a extra/new plane that is home to all Tabañaya and Pulastaya, and is the place where they primarily reside. 
 the Limbo of 5e is overlapping with the void, transitioning into one another. 
+
+## Action modifications
+- Players get three(!) actions per turn, but a massively larger choice of actions to do (some weapons/items requiring more than one action)
+### List of Actions
+![[action sheet 2.webp]]
+### Additions to ACTIONS
+- Block: Attempt to absorb/"tank" a hit (after a failed dodge check or if it isn't dodgeable) using a shield or armour. 
+~~- Detect Intent: Perception check the opponent/enemy's action, requires DEX/CHA check
+~~  Insight check

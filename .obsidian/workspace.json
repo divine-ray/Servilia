@@ -18,67 +18,7 @@
             }
           },
           {
-            "id": "efd6834ba1f59580",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groupings/Factions/The Lavish Empire.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e46e1ff0d2deb1d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Development of Petrochemistry.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5168f31b87dd5369",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Structure/TO-DO/Ye' Good Olde TODO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b699cd8d1d4cab5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Universal Pantheon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acb4f79532390eef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fear and Hunger.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "023864798c085ce6",
+            "id": "5227e278c6c2ecfd",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
@@ -86,27 +26,34 @@
             }
           },
           {
-            "id": "ff68e98f78dd4785",
+            "id": "ada82228d5bd2f37",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Forces.canvas",
+                "viewState": {
+                  "x": 107.70069261166483,
+                  "y": -382.6650234704824,
+                  "zoom": -2.333333333333333
+                }
+              }
             }
           },
           {
-            "id": "df81ee228b3e3358",
+            "id": "5b6a18229f948e78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Echoes.md",
+                "file": "Structure/Homebrew.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Echoes.md",
+                "file": "Structure/Homebrew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Echoes.md",
+                "file": "Structure/Homebrew.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Echoes.md"
+                "file": "Structure/Homebrew.md"
               }
             }
           },
@@ -275,11 +222,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 463.5,
+    "width": 359.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -299,34 +246,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df81ee228b3e3358",
+  "active": "5b6a18229f948e78",
   "lastOpenFiles": [
+    "Media/Archon, Old God, Sarkicism.jpg",
+    "Structure/Homebrew.md",
+    "Media/5E Reference material/action sheet 2.webp",
+    "Media/5E Reference material/actions sheet.webp",
+    "Media/5E Reference material",
+    "Media/New folder",
+    "Fear and Hunger.md",
+    "Echoes.md",
+    "Development of Petrochemistry.md",
+    "Realms/Planes insanity.canvas",
+    "README.md",
+    "Structure/Major Plotlines.md",
+    "Structure/Differences Regarding Factions.md",
+    "Betrayal.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Ninth Forest/Caverns.md",
     "Green Swale of Seven Spires.md",
     "Structure/The Utuw Family.md",
-    "Rats.md",
-    "Red Telephone.md",
-    "The Abyss.md",
+    "History/Story Snippets/Rats.md",
+    "Items/Artifacts/Red Telephone.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/The Abyss.md",
     "Dead Child's Lullaby.md",
     "The Tellurion.md",
-    "Echoes.md",
-    "Fear and Hunger.md",
     "Universal Pantheon.md",
     "History/Return of Automatia.md",
     "Structure/TO-DO/WIP or Projects/Automated Remains.md",
     "The Old King.md",
     "Structure/TO-DO/Ye' Good Olde TODO.md",
-    "Development of Petrochemistry.md",
     "Groupings/Factions/The Lavish Empire.md",
     "Structure/TO-DO/WIP or Projects/Lavish Rework ⁄ Lore.md",
     "Beings/Species/Lavish.md",
     "Clocktowers beneath the Sea.md",
-    "Structure/TO-DO/How Dying ceased.md",
-    "how Death died.md",
-    "Structure/TO-DO/Ye' Good Olde TODO.sync-conflict-20231013-174243-QELEOCQ.md",
-    "Realms/Utuw System/Three Moons.md",
-    "Structure/TO-DO/WIP or Projects/Davern.md",
-    "Structure/TO-DO/Ye' Good Olde TODO.sync-conflict-20231013-194236-I3B2N7K.md",
     "Media/First Vault 10 (player).png",
     "Media/First Vault 10.png",
     "Media/Maps/Baria 2023-10-04-15-05.map",
@@ -337,8 +289,6 @@
     "Media/Maps/Cervilia 2023-09-30-00-26.map",
     "Media/Maps/Cervilia 2023-09-29-22-11.map",
     "Media/Maps/Cervilia 2023-08-25-21-13.map",
-    "Media/Cervilia 2023-08-25-21-13.map",
-    "Cervilia 2023-08-25-21-13.map",
     "First Vault 10 (player).png",
     "Forces.canvas",
     "History/Really coarse timeline.canvas",
@@ -347,9 +297,6 @@
     "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-45-09.svg",
     "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-49-57.svg",
     "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-41-10.svg",
-    "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-46-56.svg",
-    "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-41-10 (1).svg",
-    "Realms/Planes insanity.canvas",
     "Structure/Utuw System.canvas",
     "Untitled.canvas",
     "TODO Sketchboard.canvas",

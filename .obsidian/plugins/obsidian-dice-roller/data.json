@@ -2,7 +2,7 @@
   "rollLinksForTags": false,
   "copyContentButton": true,
   "customFormulas": [
-    "2d6\n"
+    "1d20"
   ],
   "displayFormulaForMod": true,
   "displayResultsInline": false,
@@ -17,6 +17,7 @@
   "defaultFace": 100,
   "renderer": false,
   "renderAllDice": false,
+  "addToView": false,
   "renderTime": 2000,
   "colorfulDice": false,
   "scaler": 1,
