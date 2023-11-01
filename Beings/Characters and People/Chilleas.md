@@ -14,6 +14,6 @@ Let the wind pick us up, already.
 I want to know what it is to fly. 
 You wouldn't hold back my dreams, would you? 
 That'd make you a bad person. 
-We don't have wings, we can't fly-
+We don't have [[Broken Wings|wings]], we can't fly-
 There's no difference between falling or flying, until you meet the ground. 
 The Wind, it is burning into my thoughts. I am cold. I'm freezing. 

@@ -18,7 +18,7 @@
 		{"id":"3c6f4ca6cf1eb717","type":"text","text":"# Void\n","x":660,"y":200,"width":250,"height":60},
 		{"id":"f3300efaa2a9e9ec","type":"text","text":"### Dust","x":-200,"y":-240,"width":150,"height":60},
 		{"id":"b9744f239eca92a3","type":"text","text":"### Magma","x":-690,"y":-230,"width":190,"height":50},
-		{"id":"c50e3898191900e1","type":"text","text":"## Cold","x":-250,"y":300,"width":250,"height":60}
+		{"id":"c50e3898191900e1","type":"text","text":"## Cold","x":-1050,"y":260,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"dc56731a0d5cf821","fromNode":"10a7f3f12d5e084e","fromSide":"bottom","toNode":"559c096343fc592f","toSide":"top"},

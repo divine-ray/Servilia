@@ -1,4 +1,4 @@
-*Note: This refers to the location, for the Entity assoicated, read [[Voidfish]].*
+*Note: This refers to the location, for the Entity associated, read [[Voidfish]].*
 At the bottom of the [[Twilit]] it lays, stretching into infinity. 
 Due to the [[Fountainhead]] having torn its [[The Abyss|Borehole]],  it leaks into the material plane. 
 

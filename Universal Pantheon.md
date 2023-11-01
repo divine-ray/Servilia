@@ -1,6 +1,6 @@
 # Archon
 (Outside of any boundaries, including time and space, universes. Capable of absolutely anything. Unaffected by followers, but might bestow powers upon followers.)
-## Yaldabaoth
+## [[Yaldabaoth]]
 ## [[Voidfish]]
 
 # Greater

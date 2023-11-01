@@ -18,6 +18,18 @@
             }
           },
           {
+            "id": "4ae179d6c8a42233",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Universal Pantheon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5227e278c6c2ecfd",
             "type": "leaf",
             "state": {
@@ -29,14 +41,11 @@
             "id": "ada82228d5bd2f37",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Forces.canvas",
-                "viewState": {
-                  "x": 107.70069261166483,
-                  "y": -382.6650234704824,
-                  "zoom": -2.333333333333333
-                }
+                "file": "Structure/Stressors on Factions.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -51,9 +60,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a63314f1ff532d36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO 2꞉ Eectric Bogaloo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d593ccc1340bd04d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/City of Stargard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -111,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 456.5
   },
   "right": {
     "id": "b9a105647e5b9805",
@@ -127,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structure/Homebrew.md",
+                "file": "TODO 2꞉ Eectric Bogaloo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structure/Homebrew.md",
+                "file": "TODO 2꞉ Eectric Bogaloo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structure/Homebrew.md"
+                "file": "TODO 2꞉ Eectric Bogaloo.md"
               }
             }
           },
@@ -246,37 +279,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b6a18229f948e78",
+  "active": "a63314f1ff532d36",
   "lastOpenFiles": [
+    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/The Tellurion.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/City of Stargard.md",
+    "The Oculus of Night.md",
+    "Structure/Stressors on Factions.md",
+    "Diffused Light.md",
+    "Dead Child's Lullaby.md",
+    "Beings/Gods and Deities/Fear and Hunger.md",
+    "Beings/Gods and Deities/Charon.md",
+    "Realms/Planes insanity.canvas",
+    "Realms/Planes/Dark Domain/The Void.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/The Void.md",
+    "Realms/Planes/Dark Domain/Eternal Sea.md",
+    "Realms/Planes/Twilit.md",
+    "Realms/Planes/Beyond.md",
+    "Beings/Characters and People/Warlock Gaíz-an.md",
+    "Beings/Characters and People/Exiled/Marilee, the Songstress.md",
+    "Beings/Characters and People/Chilleas.md",
+    "TODO 2꞉ Eectric Bogaloo.md",
+    "Forces.canvas",
+    "Universal Pantheon.md",
+    "Structure/Homebrew.md",
+    "Beings/Gods and Deities/Voidfish.md",
+    "Beings/Gods and Deities/Celestial Family",
+    "Beings/Gods and Deities",
+    "Groupings/Cultures/Kva'al.md",
+    "403 - Museum.md",
+    "History/Incidents and Events/Seacurbury Fair.md",
+    "History/Seacurbury Fair.md",
     "TEMP; MIGRATION/TODO/06_Floaty magic book .sync-conflict-20231101-125924-QELEOCQ.md",
     "Realms/Planes insanity.sync-conflict-20231101-130009-QELEOCQ.canvas",
     "Beyond.sync-conflict-20231101-125930-QELEOCQ.md",
-    "History/Eras/Human Eras.sync-conflict-20231101-130006-QELEOCQ.md",
-    "Items/Wondrous and Wack/STOP! Box.sync-conflict-20231101-130005-QELEOCQ.md",
-    "Items/Wondrous and Wack/Bag of Crickets.sync-conflict-20231101-125922-QELEOCQ.md",
     "History/Really coarse timeline.sync-conflict-20231101-130005-QELEOCQ.canvas",
-    "Structure/The Utuw Family.sync-conflict-20231101-125931-QELEOCQ.md",
-    "Items/Books et al/Childish Book of Prayers.sync-conflict-20231101-125918-QELEOCQ.md",
-    "Items/Bundle of medicinal herbs.sync-conflict-20231101-125922-QELEOCQ.md",
-    "Beings/Creatures/Pseudoneo/Warped Angel.sync-conflict-20231101-125921-QELEOCQ.md",
-    "TEMP; MIGRATION/Characters/03_Ash_.sync-conflict-20231101-130005-QELEOCQ.md",
-    "Beings/Species/Eurasian Shadowmaw.sync-conflict-20231101-125932-QELEOCQ.md",
-    "Items/Books et al/Gane's Parchments of Shadows.sync-conflict-20231101-125928-QELEOCQ.md",
-    "Structure/TO-DO/How Dying ceased.sync-conflict-20231101-125925-QELEOCQ.md",
-    "Groupings/Factions/Thylyian/Labor Union of Thylyist.sync-conflict-20231101-125923-QELEOCQ.md",
-    "Items/Bottled Smoulders.sync-conflict-20231101-125923-QELEOCQ.md",
     "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-40-23.sync-conflict-20231101-125926-QELEOCQ.svg",
-    "Beings/Characters and People/Katallja-Nâ.sync-conflict-20231101-130005-QELEOCQ.md",
-    "Groupings/Factions/Daeva Revolutionists.sync-conflict-20231101-125918-QELEOCQ.md",
-    "TEMP; MIGRATION/Misc Ideas/04_Generation and tools.sync-conflict-20231101-130011-QELEOCQ.md",
-    "Beings/Species/Padian Shadowmaw.sync-conflict-20231101-125920-QELEOCQ.md",
-    "History/Outdated Lore/Lavish Lore.sync-conflict-20231101-130008-QELEOCQ.md",
-    "Items/Weaponry/Propelled Projectile/OA-WS RCL Mk.40ᵐᵐ.sync-conflict-20231101-130011-QELEOCQ.md",
-    "Realms/Utuw System/Schi/Heaugi.sync-conflict-20231101-125929-QELEOCQ.md",
-    "Items/Components, Ingredients/Chunk of Gliss.sync-conflict-20231101-125925-QELEOCQ.md",
-    "Beings/Creatures/Flying PiSquid.sync-conflict-20231101-125924-QELEOCQ.md",
-    "Groupings/Factions/The Dragonkin.sync-conflict-20231101-130011-QELEOCQ.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/A Hill.sync-conflict-20231101-125922-QELEOCQ.md",
     "Media/Maps/Padia 2023-07-10-22-09.sync-conflict-20231101-130005-QELEOCQ.map",
     "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-45-09.sync-conflict-20231101-130008-QELEOCQ.svg",
     "Media/Logos and Heraldry/Cervilia 2023-07-20-18-41.sync-conflict-20231101-125928-QELEOCQ.svg",
@@ -296,13 +333,9 @@
     "Media/Boneis Mangeur - Deorum character c3sa00koelo08sj.sync-conflict-20231101-125803-QELEOCQ.txt",
     "History/Minor Quests/~syncthing~Tides of Avon.sync-conflict-20231101-125812-QELEOCQ.md.tmp",
     "Media/Maps/Padia 2023-07-10-22-09.sync-conflict-20231101-115108-QELEOCQ.map",
-    "Media/Lady Amara - Deorum character c5p1rf9a8mw59s5.sync-conflict-20231101-115109-QELEOCQ.txt",
     "Structure/Utuw System.sync-conflict-20231101-115107-QELEOCQ.canvas",
-    "Media/Cosmology of Planes v1.sync-conflict-20231101-115109-QELEOCQ.graphml",
     "Realms/Planes insanity.sync-conflict-20231101-115107-QELEOCQ.canvas",
     "History/Really coarse timeline.sync-conflict-20231101-115110-QELEOCQ.canvas",
-    "Forces.sync-conflict-20231101-115109-QELEOCQ.canvas",
-    "Realms/Planes insanity.canvas",
-    "Forces.canvas"
+    "Forces.sync-conflict-20231101-115109-QELEOCQ.canvas"
   ]
 }
