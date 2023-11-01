@@ -1,1 +1,0 @@
-The Wall, in the middle of nowhere. Made from what we assume to be white marble. Bricks are scattered around the lands, one finding through another through a curious adventurer. 
