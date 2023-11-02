@@ -84,9 +84,53 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee4681778d8c9fc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/The Tellurion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b19a73ea422ee3ff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a4d516a6487b2cb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Old King.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c6896df2ee0eb95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apotheosis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -160,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO 2꞉ Eectric Bogaloo.md",
+                "file": "Apotheosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO 2꞉ Eectric Bogaloo.md",
+                "file": "Apotheosis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO 2꞉ Eectric Bogaloo.md"
+                "file": "Apotheosis.md"
               }
             }
           },
@@ -279,11 +323,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a63314f1ff532d36",
+  "active": "8c6896df2ee0eb95",
   "lastOpenFiles": [
+    "The Old King.md",
+    "Apotheosis.md",
+    "Yawning Grave.md",
+    "Structure/TO-DO/Davern Kingdom ⧣TODO.md",
+    "History/Story Snippets/Perishing.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/The Tellurion.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/City of Stargard.md",
+    "Lunar Gateways.md",
     "The Oculus of Night.md",
+    "TODO 2꞉ Eectric Bogaloo.md",
     "Structure/Stressors on Factions.md",
     "Diffused Light.md",
     "Dead Child's Lullaby.md",
@@ -298,20 +349,13 @@
     "Beings/Characters and People/Warlock Gaíz-an.md",
     "Beings/Characters and People/Exiled/Marilee, the Songstress.md",
     "Beings/Characters and People/Chilleas.md",
-    "TODO 2꞉ Eectric Bogaloo.md",
     "Forces.canvas",
     "Universal Pantheon.md",
     "Structure/Homebrew.md",
     "Beings/Gods and Deities/Voidfish.md",
     "Beings/Gods and Deities/Celestial Family",
     "Beings/Gods and Deities",
-    "Groupings/Cultures/Kva'al.md",
-    "403 - Museum.md",
-    "History/Incidents and Events/Seacurbury Fair.md",
-    "History/Seacurbury Fair.md",
-    "TEMP; MIGRATION/TODO/06_Floaty magic book .sync-conflict-20231101-125924-QELEOCQ.md",
     "Realms/Planes insanity.sync-conflict-20231101-130009-QELEOCQ.canvas",
-    "Beyond.sync-conflict-20231101-125930-QELEOCQ.md",
     "History/Really coarse timeline.sync-conflict-20231101-130005-QELEOCQ.canvas",
     "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-40-23.sync-conflict-20231101-125926-QELEOCQ.svg",
     "Media/Maps/Padia 2023-07-10-22-09.sync-conflict-20231101-130005-QELEOCQ.map",
