@@ -18,6 +18,18 @@
             }
           },
           {
+            "id": "3ba42a6460eb0e93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beings/Species/Vessels.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4ae179d6c8a42233",
             "type": "leaf",
             "state": {
@@ -130,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apotheosis.md",
+                "file": "Beings/Species/Vessels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apotheosis.md",
+                "file": "Beings/Species/Vessels.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apotheosis.md"
+                "file": "Beings/Species/Vessels.md"
               }
             }
           },
@@ -323,19 +335,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8c6896df2ee0eb95",
+  "active": "3ba42a6460eb0e93",
   "lastOpenFiles": [
+    "Beings/Species/Padian Shadowmaw.md",
+    "Beings/Species/Eurasian Shadowmaw.md",
+    "Structure/Stressors on Factions.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/The Tellurion.md",
     "The Old King.md",
     "Apotheosis.md",
     "Yawning Grave.md",
     "Structure/TO-DO/Davern Kingdom ⧣TODO.md",
     "History/Story Snippets/Perishing.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/The Tellurion.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/City of Stargard.md",
     "Lunar Gateways.md",
     "The Oculus of Night.md",
     "TODO 2꞉ Eectric Bogaloo.md",
-    "Structure/Stressors on Factions.md",
     "Diffused Light.md",
     "Dead Child's Lullaby.md",
     "Beings/Gods and Deities/Fear and Hunger.md",
@@ -351,8 +365,6 @@
     "Beings/Characters and People/Chilleas.md",
     "Forces.canvas",
     "Universal Pantheon.md",
-    "Structure/Homebrew.md",
-    "Beings/Gods and Deities/Voidfish.md",
     "Beings/Gods and Deities/Celestial Family",
     "Beings/Gods and Deities",
     "Realms/Planes insanity.sync-conflict-20231101-130009-QELEOCQ.canvas",
