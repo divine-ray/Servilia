@@ -1,4 +1,4 @@
-#Thylyist #Merchant #Faction 
+#Thylyist #Merchant 
 | Excellent: | Up to 70% Discounts on Merchants, Prototypes and Blueprints |
 | ---------- | ----------------------------------------------------------- |
 | Good:      | Up to 30% Discounts, Selling Components                     |

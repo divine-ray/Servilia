@@ -1,4 +1,10 @@
-#Lunatics #Settlements #Faction 
+---
+tags:
+  - Lunatics
+  - Settlements
+  - Faction
+---
+
  
 ## Overview
 A community of isolated and deranged sorcerers who devote their time towards the study and use of celestial bodies and formations. A decent part of their population is made from other outcasts and strangers.  

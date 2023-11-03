@@ -8,7 +8,7 @@
 - military forces of ancients, sepulchre, etc. 
 - [x] `[[Liches]]`
 - [ ] [[Before the First Era]] 
-	- [ ] creation myth
+	- [x] creation myth
 	- [ ] war of mekhane v Yaldabaoth
 	- [ ] His Divine Reassembly
 ### [[The First Era]]:
@@ -23,7 +23,7 @@
 	- [ ] His Divine Reassembly
 	- [ ] ~~Church of the broken God~~ Mekhanites
 		- [ ] [[Citadel of the Gear]]
-- [ ] [[Lost City of the Ninth Forest|Tombstone]], the City of Lost/Faceless
+- [x] [[Lost City of the Ninth Forest|Tombstone]], the City of Lost/Faceless
 - [ ] [[Witches]] in the ninth forest
 - [ ] [[Daeva Revolutionists]]
 ### Frisco Bay

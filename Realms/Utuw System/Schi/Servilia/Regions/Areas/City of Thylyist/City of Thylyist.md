@@ -3,6 +3,7 @@ aliases:
   - Thylyist
 tags:
   - Thylyist
+  - Settlements
 ---
 Capital of the human population; highly advanced in mechanics and metalworking. However, they are strictly conservative, if not regressive, about more advanced technology. 
 
@@ -18,7 +19,7 @@ The "City" as a whole actually is consisting out of several sectors (former prov
 - ###### Brampton, ?
 - ###### Thylyist itself
 - ###### Avon, Naval District 
-  - Port, Haven, Fishing
+	- Port, Haven, Fishing
 - ###### Haymouthton, Residential District
 - ###### Billinghurst, Industrial District
 - ###### Necket, Manufacturing District

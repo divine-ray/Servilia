@@ -7,6 +7,8 @@
 Deities that could possibly be the central pivot of a monotheistic religion; still influenced by follower belief and devoutness. 
 ## [[Fear and Hunger]]
 
+## [[Charon]]
+
 # this is the todo area
 
 - [ ] deity of time/fate, probably going with the three weavers of fate thread 

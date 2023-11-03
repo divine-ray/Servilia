@@ -1,6 +1,6 @@
-#Lunatics #Religion  #Faction 
+#Lunatics #Religion 
 
-The deranged and off brand sorcerers residing in [Stargard](City%20of%20Stargard).
+The deranged and off brand sorcerers residing in [Stargard](City%20of%20Stargard.md).
 Capable of teaching the party the magic of the stars, ~~star signals~~ if they can understand them (must know ancient, celestial and draconic) and are resilient to the memetic corruption they give off.
 They are rather skilled in optics, masonry and glassblowing, as their magic requires them to be. 
 Possibly the most 'stable' population of gifted people, as their society is rather isolated and not too open for letting in strangers. 

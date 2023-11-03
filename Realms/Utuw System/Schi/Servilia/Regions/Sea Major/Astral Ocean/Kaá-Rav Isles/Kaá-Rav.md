@@ -1,5 +1,7 @@
 ---
-alias: Left Ribs
+aliases:
+  - Left Ribs
+tags:
 ---
 
 #Areas 

@@ -11,6 +11,7 @@
             "id": "3177f616b3f7ece1",
             "type": "leaf",
             "state": {
+<<<<<<< Updated upstream
               "type": "markdown",
               "state": {
                 "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Brisburne.md",
@@ -24,22 +25,34 @@
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
+=======
+              "type": "empty",
+>>>>>>> Stashed changes
               "state": {}
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "28c49edbb9acf0b6",
+=======
+            "id": "9041abd5d3848e5a",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "History/Eras/The Second Era/The Second Era.md",
+=======
+                "file": "Session Notes no1.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "2ff4efda858ccc2f",
             "type": "leaf",
             "state": {
@@ -54,12 +67,25 @@
               "type": "markdown",
               "state": {
                 "file": "Salire.md",
+=======
+            "id": "99556ea6753b215b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Brisburne.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
             }
           }
+<<<<<<< Updated upstream
         ]
+=======
+        ],
+        "currentTab": 2
+>>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
@@ -280,6 +306,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
+<<<<<<< Updated upstream
   "active": "3177f616b3f7ece1",
   "lastOpenFiles": [
     "Salire.md",
@@ -290,6 +317,10 @@
     "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/City of Stargard.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Castle on a hill.md",
     "Items/Soulstone.md",
+=======
+  "active": "99556ea6753b215b",
+  "lastOpenFiles": [
+>>>>>>> Stashed changes
     "Session Notes no1.md",
     "Structure/Respawn explanations.md",
     "Structure/Major Plotlines.md",
@@ -309,6 +340,17 @@
     "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Kaá-Rav.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Skalitz.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile/Londo.md",
+<<<<<<< Updated upstream
+=======
+    "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile/Streets Of Londo.md",
+    "Groupings/Amida.md",
+    "Structure/TO-DO/WIP or Projects/Davern.md",
+    "Groupings/Factions/Thylyian/Labor Union of Thylyist.md",
+    "Groupings/Cults and Religions/Lunatics.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Frisco.md",
+    "Items/Weaponry/Child's Staff.md",
+    "Items/Books et al/Childish Book of Prayers.md",
+>>>>>>> Stashed changes
     "Forces.canvas",
     "Media/5E Reference material/actions sheet.webp",
     "Media/5E Reference material/action sheet 2.webp",
@@ -329,6 +371,10 @@
     "Structure/TO-DO/~syncthing~How Dying ceased.md.tmp",
     "Items/Travel/~syncthing~Rat Cart.md.tmp",
     "Structure/TO-DO/WIP or Projects/~syncthing~Like Obelisks, as far as another Realm.md.tmp",
+<<<<<<< Updated upstream
+=======
+    "Items/Weaponry/Melee/~syncthing~Mace of the Black One.md.tmp",
+>>>>>>> Stashed changes
     "Realms/Planes insanity.sync-conflict-20231101-182846-6JNPT5F.canvas",
     "History/Really coarse timeline.canvas",
     "Structure/Utuw System.canvas",

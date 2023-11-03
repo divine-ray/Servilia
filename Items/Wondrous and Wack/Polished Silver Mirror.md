@@ -8,10 +8,11 @@ The grip is plentifully engraved with Runes.
 
 
 ##### To summon the attuned familiar spirit
+(2 actions to summon, one to give instructions)
 ######  *chant, calling the spirit by name:*
 > Hearken to these words
 > Hear my cry
-> I call to you spirit from the other sid
+> I call to you spirit from the other side
 > I wish to speak to you here
 > Come to me
 > Come to this mirror
