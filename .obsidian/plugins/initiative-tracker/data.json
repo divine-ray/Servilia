@@ -1,5 +1,12 @@
 {
-  "players": [],
+  "players": [
+    {
+      "note": "Salire",
+      "path": "Salire.md",
+      "name": "Salire",
+      "player": true
+    }
+  ],
   "parties": [],
   "defaultParty": null,
   "statuses": [

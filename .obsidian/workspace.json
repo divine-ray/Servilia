@@ -4,33 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "5f5620001cc97d29",
+        "id": "a95c4b7807857624",
         "type": "tabs",
         "children": [
           {
-            "id": "35f321f9d92a6d71",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "4ae179d6c8a42233",
+            "id": "3177f616b3f7ece1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universal Pantheon.md",
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Brisburne.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5227e278c6c2ecfd",
+            "id": "99556ea6753b215b",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
@@ -38,55 +28,38 @@
             }
           },
           {
-            "id": "ada82228d5bd2f37",
+            "id": "28c49edbb9acf0b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structure/Stressors on Factions.md",
+                "file": "History/Eras/The Second Era/The Second Era.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5b6a18229f948e78",
+            "id": "2ff4efda858ccc2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Structure/Homebrew.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "a63314f1ff532d36",
+            "id": "266ebd83e1855e4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO 2꞉ Eectric Bogaloo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d593ccc1340bd04d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/City of Stargard.md",
+                "file": "Salire.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "development",
+                "query": "tag:#Faction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5
+    "width": 368.5,
+    "collapsed": true
   },
   "right": {
     "id": "b9a105647e5b9805",
@@ -160,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO 2꞉ Eectric Bogaloo.md",
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Brisburne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO 2꞉ Eectric Bogaloo.md",
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Brisburne.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO 2꞉ Eectric Bogaloo.md"
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Brisburne.md"
               }
             }
           },
@@ -256,11 +230,38 @@
           }
         ],
         "currentTab": 6
+      },
+      {
+        "id": "c8a52f0896a730e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ad45aa6fe1c06a4",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c13685200b8393b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ec90c00d6073306",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,63 +280,62 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a63314f1ff532d36",
+  "active": "3177f616b3f7ece1",
   "lastOpenFiles": [
-    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/The Tellurion.md",
+    "Salire.md",
+    "salire.pdf",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Brisburne.md",
+    "History/Eras/The Second Era/The Second Era.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Lost City of the Ninth Forest.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/City of Stargard.md",
-    "The Oculus of Night.md",
-    "Structure/Stressors on Factions.md",
-    "Diffused Light.md",
-    "Dead Child's Lullaby.md",
-    "Beings/Gods and Deities/Fear and Hunger.md",
-    "Beings/Gods and Deities/Charon.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Castle on a hill.md",
+    "Items/Soulstone.md",
+    "Session Notes no1.md",
+    "Structure/Respawn explanations.md",
+    "Structure/Major Plotlines.md",
+    "Items/Wondrous and Wack/Iron Oculus.md",
+    "Items/Wondrous and Wack/Bag of Crickets.md",
+    "Echoes.md",
+    "Clocktowers beneath the Sea.md",
     "Realms/Planes insanity.canvas",
-    "Realms/Planes/Dark Domain/The Void.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/The Void.md",
-    "Realms/Planes/Dark Domain/Eternal Sea.md",
-    "Realms/Planes/Twilit.md",
-    "Realms/Planes/Beyond.md",
-    "Beings/Characters and People/Warlock Gaíz-an.md",
-    "Beings/Characters and People/Exiled/Marilee, the Songstress.md",
-    "Beings/Characters and People/Chilleas.md",
-    "TODO 2꞉ Eectric Bogaloo.md",
+    "Structure/Rumours.md",
+    "Items/Flare.md",
+    "Structure/TO-DO/WIP or Projects/Automated Remains.md",
+    "Items/Wondrous and Wack/Polished Silver Mirror.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/City of Thylyist/City of Thylyist.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/City of Stargard.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Ninth Forest/Lost City of the Ninth Forest.md",
+    "Realms/Utuw System/Schi/Heaugi.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Kaá-Rav.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Skalitz.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile/Londo.md",
     "Forces.canvas",
-    "Universal Pantheon.md",
-    "Structure/Homebrew.md",
-    "Beings/Gods and Deities/Voidfish.md",
-    "Beings/Gods and Deities/Celestial Family",
-    "Beings/Gods and Deities",
-    "Groupings/Cultures/Kva'al.md",
-    "403 - Museum.md",
-    "History/Incidents and Events/Seacurbury Fair.md",
-    "History/Seacurbury Fair.md",
-    "TEMP; MIGRATION/TODO/06_Floaty magic book .sync-conflict-20231101-125924-QELEOCQ.md",
-    "Realms/Planes insanity.sync-conflict-20231101-130009-QELEOCQ.canvas",
-    "Beyond.sync-conflict-20231101-125930-QELEOCQ.md",
-    "History/Really coarse timeline.sync-conflict-20231101-130005-QELEOCQ.canvas",
-    "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-40-23.sync-conflict-20231101-125926-QELEOCQ.svg",
-    "Media/Maps/Padia 2023-07-10-22-09.sync-conflict-20231101-130005-QELEOCQ.map",
-    "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-45-09.sync-conflict-20231101-130008-QELEOCQ.svg",
-    "Media/Logos and Heraldry/Cervilia 2023-07-20-18-41.sync-conflict-20231101-125928-QELEOCQ.svg",
-    "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-50-28.sync-conflict-20231101-125927-QELEOCQ.svg",
-    "workspace-mobile.sync-conflict-20231101-130009-QELEOCQ.json",
-    "Media/Lady Amara - Deorum character c5p1rf9a8mw59s5.sync-conflict-20231101-125934-QELEOCQ.txt",
-    "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-46-56.sync-conflict-20231101-125920-QELEOCQ.svg",
-    "Forces.sync-conflict-20231101-125923-QELEOCQ.canvas",
-    "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-52-43.sync-conflict-20231101-130015-QELEOCQ.svg",
-    "Media/Maps/Cervilia 2023-09-30-00-26.sync-conflict-20231101-125804-QELEOCQ.map",
-    "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-49-57.sync-conflict-20231101-125816-QELEOCQ.svg",
-    "Media/Logos and Heraldry/armoria_2022-12-03-23-43-45.sync-conflict-20231101-125808-QELEOCQ.svg",
-    "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-41-10.sync-conflict-20231101-125816-QELEOCQ.svg",
-    "Structure/calendar-schi.sync-conflict-20231101-125819-QELEOCQ.json",
-    "Structure/Utuw System.sync-conflict-20231101-125806-QELEOCQ.canvas",
-    "Media/Logos and Heraldry/Frisco Confederation/armoria_2023-08-24-21-41-10 (1).sync-conflict-20231101-125825-QELEOCQ.svg",
-    "Media/Boneis Mangeur - Deorum character c3sa00koelo08sj.sync-conflict-20231101-125803-QELEOCQ.txt",
-    "History/Minor Quests/~syncthing~Tides of Avon.sync-conflict-20231101-125812-QELEOCQ.md.tmp",
-    "Media/Maps/Padia 2023-07-10-22-09.sync-conflict-20231101-115108-QELEOCQ.map",
-    "Structure/Utuw System.sync-conflict-20231101-115107-QELEOCQ.canvas",
-    "Realms/Planes insanity.sync-conflict-20231101-115107-QELEOCQ.canvas",
-    "History/Really coarse timeline.sync-conflict-20231101-115110-QELEOCQ.canvas",
-    "Forces.sync-conflict-20231101-115109-QELEOCQ.canvas"
+    "Media/5E Reference material/actions sheet.webp",
+    "Media/5E Reference material/action sheet 2.webp",
+    "Media/Tongrokoth - Deorum character c8wgdufdvyduh8a.jpeg",
+    "Media/Lady Amara - Deorum character c5p1rf9a8mw59s5.jpeg",
+    "Media/craiyon_120201_emergency_stop_button_in_nostalgic_brass_casing.png",
+    "Media/craiyon_121622_towering_steampunk_cathedral_of_gears__with_tall_windows_and_made_from_marble_and_bra.png",
+    "Media/craiyon_121622_towering_steampunk_cathedral_of_gears__with_tall_windows_and_made_from_marble_and_bra - Kopie.png",
+    "Media/Cosmology of Planes v1.png",
+    "Media/Cervilia 2023-09-14-12-38(1).png",
+    "Media/Cervilia 2023-09-14-12-38.png",
+    "Media/Maps/Cervilia 2023-09-30-00-26.sync-conflict-20231101-192855-QELEOCQ.map",
+    "Media/Maps/~syncthing~Padia 2023-07-10-22-09.map.tmp",
+    "Beings/Creatures/~syncthing~Flying PiSquid.md.tmp",
+    "History/Eras/The Second Era/~syncthing~The Second Era.md.tmp",
+    "History/Outdated Lore/~syncthing~Lavish Lore.md.tmp",
+    "Items/Equipment/Armour/~syncthing~Sentinel Power Armour.md.tmp",
+    "Structure/TO-DO/~syncthing~How Dying ceased.md.tmp",
+    "Items/Travel/~syncthing~Rat Cart.md.tmp",
+    "Structure/TO-DO/WIP or Projects/~syncthing~Like Obelisks, as far as another Realm.md.tmp",
+    "Realms/Planes insanity.sync-conflict-20231101-182846-6JNPT5F.canvas",
+    "History/Really coarse timeline.canvas",
+    "Structure/Utuw System.canvas",
+    "Untitled.canvas",
+    "TODO Sketchboard.canvas",
+    "Timeline and Events/Really coarse timeline.canvas",
+    "Media/020623/servilia/Structure/Utuw System.canvas",
+    "Media/020623/servilia/Untitled.canvas"
   ]
 }
