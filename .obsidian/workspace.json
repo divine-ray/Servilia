@@ -14,120 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "e2eda1f72ffc3553",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO 2꞉ Electric Bogaloo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cd8441c14056d83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Structure/TO-DO/Ramblings/Twilit Casting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "540bef9f5589a86f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Chromatic Calderas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "249525310c48e9b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Books et al/Tomes of Twilit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c560b96046b261a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Spellcasting Glove.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd064902d0998976",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Realms/Planes insanity.canvas",
-                "viewState": {
-                  "x": -176.49534985067584,
-                  "y": -1304.047396482947,
-                  "zoom": -0.9518473584588618
-                }
-              }
-            }
-          },
-          {
-            "id": "dea02301e9906c9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Between.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ac534bd7cf4c45a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Realms/Planes/Twilit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f03c0db516e71fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Structure/TO-DO/WIP or Projects/Automated Remains.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structure/TO-DO/WIP or Projects/Automated Remains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structure/TO-DO/WIP or Projects/Automated Remains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Structure/TO-DO/WIP or Projects/Automated Remains.md"
-              }
+              "state": {}
             }
           },
           {
@@ -304,9 +188,38 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9f03c0db516e71fc",
+  "active": "59bdd8d9b1ee54d7",
   "lastOpenFiles": [
-    "Items/Artifacts/Fountainhead Catalyst.md",
+    "TODO 2꞉ Electric Bogaloo.md",
+    "Structure/TO-DO/Ramblings/Twilit Casting.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Chromatic Calderas.md",
+    "Structure/TO-DO/WIP or Projects/Davern Kingdom.md",
+    "Structure/TO-DO/WIP or Projects/Ignition Events.md",
+    "Items/Books et al/Tomes of Twilit.md",
+    "Structure/Generator Snippets.md",
+    "Realms/Planes/Between.md",
+    "Items/Spellcasting Glove.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Clocktowers beneath the Sea.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Lakehouse.md",
+    "Dead Child's Lullaby.md",
+    "Diffused Light.md",
+    "Echoes.md",
+    "Realms/Planes insanity.canvas",
+    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/The Oculus of Night.md",
+    "Things that Need Fixing.md",
+    "Beings/Characters and People/salire.pdf",
+    "Beings/Characters and People/Salire.md",
+    "Beings/Characters and People/The Old King.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom/Yawning Grave.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom",
+    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Lunar Gateways.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Lunar Gateways 1.md",
+    "Realms/Planes/Twilit.md",
+    "Structure/Session Notes/Session Notes no1.md",
+    "Structure/Session Notes",
+    "Structure/TO-DO/Ramblings/Broken Wings.md",
+    "Structure/TO-DO/Ramblings/A visit at the theatre.md",
+    "Structure/TO-DO/Ramblings/Now, how does the CoTBG or mekhanites affect the world.md",
     "Media/Fountainhead/_d3da1b44-fa62-44fd-822f-bf9d4367f06a.jpg",
     "Media/Fountainhead/_2b54b47c-5f5a-4aec-a25b-76cb43efc0f6.jpg",
     "Media/Fountainhead/_5efea364-4290-494b-b05e-f11ed1459563.jpg",
@@ -321,18 +234,6 @@
     "Media/Deorum/Boneis Mangeur - Deorum character c3sa00koelo08sj.jpeg",
     "Media/Deorum/Lady Amara - Deorum character c5p1rf9a8mw59s5.jpeg",
     "Media/Deorum/Lady Amara - Deorum character c5p1rf9a8mw59s5.txt",
-    "Media/Deorum",
-    "Realms/Planes/Twilit.md",
-    "Between.md",
-    "Realms/Planes insanity.canvas",
-    "TODO 2꞉ Electric Bogaloo.md",
-    "Structure/TO-DO/Ye' Good Olde TODO.md",
-    "Structure/TO-DO/Ramblings/Twilit Casting.md",
-    "Items/Books et al/Tomes of Twilit.md",
-    "Items/Spellcasting Glove.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Chromatic Calderas.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Castle on a hill.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/A Hill.md",
-    "Things that Need Fixing.md"
+    "Media/Deorum"
   ]
 }
