@@ -10,4 +10,4 @@ a collection of parchments contained in a cedar box inlaid with iron. It is said
 a set of inscribed bones contained in a steel coffer set with deep green spinel. Many of its contents are marked with seemingly random numbers.
 ## The Libram of Goblins
 a flawless compendium bound in rowan plates inlaid with electrum. It is said to be the key to seal the Black Barrow of Ricusi the Eldritch.
-![[Tomes of Twilight]]
+![[Tomes of Twilit]]

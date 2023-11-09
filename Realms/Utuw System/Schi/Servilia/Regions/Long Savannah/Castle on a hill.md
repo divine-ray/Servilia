@@ -10,6 +10,5 @@ Leyline node due to the souls of unrighteous deceased inhabiting it, which parti
 
 Headquarters to the [[Children of The Flame]]. Epicentre of the [[Scorched Acres]].
 
-
-Otherwise Home to a few hollowed elfs, who get supervised by benevolent gnomes/gremlins
+Otherwise Home to a few hollowed elfs, who get supervised by benevolent gnomes/gremlins.
 

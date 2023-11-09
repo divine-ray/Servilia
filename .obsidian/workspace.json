@@ -1,105 +1,83 @@
 {
   "main": {
-    "id": "bd9446c250b4e3ab",
+    "id": "a74c257c24e4d563",
     "type": "split",
     "children": [
       {
-        "id": "a95c4b7807857624",
+        "id": "645709202e4a6789",
         "type": "tabs",
         "children": [
           {
-            "id": "3177f616b3f7ece1",
+            "id": "59bdd8d9b1ee54d7",
             "type": "leaf",
             "state": {
-<<<<<<< Updated upstream
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "1cd8441c14056d83",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Brisburne.md",
+                "file": "Structure/TO-DO/Ramblings/Twilit Casting.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "99556ea6753b215b",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-=======
-              "type": "empty",
->>>>>>> Stashed changes
-              "state": {}
-            }
-          },
-          {
-<<<<<<< Updated upstream
-            "id": "28c49edbb9acf0b6",
-=======
-            "id": "9041abd5d3848e5a",
->>>>>>> Stashed changes
+            "id": "540bef9f5589a86f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "History/Eras/The Second Era/The Second Era.md",
-=======
-                "file": "Session Notes no1.md",
->>>>>>> Stashed changes
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Chromatic Calderas.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "2ff4efda858ccc2f",
+            "id": "249525310c48e9b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Items/Books et al/Tomes of Twilit.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "266ebd83e1855e4d",
+            "id": "c560b96046b261a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Salire.md",
-=======
-            "id": "99556ea6753b215b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Brisburne.md",
->>>>>>> Stashed changes
+                "file": "Items/Spellcasting Glove.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-<<<<<<< Updated upstream
         ]
-=======
-        ],
-        "currentTab": 2
->>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7056d67056e5d4e7",
+    "id": "d5ca524a507e466c",
     "type": "split",
     "children": [
       {
-        "id": "ab61d38b89c7abfb",
+        "id": "55491d1a854e6011",
         "type": "tabs",
         "children": [
           {
-            "id": "c7ce1cf2b768fbc2",
+            "id": "bd431d2fdf9c60e6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -109,12 +87,12 @@
             }
           },
           {
-            "id": "cf9ecfc4346e3d4e",
+            "id": "6ef7de4f2d8abcda",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Faction",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,18 +102,10 @@
             }
           },
           {
-            "id": "2bfb1af49e54b8ea",
+            "id": "250fe051da2ef687",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "8af4a79cfc236d2a",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
               "state": {}
             }
           }
@@ -143,28 +113,26 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "b9a105647e5b9805",
+    "id": "2e92bfb27bdd705f",
     "type": "split",
     "children": [
       {
-        "id": "42d0b06507e3d3e7",
+        "id": "6565b04002e8a9d8",
         "type": "tabs",
         "children": [
           {
-            "id": "87f6b5ae28cdacdc",
+            "id": "46360152c49757ed",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Brisburne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -172,19 +140,18 @@
             }
           },
           {
-            "id": "72119e374e80ec76",
+            "id": "5cb909bc666d06a7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Brisburne.md",
-                "linksCollapsed": true,
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "43335c70a01c9f3a",
+            "id": "724655e124147346",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -195,49 +162,7 @@
             }
           },
           {
-            "id": "9d5fefe34ffbde80",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Brisburne.md"
-              }
-            }
-          },
-          {
-            "id": "e92902ada00ad70a",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "5339cf6c632a5cf0",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "9eb123b7fa355c67",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "2acc4a547becbdb7",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "2e29bf1c685b3ebd",
+            "id": "aa3bf1392df2736d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -247,141 +172,78 @@
             }
           },
           {
-            "id": "0c98bfd66795c3d5",
+            "id": "ef108ff1cac0769b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "7179d1dd2766a500",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "c022bab375f38289",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f83e91449c2c329",
             "type": "leaf",
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {}
             }
+          },
+          {
+            "id": "1ae981cbb303b5f2",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
-      },
-      {
-        "id": "c8a52f0896a730e5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7ad45aa6fe1c06a4",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "c13685200b8393b1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2ec90c00d6073306",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's daily note": false,
-      "zk-prefixer:Create new unique note": false,
-      "audio-recorder:Start/stop recording": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "3177f616b3f7ece1",
+  "active": "59bdd8d9b1ee54d7",
   "lastOpenFiles": [
-    "Salire.md",
-    "salire.pdf",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Brisburne.md",
-    "History/Eras/The Second Era/The Second Era.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Lost City of the Ninth Forest.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/City of Stargard.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Castle on a hill.md",
-    "Items/Soulstone.md",
-=======
-  "active": "99556ea6753b215b",
-  "lastOpenFiles": [
->>>>>>> Stashed changes
-    "Session Notes no1.md",
-    "Structure/Respawn explanations.md",
-    "Structure/Major Plotlines.md",
-    "Items/Wondrous and Wack/Iron Oculus.md",
-    "Items/Wondrous and Wack/Bag of Crickets.md",
-    "Echoes.md",
-    "Clocktowers beneath the Sea.md",
-    "Realms/Planes insanity.canvas",
-    "Structure/Rumours.md",
-    "Items/Flare.md",
-    "Structure/TO-DO/WIP or Projects/Automated Remains.md",
-    "Items/Wondrous and Wack/Polished Silver Mirror.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/City of Thylyist/City of Thylyist.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/City of Stargard.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Ninth Forest/Lost City of the Ninth Forest.md",
-    "Realms/Utuw System/Schi/Heaugi.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Kaá-Rav.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Skalitz.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile/Londo.md",
-<<<<<<< Updated upstream
-=======
-    "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile/Streets Of Londo.md",
-    "Groupings/Amida.md",
-    "Structure/TO-DO/WIP or Projects/Davern.md",
-    "Groupings/Factions/Thylyian/Labor Union of Thylyist.md",
-    "Groupings/Cults and Religions/Lunatics.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Frisco.md",
-    "Items/Weaponry/Child's Staff.md",
-    "Items/Books et al/Childish Book of Prayers.md",
->>>>>>> Stashed changes
-    "Forces.canvas",
-    "Media/5E Reference material/actions sheet.webp",
-    "Media/5E Reference material/action sheet 2.webp",
-    "Media/Tongrokoth - Deorum character c8wgdufdvyduh8a.jpeg",
-    "Media/Lady Amara - Deorum character c5p1rf9a8mw59s5.jpeg",
-    "Media/craiyon_120201_emergency_stop_button_in_nostalgic_brass_casing.png",
-    "Media/craiyon_121622_towering_steampunk_cathedral_of_gears__with_tall_windows_and_made_from_marble_and_bra.png",
-    "Media/craiyon_121622_towering_steampunk_cathedral_of_gears__with_tall_windows_and_made_from_marble_and_bra - Kopie.png",
-    "Media/Cosmology of Planes v1.png",
-    "Media/Cervilia 2023-09-14-12-38(1).png",
-    "Media/Cervilia 2023-09-14-12-38.png",
-    "Media/Maps/Cervilia 2023-09-30-00-26.sync-conflict-20231101-192855-QELEOCQ.map",
-    "Media/Maps/~syncthing~Padia 2023-07-10-22-09.map.tmp",
-    "Beings/Creatures/~syncthing~Flying PiSquid.md.tmp",
-    "History/Eras/The Second Era/~syncthing~The Second Era.md.tmp",
-    "History/Outdated Lore/~syncthing~Lavish Lore.md.tmp",
-    "Items/Equipment/Armour/~syncthing~Sentinel Power Armour.md.tmp",
-    "Structure/TO-DO/~syncthing~How Dying ceased.md.tmp",
-    "Items/Travel/~syncthing~Rat Cart.md.tmp",
-    "Structure/TO-DO/WIP or Projects/~syncthing~Like Obelisks, as far as another Realm.md.tmp",
-<<<<<<< Updated upstream
-=======
-    "Items/Weaponry/Melee/~syncthing~Mace of the Black One.md.tmp",
->>>>>>> Stashed changes
-    "Realms/Planes insanity.sync-conflict-20231101-182846-6JNPT5F.canvas",
-    "History/Really coarse timeline.canvas",
-    "Structure/Utuw System.canvas",
-    "Untitled.canvas",
-    "TODO Sketchboard.canvas",
-    "Timeline and Events/Really coarse timeline.canvas",
-    "Media/020623/servilia/Structure/Utuw System.canvas",
-    "Media/020623/servilia/Untitled.canvas"
+    "Structure/TO-DO/Ye' Good Olde TODO.md",
+    "Structure/TO-DO/Ramblings/Twilit Casting.md",
+    "Items/Books et al/Tomes of Twilit.md",
+    "Items/Spellcasting Glove.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Chromatic Calderas.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Castle on a hill.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/A Hill.md",
+    "Things that Need Fixing.md"
   ]
 }

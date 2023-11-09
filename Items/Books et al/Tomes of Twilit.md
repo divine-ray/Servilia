@@ -13,4 +13,4 @@ For a individual to be able to conduct and weave Twilit into elementary forces, 
 
 To channel twilit and shape it into a Woven, the confined spell, one must provide means for the energies to flow through oneself, commonly directing the inflow through receptacle-like implants and allowing the outflow through a implement that can shape the energies into the Woven, typically a glove. 
 The receptacles currently employed are clunky, and are prone for causing unwanted attention. 
-A common design, which has proven efficient enough, is a implant mounted to the shoulder or neck which consists of 
+A common design, which has proven efficient enough, is a implant mounted into the shoulder or neck which consists of stacked "bowls" or dishes in a supporting structure. 

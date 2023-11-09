@@ -41,13 +41,13 @@
 	- [x] Amidan Infrastructure and Utilities U.P.C. (unlimited professional corp.)
 		state-owned infrastructure and utilities Corp., contracting workers, etc.
 		legal loophole that grants amida itself some degree of freedom from the other corps ruling
-	- [ ] Amida has to be as horrible as possible to squeeze out the tiniest profit out of everything,
-		- [ ] any building is minmaxxed to hell (and fucking collapses in a year),
-		- [ ] pre-crime picks off people for lobotomisation years before,
-		- [ ] numerators are in control of elimination and torture and the police state, 
-		- [ ] there is no “state”/government. it’s all bought by corporate empires.
-		- [ ] idk some pending damocles’ sword which will cause downfall or shit 
-			- escape into simulation? deity? 
+	- [ ] Amida has to be as horrible as possible to squeeze out the tiniest profit out of everything
+		- any building is minmaxxed to hell (and fucking collapses in a year),
+		- pre-crime picks off people for lobotomisation years before,
+		- numerators are in control of elimination and torture and the police state, 
+		- there is no “state”/government. it’s all bought by corporate empires.
+		- idk some pending damocles’ sword which will cause downfall or shit 
+			- escape into simulation? deity? revenge of a higher entity?
 
 ## Characters, People, Creatures:
 - [ ] Leonis
@@ -62,7 +62,7 @@
 - [x] [[Amphitheriid]] as mounts
 - [ ] Juno (Was mad so he shot at the sun)
 - [ ] Maou'oru (that one faint dream of the weird railway beach dude)
-- [ ] Evelyn as the stock character "prostitute with a heart of gold/wisdom"
+- [x] Evelyn as the stock character "prostitute with a heart of gold/wisdom"
 ## Locations, Areas, etc
 - [ ] [[Scorched Acres]]
 - [x] [[Green Swale of Seven Spires]] in the ninth forest
@@ -75,13 +75,13 @@
 - [ ] Tankar Island (Lighthouse, tiny fishing village island)
 - [ ] caverns of the hollow mountains, ecosystem and creatures in it 
 - [x] Elemental Libraries and Archives of Force
-- [ ] [[Chromatic Calderas]] addition of having a part of mekhane
+- [x] [[Chromatic Calderas]] addition of having a part of mekhane
 
 
 ## Species
-- ### [[Varuú]] 
+- [x] [[Varuú]] 
 the experiments of lavish pseudoneo capabilities on humanoids, infused with twilight, building the city known as [[Lost City of the Ninth Forest|Tombstone]], and the [[Archive of Old]]. Probably the first group to be shoved into Exile. 
-- ### eurasian shadowmaw, also rebrand to fit (Padia?)
+- [x] eurasian shadowmaw, also rebrand to fit (Padia?)
 - ### northern glasswing??
 - [ ] [[Lavish Rework ⁄ Lore]]
 - [ ] [[Dwarves]] overhaul and physiology
@@ -93,16 +93,18 @@ the experiments of lavish pseudoneo capabilities on humanoids, infused with twil
 	- [ ] mini-gun, possibly? seems very op
 - [ ] [[Tomes]]
 	give each tome a comprehensible function and relevance in some way
-	they shouldn't feel like generic fetch quest number 384, but rather instil some strong feeling of dread/power/fear etc
+	they shouldn't feel like generic fetch quest №384, but rather instil some strong feeling of dread/power/fear etc
 - [ ] Materials
 	- [ ]  [[Splinter of Blazes]], other fire related items (Gem of Cinders, simmering rock, etc. )
 	- [ ] Various metal plates for armour making 
 ## Oh, the magic
 Write down the entire custom spellcasting system, using gloves/books/wands/staves
-	Spellcasting system using gauntlets, wands, staves and books, who'se modular
-	Amarisk writeup 
-I presume that to cast a material spell using a glove, one would have to cover the gauntlet in the material blend (which might turn out rather unpleasant) or use it as a compressed pellet of sorts, similar to the OA-WS firearms
+- Spellcasting system using gauntlets, wands, staves and books, who'se modular
+- Amarisk writeup 
+I presume that to cast a material spell using a glove, one would have to cover the gauntlet in the material blend (which might turn out rather unpleasant or impossible) or use it as a compressed pellet of sorts, similar to the OA-WS firearms
 perhaps some mechanism to dispense material component pellets into the gauntlet?
+- [ ] [[Twilit Casting]]
+- [ ] [[Tomes of Twilit]]
 ## Pantheons 
 (All the gods, etc)
 - The Great Three: Humans / Dragons / Lavish 
