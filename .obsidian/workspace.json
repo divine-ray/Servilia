@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "e2eda1f72ffc3553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO 2꞉ Electric Bogaloo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1cd8441c14056d83",
             "type": "leaf",
             "state": {
@@ -62,8 +74,60 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd064902d0998976",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Realms/Planes insanity.canvas",
+                "viewState": {
+                  "x": -176.49534985067584,
+                  "y": -1304.047396482947,
+                  "zoom": -0.9518473584588618
+                }
+              }
+            }
+          },
+          {
+            "id": "dea02301e9906c9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Between.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ac534bd7cf4c45a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Realms/Planes/Twilit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f03c0db516e71fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Structure/TO-DO/WIP or Projects/Automated Remains.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -129,6 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Structure/TO-DO/WIP or Projects/Automated Remains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Structure/TO-DO/WIP or Projects/Automated Remains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +242,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Structure/TO-DO/WIP or Projects/Automated Remains.md"
+              }
             }
           },
           {
@@ -216,7 +284,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,8 +304,28 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "59bdd8d9b1ee54d7",
+  "active": "9f03c0db516e71fc",
   "lastOpenFiles": [
+    "Items/Artifacts/Fountainhead Catalyst.md",
+    "Media/Fountainhead/_d3da1b44-fa62-44fd-822f-bf9d4367f06a.jpg",
+    "Media/Fountainhead/_2b54b47c-5f5a-4aec-a25b-76cb43efc0f6.jpg",
+    "Media/Fountainhead/_5efea364-4290-494b-b05e-f11ed1459563.jpg",
+    "Media/Fountainhead/_02a9dfa3-45fa-48ef-bdb0-3840c7b4003b.jpg",
+    "Media/Fountainhead/_418b9a57-8994-4925-b57d-2ea6da534ed7.jpg",
+    "Media/Fountainhead/_9b435aaf-7c9c-423b-9d68-133dfd238b97.jpg",
+    "Media/Fountainhead/_26b5db64-cee3-470e-8b2f-2c751afd7426.jpg",
+    "Media/Fountainhead",
+    "Media/Neuer Ordner",
+    "Media/Deorum/Babrin Daring - Deorum character c6txicjhev5ftjm.jpeg",
+    "Media/Deorum/Boneis Mangeur - Deorum character c3sa00koelo08sj.txt",
+    "Media/Deorum/Boneis Mangeur - Deorum character c3sa00koelo08sj.jpeg",
+    "Media/Deorum/Lady Amara - Deorum character c5p1rf9a8mw59s5.jpeg",
+    "Media/Deorum/Lady Amara - Deorum character c5p1rf9a8mw59s5.txt",
+    "Media/Deorum",
+    "Realms/Planes/Twilit.md",
+    "Between.md",
+    "Realms/Planes insanity.canvas",
+    "TODO 2꞉ Electric Bogaloo.md",
     "Structure/TO-DO/Ye' Good Olde TODO.md",
     "Structure/TO-DO/Ramblings/Twilit Casting.md",
     "Items/Books et al/Tomes of Twilit.md",
