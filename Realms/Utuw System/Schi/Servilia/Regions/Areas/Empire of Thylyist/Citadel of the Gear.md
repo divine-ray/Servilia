@@ -1,6 +1,6 @@
 #Thylyist #Religion #locations  
 
-The main religious building in [[City of Thylyist]], sainted to Gear and Cogwork.
+The main religious building in [[Empire of Thylyist]], sainted to Gear and Cogwork.
 Amongst the earliest buildings in Thylyist, dating back to the First Era. Due to this, it has gone through many reiterations, each one bigger and more imposing than before. 
 Closely related to Earthen Churches, as the main building aboveground features a monumental roofed space, filled with stylised mechanical components.
 

@@ -5,7 +5,7 @@ tags:
   - Thylyist
   - Settlements
 ---
-Capital of the human population; highly advanced in mechanics and metalworking. However, they are strictly conservative, if not regressive, about more advanced technology. 
+Capital of the human population; highly advanced in mechanics and metalworking. However, they are strictly conservative, if not regressive, about more advanced technology due to their [[Followers of Mekhane|religious dogmata]]. 
 
 The [[Archive of Old|Archive]] within the lowest Levels feature the staggering history of Thylyist: they [[Fall of the Lavish|eradicated]] [[The Lavish Empire]] after ab-using them to banish the gods away. -> [[The Second Era]]
 Amida's sector structure is derived from the fact that Thylyist already existed as megacity with several layers.

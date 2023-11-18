@@ -1,35 +1,120 @@
 {
   "main": {
-    "id": "a74c257c24e4d563",
+    "id": "3e42c6b6debbf554",
     "type": "split",
     "children": [
       {
-        "id": "645709202e4a6789",
+        "id": "ab057baddeb9fe20",
         "type": "tabs",
         "children": [
           {
-            "id": "59bdd8d9b1ee54d7",
+            "id": "7880a6a53ffb41e3",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "81ea770ab37a2601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Return of Automatia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56435d0fa843420b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "First Party.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f92458381bf77317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dai Jin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05907662146f87c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beings/Creatures/Undead Cat.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f2f7c60135b13ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Artifacts/Red Telephone.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e385de0cb3980f8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apotheosis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbe465f2ac06fb79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beings/Characters and People/Rastaban.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d5ca524a507e466c",
+    "id": "1af59e5890720754",
     "type": "split",
     "children": [
       {
-        "id": "55491d1a854e6011",
+        "id": "395a823a292f5b8a",
         "type": "tabs",
         "children": [
           {
-            "id": "bd431d2fdf9c60e6",
+            "id": "4f27d536a35800a5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +124,12 @@
             }
           },
           {
-            "id": "6ef7de4f2d8abcda",
+            "id": "5c4c6cece5bd77d9",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Paris",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +139,7 @@
             }
           },
           {
-            "id": "250fe051da2ef687",
+            "id": "d6832482aeb56103",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +153,20 @@
     "width": 300
   },
   "right": {
-    "id": "2e92bfb27bdd705f",
+    "id": "c290a1651b2e2ce0",
     "type": "split",
     "children": [
       {
-        "id": "6565b04002e8a9d8",
+        "id": "ea47ead59162a49a",
         "type": "tabs",
         "children": [
           {
-            "id": "46360152c49757ed",
+            "id": "596ded404ab5c111",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Beings/Creatures/Undead Cat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +178,19 @@
             }
           },
           {
-            "id": "5cb909bc666d06a7",
+            "id": "05576846a9583d0b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Beings/Creatures/Undead Cat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "724655e124147346",
+            "id": "a4c3c9a351ed3dbd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +201,7 @@
             }
           },
           {
-            "id": "aa3bf1392df2736d",
+            "id": "0b25720f369476fd",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -124,15 +211,17 @@
             }
           },
           {
-            "id": "ef108ff1cac0769b",
+            "id": "6bb3e21ee0b72801",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Beings/Creatures/Undead Cat.md"
+              }
             }
           },
           {
-            "id": "7179d1dd2766a500",
+            "id": "7f20d8d9d567d880",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -140,7 +229,7 @@
             }
           },
           {
-            "id": "c022bab375f38289",
+            "id": "de60c861b5047a62",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -148,7 +237,7 @@
             }
           },
           {
-            "id": "7f83e91449c2c329",
+            "id": "93bc0b156fef901f",
             "type": "leaf",
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
@@ -156,7 +245,15 @@
             }
           },
           {
-            "id": "1ae981cbb303b5f2",
+            "id": "8730b2eec4301d79",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a7f59b9e5e6b9e9",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
@@ -164,12 +261,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 542.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,52 +284,53 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "59bdd8d9b1ee54d7",
+  "active": "7f20d8d9d567d880",
   "lastOpenFiles": [
-    "TODO 2꞉ Electric Bogaloo.md",
-    "Structure/TO-DO/Ramblings/Twilit Casting.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Chromatic Calderas.md",
-    "Structure/TO-DO/WIP or Projects/Davern Kingdom.md",
-    "Structure/TO-DO/WIP or Projects/Ignition Events.md",
-    "Items/Books et al/Tomes of Twilit.md",
-    "Structure/Generator Snippets.md",
-    "Realms/Planes/Between.md",
-    "Items/Spellcasting Glove.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Clocktowers beneath the Sea.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Lakehouse.md",
-    "Dead Child's Lullaby.md",
-    "Diffused Light.md",
-    "Echoes.md",
-    "Realms/Planes insanity.canvas",
-    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/The Oculus of Night.md",
-    "Things that Need Fixing.md",
-    "Beings/Characters and People/salire.pdf",
-    "Beings/Characters and People/Salire.md",
-    "Beings/Characters and People/The Old King.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom/Yawning Grave.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom",
-    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Lunar Gateways.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Lunar Gateways 1.md",
-    "Realms/Planes/Twilit.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Empire of Thylyist.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Automated Remains.md",
+    "History/Minor Quests/~syncthing~Tides of Avon.md.tmp",
+    "Structure/~syncthing~Leaflet Map documentation.md.tmp",
+    "Modifications to Werewolves.md",
+    "~syncthing~First Party.md.tmp",
+    "Groupings/Cults and Religions/~syncthing~Followers of Mekhane.md.tmp",
+    "Structure/WIP or Projects/Ignition events.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom/Davern Kingdom.md",
+    "Structure/Homebrew.md",
+    "Beings/Species/~syncthing~Lavish.md.tmp",
+    "Structure/WIP or Projects/~syncthing~Ignition events.md.tmp",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom/~syncthing~Davern Kingdom.md.tmp",
+    "Structure/~syncthing~Homebrew.md.tmp",
+    "Structure/WIP or Projects/Dhât út-Bhadan.md",
+    "Possible reasons why Schi-Ut-Pula vanished.md",
+    "~syncthing~Possible reasons why Schi-Ut-Pula vanished.md.tmp",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/~syncthing~Heart of Mekhane.md.tmp",
+    "Items/Artifacts/Red Telephone.md",
+    "Dai Jin.md",
+    "First Party.md",
+    "History/Return of Automatia.md",
+    "Structure/Respawn explanations.md",
     "Structure/Session Notes/Session Notes no1.md",
-    "Structure/Session Notes",
-    "Structure/TO-DO/Ramblings/Broken Wings.md",
-    "Structure/TO-DO/Ramblings/A visit at the theatre.md",
-    "Structure/TO-DO/Ramblings/Now, how does the CoTBG or mekhanites affect the world.md",
+    "Beings/Characters and People/Untitled.md",
+    "Beings/Characters and People/Player Characters/Salire.md",
+    "Apotheosis.md",
+    "Beings/Characters and People/Rastaban.md",
+    "History/Story Snippets/Routines.md",
+    "Dead Child's Lullaby.md",
+    "History/Story Snippets/Perishing.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Necket.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Heart of Mekhane.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/City of Thylyist.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Citadel of the Gear.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Central Thylyist Armoury.md",
     "Media/Fountainhead/_d3da1b44-fa62-44fd-822f-bf9d4367f06a.jpg",
-    "Media/Fountainhead/_2b54b47c-5f5a-4aec-a25b-76cb43efc0f6.jpg",
     "Media/Fountainhead/_5efea364-4290-494b-b05e-f11ed1459563.jpg",
-    "Media/Fountainhead/_02a9dfa3-45fa-48ef-bdb0-3840c7b4003b.jpg",
-    "Media/Fountainhead/_418b9a57-8994-4925-b57d-2ea6da534ed7.jpg",
     "Media/Fountainhead/_9b435aaf-7c9c-423b-9d68-133dfd238b97.jpg",
+    "Media/Fountainhead/_2b54b47c-5f5a-4aec-a25b-76cb43efc0f6.jpg",
+    "Media/Fountainhead/_418b9a57-8994-4925-b57d-2ea6da534ed7.jpg",
     "Media/Fountainhead/_26b5db64-cee3-470e-8b2f-2c751afd7426.jpg",
-    "Media/Fountainhead",
-    "Media/Neuer Ordner",
-    "Media/Deorum/Babrin Daring - Deorum character c6txicjhev5ftjm.jpeg",
-    "Media/Deorum/Boneis Mangeur - Deorum character c3sa00koelo08sj.txt",
-    "Media/Deorum/Boneis Mangeur - Deorum character c3sa00koelo08sj.jpeg",
+    "Media/Fountainhead/_02a9dfa3-45fa-48ef-bdb0-3840c7b4003b.jpg",
     "Media/Deorum/Lady Amara - Deorum character c5p1rf9a8mw59s5.jpeg",
-    "Media/Deorum/Lady Amara - Deorum character c5p1rf9a8mw59s5.txt",
-    "Media/Deorum"
+    "Media/Deorum/Tongrokoth - Deorum character c8wgdufdvyduh8a.jpeg",
+    "Media/Deorum/The Seventh - Deorum character cw20m8f7qh8pjfs.jpeg"
   ]
 }

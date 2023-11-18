@@ -12,7 +12,7 @@ A breakthrough in their development has been the development of implants that al
 Ever since their primordial ancestors, these beings were highly competent with biology and a relic of old times were symbiotic relations to bacteria cultures that enable their bioluminescence.
 Adult individuals each fostered a colony of bacteria and other microbiological life, which define a unique signature to others and enable them to transmit complex, self-propagating messages.
 
-It is speculated that they could only advance so far due to the water shielding them from the intense solar emission, which likely complicates [[City of Thylyist]] sciences.
+It is speculated that they could only advance so far due to the water shielding them from the intense solar emission, which likely complicates [[Empire of Thylyist]] sciences.
 
 ###### Old description
 *This eccentric wide-ranging kingdom was noted for its advanced ground travel and magic. It was destroyed by economic conflict, arcane misuse and nuclear warfare, leaving behind only artifical life and methods of transportation in a irradiated salt flat.*

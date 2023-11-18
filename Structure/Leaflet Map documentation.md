@@ -764,7 +764,7 @@ markerTag: #Paris
 would search for notes that
 
 1. Are in the folders People and Locations OR Interests/Maps of the World, AND
-2. Contain both tags #people AND #friends OR the tag #Paris
+2. Contain both tags # people AND # friends OR the tag # Paris
 
 ## Distances
 

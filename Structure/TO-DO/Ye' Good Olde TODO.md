@@ -1,4 +1,4 @@
-# #TODO 
+# #TODO #Structure  
 ### [[References]] before i forget 
 
 # Sorted To-Do
@@ -53,7 +53,7 @@
 - [ ] Leonis
 - [ ] 42 
 - [ ] Antares
-- [ ] Devin's story 
+- [x] Devin's story 
 	- [ ] thingamabob expanding the funeral scene, possibly affiliated to tombstone ??? (since the lavish don't really boat)
 - [ ] OneM mad engineer guy, probably Duley resident
 - [x] [[Voidfish]]
@@ -79,7 +79,7 @@
 
 
 ## Species
-- [x] [[Varuú]] 
+- [ ] [[Varuú]] 
 the experiments of lavish pseudoneo capabilities on humanoids, infused with twilight, building the city known as [[Lost City of the Ninth Forest|Tombstone]], and the [[Archive of Old]]. Probably the first group to be shoved into Exile. 
 - [x] eurasian shadowmaw, also rebrand to fit (Padia?)
 - ### northern glasswing??
@@ -115,6 +115,7 @@ perhaps some mechanism to dispense material component pellets into the gauntlet?
 	- [[Schi ut-Pula]], the other Pulastaya
 - categorise deities (beyond, celestial, demigods, heroic given power) (heroic given power are people like marilee or bones in the ocean guy who just became a icon through some fabled act)
 - The narrative power/energy and shared belief of any group may give birth to any deity at any point in time. -> birth of deities
+- [[Universal Pantheon]] 
 # Jumbled
 ## Misc stuff
 make the calendar have hunter/~~wanderer~~/renegade gatherings every nth full moon of moon xyz
@@ -144,8 +145,8 @@ and now fulfils '*some*' role for the seafaring people and undead, akin to maril
  
 ##### [[Nølkā]]
 The pre-first-era ancestors to the Children of the Flame, which warped flesh using amarisk. 
-They inspired the Lavish in their biotechnology, but eventually went extinct in the conflict of Mekhane v. Sarikite. Few tribal settlements exist, but those have slipped out of knowledge. 
->[[Homebrew#Mekhane and the Plane of Mechanus]], [[Before the First Era]]
+- [ ] They inspired the Lavish in their biotechnology, but eventually went extinct in the conflict of Mekhane v. Sarikite. Few tribal settlements exist, but those have slipped out of knowledge. 
+>Homebrew#Mekhane and the Plane of Mechanus, [[Before the First Era]]
 ##### Passing away of undead
 the terminal express and three moons initiative
 
@@ -178,7 +179,7 @@ perhaps rediscovery of lavish biotech merged with the arcane and tech resulting 
 [[Spelljammers]]
 
 
-The Black Parade as military for Sepulchre
+The [[Black Parade]] as military for Sepulchre
 
 Cafe at the End of Time
 

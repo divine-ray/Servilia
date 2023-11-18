@@ -4,8 +4,6 @@ tags:
   - Settlements
   - Faction
 ---
-
- 
 ## Overview
 A community of isolated and deranged sorcerers who devote their time towards the study and use of celestial bodies and formations. A decent part of their population is made from other outcasts and strangers.  
 The only remaining actively practising guild for Astral Sorcery.
@@ -29,6 +27,5 @@ Unsurprisingly, he specialises in peddling wares related to light/darkness, such
 An overgrown temple ruin, which appears restored upon the night of the equinox. Various attempts at identifying the deity or alignment of this temple have been made, but all failed. 
 
 A ruined tower of shattered stone walls, said to be haunted by the ghost of the last empress of a long-forgotten empire. Offerings placed in the crudely-worked altar will be gone by the next full moon, but no one proofed if it actually is the bespoke ghost or just beggars. 
- ![[The Oculus of Night]]
-
-![[Lunar Gateways 1]]
+![[The Oculus of Night]]
+![[Lunar Gateways]]

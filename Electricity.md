@@ -1,0 +1,1 @@
+The development of electricity through the researchers in [[Duley and Port]] has been proven very crude and unrefined, but highly yielding. Some early applications, with the power made through [[Steam Turbines]] include electrical carriages on the [[Servilian Railroad and Train Network]] and supercharged weaponry, which has proven very violent against metallic targets. t

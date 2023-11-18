@@ -1,5 +1,5 @@
 #QUEST 
-**Main objective: Investigate the abnormally extreme tides of [[City of Thylyist#Thylyian Districts|Avon]].**
+**Main objective: Investigate the abnormally extreme tides of [[Empire of Thylyist#Thylyian Districts|Avon]].**
 
 
 ### Detailed Description:

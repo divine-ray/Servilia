@@ -1,3 +1,4 @@
+#Structure #TODO 
 the old one was getting too crammed for my own comfort so here we are
 
 i’m going to handle this more of a random brainstorming page than anything, for the time being

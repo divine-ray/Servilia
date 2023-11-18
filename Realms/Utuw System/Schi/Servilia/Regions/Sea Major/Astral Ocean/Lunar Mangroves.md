@@ -1,6 +1,8 @@
 ---
-tags: area, location
---- 
+tags:
+  - Areas
+  - locations
+---
 ## Overview
 This Mangrove forest is never seen during day. It is always obscured by a almost tangible fog during daytime, which clears at nightfall. 
 When it has cleared, observers on the ground witness a astonishing view to the sky, specifically the moons.
@@ -21,4 +23,4 @@ Any foreign species which intrudes this area has either gone missing or got assi
 - colour shift
 - Metabolism slows down anti-proportional to the phases, as a nocturnal being would hibernate/sleep
 - general adaptation and reconfiguration of physiognomy and organs
-%%
+%%-

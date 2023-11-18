@@ -1,6 +1,5 @@
 ---
 tags:
-  - timeline
   - faceless
 fc-date: 04-22-1287
 aat-render-enabled: true
