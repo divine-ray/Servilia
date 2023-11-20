@@ -16,60 +16,24 @@
             }
           },
           {
-            "id": "81ea770ab37a2601",
+            "id": "f0bdf95f7f14f4f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Return of Automatia.md",
+                "file": "Theophagy or the Death of Divinity.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "56435d0fa843420b",
+            "id": "8147563d8aaf474e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First Party.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f92458381bf77317",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dai Jin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05907662146f87c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beings/Creatures/Undead Cat.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f2f7c60135b13ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Artifacts/Red Telephone.md",
+                "file": "Groupings/Frisco/Frisco Bay Confederation.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,19 +52,18 @@
             }
           },
           {
-            "id": "cbe465f2ac06fb79",
+            "id": "adca1d2546abbb54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beings/Characters and People/Rastaban.md",
+                "file": "Theophagy or the Death of Divinity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beings/Creatures/Undead Cat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beings/Creatures/Undead Cat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,9 +176,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Beings/Creatures/Undead Cat.md"
-              }
+              "state": {}
             }
           },
           {
@@ -265,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 542.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,8 +243,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7f20d8d9d567d880",
+  "active": "7880a6a53ffb41e3",
   "lastOpenFiles": [
+    "Structure/TO-DO/How Dying ceased.md",
+    "Theophagy or the Death of Divinity.md",
+    "Prime Clash of Nolka vs Mekhanites.md",
+    "Theophagy.md",
+    "Groupings/Frisco/Frisco Bay Confederation.md",
+    "First Party.md",
+    "Apotheosis.md",
+    "Beings/Creatures/Undead Cat.md",
+    "APAS Ltd..md",
     "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Empire of Thylyist.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Automated Remains.md",
     "History/Minor Quests/~syncthing~Tides of Avon.md.tmp",
@@ -306,22 +274,13 @@
     "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/~syncthing~Heart of Mekhane.md.tmp",
     "Items/Artifacts/Red Telephone.md",
     "Dai Jin.md",
-    "First Party.md",
     "History/Return of Automatia.md",
     "Structure/Respawn explanations.md",
     "Structure/Session Notes/Session Notes no1.md",
     "Beings/Characters and People/Untitled.md",
     "Beings/Characters and People/Player Characters/Salire.md",
-    "Apotheosis.md",
     "Beings/Characters and People/Rastaban.md",
     "History/Story Snippets/Routines.md",
-    "Dead Child's Lullaby.md",
-    "History/Story Snippets/Perishing.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Necket.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Heart of Mekhane.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/City of Thylyist.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Citadel of the Gear.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Central Thylyist Armoury.md",
     "Media/Fountainhead/_d3da1b44-fa62-44fd-822f-bf9d4367f06a.jpg",
     "Media/Fountainhead/_5efea364-4290-494b-b05e-f11ed1459563.jpg",
     "Media/Fountainhead/_9b435aaf-7c9c-423b-9d68-133dfd238b97.jpg",
