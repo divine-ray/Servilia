@@ -44,24 +44,12 @@
             }
           },
           {
-            "id": "c8b0242e51112425",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Return of Automatia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b7acd5a982987865",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beings/Gods and Deities/Charon.md",
+                "file": "Theophagy or the Death of Divinity.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +115,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Return of Automatia.md",
+                "file": "Theophagy or the Death of Divinity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Return of Automatia.md",
+                "file": "Theophagy or the Death of Divinity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Return of Automatia.md"
+                "file": "Theophagy or the Death of Divinity.md"
               }
             }
           },
@@ -304,8 +293,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "59bdd8d9b1ee54d7",
+  "active": "b7acd5a982987865",
   "lastOpenFiles": [
+    "Beings/Gods and Deities/Charon.md",
+    "Media/Archon, Old God, Sarkicism.jpg",
+    "History/Story Snippets/Perishing.md",
+    "History/Return of Automatia.md",
+    "Items/Artifacts/Eldritch Brand.md",
     "Media/AI Slop 2/Tellurion/_e54be2ef-4f69-4930-8c4e-a4952dbd67ed.jpg",
     "Media/AI Slop 2/Tellurion/_119a49ae-fe58-45d8-809f-b6ff2023dd96.jpg",
     "Media/AI Slop 2/Tellurion/_3cf62005-5e6f-40be-90ce-53bda255caa1.jpg",
@@ -317,8 +311,6 @@
     "Media/AI Slop 2/Fountainhead/_5efea364-4290-494b-b05e-f11ed1459563.jpg",
     "Media/AI Slop 2/Fountainhead/_418b9a57-8994-4925-b57d-2ea6da534ed7.jpg",
     "Media/AI Slop 2/Fountainhead/_2b54b47c-5f5a-4aec-a25b-76cb43efc0f6.jpg",
-    "Media/AI Slop 2/Fountainhead/_26b5db64-cee3-470e-8b2f-2c751afd7426.jpg",
-    "Media/AI Slop 2/Fountainhead/_02a9dfa3-45fa-48ef-bdb0-3840c7b4003b.jpg",
     "Media/AI Slop 2/Fountainhead",
     "Media/AI Slop 2",
     "Structure/Leaflet Map documentation.sync-conflict-20231121-130049-QELEOCQ.md",
@@ -348,10 +340,6 @@
     "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Brisburne.sync-conflict-20231121-140053-QELEOCQ.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Brisburne.sync-conflict-20231121-130049-QELEOCQ.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Lakehouse.sync-conflict-20231121-130049-QELEOCQ.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Lakehouse.sync-conflict-20231121-140055-QELEOCQ.md",
-    "Structure/Cluttered thoughts about Tombstone.sync-conflict-20231121-130049-QELEOCQ.md",
-    "Structure/Cluttered thoughts about Tombstone.sync-conflict-20231121-140052-QELEOCQ.md",
-    "Structure/Stressors on Factions.sync-conflict-20231121-140054-QELEOCQ.md",
     "Structure/WIP or Projects",
     "Realms/Utuw System/Utuw System.canvas",
     "Beings/Characters and People/Player Characters/salire.pdf",
