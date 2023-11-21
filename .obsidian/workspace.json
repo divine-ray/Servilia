@@ -8,36 +8,44 @@
         "type": "tabs",
         "children": [
           {
-            "id": "59bdd8d9b1ee54d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Return of Automatia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71f7c137eaec1446",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Artifacts/Eldritch Brand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c0f8616abb3d6e4c",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a2e2ac6b8f35d2f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Story Snippets/Perishing.md",
+                "file": "Beings/Species/Liches.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "030079bd1c8d4140",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Controversies within Nolka.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec06d922cefd3127",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Clocktowers beneath the Sea.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structure/TO-DO/How Dying ceased.md",
+                "file": "Controversies within Nolka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structure/TO-DO/How Dying ceased.md",
+                "file": "Controversies within Nolka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structure/TO-DO/How Dying ceased.md"
+                "file": "Controversies within Nolka.md"
               }
             }
           },
@@ -256,13 +264,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,19 +287,32 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "838af2cd853c3598",
+  "active": "030079bd1c8d4140",
   "lastOpenFiles": [
+    "Beings/Species/Liches.md",
+    "Controversies within Nolka.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Clocktowers beneath the Sea.md",
+    "Groupings/Cults and Religions/Followers of Mekhane.md",
+    "Groupings/Organisations/The Zubin Society.md",
+    "Groupings/Organisations/Erudition Coven.md",
+    "Beings/Gods and Deities/Fear and Hunger.md",
     "Theophagy.md",
+    "Structure/TO-DO/Ramblings/A visit at the theatre.md",
+    "Beings/Gods and Deities/The Navigator.md",
+    "Structure/TO-DO/Ramblings/Now, how does the CoTBG or mekhanites affect the world.md",
+    "Structure/TO-DO/Ramblings/Broken Wings.md",
+    "Structure/TO-DO/Ramblings/Twilit Casting.md",
+    "History/Story Snippets/Perishing.md",
+    "Items/Artifacts/Eldritch Brand.md",
+    "History/Return of Automatia.md",
+    "History/Outdated Lore/Thylyist Lore.md",
+    "Structure/TO-DO/How Dying ceased.md",
     "Apotheosis.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Lunar Gateways.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/City of Stargard.md",
-    "History/Outdated Lore/Thylyist Lore.md",
     "Groupings/Cults and Religions/Children of The Flame.md",
     "Beings/Gods and Deities/Charon.md",
     "Media/Archon, Old God, Sarkicism.jpg",
-    "History/Story Snippets/Perishing.md",
-    "History/Return of Automatia.md",
-    "Items/Artifacts/Eldritch Brand.md",
     "Media/AI Slop 2/Tellurion/_e54be2ef-4f69-4930-8c4e-a4952dbd67ed.jpg",
     "Media/AI Slop 2/Tellurion/_119a49ae-fe58-45d8-809f-b6ff2023dd96.jpg",
     "Media/AI Slop 2/Tellurion/_3cf62005-5e6f-40be-90ce-53bda255caa1.jpg",
@@ -310,23 +329,10 @@
     "Structure/Leaflet Map documentation.sync-conflict-20231121-130049-QELEOCQ.md",
     "Structure/Leaflet Map documentation.sync-conflict-20231121-140053-QELEOCQ.md",
     "Structure/TO-DO/Ye' Good Olde TODO.sync-conflict-20231121-130049-QELEOCQ.md",
-    "Structure/TO-DO/Ye' Good Olde TODO.sync-conflict-20231121-140054-QELEOCQ.md",
     "History/Really coarse timeline.sync-conflict-20231121-140056-QELEOCQ.canvas",
     "History/Really coarse timeline.sync-conflict-20231121-130049-QELEOCQ.canvas",
-    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/City of Stargard.sync-conflict-20231121-140052-QELEOCQ.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/City of Stargard.sync-conflict-20231121-130049-QELEOCQ.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Empire of Thylyist.sync-conflict-20231121-140058-QELEOCQ.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Empire of Thylyist.sync-conflict-20231121-130049-QELEOCQ.md",
     "Realms/Planes insanity.sync-conflict-20231121-140051-QELEOCQ.canvas",
     "Realms/Planes insanity.sync-conflict-20231121-130049-QELEOCQ.canvas",
-    "History/Eras/The Second Era/Fall.sync-conflict-20231121-130049-QELEOCQ.md",
-    "History/Eras/The Second Era/Fall.sync-conflict-20231121-140052-QELEOCQ.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Lunar Mangroves.sync-conflict-20231121-130049-QELEOCQ.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Lunar Mangroves.sync-conflict-20231121-140056-QELEOCQ.md",
-    "Realms/Utuw System/The Utuw Family.sync-conflict-20231121-140053-QELEOCQ.md",
-    "Realms/Utuw System/The Utuw Family.sync-conflict-20231121-130049-QELEOCQ.md",
-    "Development of Petrochemistry.sync-conflict-20231121-140054-QELEOCQ.md",
-    "Development of Petrochemistry.sync-conflict-20231121-130049-QELEOCQ.md",
     "Realms/Utuw System/Utuw System.sync-conflict-20231121-130049-QELEOCQ.canvas",
     "Realms/Utuw System/Utuw System.sync-conflict-20231121-140053-QELEOCQ.canvas",
     "Structure/WIP or Projects",

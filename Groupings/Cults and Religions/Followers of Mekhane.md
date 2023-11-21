@@ -6,6 +6,7 @@ tags:
 aliases:
   - Mekhanite
   - Church of the Broken God
+  - Mekanites
 ---
 The Mekhanites are the monotheistic religion which worship the [[Heart of Mekhane]] and it’s Ideal Design of Gear, Steel and Steam.
 They are the leading and ruling class of [[Empire of Thylyist]], self-entitled to reign, with no restraints to use force through the [[Thylyian Military]] 
