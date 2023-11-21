@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theophagy or the Death of Divinity.md",
+                "file": "Theophagy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "838af2cd853c3598",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Structure/TO-DO/How Dying ceased.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,36 +80,12 @@
             }
           },
           {
-            "id": "32ba1a7958f4a92d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groupings/Cults and Religions/Children of The Flame.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f4f4a0e106827be4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Apotheosis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "066c72b763819099",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Lunar Gateways.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -182,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theophagy or the Death of Divinity.md",
+                "file": "Structure/TO-DO/How Dying ceased.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theophagy or the Death of Divinity.md",
+                "file": "Structure/TO-DO/How Dying ceased.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theophagy or the Death of Divinity.md"
+                "file": "Structure/TO-DO/How Dying ceased.md"
               }
             }
           },
@@ -293,8 +281,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b7acd5a982987865",
+  "active": "838af2cd853c3598",
   "lastOpenFiles": [
+    "Theophagy.md",
+    "Apotheosis.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Lunar Gateways.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/City of Stargard.md",
+    "History/Outdated Lore/Thylyist Lore.md",
+    "Groupings/Cults and Religions/Children of The Flame.md",
     "Beings/Gods and Deities/Charon.md",
     "Media/Archon, Old God, Sarkicism.jpg",
     "History/Story Snippets/Perishing.md",
@@ -333,13 +327,8 @@
     "Realms/Utuw System/The Utuw Family.sync-conflict-20231121-130049-QELEOCQ.md",
     "Development of Petrochemistry.sync-conflict-20231121-140054-QELEOCQ.md",
     "Development of Petrochemistry.sync-conflict-20231121-130049-QELEOCQ.md",
-    "Faction Overview.sync-conflict-20231121-140056-QELEOCQ.md",
-    "Faction Overview.sync-conflict-20231121-130049-QELEOCQ.md",
     "Realms/Utuw System/Utuw System.sync-conflict-20231121-130049-QELEOCQ.canvas",
     "Realms/Utuw System/Utuw System.sync-conflict-20231121-140053-QELEOCQ.canvas",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Brisburne.sync-conflict-20231121-140053-QELEOCQ.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Brisburne.sync-conflict-20231121-130049-QELEOCQ.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Lakehouse.sync-conflict-20231121-130049-QELEOCQ.md",
     "Structure/WIP or Projects",
     "Realms/Utuw System/Utuw System.canvas",
     "Beings/Characters and People/Player Characters/salire.pdf",
