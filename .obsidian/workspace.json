@@ -1,46 +1,98 @@
 {
   "main": {
-    "id": "3e42c6b6debbf554",
+    "id": "a74c257c24e4d563",
     "type": "split",
     "children": [
       {
-        "id": "ab057baddeb9fe20",
+        "id": "645709202e4a6789",
         "type": "tabs",
         "children": [
           {
-            "id": "7880a6a53ffb41e3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f0bdf95f7f14f4f7",
+            "id": "59bdd8d9b1ee54d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theophagy or the Death of Divinity.md",
+                "file": "History/Return of Automatia.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8147563d8aaf474e",
+            "id": "71f7c137eaec1446",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groupings/Frisco/Frisco Bay Confederation.md",
+                "file": "Items/Artifacts/Eldritch Brand.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e385de0cb3980f8f",
+            "id": "c0f8616abb3d6e4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Story Snippets/Perishing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8b0242e51112425",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Return of Automatia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7acd5a982987865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beings/Gods and Deities/Charon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cefcfd4ffc4d630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Outdated Lore/Thylyist Lore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32ba1a7958f4a92d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Groupings/Cults and Religions/Children of The Flame.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4f4a0e106827be4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,12 +104,24 @@
             }
           },
           {
-            "id": "adca1d2546abbb54",
+            "id": "066c72b763819099",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theophagy or the Death of Divinity.md",
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Lunar Gateways.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70ad34636645b03e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/City of Stargard.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,15 +133,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1af59e5890720754",
+    "id": "d5ca524a507e466c",
     "type": "split",
     "children": [
       {
-        "id": "395a823a292f5b8a",
+        "id": "55491d1a854e6011",
         "type": "tabs",
         "children": [
           {
-            "id": "4f27d536a35800a5",
+            "id": "bd431d2fdf9c60e6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -87,12 +151,12 @@
             }
           },
           {
-            "id": "5c4c6cece5bd77d9",
+            "id": "6ef7de4f2d8abcda",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Paris",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +166,7 @@
             }
           },
           {
-            "id": "d6832482aeb56103",
+            "id": "250fe051da2ef687",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -116,19 +180,20 @@
     "width": 300
   },
   "right": {
-    "id": "c290a1651b2e2ce0",
+    "id": "2e92bfb27bdd705f",
     "type": "split",
     "children": [
       {
-        "id": "ea47ead59162a49a",
+        "id": "6565b04002e8a9d8",
         "type": "tabs",
         "children": [
           {
-            "id": "596ded404ab5c111",
+            "id": "46360152c49757ed",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "History/Return of Automatia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,18 +205,19 @@
             }
           },
           {
-            "id": "05576846a9583d0b",
+            "id": "5cb909bc666d06a7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "History/Return of Automatia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a4c3c9a351ed3dbd",
+            "id": "724655e124147346",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -162,7 +228,7 @@
             }
           },
           {
-            "id": "0b25720f369476fd",
+            "id": "aa3bf1392df2736d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -172,15 +238,17 @@
             }
           },
           {
-            "id": "6bb3e21ee0b72801",
+            "id": "ef108ff1cac0769b",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "History/Return of Automatia.md"
+              }
             }
           },
           {
-            "id": "7f20d8d9d567d880",
+            "id": "7179d1dd2766a500",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -188,7 +256,7 @@
             }
           },
           {
-            "id": "de60c861b5047a62",
+            "id": "c022bab375f38289",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -196,7 +264,7 @@
             }
           },
           {
-            "id": "93bc0b156fef901f",
+            "id": "7f83e91449c2c329",
             "type": "leaf",
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
@@ -204,15 +272,7 @@
             }
           },
           {
-            "id": "8730b2eec4301d79",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "8a7f59b9e5e6b9e9",
+            "id": "1ae981cbb303b5f2",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
@@ -220,11 +280,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 282.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,53 +304,61 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7880a6a53ffb41e3",
+  "active": "59bdd8d9b1ee54d7",
   "lastOpenFiles": [
-    "Structure/TO-DO/How Dying ceased.md",
-    "Theophagy or the Death of Divinity.md",
-    "Prime Clash of Nolka vs Mekhanites.md",
-    "Theophagy.md",
-    "Groupings/Frisco/Frisco Bay Confederation.md",
-    "First Party.md",
-    "Apotheosis.md",
-    "Beings/Creatures/Undead Cat.md",
-    "APAS Ltd..md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Empire of Thylyist.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Automated Remains.md",
-    "History/Minor Quests/~syncthing~Tides of Avon.md.tmp",
-    "Structure/~syncthing~Leaflet Map documentation.md.tmp",
-    "Modifications to Werewolves.md",
-    "~syncthing~First Party.md.tmp",
-    "Groupings/Cults and Religions/~syncthing~Followers of Mekhane.md.tmp",
-    "Structure/WIP or Projects/Ignition events.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom/Davern Kingdom.md",
-    "Structure/Homebrew.md",
-    "Beings/Species/~syncthing~Lavish.md.tmp",
-    "Structure/WIP or Projects/~syncthing~Ignition events.md.tmp",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom/~syncthing~Davern Kingdom.md.tmp",
-    "Structure/~syncthing~Homebrew.md.tmp",
-    "Structure/WIP or Projects/Dhât út-Bhadan.md",
-    "Possible reasons why Schi-Ut-Pula vanished.md",
-    "~syncthing~Possible reasons why Schi-Ut-Pula vanished.md.tmp",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/~syncthing~Heart of Mekhane.md.tmp",
-    "Items/Artifacts/Red Telephone.md",
-    "Dai Jin.md",
-    "History/Return of Automatia.md",
-    "Structure/Respawn explanations.md",
-    "Structure/Session Notes/Session Notes no1.md",
-    "Beings/Characters and People/Untitled.md",
-    "Beings/Characters and People/Player Characters/Salire.md",
-    "Beings/Characters and People/Rastaban.md",
-    "History/Story Snippets/Routines.md",
-    "Media/Fountainhead/_d3da1b44-fa62-44fd-822f-bf9d4367f06a.jpg",
-    "Media/Fountainhead/_5efea364-4290-494b-b05e-f11ed1459563.jpg",
-    "Media/Fountainhead/_9b435aaf-7c9c-423b-9d68-133dfd238b97.jpg",
-    "Media/Fountainhead/_2b54b47c-5f5a-4aec-a25b-76cb43efc0f6.jpg",
-    "Media/Fountainhead/_418b9a57-8994-4925-b57d-2ea6da534ed7.jpg",
-    "Media/Fountainhead/_26b5db64-cee3-470e-8b2f-2c751afd7426.jpg",
-    "Media/Fountainhead/_02a9dfa3-45fa-48ef-bdb0-3840c7b4003b.jpg",
-    "Media/Deorum/Lady Amara - Deorum character c5p1rf9a8mw59s5.jpeg",
-    "Media/Deorum/Tongrokoth - Deorum character c8wgdufdvyduh8a.jpeg",
-    "Media/Deorum/The Seventh - Deorum character cw20m8f7qh8pjfs.jpeg"
+    "Media/AI Slop 2/Tellurion/_e54be2ef-4f69-4930-8c4e-a4952dbd67ed.jpg",
+    "Media/AI Slop 2/Tellurion/_119a49ae-fe58-45d8-809f-b6ff2023dd96.jpg",
+    "Media/AI Slop 2/Tellurion/_3cf62005-5e6f-40be-90ce-53bda255caa1.jpg",
+    "Media/AI Slop 2/Tellurion/_3bcf1ef1-f753-4fd0-b44d-5ffc633d0d37.jpg",
+    "Media/AI Slop 2/Tellurion",
+    "Media/AI Slop 2/Neuer Ordner",
+    "Media/AI Slop 2/Fountainhead/_d3da1b44-fa62-44fd-822f-bf9d4367f06a.jpg",
+    "Media/AI Slop 2/Fountainhead/_9b435aaf-7c9c-423b-9d68-133dfd238b97.jpg",
+    "Media/AI Slop 2/Fountainhead/_5efea364-4290-494b-b05e-f11ed1459563.jpg",
+    "Media/AI Slop 2/Fountainhead/_418b9a57-8994-4925-b57d-2ea6da534ed7.jpg",
+    "Media/AI Slop 2/Fountainhead/_2b54b47c-5f5a-4aec-a25b-76cb43efc0f6.jpg",
+    "Media/AI Slop 2/Fountainhead/_26b5db64-cee3-470e-8b2f-2c751afd7426.jpg",
+    "Media/AI Slop 2/Fountainhead/_02a9dfa3-45fa-48ef-bdb0-3840c7b4003b.jpg",
+    "Media/AI Slop 2/Fountainhead",
+    "Media/AI Slop 2",
+    "Structure/Leaflet Map documentation.sync-conflict-20231121-130049-QELEOCQ.md",
+    "Structure/Leaflet Map documentation.sync-conflict-20231121-140053-QELEOCQ.md",
+    "Structure/TO-DO/Ye' Good Olde TODO.sync-conflict-20231121-130049-QELEOCQ.md",
+    "Structure/TO-DO/Ye' Good Olde TODO.sync-conflict-20231121-140054-QELEOCQ.md",
+    "History/Really coarse timeline.sync-conflict-20231121-140056-QELEOCQ.canvas",
+    "History/Really coarse timeline.sync-conflict-20231121-130049-QELEOCQ.canvas",
+    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/City of Stargard.sync-conflict-20231121-140052-QELEOCQ.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/City of Stargard.sync-conflict-20231121-130049-QELEOCQ.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Empire of Thylyist.sync-conflict-20231121-140058-QELEOCQ.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Empire of Thylyist.sync-conflict-20231121-130049-QELEOCQ.md",
+    "Realms/Planes insanity.sync-conflict-20231121-140051-QELEOCQ.canvas",
+    "Realms/Planes insanity.sync-conflict-20231121-130049-QELEOCQ.canvas",
+    "History/Eras/The Second Era/Fall.sync-conflict-20231121-130049-QELEOCQ.md",
+    "History/Eras/The Second Era/Fall.sync-conflict-20231121-140052-QELEOCQ.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Lunar Mangroves.sync-conflict-20231121-130049-QELEOCQ.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Lunar Mangroves.sync-conflict-20231121-140056-QELEOCQ.md",
+    "Realms/Utuw System/The Utuw Family.sync-conflict-20231121-140053-QELEOCQ.md",
+    "Realms/Utuw System/The Utuw Family.sync-conflict-20231121-130049-QELEOCQ.md",
+    "Development of Petrochemistry.sync-conflict-20231121-140054-QELEOCQ.md",
+    "Development of Petrochemistry.sync-conflict-20231121-130049-QELEOCQ.md",
+    "Faction Overview.sync-conflict-20231121-140056-QELEOCQ.md",
+    "Faction Overview.sync-conflict-20231121-130049-QELEOCQ.md",
+    "Realms/Utuw System/Utuw System.sync-conflict-20231121-130049-QELEOCQ.canvas",
+    "Realms/Utuw System/Utuw System.sync-conflict-20231121-140053-QELEOCQ.canvas",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Brisburne.sync-conflict-20231121-140053-QELEOCQ.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Brisburne.sync-conflict-20231121-130049-QELEOCQ.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Lakehouse.sync-conflict-20231121-130049-QELEOCQ.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Lakehouse.sync-conflict-20231121-140055-QELEOCQ.md",
+    "Structure/Cluttered thoughts about Tombstone.sync-conflict-20231121-130049-QELEOCQ.md",
+    "Structure/Cluttered thoughts about Tombstone.sync-conflict-20231121-140052-QELEOCQ.md",
+    "Structure/Stressors on Factions.sync-conflict-20231121-140054-QELEOCQ.md",
+    "Structure/WIP or Projects",
+    "Realms/Utuw System/Utuw System.canvas",
+    "Beings/Characters and People/Player Characters/salire.pdf",
+    "Beings/Characters and People/Player Characters/Pascal_Dai_Jin.pdf",
+    "Beings/Characters and People/Player Characters",
+    "Media/AI slop/Fountainhead",
+    "Media/AI slop",
+    "Realms/Planes insanity.canvas"
   ]
 }
