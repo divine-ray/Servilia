@@ -1,0 +1,1 @@
+A particle-wave, emitted by metabolical activities, specifically neural activities. It does not interact with any force but gravity, 
