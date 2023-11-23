@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "0843f412db258416",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Structure/WIP or Projects/Like Obelisks, as far as another Realm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "030079bd1c8d4140",
             "type": "leaf",
             "state": {
@@ -124,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amarisk.md",
+                "file": "Structure/WIP or Projects/Like Obelisks, as far as another Realm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amarisk.md",
+                "file": "Structure/WIP or Projects/Like Obelisks, as far as another Realm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amarisk.md"
+                "file": "Structure/WIP or Projects/Like Obelisks, as far as another Realm.md"
               }
             }
           },
@@ -300,14 +312,26 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "02d8b87e15cb9728",
+  "active": "0843f412db258416",
   "lastOpenFiles": [
-    "Structure/WIP or Projects/Ignition Events.md",
+    "Media/reddited elemental chart.png",
+    "Media/tech priest.jpg",
+    "Media/AI Slop 2/tech priest.jpg",
+    "Media/AI Slop 2/_066b07e1-3812-4faf-a02a-98c03c3d7b6a.jpg",
+    "Media/AI Slop 2/_dd76370c-89b4-48d5-8ba8-929531003390.jpg",
+    "Media/AI Slop 2/_9b0ec050-c0c2-41ea-a28a-ca20c51d3748.jpg",
+    "Media/AI Slop 2/_cf99961e-595b-4f30-be41-48effcedb502.jpg",
+    "Media/AI Slop 2/_78104b1b-041d-4924-ba10-ae3eef9e6ad1.jpg",
+    "Media/AI Slop 2/_f5c13029-4603-419e-8bb5-2eb35eeed014.jpg",
+    "Media/AI Slop 2/_659950a9-7588-4be2-8718-c7c0f973e016.jpg",
+    "Media/AI Slop 2/_ddac5578-0ca9-4933-b74b-e1ab6437aa00.jpg",
+    "Corse.md",
+    "Beings/Species/Liches.md",
     "Amarisk.md",
+    "Structure/WIP or Projects/Ignition Events.md",
     "Structure/WIP or Projects/Amarisk Emission.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Clocktowers beneath the Sea.md",
     "Controversies within Nolka.md",
-    "Beings/Species/Liches.md",
     "Groupings/Cults and Religions/Followers of Mekhane.md",
     "Groupings/Organisations/The Zubin Society.md",
     "Groupings/Organisations/Erudition Coven.md",
@@ -326,20 +350,8 @@
     "Apotheosis.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Lunar Gateways.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/City of Stargard.md",
-    "Groupings/Cults and Religions/Children of The Flame.md",
-    "Beings/Gods and Deities/Charon.md",
-    "Media/Archon, Old God, Sarkicism.jpg",
-    "Media/AI Slop 2/Tellurion/_e54be2ef-4f69-4930-8c4e-a4952dbd67ed.jpg",
-    "Media/AI Slop 2/Tellurion/_119a49ae-fe58-45d8-809f-b6ff2023dd96.jpg",
-    "Media/AI Slop 2/Tellurion/_3cf62005-5e6f-40be-90ce-53bda255caa1.jpg",
-    "Media/AI Slop 2/Tellurion/_3bcf1ef1-f753-4fd0-b44d-5ffc633d0d37.jpg",
     "Media/AI Slop 2/Tellurion",
     "Media/AI Slop 2/Neuer Ordner",
-    "Media/AI Slop 2/Fountainhead/_d3da1b44-fa62-44fd-822f-bf9d4367f06a.jpg",
-    "Media/AI Slop 2/Fountainhead/_9b435aaf-7c9c-423b-9d68-133dfd238b97.jpg",
-    "Media/AI Slop 2/Fountainhead/_5efea364-4290-494b-b05e-f11ed1459563.jpg",
-    "Media/AI Slop 2/Fountainhead/_418b9a57-8994-4925-b57d-2ea6da534ed7.jpg",
-    "Media/AI Slop 2/Fountainhead/_2b54b47c-5f5a-4aec-a25b-76cb43efc0f6.jpg",
     "Media/AI Slop 2/Fountainhead",
     "Media/AI Slop 2",
     "History/Really coarse timeline.sync-conflict-20231121-140056-QELEOCQ.canvas",
