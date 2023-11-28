@@ -5,7 +5,7 @@ tags: Amida, Settlements, Factions
 Post-Revolution [[Empire of Thylyist]] which caused major turnovers in cultural and social norms, which led to a very liberal but unstable culture and population.
 The downfall (and execution) of most of the [[Council of Thylyist]] also lifted the veil that propaganda was shaping around magic and the outside world
 - Huge leaps in technological development due to incorporated [Lavish](The Lavish Empire) technology salvages and the beginning of [[Arcane Engineering]] and artificial life sciences (in human culture)
-With the newfound expertise and drive they sought out to finally handle the [[Fountainhead]] in a deal with the [[The Twilight]]
+With the newfound expertise and drive they sought out to finally handle the [[Fountainhead]] in a deal with the [[Twilit]]
 	→ some alternative link to empower 'our' (the material) world
 
 The government is de-facto [[Board of Amida-Seven|controlled by Corporations]], which neglected civil protection and law enforcement for most of their reign, which led to chaos, [[Organised Crime]] and very liberal individual rights and downfall of most hesitations (i.e. it is common to walk barely nude, or barely tolerated to engage in sex on the open). 

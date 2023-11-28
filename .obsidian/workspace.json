@@ -11,112 +11,36 @@
             "id": "2538ba7161f91c26",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "25599f8a6de7e86a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Realms/Utuw System/Schi/Opar.md",
+                "file": "Twilit Rift.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aab881919b9773ab",
+            "id": "fdaeb19119910c57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEMP; MIGRATION/Misc Ideas/01_SCP presence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "433a240a23a109d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Structure/TO-DO/Davern Kingdom ⧣TODO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56a2ef6b29123a66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Structure/TO-DO/Phenomenon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afe762a1d267e1ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Travel/Riftstones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "452e7679d6a66e0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Structure/Stressors on Factions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46e0ec73a4d87f66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faction Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0843f412db258416",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groupings/Amida.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "246a7fda4b4984dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beings/Characters and People/Kookie, Mage.md",
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Amida/Numerator.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structure/Stressors on Factions.md",
+                "file": "Twilit Rift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structure/Stressors on Factions.md",
+                "file": "Twilit Rift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structure/Stressors on Factions.md"
+                "file": "Twilit Rift.md"
               }
             }
           },
@@ -292,13 +216,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "452e7679d6a66e0a",
+  "active": "25599f8a6de7e86a",
   "lastOpenFiles": [
+    "Items/Weaponry/Cyphers.md",
+    "Twilit Rift.md",
+    "Groupings/Factions/The Twilight.md",
     "Groupings/Amida.md",
-    "Structure/Stressors on Factions.md",
-    "Items/Travel/Riftstones.md",
-    "Realms/Utuw System/Schi/Opar.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Amida/Numerator.md",
     "TEMP; MIGRATION/Misc Ideas/01_SCP presence.md",
+    "Realms/Utuw System/Schi/Heaugi.md",
+    "Realms/Utuw System/Schi/Kynoly.md",
+    "Realms/Utuw System/Schi/Schi.md",
+    "Realms/Utuw System/Schi/Opar.md",
+    "Realms/Utuw System/Three Moons.md",
+    "Structure/TO-DO/Davern Kingdom ⧣TODO.md",
+    "Items/Travel/Riftstones.md",
+    "Structure/Stressors on Factions.md",
     "Beings/Creatures/Orb & Spire.md",
     "Structure/Leaflet Map documentation.md",
     "Structure/TO-DO/How Dying ceased.md",
@@ -309,17 +242,8 @@
     "History/Story Snippets/Tunnels.md",
     "Argrosy.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile.md",
-    "Structure/TO-DO/Davern Kingdom ⧣TODO.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile/Londo.md",
     "Beings/Characters and People/Kookie, Mage.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Automated Remains.md",
-    "Structure/TO-DO/Phenomenon.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Lakehouse.md",
-    "Beings/Species/Padian Shadowmaw.md",
-    "History/Minor Quests/Good Times.md",
-    "TEMP; MIGRATION/DM internal things/03_Item Stats.md",
-    "Structure/TO-DO/Quick Travel methods.md",
-    "HTML Spell circle lmao.md",
     "Media/reddited elemental chart.png",
     "Media/tech priest.jpg",
     "Media/AI Slop 2/tech priest.jpg",
