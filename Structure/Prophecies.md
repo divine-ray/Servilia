@@ -9,11 +9,11 @@
 - The Line of faith shall be hidden until the sun is eclipsed and the caverns of lodes have collapsed.
 	%%chalk line of fate, telling the ideal plot --- caverns of lode = hollow mountains%%
 - When the Black Hare lies in blood and blades pierce the sky, the Rogue of the Tome shall fall.
-- The Gate of Regolith shall become lit when all singing stones have gathered. 
-	%%The Lunar Gate in Stargard will become a teleporter to ??? once all monoliths have been placed arouznd it%%
-- Islands will loose their colour once the wheels of metal turn as of old days. 
+- The Gates of Foreign Stone shall become lit when all singing stones have gathered. 
+	%%The Lunar Gates in Stargard will become a teleporter to ??? once all monoliths have been placed around it%%
+- Islands will loose their colour once the wheels of metal stop to turn as of old days. 
 	%%The Chromatic Calderas will turn featureless once the Amarisk well, a part of mekhane, has been recovered%%
-- Masked judges return to the stage once the seven%%?%% hoards have been freed and their tyrant lost its face. 
+- Masked judges return to the stage once the seven%%?%% hoards have been freed and their tyrants lost its faces. 
 	%%The Court of Storms, and by a extend, Tombstone, will restore themselves once the Archives and Libraries have been purged and Chezke-an has been defeated. %%
 - The Creature of Nothing reveals itself upon the branding of the wrong cattle. 
 %%The Voidfish will become noticeable after a innocent person has been branded with the Eldritch Mark. 

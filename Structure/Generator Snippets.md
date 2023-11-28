@@ -24,8 +24,6 @@
  - The Sawmill: A derelict building of brick and slate, filled with complex dwarven machines. It is apparent that the building is a sawmill, but no-one has been able to work out how to operate it in many generations.
  - The Marut: An ancient cyclopean colossus of unweathered stone, where local merchants come to make contracts. It is said that anyone who breaks an oath sworn upon the Marut will be slain before the next dawn.
 # Items
-## Potions
-![[Potions]]
 ## Rods
 Surveyor's Rod (Rod): 
 	While holding this rod, you know the distance to any fixed landscape feature you can see, such as a tree, mountain, oasis, castle, island, etc.
@@ -38,8 +36,6 @@ Surveyor's Rod (Rod):
     of its contents.  Retrieving an item from the bag requires an action.
 - - Mummer's Potion (Wondrous Item):
     While wearing these white gloves, you can use an action to conjure tiny, invisible barriers of magical force, of the sort used by mummers for their theatre.  The effect lasts for as long as you concentrate on it, up to 10 minutes.  You can also use a reaction  to conjure a larger barrier to protect you, which gives you a +5 bonus to AC.  This ends the effect at the start of your next turn. The gloves can't be used this way again until the next dawn.
-- Rat Cart
-![[Rat Cart]]
 ## Scrolls
 Origami Messenger (Scroll):
     You can use an action to read this scroll, which causes it to fold itself into a tiny origami squid. The object will fly to a destination and deliver a message, as though you had cast the spell Animal Messenger (phb 212).
@@ -59,18 +55,10 @@ Scale Mail of the Serpent (Armor, scale mail, requires attunement):
 
 
 #  Prophecies and Scriptures
-##  Prophecies
-![[Prophecies]]
-## Tomes
-![[Tomes]]
-
-
-
-
 
 Orphanage of the Fane of the Empyrean Sky.
 
-![[Rumours]]
+
 
 ## Cyphers
 ![[Cyphers]]

@@ -1,8 +1,6 @@
-[]()Various buildings and structures left around the continent by [someone long gone](The%20Lavish%20Empire.md). 
-Most of them remain functional through the maintenance of peculiar critters and other creatures, which [I](Kookie,%20Mage) did not inspect closer yet. 
+Various buildings and structures left around the continent by [someone long gone](The%20Lavish%20Empire.md). 
+Most of them remain functional through the maintenance of [peculiar critters](Pseudoneo) and other creatures, which [I](Kookie,%20Mage) did not inspect closer yet. 
 In this entry I will summarise the most notable ones i found repeatedly, and theorise their function. 
-
-
 ## Gun Installation
 This impossible-to-deceive turret hoists one to four massive gun barrels, each longer than a man, each with a bigger diameter of my head. 
 Atop the barrel array usually sits a metal sphere, through which's oculus a blind eye gazes at me.
@@ -11,3 +9,8 @@ The smell of what I think is leaking blood mixed with oil is pungent, and hurts 
 
 ## Vents
 A device apparently rooted into the earth with piping and tubing. Flaps seemingly breathe hot air into my direction, some others constantly suck in fresh air. The earth around it seems barren and lacking vegetation. 
+
+## Sphere
+A massive metal sphere, half-stuck to the ground. Several engraved lines run across it, lining up on a central opening, like a eye iris. It lies dormant, but i am afraid of waking it, since it hums faintly on touch.
+On my journey, i have spotted a-many of these, all in a similar state of disrepair. 
+They vary in size, but i have not found one smaller in diameter than my leg is long. 

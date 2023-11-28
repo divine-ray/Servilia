@@ -16,6 +16,102 @@
             }
           },
           {
+            "id": "56a2ef6b29123a66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Structure/TO-DO/Phenomenon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f16e59705959f42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Minor Quests/Good Times.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afe762a1d267e1ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Travel/Riftstones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e284e849014669f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Structure/TO-DO/Phenomenon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f4b4da062b5b358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amarisk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b457426de53a88c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theophagy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d5da01abc3ebb60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Structure/Generator Snippets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8774554a88d66486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Court of Storms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "02d8b87e15cb9728",
             "type": "leaf",
             "state": {
@@ -33,7 +129,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beings/Species/Liches.md",
+                "file": "Structure/Things that Need Fixing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "452e7679d6a66e0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Structure/Stressors on Factions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46e0ec73a4d87f66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faction Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,98 +165,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structure/WIP or Projects/Like Obelisks, as far as another Realm.md",
+                "file": "Groupings/Amida.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "030079bd1c8d4140",
+            "id": "d3abd4d0bc8fac98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Controversies within Nolka.md",
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ec06d922cefd3127",
+            "id": "246a7fda4b4984dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Clocktowers beneath the Sea.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7acd5a982987865",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theophagy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "838af2cd853c3598",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Structure/TO-DO/How Dying ceased.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cefcfd4ffc4d630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Outdated Lore/Thylyist Lore.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4f4a0e106827be4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apotheosis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70ad34636645b03e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/City of Stargard.md",
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Automated Remains.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -182,7 +242,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -202,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structure/WIP or Projects/Like Obelisks, as far as another Realm.md",
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Automated Remains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structure/WIP or Projects/Like Obelisks, as far as another Realm.md",
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Automated Remains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structure/WIP or Projects/Like Obelisks, as far as another Realm.md"
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Automated Remains.md"
               }
             }
           },
@@ -292,8 +353,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,8 +372,34 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0843f412db258416",
+  "active": "246a7fda4b4984dd",
   "lastOpenFiles": [
+    "Structure/TO-DO/Phenomenon.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Lakehouse.md",
+    "Beings/Species/Padian Shadowmaw.md",
+    "History/Minor Quests/Good Times.md",
+    "TEMP; MIGRATION/DM internal things/03_Item Stats.md",
+    "Items/Travel/Riftstones.md",
+    "Structure/TO-DO/Quick Travel methods.md",
+    "HTML Spell circle lmao.md",
+    "History/Story Snippets/Rats.md",
+    "Amarisk.md",
+    "Groupings/Amida.md",
+    "Groupings/Factions/Ancients.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Amida/Numerator.md",
+    "Structure/WIP or Projects/Like Obelisks, as far as another Realm.md",
+    "Court of Storms.md",
+    "Realms/Planes/Twilit.md",
+    "Items/Artifacts/Red Telephone.md",
+    "Theophagy.md",
+    "History/Story Snippets/Perishing.md",
+    "Structure/Stressors on Factions.md",
+    "Structure/Things that Need Fixing.md",
+    "Faction Overview.md",
+    "Beings/Species/Liches.md",
+    "Structure/Generator Snippets.md",
+    "Structure/Prophecies.md",
     "Media/reddited elemental chart.png",
     "Media/tech priest.jpg",
     "Media/AI Slop 2/tech priest.jpg",
@@ -324,32 +410,6 @@
     "Media/AI Slop 2/_78104b1b-041d-4924-ba10-ae3eef9e6ad1.jpg",
     "Media/AI Slop 2/_f5c13029-4603-419e-8bb5-2eb35eeed014.jpg",
     "Media/AI Slop 2/_659950a9-7588-4be2-8718-c7c0f973e016.jpg",
-    "Media/AI Slop 2/_ddac5578-0ca9-4933-b74b-e1ab6437aa00.jpg",
-    "Corse.md",
-    "Beings/Species/Liches.md",
-    "Amarisk.md",
-    "Structure/WIP or Projects/Ignition Events.md",
-    "Structure/WIP or Projects/Amarisk Emission.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Clocktowers beneath the Sea.md",
-    "Controversies within Nolka.md",
-    "Groupings/Cults and Religions/Followers of Mekhane.md",
-    "Groupings/Organisations/The Zubin Society.md",
-    "Groupings/Organisations/Erudition Coven.md",
-    "Beings/Gods and Deities/Fear and Hunger.md",
-    "Theophagy.md",
-    "Structure/TO-DO/Ramblings/A visit at the theatre.md",
-    "Beings/Gods and Deities/The Navigator.md",
-    "Structure/TO-DO/Ramblings/Now, how does the CoTBG or mekhanites affect the world.md",
-    "Structure/TO-DO/Ramblings/Broken Wings.md",
-    "Structure/TO-DO/Ramblings/Twilit Casting.md",
-    "History/Story Snippets/Perishing.md",
-    "Items/Artifacts/Eldritch Brand.md",
-    "History/Return of Automatia.md",
-    "History/Outdated Lore/Thylyist Lore.md",
-    "Structure/TO-DO/How Dying ceased.md",
-    "Apotheosis.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Lunar Gateways.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/City of Stargard.md",
     "Media/AI Slop 2/Tellurion",
     "Media/AI Slop 2/Neuer Ordner",
     "Media/AI Slop 2/Fountainhead",

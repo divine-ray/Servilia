@@ -1,6 +1,6 @@
 #TODO 
-- [x] ~~[[Warp Stone]]s~~
-- [ ] Twilight Rifts
+- [x] [[Riftstones]]
+	- [ ] Twilight Rifts
 - [ ] Mounts
 	- [ ] Dragons
 	- [ ] Burrowing Worms
