@@ -13,7 +13,7 @@ Crime gangs empowered themselves to be the second government, mostly unscathed a
 Poverty is common, and food is scarce. 
 
 [[Ancients]] got unexiled (probably) due to [[Fountainhead]] modifications 
-[[Lavish]] technology (re-)enabled the modification of life, which led to the stereotypical implant culture of cyberpunk scenarios and to extremely durable semiorganic creatures, which got used to erect the space elevator in the centre of Sector 7
+[[Lavish]] technology (re-)enabled the modification of life, which led to the stereotypical implant culture of cyberpunk scenarios and to extremely durable semiorganic creatures, which got used to erect the space elevator in the centre of Sector 9
 - intense space colonialism with the capability of easy space-faring
 - possibly discovered a [Lavish](The Lavish Empire) colony within [[Heaugi]]'s oceans, who are defending their refuge with extreme means and violence
 
@@ -26,9 +26,10 @@ Linked to external page.
 Furries (sapient anthropomorphic humanoids) exist in [[Amida-8]] due to a leak that involved the full genome of all major humanoid species and instructions to modify it, which led to a subset of rippers that went all-in and modified humanoid genomes, partly resulting in abominations, but also creating furries.
 
 #### Amida is divided into sectors based on numerator:
-- [[Amida-8]]  is the synth life ghetto
+- [[Amida-8]]  is the synth^[read:android, pseudoneo] ghetto
 - [[Amida-7]] is the government/corporate HQ and management
-- [[Amida-9]] is the Space elevator and [[Argrosy|Mass transit hub. ]]
+- [[Amida-9]] is the Space elevator and [[Argrosy|Mass transit hub.]]
+- [[Amida-11]] is the accumulation sector of furries. 
 
 Addresses are given in XYZ coordinates of that sector relative to the numerator core (0|0|0)
 

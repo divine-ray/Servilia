@@ -10,4 +10,4 @@ They do not use tools, but their bodies to mine minerals and carve rock. For hum
 Built to resist all what the harsh business of mining throws at them, they are tough and compact creatures. 
 
 Certain splinter and renegade groups have been commercialising their prowess in mining and metalworking, primarily selling to the Frisco Confederation and Thylyist (incognito).
-Aside from that, they do take a important role in the Phylum of pseudoneo ecosystem, as they're capable and willing to augment, maintain and recreate parts of other pseudoneo individuals . 
+Aside from that, they do take a important role in the Phylum of pseudoneo ecosystem, as they're capable and willing to augment, maintain and recreate parts of other pseudoneo individuals.
