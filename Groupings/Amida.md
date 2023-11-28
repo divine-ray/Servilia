@@ -4,7 +4,7 @@ tags: Amida, Settlements, Factions
 
 Post-Revolution [[Empire of Thylyist]] which caused major turnovers in cultural and social norms, which led to a very liberal but unstable culture and population.
 The downfall (and execution) of most of the [[Council of Thylyist]] also lifted the veil that propaganda was shaping around magic and the outside world
-- Huge leaps in technological development due to incorporated [Lavish](The Lavish Empire) technology salvages and the beginning of magitech and artificial life sciences (in human culture)
+- Huge leaps in technological development due to incorporated [Lavish](The Lavish Empire) technology salvages and the beginning of [[Arcane Engineering]] and artificial life sciences (in human culture)
 With the newfound expertise and drive they sought out to finally handle the [[Fountainhead]] in a deal with the [[The Twilight]]
 	→ some alternative link to empower 'our' (the material) world
 

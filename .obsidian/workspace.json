@@ -11,8 +11,24 @@
             "id": "c0f8616abb3d6e4c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Argrosy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "433a240a23a109d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Structure/TO-DO/Davern Kingdom ⧣TODO.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -46,90 +62,6 @@
               "type": "markdown",
               "state": {
                 "file": "Items/Travel/Riftstones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e284e849014669f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Structure/TO-DO/Phenomenon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f4b4da062b5b358",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amarisk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b457426de53a88c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theophagy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d5da01abc3ebb60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Structure/Generator Snippets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8774554a88d66486",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Court of Storms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02d8b87e15cb9728",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amarisk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a2e2ac6b8f35d2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Structure/Things that Need Fixing.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,31 +104,18 @@
             }
           },
           {
-            "id": "d3abd4d0bc8fac98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "246a7fda4b4984dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Automated Remains.md",
+                "file": "Beings/Characters and People/Kookie, Mage.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Automated Remains.md",
+                "file": "Argrosy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Automated Remains.md",
+                "file": "Argrosy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Automated Remains.md"
+                "file": "Argrosy.md"
               }
             }
           },
@@ -372,8 +291,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "246a7fda4b4984dd",
+  "active": "c0f8616abb3d6e4c",
   "lastOpenFiles": [
+    "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile.md",
+    "Structure/TO-DO/Davern Kingdom ⧣TODO.md",
+    "Groupings/Amida.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile/Londo.md",
+    "Beings/Characters and People/Kookie, Mage.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Automated Remains.md",
     "Structure/TO-DO/Phenomenon.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Lakehouse.md",
     "Beings/Species/Padian Shadowmaw.md",
@@ -384,9 +309,7 @@
     "HTML Spell circle lmao.md",
     "History/Story Snippets/Rats.md",
     "Amarisk.md",
-    "Groupings/Amida.md",
     "Groupings/Factions/Ancients.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Areas/Amida/Numerator.md",
     "Structure/WIP or Projects/Like Obelisks, as far as another Realm.md",
     "Court of Storms.md",
@@ -396,10 +319,6 @@
     "History/Story Snippets/Perishing.md",
     "Structure/Stressors on Factions.md",
     "Structure/Things that Need Fixing.md",
-    "Faction Overview.md",
-    "Beings/Species/Liches.md",
-    "Structure/Generator Snippets.md",
-    "Structure/Prophecies.md",
     "Media/reddited elemental chart.png",
     "Media/tech priest.jpg",
     "Media/AI Slop 2/tech priest.jpg",
