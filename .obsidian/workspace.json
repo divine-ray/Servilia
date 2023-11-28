@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0f8616abb3d6e4c",
+            "id": "2538ba7161f91c26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Argrosy.md",
+                "file": "Realms/Utuw System/Schi/Opar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aab881919b9773ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEMP; MIGRATION/Misc Ideas/01_SCP presence.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,18 +50,6 @@
               "type": "markdown",
               "state": {
                 "file": "Structure/TO-DO/Phenomenon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f16e59705959f42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Minor Quests/Good Times.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -182,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Argrosy.md",
+                "file": "Structure/Stressors on Factions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Argrosy.md",
+                "file": "Structure/Stressors on Factions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Argrosy.md"
+                "file": "Structure/Stressors on Factions.md"
               }
             }
           },
@@ -291,11 +292,24 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c0f8616abb3d6e4c",
+  "active": "452e7679d6a66e0a",
   "lastOpenFiles": [
+    "Groupings/Amida.md",
+    "Structure/Stressors on Factions.md",
+    "Items/Travel/Riftstones.md",
+    "Realms/Utuw System/Schi/Opar.md",
+    "TEMP; MIGRATION/Misc Ideas/01_SCP presence.md",
+    "Beings/Creatures/Orb & Spire.md",
+    "Structure/Leaflet Map documentation.md",
+    "Structure/TO-DO/How Dying ceased.md",
+    "Theophagy.md",
+    "Structure/Curse of the Undead.md",
+    "APAS Ltd..md",
+    "this is where the organised crime in amida roots.md",
+    "History/Story Snippets/Tunnels.md",
+    "Argrosy.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile.md",
     "Structure/TO-DO/Davern Kingdom ⧣TODO.md",
-    "Groupings/Amida.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile/Londo.md",
     "Beings/Characters and People/Kookie, Mage.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Automated Remains.md",
@@ -304,21 +318,8 @@
     "Beings/Species/Padian Shadowmaw.md",
     "History/Minor Quests/Good Times.md",
     "TEMP; MIGRATION/DM internal things/03_Item Stats.md",
-    "Items/Travel/Riftstones.md",
     "Structure/TO-DO/Quick Travel methods.md",
     "HTML Spell circle lmao.md",
-    "History/Story Snippets/Rats.md",
-    "Amarisk.md",
-    "Groupings/Factions/Ancients.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Amida/Numerator.md",
-    "Structure/WIP or Projects/Like Obelisks, as far as another Realm.md",
-    "Court of Storms.md",
-    "Realms/Planes/Twilit.md",
-    "Items/Artifacts/Red Telephone.md",
-    "Theophagy.md",
-    "History/Story Snippets/Perishing.md",
-    "Structure/Stressors on Factions.md",
-    "Structure/Things that Need Fixing.md",
     "Media/reddited elemental chart.png",
     "Media/tech priest.jpg",
     "Media/AI Slop 2/tech priest.jpg",

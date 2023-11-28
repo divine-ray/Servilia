@@ -8,7 +8,7 @@ The downfall (and execution) of most of the [[Council of Thylyist]] also lifted 
 With the newfound expertise and drive they sought out to finally handle the [[Fountainhead]] in a deal with the [[The Twilight]]
 	→ some alternative link to empower 'our' (the material) world
 
-The government is de-facto [[Board of Amida-Seven|controlled by Corporations]], which neglected civil protection and law enforcement for most of their reign, which led to chaos, organised crime and very liberal individual rights and downfall of most hesitations (i.e. it is common to walk barely nude, or barely tolerated to engage in sex on the open). 
+The government is de-facto [[Board of Amida-Seven|controlled by Corporations]], which neglected civil protection and law enforcement for most of their reign, which led to chaos, [[Organised Crime]] and very liberal individual rights and downfall of most hesitations (i.e. it is common to walk barely nude, or barely tolerated to engage in sex on the open). 
 Crime gangs empowered themselves to be the second government, mostly unscathed and otherwise dodging the feeble and underfunded the attempts of the corporations. 
 Poverty is common, and food is scarce. 
 

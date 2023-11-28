@@ -1,7 +1,7 @@
 #Structure #Overviews 
 # [[Empire of Thylyist]]
 ## Population
-Ongoing poverty, failing harvests, plummeting quality and standards of life. Absence of maintenance towards public interests such as trade routes, water infrastructure and security (i.e. protection from theft, burglary and assassinations) [[this is where the organised crime in amida roots]].    
+Ongoing poverty, failing harvests, plummeting quality and standards of life. Absence of maintenance towards public interests such as trade routes, water infrastructure and security (i.e. protection from theft, burglary and assassinations) [[Organised Crime]].    
 ## Council
 #TODO 
 ## [[Followers of Mekhane|Mekhanites]]
