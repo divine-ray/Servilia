@@ -1,94 +1,38 @@
 {
   "main": {
-    "id": "a74c257c24e4d563",
+    "id": "3e42c6b6debbf554",
     "type": "split",
     "children": [
       {
-        "id": "645709202e4a6789",
+        "id": "ab057baddeb9fe20",
         "type": "tabs",
         "children": [
           {
-            "id": "c0f8616abb3d6e4c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "0a2e2ac6b8f35d2f",
+            "id": "7880a6a53ffb41e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beings/Species/Liches.md",
+                "file": "Universal Pantheon.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "030079bd1c8d4140",
+            "id": "8147563d8aaf474e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Controversies within Nolka.md",
+                "file": "Groupings/Frisco/Frisco Bay Confederation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ec06d922cefd3127",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Clocktowers beneath the Sea.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7acd5a982987865",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theophagy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "838af2cd853c3598",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Structure/TO-DO/How Dying ceased.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cefcfd4ffc4d630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Outdated Lore/Thylyist Lore.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4f4a0e106827be4",
+            "id": "e385de0cb3980f8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -98,35 +42,22 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "70ad34636645b03e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/City of Stargard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d5ca524a507e466c",
+    "id": "1af59e5890720754",
     "type": "split",
     "children": [
       {
-        "id": "55491d1a854e6011",
+        "id": "395a823a292f5b8a",
         "type": "tabs",
         "children": [
           {
-            "id": "bd431d2fdf9c60e6",
+            "id": "4f27d536a35800a5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -136,12 +67,12 @@
             }
           },
           {
-            "id": "6ef7de4f2d8abcda",
+            "id": "5c4c6cece5bd77d9",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Paris",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +82,7 @@
             }
           },
           {
-            "id": "250fe051da2ef687",
+            "id": "d6832482aeb56103",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -165,20 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "2e92bfb27bdd705f",
+    "id": "c290a1651b2e2ce0",
     "type": "split",
     "children": [
       {
-        "id": "6565b04002e8a9d8",
+        "id": "ea47ead59162a49a",
         "type": "tabs",
         "children": [
           {
-            "id": "46360152c49757ed",
+            "id": "596ded404ab5c111",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Controversies within Nolka.md",
+                "file": "Universal Pantheon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,19 +121,19 @@
             }
           },
           {
-            "id": "5cb909bc666d06a7",
+            "id": "05576846a9583d0b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Controversies within Nolka.md",
+                "file": "Universal Pantheon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "724655e124147346",
+            "id": "a4c3c9a351ed3dbd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -213,7 +144,7 @@
             }
           },
           {
-            "id": "aa3bf1392df2736d",
+            "id": "0b25720f369476fd",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -223,17 +154,17 @@
             }
           },
           {
-            "id": "ef108ff1cac0769b",
+            "id": "6bb3e21ee0b72801",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Controversies within Nolka.md"
+                "file": "Universal Pantheon.md"
               }
             }
           },
           {
-            "id": "7179d1dd2766a500",
+            "id": "7f20d8d9d567d880",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -241,7 +172,7 @@
             }
           },
           {
-            "id": "c022bab375f38289",
+            "id": "de60c861b5047a62",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -249,7 +180,7 @@
             }
           },
           {
-            "id": "7f83e91449c2c329",
+            "id": "93bc0b156fef901f",
             "type": "leaf",
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
@@ -257,18 +188,27 @@
             }
           },
           {
-            "id": "1ae981cbb303b5f2",
+            "id": "8730b2eec4301d79",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a7f59b9e5e6b9e9",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,61 +227,52 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "030079bd1c8d4140",
+  "active": "7880a6a53ffb41e3",
   "lastOpenFiles": [
-    "Beings/Species/Liches.md",
-    "Controversies within Nolka.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Clocktowers beneath the Sea.md",
-    "Groupings/Cults and Religions/Followers of Mekhane.md",
-    "Groupings/Organisations/The Zubin Society.md",
-    "Groupings/Organisations/Erudition Coven.md",
-    "Beings/Gods and Deities/Fear and Hunger.md",
     "Theophagy.md",
-    "Structure/TO-DO/Ramblings/A visit at the theatre.md",
-    "Beings/Gods and Deities/The Navigator.md",
-    "Structure/TO-DO/Ramblings/Now, how does the CoTBG or mekhanites affect the world.md",
-    "Structure/TO-DO/Ramblings/Broken Wings.md",
-    "Structure/TO-DO/Ramblings/Twilit Casting.md",
-    "History/Story Snippets/Perishing.md",
-    "Items/Artifacts/Eldritch Brand.md",
-    "History/Return of Automatia.md",
-    "History/Outdated Lore/Thylyist Lore.md",
-    "Structure/TO-DO/How Dying ceased.md",
-    "Apotheosis.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Lunar Gateways.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/City of Stargard.md",
-    "Groupings/Cults and Religions/Children of The Flame.md",
-    "Beings/Gods and Deities/Charon.md",
-    "Media/Archon, Old God, Sarkicism.jpg",
+    "Media/AI Slop 2/craiyon_121622_towering_steampunk_cathedral_of_gears__with_tall_windows_and_made_from_marble_and_bra - Kopie.png",
+    "Media/AI Slop 2/craiyon_120201_emergency_stop_button_in_nostalgic_brass_casing.png",
+    "Media/AI Slop 2/_df15dea1-7b88-4933-97fb-efb480977c88.jpg",
+    "Media/AI Slop 2/_da5f9427-7a56-404e-8ab5-9f05ea30128a.jpg",
+    "Media/AI Slop 2/_893daecf-7eea-4502-a0e2-e16ba07e8567.jpg",
     "Media/AI Slop 2/Tellurion/_e54be2ef-4f69-4930-8c4e-a4952dbd67ed.jpg",
-    "Media/AI Slop 2/Tellurion/_119a49ae-fe58-45d8-809f-b6ff2023dd96.jpg",
     "Media/AI Slop 2/Tellurion/_3cf62005-5e6f-40be-90ce-53bda255caa1.jpg",
     "Media/AI Slop 2/Tellurion/_3bcf1ef1-f753-4fd0-b44d-5ffc633d0d37.jpg",
-    "Media/AI Slop 2/Tellurion",
-    "Media/AI Slop 2/Neuer Ordner",
-    "Media/AI Slop 2/Fountainhead/_d3da1b44-fa62-44fd-822f-bf9d4367f06a.jpg",
-    "Media/AI Slop 2/Fountainhead/_9b435aaf-7c9c-423b-9d68-133dfd238b97.jpg",
-    "Media/AI Slop 2/Fountainhead/_5efea364-4290-494b-b05e-f11ed1459563.jpg",
     "Media/AI Slop 2/Fountainhead/_418b9a57-8994-4925-b57d-2ea6da534ed7.jpg",
-    "Media/AI Slop 2/Fountainhead/_2b54b47c-5f5a-4aec-a25b-76cb43efc0f6.jpg",
+    "Media/AI Slop 2/Tellurion/_119a49ae-fe58-45d8-809f-b6ff2023dd96.jpg",
+    "Media/AI Slop 2/Tellurion",
     "Media/AI Slop 2/Fountainhead",
     "Media/AI Slop 2",
-    "Structure/Leaflet Map documentation.sync-conflict-20231121-130049-QELEOCQ.md",
-    "Structure/Leaflet Map documentation.sync-conflict-20231121-140053-QELEOCQ.md",
-    "Structure/TO-DO/Ye' Good Olde TODO.sync-conflict-20231121-130049-QELEOCQ.md",
-    "History/Really coarse timeline.sync-conflict-20231121-140056-QELEOCQ.canvas",
-    "History/Really coarse timeline.sync-conflict-20231121-130049-QELEOCQ.canvas",
-    "Realms/Planes insanity.sync-conflict-20231121-140051-QELEOCQ.canvas",
-    "Realms/Planes insanity.sync-conflict-20231121-130049-QELEOCQ.canvas",
-    "Realms/Utuw System/Utuw System.sync-conflict-20231121-130049-QELEOCQ.canvas",
-    "Realms/Utuw System/Utuw System.sync-conflict-20231121-140053-QELEOCQ.canvas",
-    "Structure/WIP or Projects",
-    "Realms/Utuw System/Utuw System.canvas",
-    "Beings/Characters and People/Player Characters/salire.pdf",
-    "Beings/Characters and People/Player Characters/Pascal_Dai_Jin.pdf",
-    "Beings/Characters and People/Player Characters",
-    "Media/AI slop/Fountainhead",
-    "Media/AI slop",
-    "Realms/Planes insanity.canvas"
+    "Controversies within Nolka.md",
+    "Structure/TO-DO/How Dying ceased.md",
+    "Theophagy or the Death of Divinity.md",
+    "Prime Clash of Nolka vs Mekhanites.md",
+    "Groupings/Frisco/Frisco Bay Confederation.md",
+    "First Party.md",
+    "Apotheosis.md",
+    "Beings/Creatures/Undead Cat.md",
+    "APAS Ltd..md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Empire of Thylyist.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Automated Remains.md",
+    "History/Minor Quests/~syncthing~Tides of Avon.md.tmp",
+    "Structure/~syncthing~Leaflet Map documentation.md.tmp",
+    "Modifications to Werewolves.md",
+    "~syncthing~First Party.md.tmp",
+    "Groupings/Cults and Religions/~syncthing~Followers of Mekhane.md.tmp",
+    "Structure/WIP or Projects/Ignition events.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom/Davern Kingdom.md",
+    "Structure/Homebrew.md",
+    "Beings/Species/~syncthing~Lavish.md.tmp",
+    "Structure/WIP or Projects/~syncthing~Ignition events.md.tmp",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom/~syncthing~Davern Kingdom.md.tmp",
+    "Structure/WIP or Projects/Dhât út-Bhadan.md",
+    "Possible reasons why Schi-Ut-Pula vanished.md",
+    "Items/Artifacts/Red Telephone.md",
+    "Dai Jin.md",
+    "History/Return of Automatia.md",
+    "Structure/Respawn explanations.md",
+    "Structure/Session Notes/Session Notes no1.md",
+    "Beings/Characters and People/Untitled.md",
+    "Beings/Characters and People/Player Characters/Salire.md"
   ]
 }

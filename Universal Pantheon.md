@@ -9,6 +9,7 @@ Deities that could possibly be the central pivot of a monotheistic religion; sti
 
 ## [[Charon]]
 
+## [[Mekhane]]
 # this is the todo area
 
 - [ ] deity of time/fate, probably going with the three weavers of fate thread 
