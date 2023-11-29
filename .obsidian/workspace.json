@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/SC-AM.md",
+                "file": "Twilit Rift.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Groupings/Dwarves.md",
+                "file": "Twilit Rift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Groupings/Dwarves.md",
+                "file": "Twilit Rift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Groupings/Dwarves.md"
+                "file": "Twilit Rift.md"
               }
             }
           },
@@ -232,33 +230,34 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "81d811371484d517",
+  "active": "2538ba7161f91c26",
   "lastOpenFiles": [
-    "Media/AI Slop 2/Eldritch brand/_dd76370c-89b4-48d5-8ba8-929531003390.jpg",
-    "Media/AI Slop 2/Eldritch brand/_cf99961e-595b-4f30-be41-48effcedb502.jpg",
-    "Media/AI Slop 2/Eldritch brand/_066b07e1-3812-4faf-a02a-98c03c3d7b6a.jpg",
-    "Media/AI Slop 2/Eldritch brand/_9b0ec050-c0c2-41ea-a28a-ca20c51d3748.jpg",
+    "Media/AI Slop 2/_1905b03f-0a9d-4096-9d63-ac36ee8c4839.jpg",
+    "Media/AI Slop 2/_954deb17-a5bc-4925-9b07-63aaf41fa985.jpg",
+    "Media/AI Slop 2/_300ea722-3a7d-432e-b45b-c8a8dcbb12e9.jpg",
+    "Media/AI Slop 2/_276b89a9-752f-476a-b6fa-2b8093bc1be2.jpg",
+    "Media/AI Slop 2/_46bd6828-0853-4dc4-9d67-d969c5244687.jpg",
+    "Media/AI Slop 2/_e7d7a0ff-5166-4989-867c-77e7bca19ac7.jpg",
+    "Media/AI Slop 2/_9ac2cbb7-24d4-441c-9deb-f1e3fe182a0f.jpg",
+    "Media/AI Slop 2/_f85bff2c-3e35-42b1-b11e-97b3804606e2.jpg",
+    "Media/AI Slop 2/_b2a4b62f-dcb9-4c63-b2b6-dc9e381eec67.jpg",
+    "Media/AI Slop 2/_8f1272db-1c47-457b-9702-7c566147863e.jpg",
+    "Media/AI Slop 2/_a598e0c0-318d-4593-80e8-4af71ba30706.jpg",
+    "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/SC-AM.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Amida/Numerator.md",
+    "Groupings/Dwarves.md",
     "Media/AI Slop 2/Eldritch brand",
     "Media/AI Slop 2/Neuer Ordner",
-    "Media/AI Slop 2/Songbird/_6eca0256-63ed-4af0-a7e8-72f529a40e4c.jpg",
-    "Media/AI Slop 2/Songbird/_91628264-54dd-4c14-81c8-f715f2e90261.jpg",
-    "Media/AI Slop 2/Songbird/_1ce50891-6a28-44f5-adcd-dedd674edca7.jpg",
     "Media/AI Slop 2/Songbird",
-    "Media/AI Slop 2/Amida/_6fa31ab3-efb1-4425-a607-24b58e53b062.jpg",
-    "Media/AI Slop 2/Amida/_4f0d4134-ab5d-471f-a786-99a313d20721.jpg",
     "Media/AI Slop 2/Amida",
-    "Media/AI Slop 2/_cc92fa72-7ad6-4a19-94d6-7a519682e7d6.jpg",
-    "Media/AI Slop 2/_91628264-54dd-4c14-81c8-f715f2e90261.jpg",
     "Beings/Species/Pseudoneo.md",
     "Beings/Creatures/Pseudoneo/Songbird.md",
     "Beings/Creatures/Pseudoneo/Warped Angel.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/SC-AM.md",
     "Groupings/Factions/The Lavish Empire.md",
     "Groupings/Amida.md",
     "Twilit Rift.md",
     "Items/Weaponry/Cyphers.md",
     "Groupings/Factions/The Twilight.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Amida/Numerator.md",
     "TEMP; MIGRATION/Misc Ideas/01_SCP presence.md",
     "Realms/Utuw System/Schi/Heaugi.md",
     "Realms/Utuw System/Schi/Kynoly.md",
@@ -273,7 +272,6 @@
     "Structure/TO-DO/How Dying ceased.md",
     "Theophagy.md",
     "Structure/Curse of the Undead.md",
-    "APAS Ltd..md",
     "Media/AI Slop 2/Tellurion",
     "Media/AI Slop 2/Fountainhead",
     "Media/AI Slop 2",
