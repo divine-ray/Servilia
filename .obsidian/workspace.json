@@ -54,8 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f10fecf149c3064f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Court of Storms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Twilit Rift.md",
+                "file": "Court of Storms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Twilit Rift.md",
+                "file": "Court of Storms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Twilit Rift.md"
+                "file": "Court of Storms.md"
               }
             }
           },
@@ -230,24 +243,31 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2538ba7161f91c26",
+  "active": "f10fecf149c3064f",
   "lastOpenFiles": [
-    "Media/AI Slop 2/_1905b03f-0a9d-4096-9d63-ac36ee8c4839.jpg",
-    "Media/AI Slop 2/_954deb17-a5bc-4925-9b07-63aaf41fa985.jpg",
-    "Media/AI Slop 2/_300ea722-3a7d-432e-b45b-c8a8dcbb12e9.jpg",
-    "Media/AI Slop 2/_276b89a9-752f-476a-b6fa-2b8093bc1be2.jpg",
-    "Media/AI Slop 2/_46bd6828-0853-4dc4-9d67-d969c5244687.jpg",
-    "Media/AI Slop 2/_e7d7a0ff-5166-4989-867c-77e7bca19ac7.jpg",
-    "Media/AI Slop 2/_9ac2cbb7-24d4-441c-9deb-f1e3fe182a0f.jpg",
-    "Media/AI Slop 2/_f85bff2c-3e35-42b1-b11e-97b3804606e2.jpg",
-    "Media/AI Slop 2/_b2a4b62f-dcb9-4c63-b2b6-dc9e381eec67.jpg",
-    "Media/AI Slop 2/_8f1272db-1c47-457b-9702-7c566147863e.jpg",
-    "Media/AI Slop 2/_a598e0c0-318d-4593-80e8-4af71ba30706.jpg",
-    "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/SC-AM.md",
+    "Media/AI Slop 2/Landscapes and scenery/_ddac5578-0ca9-4933-b74b-e1ab6437aa00.jpg",
+    "Media/AI Slop 2/Landscapes and scenery/_659950a9-7588-4be2-8718-c7c0f973e016.jpg",
+    "Media/AI Slop 2/Landscapes and scenery/_1326cb4c-651f-4630-8295-e2e4b5222122.jpg",
+    "Media/AI Slop 2/Landscapes and scenery/_a9ec795c-088c-40d6-bc39-407b78b24b5e.jpg",
+    "Media/AI Slop 2/Creatures/_300ea722-3a7d-432e-b45b-c8a8dcbb12e9.jpg",
+    "Media/AI Slop 2/Creatures/_46bd6828-0853-4dc4-9d67-d969c5244687.jpg",
+    "Media/AI Slop 2/Creatures/_e7d7a0ff-5166-4989-867c-77e7bca19ac7.jpg",
+    "Media/AI Slop 2/Creatures/_cc92fa72-7ad6-4a19-94d6-7a519682e7d6.jpg",
+    "Media/AI Slop 2/Creatures",
+    "Media/AI Slop 2/Neuer Ordner",
+    "Media/AI Slop 2/Landscapes and scenery/_f745af7d-7cfa-43d9-8bd8-73a40c589262.jpg",
+    "Media/AI Slop 2/Landscapes and scenery/_3a42138a-ea00-4108-a6be-a438d9c5fd3e.jpg",
+    "Media/AI Slop 2/Landscapes and scenery/_f57188ff-b124-4c50-8acd-8bb81d0ed27f.jpg",
+    "Media/AI Slop 2/Landscapes and scenery",
+    "Echoes.md",
+    "Diffused Light.md",
+    "Electricity.md",
+    "Untitled.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Areas/Amida/Numerator.md",
+    "Twilit Rift.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/SC-AM.md",
     "Groupings/Dwarves.md",
     "Media/AI Slop 2/Eldritch brand",
-    "Media/AI Slop 2/Neuer Ordner",
     "Media/AI Slop 2/Songbird",
     "Media/AI Slop 2/Amida",
     "Beings/Species/Pseudoneo.md",
@@ -255,7 +275,6 @@
     "Beings/Creatures/Pseudoneo/Warped Angel.md",
     "Groupings/Factions/The Lavish Empire.md",
     "Groupings/Amida.md",
-    "Twilit Rift.md",
     "Items/Weaponry/Cyphers.md",
     "Groupings/Factions/The Twilight.md",
     "TEMP; MIGRATION/Misc Ideas/01_SCP presence.md",
@@ -268,10 +287,6 @@
     "Items/Travel/Riftstones.md",
     "Structure/Stressors on Factions.md",
     "Beings/Creatures/Orb & Spire.md",
-    "Structure/Leaflet Map documentation.md",
-    "Structure/TO-DO/How Dying ceased.md",
-    "Theophagy.md",
-    "Structure/Curse of the Undead.md",
     "Media/AI Slop 2/Tellurion",
     "Media/AI Slop 2/Fountainhead",
     "Media/AI Slop 2",
@@ -283,8 +298,6 @@
     "Realms/Utuw System/Utuw System.sync-conflict-20231121-140053-QELEOCQ.canvas",
     "Structure/WIP or Projects",
     "Realms/Utuw System/Utuw System.canvas",
-    "Beings/Characters and People/Player Characters/salire.pdf",
-    "Beings/Characters and People/Player Characters/Pascal_Dai_Jin.pdf",
     "Realms/Planes insanity.canvas"
   ]
 }
