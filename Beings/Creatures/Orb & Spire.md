@@ -49,6 +49,6 @@ Assemble into a spire when approached, attacks when engaged.
 
 2d4-1 Atk blunt or bludgeoning damage per hit.
 
-Usually located around Druidical or otherwise nature magic places.
+Usually located around Druid-influenced or otherwise nature magic places.
 
 > Respawns

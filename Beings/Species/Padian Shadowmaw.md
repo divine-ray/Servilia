@@ -1,11 +1,8 @@
-
 ## Body
-
 This dragon features a elegant and short body with slender tail and neck. Their scales are primarily black but some areas are iridescent, markedly those which receive stress often, so on joints and flexible parts. Outside of those some areas have iridescence, I depended of stress, similar to erroring pigmentation. It takes about a year to replace all scales, including those which got stressed into iridescence (wear slowly changes them).
 
 This species has short powerful limbs with four digits on each foot, each featuring a short but retractable claw, which, depending on age, vary from 30mm (newborn to toddler) to 50mm (elder) over around 90mm (mid aged adult).  
 They are capable of exhaling a narcotic gas, which might act as hallucinogenic agent but is deadly in higher dose (roughly more than ¼ of the lung volume). The potency scales with age but drops when becoming elderly.
-
 ## Wings
 
 Their wings are set up in pairs of two per side. Those do not, unlike others, have a main structural bone but instead a membrane spanning over a network of fragile thin gristle and sinew. The structural support is carried out by having few lines of the aforementioned network thickened to support the construct. Although rounded at the end, a very sharp talon tangents off each wing. There are three total spots/lines where the individual can bend it without taking damage: in a lightly bent line from top to bottom and on each third of the wing. This species uses folding points to coordinate the simultaneous movement of all wings to avoid collision with itself, giving it the ability to hover for prolonged time. All wings have their origin on a triangular bulged section of the body.
@@ -16,7 +13,7 @@ This section also serves as main air intake method by loose segments covering th
 
 Each spine grows out the back into a arched thin bone which has a membrane connecting to the base of the next one. Those membrane protrusions are unfoldable on will and the membrane can shift color slightly. Because every spine segment has one of those, they run from the head to down to the tail end. Spread throughout their body is a network of sensory clusters which have a different texture, structure and color. Those are dotted regularly on the sides and joints of leg and wing.  It’s important to know that interacting with those clusters in any way gets taken into active consciousness much faster and way more intense. It is possible to generate arousal if they are hit in the right way, based on personal preference.
 
-## Head and eyes
+## Head and Eyes
 
 This species’ head is wide and arrow-shaped but round on corners and tip.
 

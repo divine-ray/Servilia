@@ -7,14 +7,14 @@
 - [x] `[[Lunar Mangroves]]`
 - military forces of ancients, sepulchre, etc. 
 - [x] `[[Liches]]`
-- [ ] [[Before the First Era]] 
+- [ ] `[[Before the First Era]] `
 	- [x] creation myth
 	- [ ] war of mekhane v Yaldabaoth
 	- [ ] His Divine Reassembly
 ### [[The First Era]]:
 - [x] Details and polish of ``[[Syksa, Lavish Capital]]`
 - [ ] [[History of Sepulchre and the Faceless|History of Sepulchre and the Faceless]]
-- [ ] [[How Dying ceased]]
+- [ ] `[[How Dying ceased]]`
 - [ ] Pogrom & genocide upon Lavish and Varuú, [[Fall of the Lavish]]
 ### [[The Second Era]]:
 - ### Thylyist
@@ -22,7 +22,7 @@
 		- [ ]  sentinels
 	- [ ] His Divine Reassembly
 	- [ ] ~~Church of the broken God~~ Mekhanites
-		- [ ] [[Citadel of the Gear]]
+		- [ ] `[[Citadel of the Gear]]`
 - [x] [[Lost City of the Ninth Forest|Tombstone]], the City of Lost/Faceless
 - [ ] [[Witches]] in the ninth forest
 - [ ] [[Daeva Revolutionists]]
@@ -31,7 +31,7 @@
 - [ ] [[Duley and Port]]'s university district 
 	- [ ] also "the place where it's build" i.e. all the workshops, docks, etc. 
 ### [[The Third Era]]: 
-- [ ] [[APAS Ltd.]] : Continuation of Ommoran Arms in the third age, stands for Active/Passive Arms Systems Limited
+- [ ] `[[APAS Ltd.]]` : Continuation of Ommoran Arms in the third age, stands for Active/Passive Arms Systems Limited
 	corpo that has a decent stock and rule over the world, akin to militech from CP2077
 - [ ] [[Cyberware]] and stuff for biotech implants, third age
 - [ ] SICK Club
@@ -59,7 +59,7 @@
 - [x] [[Voidfish]]
 - [ ] Zutavan, the sea serpent water deity residing around the lunar mangroves
 	- will absolutely kill everyone who does not toll their respect by blowing a conch horn or paying tribute 
-- [x] [[Amphitheriid]] as mounts
+- [x] `[[Amphitheriid]] `as mounts
 - [ ] Juno (Was mad so he shot at the sun)
 - [ ] Maou'oru (that one faint dream of the weird railway beach dude)
 - [x] Evelyn as the stock character "prostitute with a heart of gold/wisdom"

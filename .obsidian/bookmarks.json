@@ -18,10 +18,29 @@
       "title": "Plots"
     },
     {
-      "type": "file",
-      "ctime": 1699711390715,
-      "path": "Structure/Things that Need Fixing.md",
-      "title": "Issues and flaws"
+      "type": "group",
+      "ctime": 1701165749644,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1699711390715,
+          "path": "Structure/Things that Need Fixing.md",
+          "title": "Issues and flaws"
+        },
+        {
+          "type": "file",
+          "ctime": 1701165704332,
+          "path": "Beings/Species/Liches.md",
+          "title": "Liches / Disrupting Twilit"
+        }
+      ],
+      "title": "TODO"
+    },
+    {
+      "type": "group",
+      "ctime": 1701165754434,
+      "items": [],
+      "title": "Structure"
     }
   ]
 }

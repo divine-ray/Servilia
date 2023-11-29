@@ -14,8 +14,9 @@ Adult individuals each fostered a colony of bacteria and other microbiological l
 
 It is speculated that they could only advance so far due to the water shielding them from the intense solar emission, which likely complicates [[Empire of Thylyist]] sciences.
 
-###### Old description
-*This eccentric wide-ranging kingdom was noted for its advanced ground travel and magic. It was destroyed by economic conflict, arcane misuse and nuclear warfare, leaving behind only artifical life and methods of transportation in a irradiated salt flat.*
+> [!Old]
+> *This eccentric wide-ranging kingdom was noted for its advanced ground travel and magic. It was destroyed by economic conflict, arcane misuse and nuclear warfare, leaving behind only artifical life and methods of transportation in a irradiated salt flat.*
+> 
 
 ## Technology and Magic
 The Lavish were responsible for building the [[Fountainhead]].
@@ -24,7 +25,7 @@ They wielded great arcane powers and bonded to the twilight, until they construc
 They engineered most of the [transport systems](Argrosy) in Thylyist and Servilia.
 
 ### Supercollider Antimatter power project::
-[[SC-AM]]
+![[SC-AM]]
 
 
 

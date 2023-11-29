@@ -1,24 +1,15 @@
 #Ancients #Areas 
 
-
-
-
-
-
-
-
 Area where transcended humanoids reside after getting contained by the [[Fountainhead]] through [[The Lavish Empire]]. 
 
-[[Hollow Mountains]]  were created as earthbound containment wall.
+[[Hollow Mountains]] were erected as earthbound containment wall.
 
  
 
-Three notable settlements:
+Three notable/major settlements:
 
--   Londo
-
--   Anor
-
--   New Londo
-
+-   [[Londo]]
     -   Now ruined
+-   [[Anor]]
+-   [[New Londo]]
+

@@ -10,4 +10,4 @@ The Eighth Day, He struck the World Below with Wonders and Terrors alike, blessi
 On the Ninth Day, God yielded. He caved in. Seeing His Word falter and die. 
 
 The Tenth Day marks the the End of God. 
-God Is Dead. 
+[God is dead. And We Killed Him. ](Theophagy)

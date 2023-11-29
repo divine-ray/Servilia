@@ -1,4 +1,4 @@
-What now is known as the Isle of Tankar was once the peak of a mountain long forgotten, from eras far away, before land has reared its body. 
+What now is known as the [[Isle of Tankar]] was once the peak of a mountain long forgotten, from eras far away, before land has reared its body. 
 The first Mekhanites, the first ones to Cast metal into Shape and Intent. Gears and spindles, refined to perfection, made to endure, dragging along their shambling self into the present. 
 
 Rarely their distant sounds can be heard. We consider this a omen of something to whittle itself into existence, as the Lost Bells never carry good omens. 

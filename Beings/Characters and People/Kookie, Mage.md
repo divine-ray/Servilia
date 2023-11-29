@@ -8,4 +8,4 @@ He is slowly being corrupted by the Chaos and Between leaking...
 
 Is already heavily weakened by the effects of the Void, and bound to perish soon, as he has passed all stages and is seen as terminal. 
 ***
-I have been around this peculiar place for a long time, and now, I must say, it was too long. The forces that loom here have tainted and twisted my fragile self. These foul energies will be my end, but I am not yet ready or willing to face my demise. 
+I have been around this peculiar place for a long time, and now, I must say, it was too long. The forces that loom here have tainted and twisted my fragile self. These foul energies will be my end, but I am not yet ready nor willing to face my demise. 

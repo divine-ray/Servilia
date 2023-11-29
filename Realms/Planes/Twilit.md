@@ -1,4 +1,4 @@
-Manifestation of Amarisk, coagulation of thought. Source of energies and potential to mages and spellcasters through deliberate actions. 
+Manifestation of [[Amarisk]], coagulation of thought. Source of energies and potential to mages and spellcasters through deliberate actions. 
 It is never seen, but its effects are always noticeable on the material plane. 
 
 Writhing in agony, tormented for eternity with its gross, rotting gore, with no healing in sight, all due to the [[Fountainhead]].
@@ -11,7 +11,7 @@ At the bottom of all layers lays [[The Void]].
  
 The entire Chaos caused by the dysfunctional FH is the Between leaking and seeping without any [[Fountainhead Catalyst|Catalyst and filtration]], and the twilight itself is indirectly amplifying the power of Between.
 
-[^1]: or genetic predisposition
+[^1]: or genetic predisposition.
 
 
 ![[fountainhead.png]]
