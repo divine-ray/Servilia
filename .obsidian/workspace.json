@@ -32,24 +32,32 @@
             }
           },
           {
-            "id": "25599f8a6de7e86a",
+            "id": "fdaeb19119910c57",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8850326251d73b35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groupings/Amida.md",
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile/Floating Islands.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fdaeb19119910c57",
+            "id": "8db0535b07e5ef57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Amida/Numerator.md",
+                "file": "Beings/Creatures/Pseudoneo/Songbird.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Court of Storms.md",
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile/Floating Islands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Court of Storms.md",
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile/Floating Islands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Court of Storms.md"
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile/Floating Islands.md"
               }
             }
           },
@@ -243,8 +251,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f10fecf149c3064f",
+  "active": "8850326251d73b35",
   "lastOpenFiles": [
+    "History/Story Snippets/Birth of Energy.md",
+    "Groupings/Factions/Spirits.md",
+    "Groupings/Factions/Empire of Wind.md",
+    "Beings/Creatures/Pseudoneo/Songbird.md",
+    "Groupings/Factions/Dragonkin.md",
+    "Faction Overview.md",
+    "Groupings/Amida.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Amida/Numerator.md",
+    "Twilit Rift.md",
+    "Court of Storms.md",
     "Media/AI Slop 2/Landscapes and scenery/_ddac5578-0ca9-4933-b74b-e1ab6437aa00.jpg",
     "Media/AI Slop 2/Landscapes and scenery/_659950a9-7588-4be2-8718-c7c0f973e016.jpg",
     "Media/AI Slop 2/Landscapes and scenery/_1326cb4c-651f-4630-8295-e2e4b5222122.jpg",
@@ -257,24 +275,19 @@
     "Media/AI Slop 2/Neuer Ordner",
     "Media/AI Slop 2/Landscapes and scenery/_f745af7d-7cfa-43d9-8bd8-73a40c589262.jpg",
     "Media/AI Slop 2/Landscapes and scenery/_3a42138a-ea00-4108-a6be-a438d9c5fd3e.jpg",
-    "Media/AI Slop 2/Landscapes and scenery/_f57188ff-b124-4c50-8acd-8bb81d0ed27f.jpg",
     "Media/AI Slop 2/Landscapes and scenery",
     "Echoes.md",
     "Diffused Light.md",
     "Electricity.md",
     "Untitled.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Amida/Numerator.md",
-    "Twilit Rift.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/SC-AM.md",
     "Groupings/Dwarves.md",
     "Media/AI Slop 2/Eldritch brand",
     "Media/AI Slop 2/Songbird",
     "Media/AI Slop 2/Amida",
     "Beings/Species/Pseudoneo.md",
-    "Beings/Creatures/Pseudoneo/Songbird.md",
     "Beings/Creatures/Pseudoneo/Warped Angel.md",
     "Groupings/Factions/The Lavish Empire.md",
-    "Groupings/Amida.md",
     "Items/Weaponry/Cyphers.md",
     "Groupings/Factions/The Twilight.md",
     "TEMP; MIGRATION/Misc Ideas/01_SCP presence.md",
@@ -282,11 +295,6 @@
     "Realms/Utuw System/Schi/Kynoly.md",
     "Realms/Utuw System/Schi/Schi.md",
     "Realms/Utuw System/Schi/Opar.md",
-    "Realms/Utuw System/Three Moons.md",
-    "Structure/TO-DO/Davern Kingdom ⧣TODO.md",
-    "Items/Travel/Riftstones.md",
-    "Structure/Stressors on Factions.md",
-    "Beings/Creatures/Orb & Spire.md",
     "Media/AI Slop 2/Tellurion",
     "Media/AI Slop 2/Fountainhead",
     "Media/AI Slop 2",
