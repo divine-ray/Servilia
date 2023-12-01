@@ -1,6 +1,7 @@
 A glass-clear rock, partially encrusted with regular stone. 
 A few impurities and cracks stain the sight, which seem to shift by themselves.
-It is capable of absorbing the final echo of someone’s consciousness in the case of a ultimate demise, or used to chain a spirit to the material plane for easy recall. 
+It is capable of absorbing the final echo of someone’s consciousness in the case of a ultimate demise.
+It can also be used to chain a [spirit](Spirits) to the material plane for easy recall, or be a beacon and navigation aid to a voluntarily contracted spirit. 
 
 Starting item to those with a bound familiar
 ##### To summon the bound spirit

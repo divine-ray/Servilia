@@ -11,7 +11,7 @@
 	- [x] creation myth
 	- [ ] war of mekhane v Yaldabaoth
 	- [ ] His Divine Reassembly
-### [[The First Era]]:
+### `[[The First Era]]`:
 - [x] Details and polish of ``[[Syksa, Lavish Capital]]`
 - [ ] [[History of Sepulchre and the Faceless|History of Sepulchre and the Faceless]]
 - [ ] `[[How Dying ceased]]`
@@ -37,7 +37,7 @@
 - [ ] SICK Club
 - [ ] [[Amida]]
 	- [ ] Rough description of each sector, [[Like Obelisks, as far as another Realm]]
-	- [ ] History or rather how Amida rose from Thylyist, [[Talking 'bout a revolution]]
+	- [ ] History or rather how Amida rose from Thylyist, [[Talking 'bout a Revolution]]
 	- [x] Amidan Infrastructure and Utilities U.P.C. (unlimited professional corp.)
 		state-owned infrastructure and utilities Corp., contracting workers, etc.
 		legal loophole that grants amida itself some degree of freedom from the other corps ruling
@@ -56,7 +56,7 @@
 - [x] Devin's story 
 	- [ ] thingamabob expanding the funeral scene, possibly affiliated to tombstone ??? (since the lavish don't really boat)
 - [ ] OneM mad engineer guy, probably Duley resident
-- [x] [[Voidfish]]
+- [x] `[[Voidfish]]`
 - [ ] Zutavan, the sea serpent water deity residing around the lunar mangroves
 	- will absolutely kill everyone who does not toll their respect by blowing a conch horn or paying tribute 
 - [x] `[[Amphitheriid]] `as mounts
@@ -65,8 +65,8 @@
 - [x] Evelyn as the stock character "prostitute with a heart of gold/wisdom"
 ## Locations, Areas, etc
 - [ ] [[Scorched Acres]]
-- [x] [[Green Swale of Seven Spires]] in the ninth forest
-- [x] [[Ninth Forest]]
+- [x] `[[Green Swale of Seven Spires]]` in the ninth forest
+- [x] `[[Ninth Forest]]`
 	- [ ] forest of talking trees (dirty paws)
 - [ ] [[The Broken Orchestra]]
 - [x] Abyss (transition into the void/twilight)
@@ -75,7 +75,7 @@
 - [ ] Tankar Island (Lighthouse, tiny fishing village island)
 - [ ] caverns of the hollow mountains, ecosystem and creatures in it 
 - [x] Elemental Libraries and Archives of Force
-- [x] [[Chromatic Calderas]] addition of having a part of mekhane
+- [x] `[[Chromatic Calderas]]` addition of having a part of mekhane
 
 
 ## Species
@@ -181,9 +181,9 @@ perhaps rediscovery of lavish biotech merged with the arcane and tech resulting 
 
 The [[Black Parade]] as military for Sepulchre
 
-Cafe at the End of Time
+[[Café at the End of Time]]
 
-The Six Seals -> comets to moons 
+[[The Six Seals]] -> comets to moons 
 ## Random ass thoughts 
 (honestly, I'm proud of this work. wowee.) 07.09.23:: what a world we live in, eh? :P
 time to quit before we start the dialogues again- 

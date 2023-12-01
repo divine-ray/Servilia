@@ -1,7 +1,7 @@
 #Item #Weapon 
 %%Ballistic Spell Test, model/iteration 7%%
 
-*Origin: Lost.* The creators of this weapon succumbed to the [[Faceless|tooth of time]] and vanished from the face of earth. Only their exquisite craftsmanship in Magitech and weaponry remains. 
+*Origin: Lost.* The creators of this weapon succumbed to the [[Faceless|tooth of time]] and vanished from the face of earth. Only their exquisite craftsmanship in [[Arcane Engineering]] and weaponry remains. 
 Restorative work has revealed the company as "Ommoran Arms Weapons Systems".
 
 

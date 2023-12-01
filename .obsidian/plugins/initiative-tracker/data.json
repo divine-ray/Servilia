@@ -94,8 +94,8 @@
   "unconsciousId": "Unconscious",
   "version": [
     12,
-    2,
-    4
+    4,
+    2
   ],
   "canUseDiceRoll": false,
   "preferStatblockLink": false,

@@ -11,13 +11,16 @@ Their government is practically defunct. Instead, the religious elite ([[Followe
 ## [[Frisco Bay Confederation]]
 Conglomerate of various cities, situated in the [[Frisco Bay]].
 Originally founded by outcasts of Thylyist, who have been expelled due to ”heresy”[^1].
-They freed themselves off the religious constraints, and are thus advancing at steady pace. Current marvels of their craft involve [[Electricity]], the [[Development of Petrochemistry]] and [[Development of Printing]]. 
+They freed themselves off the religious constraints, and are thus advancing at steady pace. Current marvels of their craft involve [[Electricity]], the [[Development of Petrochemistry]] and [[Development of Printing]], all of which are conducted in [[Duley and Port]]
 Effectively the strongest, both economically and military, force, notably due to their intense naval operations at [[Brisburne]], and the extensive [[Servilian Railroad and Train Network]]. 
 
 [^1]:  Beliefs in more liberal economy, unrestrained science and technology and democracy. 
 
 ## [[Davern Kingdom]]
-
+A Kingdom residing to the rightmost upper quarter of the continent, being stuck in technological development due to their plethora of arcane assets and active use of magical arts. [[The Old King]] recently deceased and entered a deified state through folklore, but his corpse remains; sapient and aware, yet in eternal torment.  
+They harbour a notable [[Nølkā]] community, which has quite a impact on the local culture and such. 
 ## [[Nølkā]]/[[Ancients]]
-A religion concentrated into a artificial mountain valley mound, following the aftermath of the [[Nølkā-Mekhanite War]]. Originally a continent-spanning religious empire which worshipped the creation, mankind of flesh. They aspired to devour gods and obtain their power through [[Apotheosis]]. 
- 
+A religion concentrated into a artificial mountain valley mound, following the aftermath of the [[Nølkā-Mekhanite War]]. Originally a continent-spanning religious empire which worshipped the creation of flesh through devouring it and shaping it anew. They aspired to devour gods and obtain their power through [[Apotheosis]]. 
+
+## [[Sepulchre]]
+## [[Lavish]] (Extinct)

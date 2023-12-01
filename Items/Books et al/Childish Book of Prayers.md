@@ -1,5 +1,5 @@
 Excerpt One
-	We are the Children. The Children of the Flame. 
+	We are the Children. The [[Children of The Flame]]. 
 	The Flame...
 	Must live on.
 	How do we know? The heat tells us. The Heart... A being, a deity beyond, has sacrificed its core, for us, so that we spread the word, the heat. burn. BURN. **BURN THEM ALL.**
