@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "306f826472b7a098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beings/Characters and People/Katallja-Nâ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6c9fedb2a43719c1",
             "type": "leaf",
             "state": {
@@ -87,7 +99,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,11 +146,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 325.5
   },
   "right": {
     "id": "2e92bfb27bdd705f",
@@ -153,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Beings/Characters and People/Katallja-Nâ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Beings/Characters and People/Katallja-Nâ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +216,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Beings/Characters and People/Katallja-Nâ.md"
+              }
             }
           },
           {
@@ -234,12 +252,22 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "16b04f129a889b3b",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 340.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,20 +286,37 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "fdaeb19119910c57",
+  "active": "6200baee1ad91715",
   "lastOpenFiles": [
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Empire of Thylyist.md",
-    "Faction Overview.md",
-    "Saltwater Rain.md",
-    "Items/Wondrous and Wack/STOP! Box.md",
-    "Structure/Prophecies.md",
-    "History/Timeline Pivots/03_Repairing the Fountainhead.md",
-    "Structure/TO-DO/Phenomenon.md",
-    "Items/Wondrous and Wack/Polished Silver Mirror.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Lakehouse.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom/Davern Kingdom.md",
+    "Beings/Characters and People/The Old King.md",
+    "Structure/TO-DO/Ye' Good Olde TODO.sync-conflict-20231205-150217-QELEOCQ.md",
+    "Groupings/Amida.sync-conflict-20231205-150217-QELEOCQ.md",
+    "Structure/Prophecies.sync-conflict-20231205-150216-QELEOCQ.md",
+    "History/Return of Automatia.sync-conflict-20231205-150217-QELEOCQ.md",
+    "Structure/TO-DO/History of Sepulchre and the Faceless.sync-conflict-20231205-150217-QELEOCQ.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Lakehouse.sync-conflict-20231205-150220-QELEOCQ.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Amida/Numerator.sync-conflict-20231205-150220-QELEOCQ.md",
+    "Structure/Stressors on Factions.sync-conflict-20231205-150217-QELEOCQ.md",
+    "Twilit Rift.sync-conflict-20231205-150216-QELEOCQ.md",
+    "Universal Pantheon.sync-conflict-20231205-150217-QELEOCQ.md",
+    "Structure/Generator Snippets.sync-conflict-20231205-160228-6JNPT5F.md",
+    "History/Minor Quests/Good Times.sync-conflict-20231205-160228-6JNPT5F.md",
+    "Beings/Species/Liches.sync-conflict-20231205-160228-6JNPT5F.md",
+    "Groupings/Factions/The Lavish Empire.sync-conflict-20231205-160228-6JNPT5F.md",
+    "Groupings/Cults and Religions/Followers of Mekhane.sync-conflict-20231205-160228-6JNPT5F.md",
+    "Structure/WIP or Projects/~syncthing~Ignition events.md.tmp",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Automated Remains.sync-conflict-20231205-160228-6JNPT5F.md",
+    "Items/Artifacts/Eldritch Brand.sync-conflict-20231205-160227-6JNPT5F.md",
+    "Groupings/Factions/Ancients.sync-conflict-20231205-160227-6JNPT5F.md",
+    "Argrosy.sync-conflict-20231205-160227-6JNPT5F.md",
+    "Beings/Creatures/Pseudoneo/Warped Angel.sync-conflict-20231205-160227-6JNPT5F.md",
+    "History/Story Snippets/Perishing.sync-conflict-20231205-160226-6JNPT5F.md",
+    "Realms/Planes/Twilit.sync-conflict-20231205-160226-6JNPT5F.md",
+    "Groupings/Dwarves.sync-conflict-20231205-160226-6JNPT5F.md",
+    "Beings/Creatures/Orb & Spire.sync-conflict-20231205-160226-6JNPT5F.md",
+    "Structure/WIP or Projects/~syncthing~Amarisk emission.md.tmp",
     "History/Really coarse timeline.canvas",
-    "History/Outdated Lore/Rough Timeline.md",
-    "History/Major Quests/The Word and Thought.md",
     "Media/AI Slop 2/Fountainhead 1/_02a9dfa3-45fa-48ef-bdb0-3840c7b4003b.jpg",
     "Media/Logos and Heraldry/armoria_2022-12-03-23-43-45.svg",
     "Media/image001.jpg",
@@ -282,21 +327,6 @@
     "Media/Maps/Cosmology of Planes v1.png",
     "Media/First Vault 10.png",
     "Media/First Vault 10 (player).png",
-    "Prime Clash of Nolka vs Mekhanites.md",
-    "Possible reasons why Schi-Ut-Pula vanished.md",
-    "Modifications to Werewolves.md",
-    "TEMP; MIGRATION/DM internal things/02_Attack values.md",
-    "Apotheosis.md",
-    "Groupings/Dwarves.md",
-    "Twilit Rift.md",
-    "Archive of Old.md",
-    "Corse.md",
-    "Items/Wondrous and Wack/Soulstone.md",
-    "Controversies within Nolka.md",
-    "Realms/Planes/Twilit.md",
-    "History/Outdated Lore/Thylyist Lore.md",
-    "History/Outdated Lore/Lavish Lore.md",
-    "Groupings/Organisations/The Zubin Society.md",
     "Forces.canvas",
     "Media/AI Slop 2/Creatures",
     "Media/AI Slop 2/Neuer Ordner",
@@ -306,14 +336,12 @@
     "Media/AI Slop 2/Amida",
     "Media/AI Slop 2/Tellurion",
     "Media/AI Slop 2/Fountainhead",
-    "Media/AI Slop 2",
     "History/Really coarse timeline.sync-conflict-20231121-140056-QELEOCQ.canvas",
     "History/Really coarse timeline.sync-conflict-20231121-130049-QELEOCQ.canvas",
     "Realms/Planes insanity.sync-conflict-20231121-140051-QELEOCQ.canvas",
     "Realms/Planes insanity.sync-conflict-20231121-130049-QELEOCQ.canvas",
     "Realms/Utuw System/Utuw System.sync-conflict-20231121-130049-QELEOCQ.canvas",
     "Realms/Utuw System/Utuw System.sync-conflict-20231121-140053-QELEOCQ.canvas",
-    "Structure/WIP or Projects",
     "Realms/Utuw System/Utuw System.canvas",
     "Realms/Planes insanity.canvas"
   ]
