@@ -16,25 +16,78 @@
             }
           },
           {
-            "id": "dc3c7bf9ad47ceb0",
+            "id": "6c9fedb2a43719c1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Faction Overview.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "a0513c0d8e5c04f2",
+            "id": "fdb137c300535e9a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Media/AI Slop 2/Fountainhead 1/_2b54b47c-5f5a-4aec-a25b-76cb43efc0f6.jpg"
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Empire of Thylyist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4e7260332f24af8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Saltwater Rain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4346bc6ff9c8f290",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Timeline Pivots/03_Repairing the Fountainhead.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae0083ef5db69007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Major Quests/The Word and Thought.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97529a794f858632",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Structure/Prophecies.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 209.5
   },
   "right": {
     "id": "2e92bfb27bdd705f",
@@ -100,7 +153,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/AI Slop 2/Fountainhead 1/_2b54b47c-5f5a-4aec-a25b-76cb43efc0f6.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media/AI Slop 2/Fountainhead 1/_2b54b47c-5f5a-4aec-a25b-76cb43efc0f6.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +200,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Media/AI Slop 2/Fountainhead 1/_2b54b47c-5f5a-4aec-a25b-76cb43efc0f6.jpg"
-              }
+              "state": {}
             }
           },
           {
@@ -209,8 +258,20 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "bd431d2fdf9c60e6",
+  "active": "fdaeb19119910c57",
   "lastOpenFiles": [
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Empire of Thylyist.md",
+    "Faction Overview.md",
+    "Saltwater Rain.md",
+    "Items/Wondrous and Wack/STOP! Box.md",
+    "Structure/Prophecies.md",
+    "History/Timeline Pivots/03_Repairing the Fountainhead.md",
+    "Structure/TO-DO/Phenomenon.md",
+    "Items/Wondrous and Wack/Polished Silver Mirror.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Lakehouse.md",
+    "History/Really coarse timeline.canvas",
+    "History/Outdated Lore/Rough Timeline.md",
+    "History/Major Quests/The Word and Thought.md",
     "Media/AI Slop 2/Fountainhead 1/_02a9dfa3-45fa-48ef-bdb0-3840c7b4003b.jpg",
     "Media/Logos and Heraldry/armoria_2022-12-03-23-43-45.svg",
     "Media/image001.jpg",
@@ -221,11 +282,9 @@
     "Media/Maps/Cosmology of Planes v1.png",
     "Media/First Vault 10.png",
     "Media/First Vault 10 (player).png",
-    "Media/Francene - Deorum character c5va5mj8j09mtbe.jpeg",
     "Prime Clash of Nolka vs Mekhanites.md",
     "Possible reasons why Schi-Ut-Pula vanished.md",
     "Modifications to Werewolves.md",
-    "Saltwater Rain.md",
     "TEMP; MIGRATION/DM internal things/02_Attack values.md",
     "Apotheosis.md",
     "Groupings/Dwarves.md",
@@ -235,19 +294,10 @@
     "Items/Wondrous and Wack/Soulstone.md",
     "Controversies within Nolka.md",
     "Realms/Planes/Twilit.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Empire of Thylyist.md",
     "History/Outdated Lore/Thylyist Lore.md",
     "History/Outdated Lore/Lavish Lore.md",
     "Groupings/Organisations/The Zubin Society.md",
-    "Items/Artifacts/Red Telephone.md",
-    "Structure/Prophecies.md",
-    "Items/Books et al/Childish Book of Prayers.md",
-    "Faction Overview.md",
-    "First Party.md",
     "Forces.canvas",
-    "HTML Spell circle lmao.md",
-    "README.md",
-    "Theophagy.md",
     "Media/AI Slop 2/Creatures",
     "Media/AI Slop 2/Neuer Ordner",
     "Media/AI Slop 2/Landscapes and scenery",

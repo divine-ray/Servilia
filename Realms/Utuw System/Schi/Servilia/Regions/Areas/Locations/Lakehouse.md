@@ -16,6 +16,8 @@ Closer inspection reveals that every material is in a similar state to the found
 
 
 Built next and over to a small lake, with wooden struts and stone pillars holding the twined building stable. 
+
+This place is so familiar, yet feels wrong in its entirety; as if wood, rock and loam fused and grew together anew. Yet it is missing pieces: bricks gone, entire rocks missing, logs growing into trees where lumber would be. 
 ***
 Across the sea, from over the pier reaching into the water, I spot a tall figure in a boat, seemingly adrift. They are one to carry a weighty bag, through which i spot movement. At the blink of my eyes the boat is set asunder, an i fear the well-being of this man and his ominous cargo. I long to reach to him, lest I cannot, for he is leagues away. 
 
