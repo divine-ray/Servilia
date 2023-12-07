@@ -8,3 +8,13 @@ General population is aware of the rough task of the numerators but they don't r
 
 As each Numerator is sentient, they shifted and changed their structure to reflect and express themselves, which led to the erratic and organic looks of Amida. 
 Each Sector/Numerator has grown and accustomed to a specific populace group or thematic scheme which correlates to their personality. 
+
+## Sectors, as divided by Numerator:
+- [[Amida-7]] is the government/corporate HQ and management
+	Greed
+- [[Amida-8]]  is the synth^[read:android, pseudoneo] ghetto
+	Avarice
+- [[Amida-9]] is the Space elevator and [[Argrosy|Mass transit hub.]]
+	Icarus
+- [[Amida-11]] is the accumulation sector of furries. 
+	Lust

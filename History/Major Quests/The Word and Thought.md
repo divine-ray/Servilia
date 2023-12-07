@@ -18,7 +18,7 @@
 -   Retell their story to one of the nature-affine deities.
     -   Present the Faulty Rope.
 -   Get the Seed of Thought.
--   Present the Seed to the Two Hangmen.
+-   Present the Seed to the [[Two Hangmen]].
 ##### *Optional:*
 
 -   Plant the seed in a central area of Thylyist, causing the Daeva Revolution to take place.

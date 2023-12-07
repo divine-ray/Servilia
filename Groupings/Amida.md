@@ -20,16 +20,9 @@ Poverty is common, and food is scarce.
 Amida as megacity has lifted the Thylyian dogma against non-human[^1] sentience, but ghettos and racism is still a daily issue and major source of criminality.
 [[Varuú]] people still reside in their busted society in the Ninth Forest, but some deviants (Dark elves?) moved to Amida.
 
-#### [[Numerator]]s
-Linked to external page.
+#### ![[Numerator]]
 
 Furries (sapient anthropomorphic humanoids) exist in [[Amida-8]] due to a leak that involved the full genome of all major humanoid species and instructions to modify it, which led to a subset of rippers that went all-in and modified humanoid genomes, partly resulting in abominations, but also creating furries.
-
-#### Amida is divided into sectors based on numerator:
-- [[Amida-8]]  is the synth^[read:android, pseudoneo] ghetto
-- [[Amida-7]] is the government/corporate HQ and management
-- [[Amida-9]] is the Space elevator and [[Argrosy|Mass transit hub.]]
-- [[Amida-11]] is the accumulation sector of furries. 
 
 Addresses are given in XYZ coordinates of that sector relative to the numerator core (0|0|0)
 

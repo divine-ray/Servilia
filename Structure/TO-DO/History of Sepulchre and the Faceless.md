@@ -1,11 +1,11 @@
 # #TODO 
 
-The [[Faceless]] now haunting/residing within Tombstone are the successful [[Varuú|descendants]] of Lavish Pseudoneo technology applied on dragonborn, given twilight powers.
+The [[Faceless]] now haunting/residing within [[Lost City of the Ninth Forest|Tombstone]] are the withered remains from [[Varuú|descendants]] of a highly ambitious project, that being the combination of Dragonborne and Pseudoneo technology.
 
 
 ## Downfall
 *[[Fall of the Lavish|During the end of the First Era]]*
-The [[Fall|carnage]] brought upon them[^1] caused the few surviving citizens to go insane from the trauma, tearing themselves and their buildings to shreds. This caused the orderly disassembly of Tombstone. 
+The [[Fall|carnage]] brought upon them[^1] caused the few surviving citizens to go insane from the trauma, tearing their local twilit continuum apart. This caused the orderly disassembly of Tombstone, as their buildings were infused with twilit and Amarisk. 
 > [!INFO]- outdated 
 > basically the faceless now inhibiting Tombstone were somehow affiliated to the immense pool of knowledge that the archive of old (thylyist + lavish) is/was
 > this made them capable of producing the [[OA-WS BST Model 7ⁿ]] amongst other now-legendary arms and tools

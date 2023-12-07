@@ -8,67 +8,111 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2538ba7161f91c26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Twilit Rift.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81d811371484d517",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groupings/Dwarves.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25599f8a6de7e86a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groupings/Amida.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fdaeb19119910c57",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "306f826472b7a098",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Amida/Numerator.md",
+                "file": "Beings/Characters and People/Katallja-Nâ.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f10fecf149c3064f",
+            "id": "6c9fedb2a43719c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Court of Storms.md",
+                "file": "Faction Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdb137c300535e9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Empire of Thylyist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4e7260332f24af8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Saltwater Rain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4346bc6ff9c8f290",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Timeline Pivots/03_Repairing the Fountainhead.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae0083ef5db69007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Major Quests/The Word and Thought.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97529a794f858632",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Structure/Prophecies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "565c400f0d3d0fb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -97,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,11 +158,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 325.5
   },
   "right": {
     "id": "2e92bfb27bdd705f",
@@ -134,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Court of Storms.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Court of Storms.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,24 +229,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Court of Storms.md"
+                "file": "conflict-files-obsidian-git.md"
               }
-            }
-          },
-          {
-            "id": "7179d1dd2766a500",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "c022bab375f38289",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
             }
           },
           {
@@ -219,19 +248,42 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "6200baee1ad91715",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "2244b59bc983925f",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "16b04f129a889b3b",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 340.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -240,63 +292,68 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "f10fecf149c3064f",
+  "active": "565c400f0d3d0fb2",
   "lastOpenFiles": [
-    "Media/AI Slop 2/Landscapes and scenery/_ddac5578-0ca9-4933-b74b-e1ab6437aa00.jpg",
-    "Media/AI Slop 2/Landscapes and scenery/_659950a9-7588-4be2-8718-c7c0f973e016.jpg",
-    "Media/AI Slop 2/Landscapes and scenery/_1326cb4c-651f-4630-8295-e2e4b5222122.jpg",
-    "Media/AI Slop 2/Landscapes and scenery/_a9ec795c-088c-40d6-bc39-407b78b24b5e.jpg",
-    "Media/AI Slop 2/Creatures/_300ea722-3a7d-432e-b45b-c8a8dcbb12e9.jpg",
-    "Media/AI Slop 2/Creatures/_46bd6828-0853-4dc4-9d67-d969c5244687.jpg",
-    "Media/AI Slop 2/Creatures/_e7d7a0ff-5166-4989-867c-77e7bca19ac7.jpg",
-    "Media/AI Slop 2/Creatures/_cc92fa72-7ad6-4a19-94d6-7a519682e7d6.jpg",
+    "conflict-files-obsidian-git.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom/Davern Kingdom.md",
+    "Beings/Characters and People/The Old King.md",
+    "Structure/TO-DO/Ye' Good Olde TODO.sync-conflict-20231205-150217-QELEOCQ.md",
+    "Groupings/Amida.sync-conflict-20231205-150217-QELEOCQ.md",
+    "Structure/Prophecies.sync-conflict-20231205-150216-QELEOCQ.md",
+    "History/Return of Automatia.sync-conflict-20231205-150217-QELEOCQ.md",
+    "Structure/TO-DO/History of Sepulchre and the Faceless.sync-conflict-20231205-150217-QELEOCQ.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Lakehouse.sync-conflict-20231205-150220-QELEOCQ.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Amida/Numerator.sync-conflict-20231205-150220-QELEOCQ.md",
+    "Structure/Stressors on Factions.sync-conflict-20231205-150217-QELEOCQ.md",
+    "Twilit Rift.sync-conflict-20231205-150216-QELEOCQ.md",
+    "Universal Pantheon.sync-conflict-20231205-150217-QELEOCQ.md",
+    "Structure/Generator Snippets.sync-conflict-20231205-160228-6JNPT5F.md",
+    "History/Minor Quests/Good Times.sync-conflict-20231205-160228-6JNPT5F.md",
+    "Beings/Species/Liches.sync-conflict-20231205-160228-6JNPT5F.md",
+    "Groupings/Factions/The Lavish Empire.sync-conflict-20231205-160228-6JNPT5F.md",
+    "Groupings/Cults and Religions/Followers of Mekhane.sync-conflict-20231205-160228-6JNPT5F.md",
+    "Structure/WIP or Projects/~syncthing~Ignition events.md.tmp",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Automated Remains.sync-conflict-20231205-160228-6JNPT5F.md",
+    "Items/Artifacts/Eldritch Brand.sync-conflict-20231205-160227-6JNPT5F.md",
+    "Groupings/Factions/Ancients.sync-conflict-20231205-160227-6JNPT5F.md",
+    "Argrosy.sync-conflict-20231205-160227-6JNPT5F.md",
+    "Beings/Creatures/Pseudoneo/Warped Angel.sync-conflict-20231205-160227-6JNPT5F.md",
+    "History/Story Snippets/Perishing.sync-conflict-20231205-160226-6JNPT5F.md",
+    "Realms/Planes/Twilit.sync-conflict-20231205-160226-6JNPT5F.md",
+    "Groupings/Dwarves.sync-conflict-20231205-160226-6JNPT5F.md",
+    "Structure/WIP or Projects/~syncthing~Amarisk emission.md.tmp",
+    "History/Really coarse timeline.canvas",
+    "Media/AI Slop 2/Fountainhead 1/_02a9dfa3-45fa-48ef-bdb0-3840c7b4003b.jpg",
+    "Media/Logos and Heraldry/armoria_2022-12-03-23-43-45.svg",
+    "Media/image001.jpg",
+    "Media/Automated remains artillery one.jpg",
+    "Media/Automated remains artillery two.jpg",
+    "Media/Maps/Cervilia 2023-09-14-12-38.png",
+    "Media/Cervilia 2023-09-14-12-38(1).png",
+    "Media/Maps/Cosmology of Planes v1.png",
+    "Media/First Vault 10.png",
+    "Media/First Vault 10 (player).png",
+    "Forces.canvas",
     "Media/AI Slop 2/Creatures",
     "Media/AI Slop 2/Neuer Ordner",
-    "Media/AI Slop 2/Landscapes and scenery/_f745af7d-7cfa-43d9-8bd8-73a40c589262.jpg",
-    "Media/AI Slop 2/Landscapes and scenery/_3a42138a-ea00-4108-a6be-a438d9c5fd3e.jpg",
-    "Media/AI Slop 2/Landscapes and scenery/_f57188ff-b124-4c50-8acd-8bb81d0ed27f.jpg",
     "Media/AI Slop 2/Landscapes and scenery",
-    "Echoes.md",
-    "Diffused Light.md",
-    "Electricity.md",
-    "Untitled.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Amida/Numerator.md",
-    "Twilit Rift.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/SC-AM.md",
-    "Groupings/Dwarves.md",
     "Media/AI Slop 2/Eldritch brand",
     "Media/AI Slop 2/Songbird",
     "Media/AI Slop 2/Amida",
-    "Beings/Species/Pseudoneo.md",
-    "Beings/Creatures/Pseudoneo/Songbird.md",
-    "Beings/Creatures/Pseudoneo/Warped Angel.md",
-    "Groupings/Factions/The Lavish Empire.md",
-    "Groupings/Amida.md",
-    "Items/Weaponry/Cyphers.md",
-    "Groupings/Factions/The Twilight.md",
-    "TEMP; MIGRATION/Misc Ideas/01_SCP presence.md",
-    "Realms/Utuw System/Schi/Heaugi.md",
-    "Realms/Utuw System/Schi/Kynoly.md",
-    "Realms/Utuw System/Schi/Schi.md",
-    "Realms/Utuw System/Schi/Opar.md",
-    "Realms/Utuw System/Three Moons.md",
-    "Structure/TO-DO/Davern Kingdom ⧣TODO.md",
-    "Items/Travel/Riftstones.md",
-    "Structure/Stressors on Factions.md",
-    "Beings/Creatures/Orb & Spire.md",
     "Media/AI Slop 2/Tellurion",
     "Media/AI Slop 2/Fountainhead",
-    "Media/AI Slop 2",
     "History/Really coarse timeline.sync-conflict-20231121-140056-QELEOCQ.canvas",
     "History/Really coarse timeline.sync-conflict-20231121-130049-QELEOCQ.canvas",
     "Realms/Planes insanity.sync-conflict-20231121-140051-QELEOCQ.canvas",
     "Realms/Planes insanity.sync-conflict-20231121-130049-QELEOCQ.canvas",
     "Realms/Utuw System/Utuw System.sync-conflict-20231121-130049-QELEOCQ.canvas",
     "Realms/Utuw System/Utuw System.sync-conflict-20231121-140053-QELEOCQ.canvas",
-    "Structure/WIP or Projects",
     "Realms/Utuw System/Utuw System.canvas",
     "Realms/Planes insanity.canvas"
   ]
