@@ -1,6 +1,7 @@
 #Faction   #locations 
 
 An autocratic civilisation of winged, [sentient beings](Songbird), residing in the [[Northern Reaches]] and the [[Crevice Canyons]]. Certainly distinct from [Songbirds](Songbird) and self-distinguished from the [[Avian Renegades]], these creatures adapted and modified themselves towards ideal lethality and efficiency. 
+Once within the families of songbirds, these extremes-seeking outcasts changed and turned themselves towards the harsh, brutish wilderness. 
 
 They're extremely agile hunters, and are cultured as such. Due to the nature of their home, they're virtually unable to leave their home due to perfect adaptation to their realm.
 

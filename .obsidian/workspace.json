@@ -98,9 +98,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a2c0c9b5ffcf70f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mekhane.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "024f4de1bd38cae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Horn of Blizzards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60a51057d8ad98b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Groupings/Factions/Empire of Winds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -167,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beings/Characters and People/Katallja-Nâ.md",
+                "file": "Mekhane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beings/Characters and People/Katallja-Nâ.md",
+                "file": "Mekhane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beings/Characters and People/Katallja-Nâ.md"
+                "file": "Mekhane.md"
               }
             }
           },
@@ -286,8 +322,14 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "6200baee1ad91715",
+  "active": "4a2c0c9b5ffcf70f",
   "lastOpenFiles": [
+    "Horn of Blizzards.md",
+    "Mekhane.md",
+    "Providence.md",
+    "Groupings/Factions/Empire of Winds.md",
+    "Structure/Prophecies.md",
+    "Beings/Characters and People/Katallja-Nâ.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom/Davern Kingdom.md",
     "Beings/Characters and People/The Old King.md",
     "Structure/TO-DO/Ye' Good Olde TODO.sync-conflict-20231205-150217-QELEOCQ.md",
@@ -309,12 +351,6 @@
     "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Automated Remains.sync-conflict-20231205-160228-6JNPT5F.md",
     "Items/Artifacts/Eldritch Brand.sync-conflict-20231205-160227-6JNPT5F.md",
     "Groupings/Factions/Ancients.sync-conflict-20231205-160227-6JNPT5F.md",
-    "Argrosy.sync-conflict-20231205-160227-6JNPT5F.md",
-    "Beings/Creatures/Pseudoneo/Warped Angel.sync-conflict-20231205-160227-6JNPT5F.md",
-    "History/Story Snippets/Perishing.sync-conflict-20231205-160226-6JNPT5F.md",
-    "Realms/Planes/Twilit.sync-conflict-20231205-160226-6JNPT5F.md",
-    "Groupings/Dwarves.sync-conflict-20231205-160226-6JNPT5F.md",
-    "Beings/Creatures/Orb & Spire.sync-conflict-20231205-160226-6JNPT5F.md",
     "Structure/WIP or Projects/~syncthing~Amarisk emission.md.tmp",
     "History/Really coarse timeline.canvas",
     "Media/AI Slop 2/Fountainhead 1/_02a9dfa3-45fa-48ef-bdb0-3840c7b4003b.jpg",
