@@ -57,50 +57,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saltwater Rain.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4346bc6ff9c8f290",
+            "id": "0f83acd86e251855",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Timeline Pivots/03_Repairing the Fountainhead.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae0083ef5db69007",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Major Quests/The Word and Thought.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97529a794f858632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Structure/Prophecies.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -166,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structure/Prophecies.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structure/Prophecies.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structure/Prophecies.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -285,47 +261,55 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "97529a794f858632",
+  "active": "0f83acd86e251855",
   "lastOpenFiles": [
+    "README.md",
     "conflict-files-obsidian-git.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom/Davern Kingdom.md",
-    "Beings/Characters and People/The Old King.md",
-    "Structure/TO-DO/Ye' Good Olde TODO.sync-conflict-20231205-150217-QELEOCQ.md",
-    "Groupings/Amida.sync-conflict-20231205-150217-QELEOCQ.md",
-    "Structure/Prophecies.sync-conflict-20231205-150216-QELEOCQ.md",
-    "History/Return of Automatia.sync-conflict-20231205-150217-QELEOCQ.md",
-    "Structure/TO-DO/History of Sepulchre and the Faceless.sync-conflict-20231205-150217-QELEOCQ.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Lakehouse.sync-conflict-20231205-150220-QELEOCQ.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Amida/Numerator.sync-conflict-20231205-150220-QELEOCQ.md",
+    "Saltwater Rain.md",
+    "History/Timeline Pivots/03_Repairing the Fountainhead.md",
+    "History/Major Quests/The Word and Thought.md",
+    "Beings/Gods and Deities/Mekhane.md",
+    "Structure/Prophecies.md",
+    "Structure/Digests/Major Plotlines.md",
+    "Items/Components, Ingredients/Inanistathine.md",
+    "Echoes.md",
+    "Horn of Blizzards.md",
+    "Untitled.md",
+    "Belisha Beacon.md",
+    "Universal Pantheon.md",
+    "Twilit Rift.md",
+    "TODO 2꞉ Electric Bogaloo.md",
+    "Theophagy.md",
+    "Theophagy or the Death of Divinity.md",
+    "Reliquary of False Promises.md",
+    "Possible reasons why Schi-Ut-Pula vanished.md",
+    "Possible reasons why Schi-Ut-Pula vanished.sync-conflict-20231121-130049-QELEOCQ.md",
+    "Possible reasons why Schi-Ut-Pula vanished.sync-conflict-20231121-140053-QELEOCQ.md",
+    "Structure/Stressors on Factions.sync-conflict-20231121-140054-QELEOCQ.md",
+    "Structure/Stressors on Factions.sync-conflict-20231121-130049-QELEOCQ.md",
+    "Structure/Stressors on Factions.md",
     "Structure/Stressors on Factions.sync-conflict-20231205-150217-QELEOCQ.md",
-    "Twilit Rift.sync-conflict-20231205-150216-QELEOCQ.md",
-    "Universal Pantheon.sync-conflict-20231205-150217-QELEOCQ.md",
-    "Structure/Generator Snippets.sync-conflict-20231205-160228-6JNPT5F.md",
-    "History/Minor Quests/Good Times.sync-conflict-20231205-160228-6JNPT5F.md",
-    "Beings/Species/Liches.sync-conflict-20231205-160228-6JNPT5F.md",
-    "Groupings/Factions/The Lavish Empire.sync-conflict-20231205-160228-6JNPT5F.md",
-    "Groupings/Cults and Religions/Followers of Mekhane.sync-conflict-20231205-160228-6JNPT5F.md",
+    "Media/Cervilia 2023-09-14-12-37.png",
+    "Media/Cervilia 2023-09-14-12-38.png",
+    "Media/craiyon_121622_towering_steampunk_cathedral_of_gears__with_tall_windows_and_made_from_marble_and_bra - Kopie.png",
+    "Media/craiyon_121622_towering_steampunk_cathedral_of_gears__with_tall_windows_and_made_from_marble_and_bra.png",
+    "Media/craiyon_120201_emergency_stop_button_in_nostalgic_brass_casing.png",
+    "Media/Fountainhead/_418b9a57-8994-4925-b57d-2ea6da534ed7.jpg",
+    "Media/Fountainhead/_9b435aaf-7c9c-423b-9d68-133dfd238b97.jpg",
+    "Media/Fountainhead/_02a9dfa3-45fa-48ef-bdb0-3840c7b4003b.jpg",
+    "Media/Fountainhead/_5efea364-4290-494b-b05e-f11ed1459563.jpg",
+    "Media/Fountainhead/_d3da1b44-fa62-44fd-822f-bf9d4367f06a.jpg",
+    "History/Really coarse timeline.sync-conflict-20231121-130049-QELEOCQ.canvas",
+    "History/Really coarse timeline.sync-conflict-20231121-140056-QELEOCQ.canvas",
+    "Realms/Planes insanity.sync-conflict-20231121-130049-QELEOCQ.canvas",
+    "Realms/Planes insanity.sync-conflict-20231121-140051-QELEOCQ.canvas",
+    "Realms/Utuw System/Utuw System.sync-conflict-20231121-130049-QELEOCQ.canvas",
+    "Realms/Utuw System/Utuw System.sync-conflict-20231121-140053-QELEOCQ.canvas",
+    "Media/Fountainhead",
+    "Structure/Digests",
     "Structure/WIP or Projects/~syncthing~Ignition events.md.tmp",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Automated Remains.sync-conflict-20231205-160228-6JNPT5F.md",
-    "Items/Artifacts/Eldritch Brand.sync-conflict-20231205-160227-6JNPT5F.md",
-    "Groupings/Factions/Ancients.sync-conflict-20231205-160227-6JNPT5F.md",
-    "Argrosy.sync-conflict-20231205-160227-6JNPT5F.md",
-    "Beings/Creatures/Pseudoneo/Warped Angel.sync-conflict-20231205-160227-6JNPT5F.md",
-    "History/Story Snippets/Perishing.sync-conflict-20231205-160226-6JNPT5F.md",
-    "Realms/Planes/Twilit.sync-conflict-20231205-160226-6JNPT5F.md",
-    "Groupings/Dwarves.sync-conflict-20231205-160226-6JNPT5F.md",
     "Structure/WIP or Projects/~syncthing~Amarisk emission.md.tmp",
     "History/Really coarse timeline.canvas",
-    "Media/AI Slop 2/Fountainhead 1/_02a9dfa3-45fa-48ef-bdb0-3840c7b4003b.jpg",
-    "Media/Logos and Heraldry/armoria_2022-12-03-23-43-45.svg",
-    "Media/image001.jpg",
-    "Media/Automated remains artillery one.jpg",
-    "Media/Automated remains artillery two.jpg",
-    "Media/Maps/Cervilia 2023-09-14-12-38.png",
-    "Media/Cervilia 2023-09-14-12-38(1).png",
-    "Media/Maps/Cosmology of Planes v1.png",
-    "Media/First Vault 10.png",
-    "Media/First Vault 10 (player).png",
     "Forces.canvas",
     "Media/AI Slop 2/Creatures",
     "Media/AI Slop 2/Neuer Ordner",
@@ -333,14 +317,6 @@
     "Media/AI Slop 2/Eldritch brand",
     "Media/AI Slop 2/Songbird",
     "Media/AI Slop 2/Amida",
-    "Media/AI Slop 2/Tellurion",
-    "Media/AI Slop 2/Fountainhead",
-    "History/Really coarse timeline.sync-conflict-20231121-140056-QELEOCQ.canvas",
-    "History/Really coarse timeline.sync-conflict-20231121-130049-QELEOCQ.canvas",
-    "Realms/Planes insanity.sync-conflict-20231121-140051-QELEOCQ.canvas",
-    "Realms/Planes insanity.sync-conflict-20231121-130049-QELEOCQ.canvas",
-    "Realms/Utuw System/Utuw System.sync-conflict-20231121-130049-QELEOCQ.canvas",
-    "Realms/Utuw System/Utuw System.sync-conflict-20231121-140053-QELEOCQ.canvas",
     "Realms/Utuw System/Utuw System.canvas",
     "Realms/Planes insanity.canvas"
   ]

@@ -1,6 +1,6 @@
 #Regions 
 
-The area of a slightly displaced polar cap. Home to the [[Empire of Wind]] and [[The Cold]].
+The area of a slightly displaced polar cap. Home to the [[Empire of Winds]] and [[The Cold]].
 
 Typically perpetually covered in snow and always arctic cold (ca. -20 to -40°C).
 
