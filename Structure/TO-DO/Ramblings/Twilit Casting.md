@@ -1,5 +1,9 @@
+This article is about the standardised ways and procedures of casting twilit, the magical force ever-present on the lands of Schi.
+The Twilit and Amarisk are ever-present, and oftentimes manifest themselves spontaneously in various phenomenon of a broad range. 
+Utilising Twilit by a sentient being requires quite some preparation and alteration to one’s body and soul, which makes for a high entry requirement. This keeps most, if not all, common folk away from weaving twilit, as few are willing to dedicate their entire life towards the ways of the weave. 
+The bodily modifications required such as implants are oftentimes disfiguring, yet necessary for those born without the [[gift]] of natural channelling.
 #### Gauntlet Spellcasting, Weaving
-1. Enable the implant to tap the twilit
+1. Enable [[the implant]] to tap the twilit
 2. Have the required conditions met for conducting twilit unscathed
     (you're causing a localised rift in spacetime in/on the implant)
 3. Channel the Twilit through your body, and optionally, additional conductors (wires, veins, etc.)
@@ -25,4 +29,6 @@ following tierlist (best to worst):
 - Inorganic
 	1. Minerals and solid sediments
 	2. Gems and Gemstones
-	3. Polished and cut Gem'stones
+	3. Polished and cut gems/gemstones
+	4. Refined, purified metals
+		Enchanted metals and alloys such as Ithildine and Inanisthine pose an exception to this, as their conductivity is artificially boosted, excelling among inorganic substances. 

@@ -8,3 +8,6 @@ The massive power vacuum on the spaces [[Beyond]] allowed [[New Gods]] to rise t
 On the flip side, the complete lack of direction allows [some people](Frisco%20Bay%20Confederation) to develop freely, stripping the shackles of the past and pushing onwards. 
 
 After the [[Nølkā]] feasted on all [flesh poppets](Corse) of the deities present, they considered themselves unstoppable, unaware of [[How Dying ceased|the]] [[Curse of the Undead|consequences]] nor the ever-lasting presence of the [[Old Gods]], who remain observant, yet lacking of their physical actors. Left to observe, but amused at the foolishness of humanity attempting to seize their powers. This has happened before, and will happen again. 
+
+
+[[Controversies within Nolka|But are we doing the right thing…?]]

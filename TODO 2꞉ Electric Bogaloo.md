@@ -1,7 +1,7 @@
 #Structure #TODO 
 the old one was getting too crammed for my own comfort so here we are
 
-i’m going to handle this more of a random brainstorming page than anything, for the time being
+i’m going to handle this more of a random drafting page than anything, for the time being
 
 # Charon
 The ferryman charon, he who transfers the souls of the deceased, was rendered unable to execute his job (somehow).
@@ -13,3 +13,7 @@ so i’m assuming it is in relation to god-became nolka in cooperation with a gr
 > A length of beard descends, uncombed, unclean;  
 > His eyes, like hollow furnaces on fire;  
 > A girdle, foul with grease, binds his obscene attire.[15](https://en.wikipedia.org/wiki/Charon#cite_note-15)
+
+# [[SICK]]
+The club-brothel-community in amida-8, harbouring a very lax and liberal group of mutually-understanding nymphomaniacs and similar odd folks. primarily catering towards kinky fur folk and synth life. 
+Ran by [[Evelyn]] 

@@ -6,6 +6,6 @@
   "version": "0.6.1",
   "minAppVersion": "1.2.8",
   "description": "Rename, merge, toggle, and search tags from the tag pane",
-  "fundingUrl": "https://dirtsimple.org/tips/tag-wrangler",
-  "isDesktopOnly": false
+  "isDesktopOnly": false,
+  "fundingUrl": "https://dirtsimple.org/tips/tag-wrangler"
 }

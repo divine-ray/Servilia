@@ -1,8 +1,12 @@
 #Thylyist #Religion #locations  
 
 The main religious building in [[Empire of Thylyist]], sainted to Gear and Cogwork.
-Amongst the earliest buildings in Thylyist, dating back to the First Era. Due to this, it has gone through many reiterations, each one bigger and more imposing than before. 
-Closely related to Earthen Churches, as the main building aboveground features a monumental roofed space, filled with stylised mechanical components.
+Amongst the earliest buildings in Thylyist, dating back to the First Era. 
+
+Historical studies conducted in secret suggest that the citadel and the surrounding buildings originally functioned as tactical retreat and bunker installation to safeguard their arsenal and functional modules of Mekhane. Especially the wide-spanning [[Catacombs]] are heavily reinforced, as to withstand aeons of war raging above ground.
+Due to this, it has gone through many reiterations, each one bigger and more imposing than before. 
+Closely related to Earthen Churches, as the main building aboveground features a monumental roofed space, filled with stylised, yet functional, mechanical components.
+
 
 Extends underground as well, though those areas are not available for ordinary citizens or worshippers. 
 
