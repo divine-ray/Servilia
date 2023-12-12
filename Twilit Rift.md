@@ -4,5 +4,6 @@ Reaching into it makes you shiver, your hand and arm immersed in a conflicting, 
 A state of what ever was, never is, and always be, left unseen from your mortal eyes. 
 Underneath, the whimpers and shrouded screams of torment, from the entity which bears this wound. 
 Inconceivable concepts emanate from nowhere, folding themselves inside out, becoming substance, just to vanish.
-Nefarious thinking puts a end to this; makes it vanish. But is that true? Or are you cheating yourself?
-Some seem to bear a memory of a distant place, almost tangible, in reach. Wouldn't it be nice, to manifest a memory and be there?
+Nefarious thinking puts ends to this; makes it vanish. But is that true? Or are you cheating yourself?
+Some seem to bear a memory of a distant place, almost tangible, in reach. Wouldn't it be nice, to manifest a memory and be there? 
+So close, yet so far, as if it swings back and forth, like a pendulum. 
