@@ -16,55 +16,43 @@
             }
           },
           {
-            "id": "306f826472b7a098",
+            "id": "11e01f3ac0261eb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beings/Characters and People/Katallja-Nâ.md",
+                "file": "Beings/Gods and Deities/Fear and Hunger.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6c9fedb2a43719c1",
+            "id": "c6d0e7b75844c3f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faction Overview.md",
+                "file": "Groupings/Factions/Thylyian/Thylyian Military.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fdb137c300535e9a",
+            "id": "1cfa59aca2ccd9e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Empire of Thylyist.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4e7260332f24af8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Realms/Planes/Twilit.md",
+                "file": "Structure/References.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -130,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Realms/Planes/Twilit.md",
+                "file": "Beings/Gods and Deities/Fear and Hunger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Realms/Planes/Twilit.md",
+                "file": "Beings/Gods and Deities/Fear and Hunger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Realms/Planes/Twilit.md"
+                "file": "Beings/Gods and Deities/Fear and Hunger.md"
               }
             }
           },
@@ -249,54 +238,48 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a4e7260332f24af8",
+  "active": "11e01f3ac0261eb7",
   "lastOpenFiles": [
+    "Groupings/Factions/Thylyian/Thylyian Military.md",
+    "Structure/Prophecies.md",
+    "Structure/References.md",
     "README.md",
     "conflict-files-obsidian-git.md",
-    "Saltwater Rain.md",
-    "History/Timeline Pivots/03_Repairing the Fountainhead.md",
-    "History/Major Quests/The Word and Thought.md",
-    "Beings/Gods and Deities/Mekhane.md",
-    "Structure/Prophecies.md",
-    "Structure/Digests/Major Plotlines.md",
-    "Items/Components, Ingredients/Inanistathine.md",
-    "Echoes.md",
+    "Providence.md",
+    "Providence.sync-conflict-20231212-122937-I3B2N7K.md",
     "Horn of Blizzards.md",
-    "Untitled.md",
-    "Belisha Beacon.md",
-    "Universal Pantheon.md",
-    "Twilit Rift.md",
-    "TODO 2꞉ Electric Bogaloo.md",
-    "Theophagy.md",
-    "Theophagy or the Death of Divinity.md",
-    "Reliquary of False Promises.md",
-    "Possible reasons why Schi-Ut-Pula vanished.md",
-    "Possible reasons why Schi-Ut-Pula vanished.sync-conflict-20231121-130049-QELEOCQ.md",
-    "Possible reasons why Schi-Ut-Pula vanished.sync-conflict-20231121-140053-QELEOCQ.md",
-    "Structure/Stressors on Factions.sync-conflict-20231121-140054-QELEOCQ.md",
-    "Structure/Stressors on Factions.sync-conflict-20231121-130049-QELEOCQ.md",
-    "Structure/Stressors on Factions.md",
-    "Structure/Stressors on Factions.sync-conflict-20231205-150217-QELEOCQ.md",
-    "Media/Cervilia 2023-09-14-12-37.png",
-    "Media/Cervilia 2023-09-14-12-38.png",
-    "Media/craiyon_121622_towering_steampunk_cathedral_of_gears__with_tall_windows_and_made_from_marble_and_bra - Kopie.png",
-    "Media/craiyon_121622_towering_steampunk_cathedral_of_gears__with_tall_windows_and_made_from_marble_and_bra.png",
-    "Media/craiyon_120201_emergency_stop_button_in_nostalgic_brass_casing.png",
-    "Media/Fountainhead/_418b9a57-8994-4925-b57d-2ea6da534ed7.jpg",
-    "Media/Fountainhead/_9b435aaf-7c9c-423b-9d68-133dfd238b97.jpg",
-    "Media/Fountainhead/_02a9dfa3-45fa-48ef-bdb0-3840c7b4003b.jpg",
-    "Media/Fountainhead/_5efea364-4290-494b-b05e-f11ed1459563.jpg",
-    "Media/Fountainhead/_d3da1b44-fa62-44fd-822f-bf9d4367f06a.jpg",
-    "History/Really coarse timeline.sync-conflict-20231121-130049-QELEOCQ.canvas",
-    "History/Really coarse timeline.sync-conflict-20231121-140056-QELEOCQ.canvas",
-    "Realms/Planes insanity.sync-conflict-20231121-130049-QELEOCQ.canvas",
-    "Realms/Planes insanity.sync-conflict-20231121-140051-QELEOCQ.canvas",
-    "Realms/Utuw System/Utuw System.sync-conflict-20231121-130049-QELEOCQ.canvas",
-    "Realms/Utuw System/Utuw System.sync-conflict-20231121-140053-QELEOCQ.canvas",
-    "Media/Fountainhead",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom/Davern Kingdom.sync-conflict-20231212-123011-I3B2N7K.md",
+    "Groupings/Factions/Empire of Winds.sync-conflict-20231212-123004-I3B2N7K.md",
+    "Structure/Digests/Major Plotlines.md",
+    "Structure/Digests/Differences Regarding Factions.md",
+    "Structure/Digests/Stressors on Factions.md",
     "Structure/Digests",
+    "Reliquary of False Promises.md",
+    "Media/craiyon_121622_towering_steampunk_cathedral_of_gears__with_tall_windows_and_made_from_marble_and_bra.png",
+    "Media/craiyon_121622_towering_steampunk_cathedral_of_gears__with_tall_windows_and_made_from_marble_and_bra - Kopie.png",
+    "Media/craiyon_120201_emergency_stop_button_in_nostalgic_brass_casing.png",
+    "Media/Fountainhead/_2b54b47c-5f5a-4aec-a25b-76cb43efc0f6.jpg",
+    "Media/Fountainhead/_418b9a57-8994-4925-b57d-2ea6da534ed7.jpg",
+    "Media/Fountainhead/_d3da1b44-fa62-44fd-822f-bf9d4367f06a.jpg",
+    "Media/Fountainhead/_9b435aaf-7c9c-423b-9d68-133dfd238b97.jpg",
+    "Media/Fountainhead/_5efea364-4290-494b-b05e-f11ed1459563.jpg",
+    "Media/Fountainhead/_26b5db64-cee3-470e-8b2f-2c751afd7426.jpg",
+    "Media/Fountainhead/_02a9dfa3-45fa-48ef-bdb0-3840c7b4003b.jpg",
+    "Media/Fountainhead",
+    "Items/Components, Ingredients/Inanistathine.md",
+    "History/Outdated Lore/Thylyist Lore.md",
+    "History/Outdated Lore/Lavish Lore.md",
+    "History/Minor Quests/05_Good Times.md",
+    "Groupings/Factions/Thylyian/Currency; Premarevy.md",
+    "Groupings/Factions/The Twilight.md",
+    "Groupings/Factions/The Dragonkin.md",
+    "Groupings/Factions/Empire of Wind.md",
+    "Belisha Beacon.md",
+    "Beings/Gods and Deities/Mekhane.md",
+    "Mekhane.md",
     "Structure/WIP or Projects/~syncthing~Ignition events.md.tmp",
     "Structure/WIP or Projects/~syncthing~Amarisk emission.md.tmp",
+    "Structure/WIP or Projects/Amarisk emission.md",
     "History/Really coarse timeline.canvas",
     "Forces.canvas",
     "Media/AI Slop 2/Creatures",
@@ -305,6 +288,12 @@
     "Media/AI Slop 2/Eldritch brand",
     "Media/AI Slop 2/Songbird",
     "Media/AI Slop 2/Amida",
+    "History/Really coarse timeline.sync-conflict-20231121-140056-QELEOCQ.canvas",
+    "History/Really coarse timeline.sync-conflict-20231121-130049-QELEOCQ.canvas",
+    "Realms/Planes insanity.sync-conflict-20231121-140051-QELEOCQ.canvas",
+    "Realms/Planes insanity.sync-conflict-20231121-130049-QELEOCQ.canvas",
+    "Realms/Utuw System/Utuw System.sync-conflict-20231121-130049-QELEOCQ.canvas",
+    "Realms/Utuw System/Utuw System.sync-conflict-20231121-140053-QELEOCQ.canvas",
     "Realms/Utuw System/Utuw System.canvas",
     "Realms/Planes insanity.canvas"
   ]

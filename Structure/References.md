@@ -2,7 +2,10 @@
 Hollow Knight: Void, Vessels
 Dark Souls: Hollows, Estus flask -> bottled embers/smoulders
 Bioshock series: Architecture of [[Syksa, Lavish Capital]], Songbirds
-The Elder Scrolls VI: Skyrim: Dagoth Ur, the heart
+The Elder Scrolls VI: Skyrim: Dagoth Ur, the Heart
+### Minecraft related
+- Thaumcraft: Taint, Gauntlets for spellcasting
+- Botania/Witchery: Lifeforce as source of potential 
 ## Music
 - Introduction to the Snow: ???
 - Dream Sweet in Sea Major: aptly-named region, the Edge of Hope

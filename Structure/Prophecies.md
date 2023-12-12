@@ -18,10 +18,10 @@
 - The Creature of Nothing reveals itself upon the branding of the wrong cattle. 
 %%The [[Voidfish]] will become noticeable after a innocent person has been branded with the [[Eldritch Brand]].%%
 - For when Eyes Open and Saltwater has rained, the other wounds bleed again.
-- The [[Reliquary of False Promises|striker]] rings the [[Clocktowers beneath the Sea|Bells]].
+- The [[Reliquary of False Promises|striker]] rings the [[Clocktowers beneath the Sea|Bells]], for promises broken, and hopes may be false. 
 - [[Seed of Thought|Free Thought]] brings forth the dawn as we know it. 
-- Lands may shatter when tempests misbehave and snowfall boils. 
-- Bellows of Jet will loose pace on collapse of the hot 
+- [[Terrain Shattered|Lands may shatter]] when tempests misbehave and snowfall boils. 
+- Bellows of Jet will loose pace on collapse of the hot and cold hells.
 > [!WARNING] Fragments
 > when north becomes south and the Dread Gate opens
 > The Castle of Shadow and Flame shall be found
