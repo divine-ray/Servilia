@@ -57,26 +57,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Saltwater Rain.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0f83acd86e251855",
+            "id": "4346bc6ff9c8f290",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "History/Timeline Pivots/03_Repairing the Fountainhead.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae0083ef5db69007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Major Quests/The Word and Thought.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97529a794f858632",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Structure/Prophecies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "024f4de1bd38cae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Horn of Blizzards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60a51057d8ad98b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Groupings/Factions/Empire of Winds.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -122,7 +170,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -142,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Structure/Prophecies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Structure/Prophecies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Structure/Prophecies.md"
               }
             }
           },
@@ -261,54 +310,48 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "0f83acd86e251855",
+  "active": "97529a794f858632",
   "lastOpenFiles": [
-    "README.md",
     "conflict-files-obsidian-git.md",
-    "Saltwater Rain.md",
-    "History/Timeline Pivots/03_Repairing the Fountainhead.md",
-    "History/Major Quests/The Word and Thought.md",
-    "Beings/Gods and Deities/Mekhane.md",
-    "Structure/Prophecies.md",
     "Structure/Digests/Major Plotlines.md",
-    "Items/Components, Ingredients/Inanistathine.md",
-    "Echoes.md",
-    "Horn of Blizzards.md",
-    "Untitled.md",
-    "Belisha Beacon.md",
-    "Universal Pantheon.md",
-    "Twilit Rift.md",
-    "TODO 2꞉ Electric Bogaloo.md",
-    "Theophagy.md",
-    "Theophagy or the Death of Divinity.md",
-    "Reliquary of False Promises.md",
-    "Possible reasons why Schi-Ut-Pula vanished.md",
-    "Possible reasons why Schi-Ut-Pula vanished.sync-conflict-20231121-130049-QELEOCQ.md",
-    "Possible reasons why Schi-Ut-Pula vanished.sync-conflict-20231121-140053-QELEOCQ.md",
-    "Structure/Stressors on Factions.sync-conflict-20231121-140054-QELEOCQ.md",
-    "Structure/Stressors on Factions.sync-conflict-20231121-130049-QELEOCQ.md",
-    "Structure/Stressors on Factions.md",
-    "Structure/Stressors on Factions.sync-conflict-20231205-150217-QELEOCQ.md",
-    "Media/Cervilia 2023-09-14-12-37.png",
-    "Media/Cervilia 2023-09-14-12-38.png",
-    "Media/craiyon_121622_towering_steampunk_cathedral_of_gears__with_tall_windows_and_made_from_marble_and_bra - Kopie.png",
-    "Media/craiyon_121622_towering_steampunk_cathedral_of_gears__with_tall_windows_and_made_from_marble_and_bra.png",
-    "Media/craiyon_120201_emergency_stop_button_in_nostalgic_brass_casing.png",
-    "Media/Fountainhead/_418b9a57-8994-4925-b57d-2ea6da534ed7.jpg",
-    "Media/Fountainhead/_9b435aaf-7c9c-423b-9d68-133dfd238b97.jpg",
-    "Media/Fountainhead/_02a9dfa3-45fa-48ef-bdb0-3840c7b4003b.jpg",
-    "Media/Fountainhead/_5efea364-4290-494b-b05e-f11ed1459563.jpg",
-    "Media/Fountainhead/_d3da1b44-fa62-44fd-822f-bf9d4367f06a.jpg",
-    "History/Really coarse timeline.sync-conflict-20231121-130049-QELEOCQ.canvas",
-    "History/Really coarse timeline.sync-conflict-20231121-140056-QELEOCQ.canvas",
-    "Realms/Planes insanity.sync-conflict-20231121-130049-QELEOCQ.canvas",
-    "Realms/Planes insanity.sync-conflict-20231121-140051-QELEOCQ.canvas",
-    "Realms/Utuw System/Utuw System.sync-conflict-20231121-130049-QELEOCQ.canvas",
-    "Realms/Utuw System/Utuw System.sync-conflict-20231121-140053-QELEOCQ.canvas",
-    "Media/Fountainhead",
+    "Structure/Digests/Differences Regarding Factions.md",
+    "Structure/Digests/Stressors on Factions.md",
     "Structure/Digests",
+    "Reliquary of False Promises.md",
+    "Media/craiyon_121622_towering_steampunk_cathedral_of_gears__with_tall_windows_and_made_from_marble_and_bra.png",
+    "Media/craiyon_121622_towering_steampunk_cathedral_of_gears__with_tall_windows_and_made_from_marble_and_bra - Kopie.png",
+    "Media/craiyon_120201_emergency_stop_button_in_nostalgic_brass_casing.png",
+    "Media/Fountainhead/_2b54b47c-5f5a-4aec-a25b-76cb43efc0f6.jpg",
+    "Media/Fountainhead/_418b9a57-8994-4925-b57d-2ea6da534ed7.jpg",
+    "Media/Fountainhead/_d3da1b44-fa62-44fd-822f-bf9d4367f06a.jpg",
+    "Media/Fountainhead/_9b435aaf-7c9c-423b-9d68-133dfd238b97.jpg",
+    "Media/Fountainhead/_5efea364-4290-494b-b05e-f11ed1459563.jpg",
+    "Media/Fountainhead/_26b5db64-cee3-470e-8b2f-2c751afd7426.jpg",
+    "Media/Fountainhead/_02a9dfa3-45fa-48ef-bdb0-3840c7b4003b.jpg",
+    "Media/Fountainhead",
+    "Items/Components, Ingredients/Inanistathine.md",
+    "History/Outdated Lore/Thylyist Lore.md",
+    "History/Outdated Lore/Lavish Lore.md",
+    "History/Minor Quests/05_Good Times.md",
+    "Groupings/Factions/Thylyian/Currency; Premarevy.md",
+    "Groupings/Factions/The Twilight.md",
+    "Groupings/Factions/The Dragonkin.md",
+    "Groupings/Factions/Empire of Wind.md",
+    "Belisha Beacon.md",
+    "Beings/Gods and Deities/Mekhane.md",
+    "Mekhane.md",
     "Structure/WIP or Projects/~syncthing~Ignition events.md.tmp",
     "Structure/WIP or Projects/~syncthing~Amarisk emission.md.tmp",
+    "Structure/WIP or Projects/Amarisk emission.md",
+    "Structure/Stressors on Factions.sync-conflict-20231205-150217-QELEOCQ.md",
+    "Structure/Stressors on Factions.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/SC-AM.sync-conflict-20231205-160225-6JNPT5F.md",
+    "Horn of Blizzards.md",
+    "Providence.md",
+    "Groupings/Factions/Empire of Winds.md",
+    "Structure/Prophecies.md",
+    "Beings/Characters and People/Katallja-Nâ.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom/Davern Kingdom.md",
     "History/Really coarse timeline.canvas",
     "Forces.canvas",
     "Media/AI Slop 2/Creatures",
@@ -317,6 +360,12 @@
     "Media/AI Slop 2/Eldritch brand",
     "Media/AI Slop 2/Songbird",
     "Media/AI Slop 2/Amida",
+    "History/Really coarse timeline.sync-conflict-20231121-140056-QELEOCQ.canvas",
+    "History/Really coarse timeline.sync-conflict-20231121-130049-QELEOCQ.canvas",
+    "Realms/Planes insanity.sync-conflict-20231121-140051-QELEOCQ.canvas",
+    "Realms/Planes insanity.sync-conflict-20231121-130049-QELEOCQ.canvas",
+    "Realms/Utuw System/Utuw System.sync-conflict-20231121-130049-QELEOCQ.canvas",
+    "Realms/Utuw System/Utuw System.sync-conflict-20231121-140053-QELEOCQ.canvas",
     "Realms/Utuw System/Utuw System.canvas",
     "Realms/Planes insanity.canvas"
   ]
