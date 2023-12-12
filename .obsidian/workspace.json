@@ -16,115 +16,19 @@
             }
           },
           {
-            "id": "306f826472b7a098",
+            "id": "1cfa59aca2ccd9e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beings/Characters and People/Katallja-Nâ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c9fedb2a43719c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faction Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdb137c300535e9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Empire of Thylyist.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4e7260332f24af8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Saltwater Rain.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4346bc6ff9c8f290",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Timeline Pivots/03_Repairing the Fountainhead.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae0083ef5db69007",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Major Quests/The Word and Thought.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97529a794f858632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Structure/Prophecies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "024f4de1bd38cae1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Horn of Blizzards.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60a51057d8ad98b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groupings/Factions/Empire of Winds.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structure/Prophecies.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structure/Prophecies.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structure/Prophecies.md"
+                "file": "README.md"
               }
             }
           },
@@ -310,9 +214,15 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "97529a794f858632",
+  "active": "1cfa59aca2ccd9e0",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Providence.md",
+    "Structure/Prophecies.md",
+    "Providence.sync-conflict-20231212-122937-I3B2N7K.md",
+    "Horn of Blizzards.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom/Davern Kingdom.sync-conflict-20231212-123011-I3B2N7K.md",
+    "Groupings/Factions/Empire of Winds.sync-conflict-20231212-123004-I3B2N7K.md",
     "Structure/Digests/Major Plotlines.md",
     "Structure/Digests/Differences Regarding Factions.md",
     "Structure/Digests/Stressors on Factions.md",
@@ -346,12 +256,6 @@
     "Structure/Stressors on Factions.sync-conflict-20231205-150217-QELEOCQ.md",
     "Structure/Stressors on Factions.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/SC-AM.sync-conflict-20231205-160225-6JNPT5F.md",
-    "Horn of Blizzards.md",
-    "Providence.md",
-    "Groupings/Factions/Empire of Winds.md",
-    "Structure/Prophecies.md",
-    "Beings/Characters and People/Katallja-Nâ.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom/Davern Kingdom.md",
     "History/Really coarse timeline.canvas",
     "Forces.canvas",
     "Media/AI Slop 2/Creatures",

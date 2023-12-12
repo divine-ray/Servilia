@@ -11,15 +11,17 @@
 - When the Black Hare lies in blood and blades pierce the sky, the Rogue of the Tome shall fall.
 - The Gates of Foreign Stone shall become lit when all singing stones have gathered. 
 	%%The [[Lunar Gateways]] in Stargard will become a teleporter to ??? once all monoliths have been placed in [[The Tellurion]]%%
-- Islands will loose their colour once the wheels of metal stop to turn as of old days. 
+- Islands will loose their colour once the wheels of metal stop to turn as if beginning occurs again. 
 	%%The [[Chromatic Calderas]] will turn featureless once the Amarisk well, a part of mekhane, has been recovered%%
 - Masked judges return to the stage once the seven%%?%% hoards have been freed and their tyrants lost its faces. 
 	%%The [[Court of Storms]], and by a extend, [[Lost City of the Ninth Forest|Tombstone]], will restore themselves once the Archives and Libraries have been purged and Chezke-an has been defeated. %%
 - The Creature of Nothing reveals itself upon the branding of the wrong cattle. 
 %%The [[Voidfish]] will become noticeable after a innocent person has been branded with the [[Eldritch Brand]].%%
 - For when Eyes Open and Saltwater has rained, the other wounds bleed again.
-- The [[Reliquary of False Promises]] rings the [[Clocktowers beneath the Sea|Bells]].
-- Free Thought brings forth revelations through bloodshed. 
+- The [[Reliquary of False Promises|striker]] rings the [[Clocktowers beneath the Sea|Bells]].
+- [[Seed of Thought|Free Thought]] brings forth the dawn as we know it. 
+- Lands may shatter when tempests misbehave and snowfall boils. 
+- Bellows of Jet will loose pace on collapse of the hot and cold hells.
 > [!WARNING] Fragments
 > when north becomes south and the Dread Gate opens
 > The Castle of Shadow and Flame shall be found
