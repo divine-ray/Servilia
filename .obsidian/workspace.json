@@ -16,12 +16,36 @@
             }
           },
           {
+            "id": "11e01f3ac0261eb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beings/Gods and Deities/Fear and Hunger.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6d0e7b75844c3f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Groupings/Factions/Thylyian/Thylyian Military.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1cfa59aca2ccd9e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Structure/References.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Beings/Gods and Deities/Fear and Hunger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Beings/Gods and Deities/Fear and Hunger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Beings/Gods and Deities/Fear and Hunger.md"
               }
             }
           },
@@ -214,11 +238,14 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "1cfa59aca2ccd9e0",
+  "active": "11e01f3ac0261eb7",
   "lastOpenFiles": [
+    "Groupings/Factions/Thylyian/Thylyian Military.md",
+    "Structure/Prophecies.md",
+    "Structure/References.md",
+    "README.md",
     "conflict-files-obsidian-git.md",
     "Providence.md",
-    "Structure/Prophecies.md",
     "Providence.sync-conflict-20231212-122937-I3B2N7K.md",
     "Horn of Blizzards.md",
     "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom/Davern Kingdom.sync-conflict-20231212-123011-I3B2N7K.md",
@@ -253,9 +280,6 @@
     "Structure/WIP or Projects/~syncthing~Ignition events.md.tmp",
     "Structure/WIP or Projects/~syncthing~Amarisk emission.md.tmp",
     "Structure/WIP or Projects/Amarisk emission.md",
-    "Structure/Stressors on Factions.sync-conflict-20231205-150217-QELEOCQ.md",
-    "Structure/Stressors on Factions.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/SC-AM.sync-conflict-20231205-160225-6JNPT5F.md",
     "History/Really coarse timeline.canvas",
     "Forces.canvas",
     "Media/AI Slop 2/Creatures",
