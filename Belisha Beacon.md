@@ -1,3 +1,6 @@
+A beacon and lighthouse, built atop one of the many [[scattered islands]] of Servilia. It's original architects are speculated to be Lavish workforces, but results of analysis opens speculations for it to be older than the First Era. 
+Few sorcerers and magi have been there, but those have reported sensational findings and energies. 
+Rudimentary [[Radio Equipment]] has caught signals from it, which often manifest as beeps and blips. We're not sure what information these signals carry, but we're working on it.
 
 > [!WARNING] AI Slop
 > Certainly, let's adapt the details to include contemporary to fictitious aircraft in the air traffic control functions:

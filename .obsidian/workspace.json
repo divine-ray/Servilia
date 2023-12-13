@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "645709202e4a6789",
+        "id": "219965cb5ec57400",
         "type": "tabs",
         "children": [
           {
-            "id": "fdaeb19119910c57",
+            "id": "6312fa0ed4e26644",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,36 +16,72 @@
             }
           },
           {
-            "id": "11e01f3ac0261eb7",
+            "id": "09c8dd4746822489",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beings/Gods and Deities/Fear and Hunger.md",
+                "file": "Structure/TO-DO/Phenomenon.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c6d0e7b75844c3f3",
+            "id": "b9b305b3d4edeef6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groupings/Factions/Thylyian/Thylyian Military.md",
+                "file": "TEMP; MIGRATION/Meta/Weather Forecast.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1cfa59aca2ccd9e0",
+            "id": "c966925d8ed6a746",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structure/References.md",
+                "file": "Belisha Beacon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "988de9b3861375cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electricity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3914d3f85392442e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Saltwater Rain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3db40f649ed282a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Castle on a hill.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beings/Gods and Deities/Fear and Hunger.md",
+                "file": "Structure/TO-DO/Phenomenon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beings/Gods and Deities/Fear and Hunger.md",
+                "file": "Structure/TO-DO/Phenomenon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beings/Gods and Deities/Fear and Hunger.md"
+                "file": "Structure/TO-DO/Phenomenon.md"
               }
             }
           },
@@ -238,11 +274,19 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "11e01f3ac0261eb7",
+  "active": "09c8dd4746822489",
   "lastOpenFiles": [
-    "Groupings/Factions/Thylyian/Thylyian Military.md",
-    "Structure/Prophecies.md",
+    "TEMP; MIGRATION/Meta/Weather Forecast.md",
+    "Structure/Digests/Differences Regarding Factions.md",
+    "Belisha Beacon.md",
+    "Electricity.md",
+    "Radio Equipment.md",
+    "Saltwater Rain.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Castle on a hill.md",
     "Structure/References.md",
+    "Groupings/Factions/Thylyian/Thylyian Military.md",
+    "Beings/Gods and Deities/Fear and Hunger.md",
+    "Structure/Prophecies.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "Providence.md",
@@ -251,7 +295,6 @@
     "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom/Davern Kingdom.sync-conflict-20231212-123011-I3B2N7K.md",
     "Groupings/Factions/Empire of Winds.sync-conflict-20231212-123004-I3B2N7K.md",
     "Structure/Digests/Major Plotlines.md",
-    "Structure/Digests/Differences Regarding Factions.md",
     "Structure/Digests/Stressors on Factions.md",
     "Structure/Digests",
     "Reliquary of False Promises.md",
@@ -271,15 +314,8 @@
     "History/Outdated Lore/Lavish Lore.md",
     "History/Minor Quests/05_Good Times.md",
     "Groupings/Factions/Thylyian/Currency; Premarevy.md",
-    "Groupings/Factions/The Twilight.md",
-    "Groupings/Factions/The Dragonkin.md",
-    "Groupings/Factions/Empire of Wind.md",
-    "Belisha Beacon.md",
-    "Beings/Gods and Deities/Mekhane.md",
-    "Mekhane.md",
     "Structure/WIP or Projects/~syncthing~Ignition events.md.tmp",
     "Structure/WIP or Projects/~syncthing~Amarisk emission.md.tmp",
-    "Structure/WIP or Projects/Amarisk emission.md",
     "History/Really coarse timeline.canvas",
     "Forces.canvas",
     "Media/AI Slop 2/Creatures",
