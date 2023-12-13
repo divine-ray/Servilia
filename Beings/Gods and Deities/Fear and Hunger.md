@@ -5,3 +5,5 @@ Actively rejected as foul and wrong by most, if not all organized religions, as 
 
 No living person has ever bestowed their gaze upon the personification of misery, lest few who experienced hallucinations described *it* as starved, deformed humanoid, standing tall regardless. 
 
+
+

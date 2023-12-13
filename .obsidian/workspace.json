@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structure/TO-DO/Phenomenon.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,8 +134,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structure/TO-DO/Phenomenon.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structure/TO-DO/Phenomenon.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structure/TO-DO/Phenomenon.md"
+                "file": "README.md"
               }
             }
           },
@@ -274,8 +273,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "09c8dd4746822489",
+  "active": "bd431d2fdf9c60e6",
   "lastOpenFiles": [
+    "README.sync-conflict-20231213-154530-QELEOCQ.md",
+    "README.md",
+    "Structure/TO-DO/Phenomenon.md",
+    "St. Nowhere.md",
     "TEMP; MIGRATION/Meta/Weather Forecast.md",
     "Structure/Digests/Differences Regarding Factions.md",
     "Belisha Beacon.md",
@@ -287,7 +290,6 @@
     "Groupings/Factions/Thylyian/Thylyian Military.md",
     "Beings/Gods and Deities/Fear and Hunger.md",
     "Structure/Prophecies.md",
-    "README.md",
     "conflict-files-obsidian-git.md",
     "Providence.md",
     "Providence.sync-conflict-20231212-122937-I3B2N7K.md",
@@ -311,9 +313,6 @@
     "Media/Fountainhead",
     "Items/Components, Ingredients/Inanistathine.md",
     "History/Outdated Lore/Thylyist Lore.md",
-    "History/Outdated Lore/Lavish Lore.md",
-    "History/Minor Quests/05_Good Times.md",
-    "Groupings/Factions/Thylyian/Currency; Premarevy.md",
     "Structure/WIP or Projects/~syncthing~Ignition events.md.tmp",
     "Structure/WIP or Projects/~syncthing~Amarisk emission.md.tmp",
     "History/Really coarse timeline.canvas",

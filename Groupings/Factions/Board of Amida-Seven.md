@@ -5,7 +5,8 @@ It is led by delegates of various corporations, who bought shareholder rights fo
 Corporations and other organisations within the board include:
 - [[Amidan Infrastructure and Utilities U.P.C.]]
 - [[protoGen Industrial Group]]
-- 
+- [[APAS Ltd.]]
+- [[adAstra SocInstitute]]
 
 | Excellent: |     |
 |------------|-----|
