@@ -10,14 +10,15 @@
 		{"type":"text","text":" [[The Lavish Empire]] is founded and thriving","id":"7022b0b4e4bf1e29","x":973,"y":1219,"width":250,"height":74},
 		{"type":"text","text":"[[Schi ut-Pula]]s power radiates throughout the denizens of Schi, giving some determined individuals power and capability of magical degree\nThese are known as [[Ancients]]","id":"55fa35eb73ec8e29","x":920,"y":-3,"width":366,"height":139},
 		{"type":"text","text":"[[Sepulchre]] is founded or created as ghetto for the undead","id":"9b470c357ee11a72","x":975,"y":-280,"width":256,"height":77},
-		{"id":"3268b2fb58a7bac6","x":400,"y":-306,"width":288,"height":129,"type":"text","text":"As the population of Servilia continues to grow, the amounts of unresting deceased start to become a issue"},
+		{"id":"3268b2fb58a7bac6","type":"text","text":"As the population of Servilia continues to grow, the amounts of unresting deceased start to become a issue","x":400,"y":-306,"width":288,"height":129},
 		{"type":"file","file":"Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Frisco.md","id":"7f710fbc47379bee","x":1920,"y":360,"width":411,"height":145},
 		{"type":"text","text":"Thylyian science incorporates the newfound powers in cooperation with the lavish","id":"bf952182ec8eb114","x":1264,"y":819,"width":302,"height":118},
-		{"id":"0395d6d957095630","x":1600,"y":1196,"width":250,"height":121,"type":"text","text":"The first few runs of [[Pseudoneo]] experiments turn out to be a blasting sucess."},
-		{"id":"c0a3d436afa801ed","x":1820,"y":819,"width":262,"height":105,"type":"text","text":"Hundreds of collaborative projects between Thylyist and the Lavish are made and completed"},
-		{"id":"493f8e67c18fabad","x":2199,"y":789,"width":264,"height":166,"type":"text","text":"Thylyist Council enrolls construction for the [[Archive of Old]], a massive library-university-archive complex to document and store all the knowledge gained"},
-		{"id":"081cfbc6f81fee40","x":2680,"y":1020,"width":250,"height":98,"type":"text","text":"Construction of the [[Fountainhead]] begins, a project not to finish for decades"},
-		{"id":"86ac6befba1136b3","x":2020,"y":1360,"width":251,"height":119,"type":"text","text":"[[Songbird||Songbirds]] are their first employed pseudoneo, delivering goods and people across Servilia. "}
+		{"id":"0395d6d957095630","type":"text","text":"The first few runs of [[Pseudoneo]] experiments turn out to be a blasting sucess.","x":1600,"y":1196,"width":250,"height":121},
+		{"id":"c0a3d436afa801ed","type":"text","text":"Hundreds of collaborative projects between Thylyist and the Lavish are made and completed","x":1820,"y":819,"width":262,"height":105},
+		{"id":"081cfbc6f81fee40","type":"text","text":"Construction of the [[Fountainhead]] begins, a project not to finish for decades","x":2680,"y":1020,"width":250,"height":120},
+		{"id":"86ac6befba1136b3","type":"text","text":"[[Songbird||Songbirds]] are their first employed pseudoneo, delivering goods and people across Servilia. ","x":2020,"y":1360,"width":251,"height":119},
+		{"id":"493f8e67c18fabad","type":"text","text":"Thylyist Council enrolls construction for the [[Archive of Old]], a massive library-university-archive complex to document and store all the knowledge gained","x":2199,"y":766,"width":264,"height":211},
+		{"id":"51be0cf127b64602","x":187,"y":72,"width":1003,"height":806,"type":"text","text":"# FUCKING OUTDATED!!!!!!\n\ndoes not reflect [[Nølkā]] and all related. "}
 	],
 	"edges":[
 		{"id":"43b91edb2eaa081d","fromNode":"fab60187146d82a7","fromSide":"right","toNode":"4ba957b331211722","toSide":"left"},

@@ -1,12 +1,6 @@
-Introduction to the Snow
+#QUEST 
 
-Friday, 29. April 2022
-
-09:18
-
- 
-
-**Main objective: Discover the Cold.**
+**Main objective: Discover [[The Cold]].**
 
  
 

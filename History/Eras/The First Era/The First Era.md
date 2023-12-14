@@ -20,7 +20,7 @@ Lavish inland already existed and already was thriving in [[Syksa, Lavish Capita
 	Pseudoneo development and 'production'/genesis peaked in this time. 
 Dragonkin were looked upon for their extensive knowledge and bodily strength. 
 
-Knowledge was widely shared, preserved and broadened by groups such as the [[Erudition Coven]] and other organisations, which [still exist today.](Archive%20of%20Old) Notably, during the later parts of the first Era, Humanity/Thylyist took inspirations from Lavish biotechnology and combined it with their remnants of Mekhane into powerful, vastly beneficial bio-mechanical machinery and constructs. 
+Knowledge was widely shared, preserved and broadened by groups such as the [[Erudition Coven]] and other organisations, which [still exist today.](Archive%20of%20Old.md) Notably, during the later parts of the first Era, Humanity/Thylyist took inspirations from Lavish biotechnology and combined it with their remnants of Mekhane into powerful, vastly beneficial bio-mechanical machinery and constructs. 
 
 
 The Curse of Undead is known, but barely present (only about 5 from 100 deceased stay alive), those undying remain functional in society and are accepted widely.  
