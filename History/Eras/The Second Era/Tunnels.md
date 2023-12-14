@@ -7,5 +7,5 @@ I moved it anyway. Now i know.
 Dear god.
 I never thought that i had access to a personal railway line… 
 Behind the hatch is a tunnel. Many, big tunnels. [[Argrosy|Full of rails]], but rusted and forgotten. Water is everywhere here.. wait, that's not water. 
-The stench… Who knows how many hundreds if not thousands of [vermin](Rats) have birthed, lived and died here… Gross. 
+The stench… Who knows how many hundreds if not thousands of [vermin](Rats.md) have birthed, lived and died here… Gross. 
 I can't let anyone know about this, but someone has to kill all these rats! 

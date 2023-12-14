@@ -3,4 +3,4 @@ The whereabouts of the drug or their leader is unknown, but he is revered as the
 United in their consumption and absence of their Messiah, they strive for full dissociation of the mind from its mortal shell in pursuit of perpetual ecstasy and insights into the cosmos. 
 They have possibly faced horrors beyond comprehension and suffered severe psychosis and insanity, which they compensate with even more sedatives. 
 
-Those few who conversed with them have reported that they're able to talk to some [[Twilit|higher entity]] or even [[speak with the dreams|Oneiroi Collective]], which has left any listener unsettled and terrified.
+Those few who conversed with them have reported that they're able to talk to some [[Twilit|higher entity]] or even [[speak with the dreams|Oneiroi Collective]], which has [[left any listener unsettled and terrified]].

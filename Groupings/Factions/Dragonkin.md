@@ -4,7 +4,7 @@ aliases:
 ---
 # Profile: [[Kva'al]]
 
-Loosely organised groups and families of dragons with little to no hierarchy.
+Loosely organised groups and families with little to no hierarchy.
 These groups tend to be associates such as families, partners and friends
 Not a cluster of tribes since groups form and dissolve easily
 
