@@ -4,7 +4,7 @@
 A fancily polished silver mirror.
 The grip is plentifully engraved with Runes.
 
-*If capable of reading Chinetic:* "Spirit, Travel, Journey, Me \| I, possess, power"
+*If capable of reading Chinetic:* "[[Spirits]], Travel, Journey, Me \| I, possess, power"
 ##### To summon the attuned familiar spirit
 (2 actions to summon, one to give instructions)
 ######  *chant, calling the spirit by name:*

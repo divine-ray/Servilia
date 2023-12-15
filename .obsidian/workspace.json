@@ -16,18 +16,6 @@
             }
           },
           {
-            "id": "ab27664b3dadbfa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Belisha Beacon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "306f826472b7a098",
             "type": "leaf",
             "state": {
@@ -69,14 +57,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groupings/Amida.md",
+                "file": "Realms/Planes/Twilit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Belisha Beacon.md",
+                "file": "Realms/Planes/Twilit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Belisha Beacon.md",
+                "file": "Realms/Planes/Twilit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Belisha Beacon.md"
+                "file": "Realms/Planes/Twilit.md"
               }
             }
           },
@@ -236,11 +224,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 340.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,16 +249,13 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "ab27664b3dadbfa5",
+  "active": "a4e7260332f24af8",
   "lastOpenFiles": [
-    "Echoes.md",
-    "Electricity.md",
-    "Modifications to Werewolves.md",
-    "Possible reasons why Schi-Ut-Pula vanished.md",
-    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/The Tellurion.md",
-    "Items/Books et al/The Celestial Compendium of Schi.md",
-    "Groupings/Amida.md",
-    "Realms/Planes/Twilit.md",
+    "Structure/Forces.canvas",
+    "Groupings/Amida/The Cradle.md",
+    "Groupings/Amida/Board of Amida-Seven.md",
+    "Groupings/Amida/APAS Ltd..md",
+    "Groupings/Amida",
     "Radio Equipment.md",
     "TEMP; MIGRATION/Meta/Weather Forecast.md",
     "St. Nowhere.md",
@@ -281,12 +268,16 @@
     "Structure/Prophecies.md",
     "Structure/Digests/Major Plotlines.md",
     "Items/Components, Ingredients/Inanistathine.md",
+    "Echoes.md",
     "Horn of Blizzards.md",
     "Untitled.md",
     "Belisha Beacon.md",
     "Universal Pantheon.md",
     "Twilit Rift.md",
     "TODO 2꞉ Electric Bogaloo.md",
+    "Theophagy.md",
+    "Theophagy or the Death of Divinity.md",
+    "Reliquary of False Promises.md",
     "Media/Cervilia 2023-09-14-12-37.png",
     "Media/Cervilia 2023-09-14-12-38.png",
     "Media/craiyon_121622_towering_steampunk_cathedral_of_gears__with_tall_windows_and_made_from_marble_and_bra - Kopie.png",
@@ -308,13 +299,12 @@
     "Structure/WIP or Projects/~syncthing~Ignition events.md.tmp",
     "Structure/WIP or Projects/~syncthing~Amarisk emission.md.tmp",
     "History/Really coarse timeline.canvas",
-    "Structure/Forces.canvas",
+    "Forces.canvas",
     "Media/AI Slop 2/Creatures",
     "Media/AI Slop 2/Neuer Ordner",
     "Media/AI Slop 2/Landscapes and scenery",
     "Media/AI Slop 2/Eldritch brand",
     "Media/AI Slop 2/Songbird",
-    "Media/AI Slop 2/Amida",
     "Realms/Utuw System/Utuw System.canvas",
     "Realms/Planes insanity.canvas"
   ]
