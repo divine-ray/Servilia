@@ -2,4 +2,4 @@ An impressive tome bound in once-polished, rusted iron plates set with a fractur
 
 It can be opened without issue, however, it is written in a scripture that you can't read, it feels like it is actively trying to escape your mind.
 Though, you can easily identify that it has a abundance of technical schematics and ritual circles written within. Some of these circles project themselves onto the floor through the emerald, however, they're massively flawed. 
-Many of the technical diagrams seem to resemble various naval vessels, but with massively oversized sails of unknown fabric. 
+Many of the technical diagrams seem to resemble [[Spelljammers|various naval vessels]], but with massively oversized sails of unknown fabric. 

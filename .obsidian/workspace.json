@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "ab27664b3dadbfa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Belisha Beacon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "306f826472b7a098",
             "type": "leaf",
             "state": {
@@ -57,14 +69,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Realms/Planes/Twilit.md",
+                "file": "Groupings/Amida.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Realms/Planes/Twilit.md",
+                "file": "Belisha Beacon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Realms/Planes/Twilit.md",
+                "file": "Belisha Beacon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Realms/Planes/Twilit.md"
+                "file": "Belisha Beacon.md"
               }
             }
           },
@@ -224,13 +236,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 340.5,
-    "collapsed": true
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,8 +259,16 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a4e7260332f24af8",
+  "active": "ab27664b3dadbfa5",
   "lastOpenFiles": [
+    "Echoes.md",
+    "Electricity.md",
+    "Modifications to Werewolves.md",
+    "Possible reasons why Schi-Ut-Pula vanished.md",
+    "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/The Tellurion.md",
+    "Items/Books et al/The Celestial Compendium of Schi.md",
+    "Groupings/Amida.md",
+    "Realms/Planes/Twilit.md",
     "Radio Equipment.md",
     "TEMP; MIGRATION/Meta/Weather Forecast.md",
     "St. Nowhere.md",
@@ -263,20 +281,12 @@
     "Structure/Prophecies.md",
     "Structure/Digests/Major Plotlines.md",
     "Items/Components, Ingredients/Inanistathine.md",
-    "Echoes.md",
     "Horn of Blizzards.md",
     "Untitled.md",
     "Belisha Beacon.md",
     "Universal Pantheon.md",
     "Twilit Rift.md",
     "TODO 2꞉ Electric Bogaloo.md",
-    "Theophagy.md",
-    "Theophagy or the Death of Divinity.md",
-    "Reliquary of False Promises.md",
-    "Possible reasons why Schi-Ut-Pula vanished.md",
-    "Possible reasons why Schi-Ut-Pula vanished.sync-conflict-20231121-130049-QELEOCQ.md",
-    "Possible reasons why Schi-Ut-Pula vanished.sync-conflict-20231121-140053-QELEOCQ.md",
-    "Structure/Stressors on Factions.sync-conflict-20231121-140054-QELEOCQ.md",
     "Media/Cervilia 2023-09-14-12-37.png",
     "Media/Cervilia 2023-09-14-12-38.png",
     "Media/craiyon_121622_towering_steampunk_cathedral_of_gears__with_tall_windows_and_made_from_marble_and_bra - Kopie.png",
@@ -298,7 +308,7 @@
     "Structure/WIP or Projects/~syncthing~Ignition events.md.tmp",
     "Structure/WIP or Projects/~syncthing~Amarisk emission.md.tmp",
     "History/Really coarse timeline.canvas",
-    "Forces.canvas",
+    "Structure/Forces.canvas",
     "Media/AI Slop 2/Creatures",
     "Media/AI Slop 2/Neuer Ordner",
     "Media/AI Slop 2/Landscapes and scenery",
