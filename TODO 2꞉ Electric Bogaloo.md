@@ -17,3 +17,7 @@ so i’m assuming it is in relation to god-became nolka in cooperation with a gr
 # [[SICK]]
 The club-brothel-community in amida-8, harbouring a very lax and liberal group of mutually-understanding nymphomaniacs and similar odd folks. primarily catering towards kinky fur folk and synth life. 
 Ran by [[Evelyn]] 
+
+## Beyond the Pale Veil
+poissibly the utuw system is enclosed or wrapped in a dyson sphere by a unknown actor?
+or to contain something considered malicious?
