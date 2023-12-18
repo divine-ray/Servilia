@@ -16,8 +16,15 @@ so i’m assuming it is in relation to god-became nolka in cooperation with a gr
 
 # [[SICK]]
 The club-brothel-community in amida-8, harbouring a very lax and liberal group of mutually-understanding nymphomaniacs and similar odd folks. primarily catering towards kinky fur folk and synth life. 
-Ran by [[Evelyn]] 
+quite protective and subjectively safe compared to other, similar institutions around a-8.
+oftentimes recruits and hires volunteers for some stability in their life in some action of "welfare".
+this place must seem utmost bizarre and nigh-disgusting to outsiders, as local residents and visitors all exchange on lusty ways. 
+Ran by [[Evelyn]]. 
 
 ## Beyond the Pale Veil
-poissibly the utuw system is enclosed or wrapped in a dyson sphere by a unknown actor?
+possibly the utuw system is enclosed or wrapped in a Dyson sphere by a unknown actor?
 or to contain something considered malicious?
+
+## Dunestriders
+clay vessels, covered and possibly filled with mire and tar. origin unknown, yet they wander the dunes of the long savannah and sandy areas. oftentimes found in large herds, like flocks of sheep and cattle, but without their shepherd. 
+never inspected up close as their massive apothecaries, held high up by strands of tar, instil dread and fear towards local folks and oftentimes cause them to move or flee.
