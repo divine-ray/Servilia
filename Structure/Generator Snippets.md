@@ -8,7 +8,7 @@
 >The Gallows Tree: A long-dead ironwood tree, said to be haunted by the ghosts of the thieves and murderers which once hung from it.
 >	THIS FOR THE TWO HANGMEN
 
->- The Inn of a Thousand Names: An elegant dwarven inn, which is said to have a thousand doors in a thousand towns, each under a different sign and name. Anyone who enters through a particular door can only leave through that same door, unless they know the innkeeper's secret.
+>- [[Inn of a Thousand Names]]: 
 >	QUICKTRAVEL
 
 -  The Pool of Radiance: A small pool of water, which glows with a flickering blue light. It is said to be haunted by a malevolent spirit, waiting for a worthy creature to possess. The local townsfolk avoid it.
@@ -56,7 +56,7 @@ Scale Mail of the Serpent (Armor, scale mail, requires attunement):
 
 #  Prophecies and Scriptures
 
-Orphanage of the Fane of the Empyrean Sky.
+[[Orphanage of the Fane of the Empyrean Sky.]]
 
 
 
