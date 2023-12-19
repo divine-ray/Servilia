@@ -28,3 +28,7 @@ or to contain something considered malicious?
 ## Dunestriders
 clay vessels, covered and possibly filled with mire and tar. origin unknown, yet they wander the dunes of the long savannah and sandy areas. oftentimes found in large herds, like flocks of sheep and cattle, but without their shepherd. 
 never inspected up close as their massive apothecaries, held high up by strands of tar, instil dread and fear towards local folks and oftentimes cause them to move or flee.
+
+## the door
+so apparently both the inn of thousand doors and the zubin society access the oneiroi collective and/or the twilit, but noone knows
+having several groups act towards a shared goal independently sounds quite interesting, especially when they meet

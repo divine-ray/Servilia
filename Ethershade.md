@@ -1,5 +1,5 @@
 This, this concoction. I always wanted to see. Yes, see. But see without moving, without travelling the lands. And what good is all travel once you've been around the planet?
-I wanted to see futher, Into the eternal sea, look at the little fishes of light toying across their infinite playground. Talk to the planets, chatter to specks of light we never knew.
+I wanted to see further, Into the eternal sea, gaze upon the little fishes of light toying across their infinite playground. Talk to the planets, chatter to specks of light we never knew.
 Maybe talk to my mother, may she hold a happy life, wherever she may be now. 
 This mortal coil; it disgusts me. 
 	It lacks the colours i want to see. 

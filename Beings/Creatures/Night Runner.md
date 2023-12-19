@@ -1,4 +1,4 @@
-[[The Void|Void]]-born Creature, docile unless provoked or perceived.
+[[The Void|Void-borne]] Creature, docile unless provoked or perceived.
 A lanky, slender pitch-black creature, erratic in its movement and appearance.
 It appears to... shift? 
 Usually hides within shadows around the Hollow Mountains and The Fountainhead.

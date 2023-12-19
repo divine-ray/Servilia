@@ -8,8 +8,9 @@
 >The Gallows Tree: A long-dead ironwood tree, said to be haunted by the ghosts of the thieves and murderers which once hung from it.
 >	THIS FOR THE TWO HANGMEN
 
->- [[Inn of a Thousand Names]]: 
->	QUICKTRAVEL
+
+![[Inn of a Thousand Names]]
+
 
 -  The Pool of Radiance: A small pool of water, which glows with a flickering blue light. It is said to be haunted by a malevolent spirit, waiting for a worthy creature to possess. The local townsfolk avoid it.
 - The Temple of Ariel, God of Plants: An impressive terraced building, decorated with carved friezes and golden inscriptions.
