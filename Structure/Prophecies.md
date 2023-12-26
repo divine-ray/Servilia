@@ -21,7 +21,11 @@
 - The [[Reliquary of False Promises|striker]] rings the [[Clocktowers beneath the Sea|Bells]], for promises broken, and hopes may be false and cold.
 - [[Seed of Thought|Free Thought]] brings forth the dawn as we know it. 
 - [[Terrain Shattered|Lands may shatter]] when tempests misbehave and snowfall boils. 
-- Bellows of Jet will loose pace on collapse of the hot and cold hells.
+- Bellows of Jet will loose pace on collapse of the hot and cold hells
+	%%Climate will shift drastically once the hearts of cold/fire have been quelled%%
+- Thirty-Two Fires are ablaze, those cinders scarring the lands.  
+- For when the Fires are quenched, nature shall heal. 
+- The Pit to Nothing aids in ethereal suspense of lands. 
 > [!WARNING] Fragments
 > when north becomes south and the Dread Gate opens
 > The Castle of Shadow and Flame shall be found

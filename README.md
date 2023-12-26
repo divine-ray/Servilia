@@ -4,6 +4,9 @@ There’s no coherent theme aside from “the world is horrible yet we keep on p
 Start here: 
 - [[Faction Overview]]
 - [[Things that Need Fixing]]
-For the magic system, consider reading around [[Twilit]] and [[Twilit Casting]]. 
+* For the magic system, consider reading around [[Twilit]] and [[Twilit Casting]]. 
+* Lifeforms and species are described in [[Species of Servilia]]. 
+A coherent story/timeline is yet to come. 
+So far, the #Overviews tag should be pretty self-explanatory and helpful. 
 
 For best reading experience, I highly advocate [Obsidian]([https://obsidian.md](https://obsidian.md/)) as editor/reader, since it enables various widely-used features like file links, tags and alike. 

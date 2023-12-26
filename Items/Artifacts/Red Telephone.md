@@ -5,4 +5,4 @@ Every Morning at 7:30, it rings. If picked up, a frenzied voice attempts to comm
 
 Translating this speech is difficult, as the other end is rather hectic, but they [[Prophecies|seem to know something]]...
 
-![[_d1d6414a-b96d-41bc-bcb0-a119190d42ee.jpg]]
+![[Red Telephone.jpg]]

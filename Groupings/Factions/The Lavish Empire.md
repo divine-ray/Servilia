@@ -22,7 +22,7 @@ It is speculated that they could only advance so far due to the water shielding 
 The Lavish were responsible for building the [[Fountainhead]].
 They wielded great arcane powers and bonded to the twilight, until they constructed the Fountainhead and tore a hole into the [[Twilit]].
 
-They engineered most of the [transport systems](Argrosy) in Thylyist and Servilia.
+They engineered most of the [transport systems](Argrosy.md) in Thylyist and Servilia.
 
 ### Supercollider Antimatter power project::
 ![[SC-AM]]

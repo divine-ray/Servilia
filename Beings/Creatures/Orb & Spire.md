@@ -41,7 +41,7 @@ reactions:
     desc: <reaction-description>
   - ...
 ```
-#enemies #Creature #construct
+#enemies #Creature
 
 A bunch of perfectly spherical rocks, inert from a distance.
 

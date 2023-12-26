@@ -1,11 +1,3 @@
-Random bullshit GOOOO
-
-Donnerstag, 12. Mai 2022
-
-21:15
-
- 
-
 so a umbrella that when opened up it forms a portal that leads to a part of space basically
 
  

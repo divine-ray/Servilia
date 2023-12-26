@@ -105,7 +105,28 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [],
+    "creatures": [
+      {
+        "name": "Orb & Spire",
+        "initiative": 7,
+        "static": false,
+        "modifier": -4,
+        "hp": 24,
+        "currentMaxHP": 24,
+        "cr": 1,
+        "ac": 1,
+        "currentAC": 1,
+        "id": "ID_6809d8a86a38",
+        "currentHP": 24,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "2d4"
+      }
+    ],
     "state": true,
     "name": null,
     "round": 1,

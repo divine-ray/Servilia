@@ -6,7 +6,6 @@
 
 If you’re reading this, it most likely means something went either horribly wrong (for you) or terrifically right (for us). 
 Judge it as you want, or don’t. We won’t care. 
-Nor that [[The One Who Judges|thing which called itself the highest judge]], since it spoke it's final judgement for itself. 
 
 ***
 Won’t you come in, settle down, have a coffee or tea from the [[Café at the End of Time]]?

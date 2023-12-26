@@ -27,8 +27,9 @@ The "City" as a whole actually is consisting out of several sectors (former prov
 ![[Council of Thylyist]]
 
 
-#### Thylyist Lore
-In [[The First Era]], Thylyist flourished in cooperation with the Lavish and Ancients, who all coexisted peacefully. The human society within the lesser confines of the Thylyian borders flourished and technology was easily compatible and intertwined with magic. 
+## Thylyist Lore
+In [[The First Era]], Thylyist flourished in cooperation with the Lavish and Ancients, who all coexisted peacefully.
+The human society within the lesser confines of the Thylyian borders flourished and technology was easily compatible and intertwined with magic. 
 During the first era, the arcane conductivity of beryllium bronze was discovered, which led to its wide-employed use, which persists to the current date. 
 	The pre-pre-predecessors of their culture and technology were actually weaving magic into their mechanisms and such, and after The Ancient Happening (TAH😛) the then-council banished and stigmatised any arcane doing, but the usage of beryllium bronze as main alloy remained.
 	⬆️This makes all machinery react really interesting with magic

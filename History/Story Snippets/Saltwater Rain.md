@@ -6,10 +6,11 @@ Wars inside heads, fighting for dominion over something nobody shall ever acknow
 Lest, they drown in regret, falling apart together.
 No mend in sight, cannot contract, cannot heal. 
 The wish to be full, to be whole, yet, there's only nothing to be seen, to be done. 
-Ershi-tsi :: lé --
-foh loh do de day
-foh loh do do daí 
-ohpun myah aais
-foh lo da sal wa rhaii
-tii iishh ersi-tzi
-uuah uahh u::uuuh-a
+
+>Ershi-tsi :: lé --
+>foh loh do de day
+>foh loh do do daí 
+>ohpun myah aais
+>foh lo da sal wa rhaii
+>tii iishh ersi-tzi
+> uuah uahh u::uuuh-a

@@ -1,19 +1,18 @@
 [
+  "obsidian-git",
+  "table-editor-obsidian",
   "aprils-automatic-timelines",
+  "dataview",
   "obsidian-dice-roller",
+  "editing-toolbar",
   "fantasy-calendar",
   "obsidian-5e-statblocks",
-  "initiative-tracker",
-  "obsidian-git",
+  "granite",
+  "obsidian-random-todo",
   "obsidian-leaflet-plugin",
+  "obsidian-plugin-todo",
   "tag-wrangler",
   "obsidian-tagfolder",
-  "obsidian-version-history-diff",
-  "table-editor-obsidian",
-  "dataview",
-  "obsidian-random-todo",
-  "obsidian-plugin-todo",
-  "granite",
-  "notes-dater",
-  "readability-score"
+  "obsidian-timelines",
+  "obsidian-version-history-diff"
 ]

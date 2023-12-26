@@ -13,8 +13,8 @@
 	- [ ] His Divine Reassembly
 ### `[[The First Era]]`:
 - [x] Details and polish of ``[[Syksa, Lavish Capital]]`
-- [ ] [[History of Sepulchre and the Faceless|History of Sepulchre and the Faceless]]
-- [ ] `[[How Dying ceased]]`
+- [x] [[History of Sepulchre and the Faceless]]
+- [ ] `[[How Dying ceased]]` 
 - [ ] Pogrom & genocide upon Lavish and Varuú, [[Fall of the Lavish]]
 ### [[The Second Era]]:
 - ### Thylyist

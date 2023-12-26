@@ -1,8 +1,7 @@
 # #TODO 
 
 The [[Faceless]] now haunting/residing within [[Lost City of the Ninth Forest|Tombstone]] are the withered remains from [[Varuú|descendants]] of a highly ambitious project, that being the combination of Dragonborne and Pseudoneo technology.
-
-
+Given their notable skills in arcane engineering and twilit weaving alike, they created many marvels in all fields of the crafts. 
 ## Downfall
 *[[Fall of the Lavish|During the end of the First Era]]*
 The [[Fall|carnage]] brought upon them[^1] caused the few surviving citizens to go insane from the trauma, tearing their local twilit continuum apart. This caused the orderly disassembly of Tombstone, as their buildings were infused with twilit and Amarisk. 

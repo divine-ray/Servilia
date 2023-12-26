@@ -2,7 +2,17 @@ A beacon and lighthouse, built atop one of the many [[scattered islands]] of Ser
 Few sorcerers and magi have been there, but those have reported sensational findings and energies. 
 Rudimentary [[Radio Equipment]] has caught signals from it, which often manifest as beeps and blips. We're not sure what information these signals carry, but we're working on it.
 
-> [!WARNING] AI Slop
+It’s light shines to this very day, guiding our ships safely. 
+So far we have been struggling with identifying the source of light, as there is no visible entryway present on the building, or we might be overlooking something crucial.
+Regardless, it shines bright, and often presents a almost dancing beam of light, sometimes accompanied by streaks of light, which shouldn’t be there.
+***
+Once erected by a group older than we ever knew, this lighthouse is a marvel in arcane engineering, as it does not only direct naval and aerial traffic, but also conducts  [[Leyline|Ley]]
+energies, making it part of a transport network. Early studies and experiments revealed it to be part of a gigantic structure, transcending our realm and possibly reaching across galaxies. 
+We‘ve also made way into the structure through subterranean ways, as it apparently extends into a root-like construct underground.
+
+
+
+> [!NOTE] AI Slop
 > Certainly, let's adapt the details to include contemporary to fictitious aircraft in the air traffic control functions:
 >In a far-off fantasy world, a lighthouse stands atop a former mountain peak, now a series of islands due to geological processes and flooding. This seemingly ordinary structure conceals advanced alien technology and functions as a mystical air traffic control center for both seafaring vessels and contemporary to fictitious aircraft.
 >
