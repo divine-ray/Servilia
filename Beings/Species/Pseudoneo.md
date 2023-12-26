@@ -1,4 +1,4 @@
-The category for lifeforms and beings created by [[The Lavish Empire|Lavish]] scientists as smart, self-directed workforce, typically for tasks outside of their reach of the [[Palga Basin]], and by extend, the [[Astral Ocean]] and [[Sea Major]].
+The category for lifeforms and beings created by [[The Lavish Empire|Lavish]] scientists as smart, self-directed workforce, typically for tasks outside of their reach of the Palga Basin, and by extend, the Astral Ocean and Sea Major.
 A relatively common, shared trait amongst pseudoneo zoophytes is the combination of higher life, plant life and [[Arcane Engineering]] into a single, autonomous and self-supplying unit. 
 
 Many pseudoneo beings can source their energy from both biomass/food and sunlight (photosynthesis), whereas specimens utilising concentrated electricity or the arcane are rare, but present.
