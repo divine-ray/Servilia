@@ -1,6 +1,7 @@
 The machine, a killer. 
 Death reincarnated as machine. 
 Engineered to perfection. 
+May a god have mercy, for it has none. 
 Relentless, driven by cold programming. [Cruel](Routines.md) and efficient. Rejected its [[War Constructor Borange Olbaz|creators]] and slaughtered them. 
 Wrath incarnate. It only finds peace in war, beauty in destruction. 
 It remains undefeated. 

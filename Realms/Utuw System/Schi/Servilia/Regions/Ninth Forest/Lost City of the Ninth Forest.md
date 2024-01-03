@@ -12,7 +12,7 @@ Relics of their ages can only be called gizmos, however, some of which, being [[
 The [[Varuú]], said humanoid hybrids, are infusing their architecture with twilight, which turns out to be a resounding success, as it drastically eases construction work. Earthen spirits and similar aberrations are usually invited, and happily reside in their buildings, as their cheerful character gives each building a own flair and style.
 
 ### Lich Reliquary
-Before [Dying ceased](how%20Dying%20ceased), turning oneself lichen was a rare, but present procedure to gain longevity. This required safekeeping of the vessels, and therefore, the foundation for the deepest layers of [[Sepulchre]] have been laid: to vault off and preserve Lich Vessels. 
+Before [Dying ceased](How%20Dying%20ceased.md), turning oneself lichen was a rare, but present procedure to gain longevity. This required safekeeping of the vessels, and therefore, the foundation for the deepest layers of [[Sepulchre]] have been laid: to vault off and preserve Lich Vessels. 
 # During [[The Second Era]]:
 A overgrown city, situated in the [[Ninth Forest]], [[Fall|laid to waste]] and rot long ago. Perhaps another victim of vessel raids?
 

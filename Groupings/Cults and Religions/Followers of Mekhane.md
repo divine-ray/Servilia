@@ -23,11 +23,8 @@ This being then amassed followers with it\'s godlike powers, and the Mekhanite r
 
 The then-powerful [[Nølkā]] (also known as sarkites) engaged into a groundbreaking conflict with the mekhanites, which left both parties devastated and shrunk to a fraction of their former selves.
 
-The Construct Mekhane got mostly destroyed and lost all means of interaction, leaving it as a clump of materials.
-
- 
-
-This construct is secured deeply in the [[Citadel of the Gear]] in maintown thylyist.
+The Construct Mekhane got mostly destroyed and lost all means of interaction, leaving it’s many components and modules scattered about the lands and planes. 
+One part of this construct is secured deeply in the [[Citadel of the Gear]] in maintown thylyist.
 
 Occasionally, by sacrificing metal or energy, attuned devotees may have a insight or unlocking thought that causes their research toward the assembly to progress.
 

@@ -26,6 +26,7 @@
 - Thirty-Two Fires are ablaze, those cinders scarring the lands.  
 - For when the Fires are quenched, nature shall heal. 
 - The Pit to Nothing aids in ethereal suspense of lands. 
+- Lands confined restrain a verdict spoken unjust. 
 > [!WARNING] Fragments
 > when north becomes south and the Dread Gate opens
 > The Castle of Shadow and Flame shall be found

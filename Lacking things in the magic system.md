@@ -1,0 +1,10 @@
+- [ ] where does it actually come from?
+- [ ] procedures for the implants, description
+- [ ] function and role of gauntlets Vs staves/wands
+- [ ] education (i.e. how does a commonfolk learn about magic)
+- [ ] describe the limiting factors of spellcasting and scaling
+	- [ ] material usage in standard casting (pellets)
+	- [ ] side effects on the caster
+		- mental instability?
+		- deformation, physical warping of the hiryn
+- [ ] other, derived power sources (like blood, plants, etc.)
