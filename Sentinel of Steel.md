@@ -1,3 +1,7 @@
+As if a corpse was poorly buried, with its partly rotten partly torn off limbs and skin shown in unsightly ways and pose. 
+Stagnant, yet suspended and dormant it lies there. 
+
+
 
 > [!WARNING] AI slop
 > Amidst the rugged landscape, a solemn monument to a bygone era stands as the remnants of a defunct war machine once deployed by the Mekhanites in their relentless conflict against the Nolka. The skeletal husk of this colossal mechanical behemoth lies silent, a testament to the ferocity and ingenuity of the warfare that once engulfed the region.

@@ -3,7 +3,7 @@ To the [displaced north](Northern%20Reaches)
 Frozen and cold
 but alive regardless.
 
-to the [burnt desert](Scorched%20Acres)
+to the [burnt desert](Scorched%20Acres.md)
 in the south
 stands [another heart](Crimson%20Heart),
 filled with flame, set ablaze. 
