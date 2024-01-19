@@ -1,3 +1,4 @@
 TIL about Philipp Mainländer a philosopher who theorised that God committed suicide and his decaying corpse is the living universe, and since God was an infinite being the only way he could kill himself was to shatter his timeless being into a time-bound and material universe.
 
 Ranging under the assumption that the Nolkan hunger for godly beings did not destroy/disable everything, might have some divine entities left untouched, amused at their cabals. 
+Presumably this corpse that the universe is was once shell to a being defying anything, even Archons. Simple human perception simply cannot grasp how death induces linearity of a omniscient being and reduces infinitely dimensional space into no lesser than two.
