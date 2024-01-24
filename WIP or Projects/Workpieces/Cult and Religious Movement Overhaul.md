@@ -14,7 +14,7 @@ they might just be trying to do `something that aids the world`, probably relate
 		1. sharing part of the conscious into the organism’s neural system?
 		2. enhanced lifespan and/or partial salvation from undying?
 
-by that definition, the mekhanite [[splinter group]] is a NRM, as it rejects a part of the taught beliefs, propagating the reformation of the human vessel into something holy to the machine
+by that definition, the mekhanite [[True Machinists]] is a NRM, as it rejects a part of the taught beliefs, propagating the reformation of the human vessel into something holy to the machine
 seeing that the splinter group might be reformist against the established teachings of the mekhanites, *they* might be **those** that fasten the decay and downfall of Thylyist/Council 
 
 

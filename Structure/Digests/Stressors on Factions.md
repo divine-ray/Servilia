@@ -6,8 +6,8 @@ Ongoing poverty, failing harvests, plummeting quality and standards of life. Abs
 Those parts of the council that aren’t completely proxy figures to the Mekhanites are becoming increasingly corrupt and influenced by various wealthy organisations and merchants guilds.
 ## [[Followers of Mekhane|Mekhanites]]
 Escalating fanaticism into a spiral of delusional worship, which makes them blind towards the consequences of their actions-> [[Stressors on Factions#Population]]. 
-Moreso the isolationism and deviation from their quest of [[His Divine Reassembly]]  is raising insecurities among the broader masses of their adherents, as this is their supposed ideal goal and strife, now becoming increasingly volatile. 
-Additionally, a [[splinter group]] is starting to gain power and attention, which preaches for shedding their humanity and turning machine.
+More-so the isolationism and deviation from their quest of [[His Divine Reassembly]]  is raising insecurities among the broader masses of their adherents, as this is their supposed ideal goal and strife, now becoming increasingly volatile. 
+Additionally, a [[True Machinists|new religious movement]] is starting to gain power and attention, which preaches for shedding their humanity and turning machine.
 
 # [[Sepulchre]]/Kukku
 Sitting atop lichen reliquary catacombs bears great risk to all involved. 
