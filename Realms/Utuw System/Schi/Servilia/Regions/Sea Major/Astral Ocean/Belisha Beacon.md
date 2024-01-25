@@ -6,7 +6,7 @@ It’s light shines to this very day, guiding our ships safely.
 So far we have been struggling with identifying the source of light, as there is no visible entryway present on the building, or we might be overlooking something crucial.
 Regardless, it shines bright, and often presents a almost dancing beam of light, sometimes accompanied by streaks of light, which shouldn’t be there.
 ***
-Once erected by a group older than we ever knew, this lighthouse is a marvel in arcane engineering, as it does not only direct naval and aerial traffic, but also conducts  [[Leyline|Ley]]
+Once erected by a group older than we ever knew, this lighthouse is a marvel in arcane engineering, as it does not only direct naval and aerial traffic, but also conducts [[Leyline|Ley]]
 energies, making it part of a transport network. Early studies and experiments revealed it to be part of a gigantic structure, transcending our realm and possibly reaching across galaxies. 
 We‘ve also made way into the structure through subterranean ways, as it apparently extends into a root-like construct underground.
 
