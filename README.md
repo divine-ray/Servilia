@@ -10,3 +10,5 @@ A coherent story/timeline is yet to come.
 So far, the #Overviews tag should be pretty self-explanatory and helpful. 
 
 For best reading experience, I highly advocate [Obsidian]([https://obsidian.md](https://obsidian.md/)) as editor/reader, since it enables various widely-used features like file links, tags and alike. 
+
+Various other things exist here as well due to me using this as Notepad, but you're better off ignoring it. 

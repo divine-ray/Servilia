@@ -13,7 +13,7 @@
 	- [ ] His Divine Reassembly
 ### `[[The First Era]]`:
 - [x] Details and polish of ``[[Syksa, Lavish Capital]]`
-- [x] [[History of Sepulchre and the Faceless]]
+- [x] \[\[History of Sepulchre and the Faceless]]
 - [ ] `[[How Dying ceased]]` 
 - [ ] Pogrom & genocide upon Lavish and Varuú, [[Fall of the Lavish]]
 ### [[The Second Era]]:
@@ -23,7 +23,7 @@
 	- [ ] His Divine Reassembly
 	- [ ] ~~Church of the broken God~~ Mekhanites
 		- [ ] `[[Citadel of the Gear]]`
-- [x] [[Lost City of the Ninth Forest|Tombstone]], the City of Lost/Faceless
+- [x] \[\[Lost City of the Ninth Forest|Tombstone]], the City of Lost/Faceless
 - [ ] [[Witches]] in the ninth forest
 - [ ] [[Daeva Revolutionists]]
 ### Frisco Bay
@@ -64,7 +64,7 @@
 - [ ] Maou'oru (that one faint dream of the weird railway beach dude)
 - [x] Evelyn as the stock character "prostitute with a heart of gold/wisdom"
 ## Locations, Areas, etc
-- [ ] [[Scorched Acres]]
+- [ ] \[\[Scorched Acres]]
 - [x] `[[Green Swale of Seven Spires]]` in the ninth forest
 - [x] `[[Ninth Forest]]`
 	- [ ] forest of talking trees (dirty paws)
@@ -80,7 +80,7 @@
 
 ## Species
 - [ ] [[Varuú]] 
-the experiments of lavish pseudoneo capabilities on humanoids, infused with twilight, building the city known as [[Lost City of the Ninth Forest|Tombstone]], and the [[Archive of Old]]. Probably the first group to be shoved into Exile. 
+the experiments of lavish pseudoneo capabilities on humanoids, infused with twilight, building the city known as [[Lost City of the Ninth Forest|Tombstone]], and the \[\[Archive of Old]]. Probably the first group to be shoved into Exile. 
 - [x] eurasian shadowmaw, also rebrand to fit (Padia?)
 - ### northern glasswing??
 - [ ] [[Lavish Rework ⁄ Lore]]
@@ -91,9 +91,9 @@ the experiments of lavish pseudoneo capabilities on humanoids, infused with twil
 	- [ ] sub-machine gun
 	- [ ] guided rocket launcher
 	- [ ] mini-gun, possibly? seems very op
-- [ ] [[Tomes]]
+- [ ] \[\[Tomes]]
 	give each tome a comprehensible function and relevance in some way
-	they shouldn't feel like generic fetch quest №384, but rather instil some strong feeling of dread/power/fear etc
+	they shouldn't feel like generic fetch quest/McGuffin, but rather instil some strong feeling of dread/power/fear etc
 - [ ] Materials
 	- [ ]  [[Splinter of Blazes]], other fire related items (Gem of Cinders, simmering rock, etc. )
 	- [ ] Various metal plates for armour making 
