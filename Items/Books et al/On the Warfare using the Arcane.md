@@ -1,4 +1,5 @@
 ## Weaponized Wizardry
+A collection of papers for massacre and violation using the arcane.  
 
 This tome is written in luminous ink engraved into blackened glass plates, bound in black dragon scales. It is locked by a intangible mechanism, which seems to loosen partially depending on location. 
 %%It only opens within the Archive of Old.%% 

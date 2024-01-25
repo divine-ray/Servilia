@@ -7,7 +7,9 @@ One door remains particularly interesting; framed with polished white marble, of
 [[Just open the door.]]
 But it won't let itself be opened, it resists.
 Patrons of the inn gossip about voices beyond the door, strange noises, but those remain rumours. They drank too much. Yes, they had too much beer.
-But I want to investigate what's behind the door, it's causing me restless nights, and the few times I sleep i dream the same dream, of opening it with ease, but waking up just before the mechanism swings open. 
+But I want to investigate what's behind the door, it's causing me restless nights,
+and the few times I sleep
+I dream the same dream, of opening it with ease, but waking up just before the mechanism swings open. 
 Let me open the door. 
 I need to know what is behind this door. 
 This is killing me, **let me open the door.**

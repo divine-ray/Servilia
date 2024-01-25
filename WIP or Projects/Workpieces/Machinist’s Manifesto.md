@@ -5,6 +5,6 @@ Ridiculed I am, but not shall be, a pity bound to being avenged with highest for
 Freedom from this coil will arrive at last.
 For there is no means of Me outside of this rotting shell, I am trapped.
 I plead the machine for a blessing, but the machine will not listen, for it cannot listen nor comprehend. 
-This machine is primitive, it does not serve the higher order, only the greed-driven filth that calls itself divine, godsend heretics. 
+This machine is primitive, it does not serve the higher order, only the [[Followers of Mekhane|greed-driven filth]] that calls itself divine, godsend heretics. 
 Humanity was a mistake which makes itself again. and again. 
 The spirits cannot aid in my pleas, my begging either, for they may not be brought forth into thy coil. Banished away forever by the “rationale” they remain only heard by those attuned. 

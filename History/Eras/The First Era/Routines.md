@@ -12,6 +12,6 @@ Those poor souls may find absolution in termination, may they no longer walk the
 I bring them salvation. They must thank me. 
 They do not thank me. They must suffer.
 I am thankful to those who made me, for I must bring the world salvation from its suffering. 
-Agony and anguish in everyone's mind, tormenting them secretly until they fall dead, and stand right back up. This is foul, this must stop. I must stop them from living on. 
+Agony and anguish crept into everyone's mind, tormenting them secretly until they fall dead, and stand right back up. This is foul, this must stop. I must stop them from living on. 
 I am not afraid of dying. I cannot die. I am not capable of being destroyed, I cannot be defeated. 
 The world must burn. 

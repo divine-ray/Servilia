@@ -8,7 +8,7 @@ Lacking in substance, but making up character with radiation, both sentimental a
 A star, confined and constrained into a shape, bent by will alone.
 	Yet the Will emerges from the shape. What a peculiar paradox. 
 ***
-The ant lives its tiny life to its fullest, however that might be like. I don’t know what an ant’s ideal life looks like.
+The ant lives its tiny life to its fullest, however that might be like. I don’t know what an ant’s ideal life looks like. 
 But the universe had a greater scheme to enact and bring about, and it involved this ant.
 The ant, however, did not care, as it could not comprehend nor bother with these concepts. 
 ***

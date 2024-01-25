@@ -12,14 +12,10 @@ so I’m assuming it is in relation to god-became nolka in cooperation with a gr
 > A sordid god: down from his hairy chin  
 > A length of beard descends, uncombed, unclean;  
 > His eyes, like hollow furnaces on fire;  
-> A girdle, foul with grease, binds his obscene attire.[15](https://en.wikipedia.org/wiki/Charon#cite_note-15)
+> A girdle, foul with grease, binds his obscene attire.
 
-# [[SICK]]
-The club-brothel-community in amida-8, harbouring a very lax and liberal group of mutually-understanding nymphomaniacs and similar odd folks. primarily catering towards kinky fur folk and synth life. 
-quite protective and subjectively safe compared to other, similar institutions around a-8.
-oftentimes recruits and hires volunteers for some stability in their life in some action of "welfare".
-this place must seem utmost bizarre and nigh-disgusting to outsiders, as local residents and visitors all exchange on lusty ways. 
-Ran by [[Evelyn]]. 
+ ![[SICK]]
+
 
 ## Beyond the Pale Veil
 possibly the utuw system is enclosed or wrapped in a Dyson sphere by a unknown actor?
@@ -36,10 +32,10 @@ having several groups act towards a shared goal independently sounds quite inter
 ## starting point of Thylyist revolution 
 - someone finds a relic of times before the betrayal?
 - one of the Mekhanites‘ vow of silence breaks?
-- a peasant saw behind their veil and turned it into folklore/spiritualistic esoteric?
+- a peasant bypassed the propaganda  and turned the results into folklore/spiritualistic esoteric?
 	- or a child‘s tale local to his family?
 - a songbird drops from the sky?
 - criminal guild escapes beyond the wastelands and communicates back?
 - a fire burns down a local house of the mekhanites, leaving the local augmented unscathed, all other attendees died 
 - eventual turn of the “i always told y’all!” declared-mad man
-- 
+- [[True Machinists]] drop their veil and bringdown the council 

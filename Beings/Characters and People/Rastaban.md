@@ -11,3 +11,5 @@ That is the instruction. All of Thylyist's borders have been put to waste, burnt
 
 The protector. Defender. Terminator.
 This is what Death is, given a Machine. 
+
+Yet it remains one of them, a number on a paper. Formerly a poppet, unleashed through violence. A asset, considered valuable, remains a object to it's creators. A tool for bringing death. 

@@ -1,8 +1,8 @@
  We are here because you are not.
  Wait, how are you reading this if you cant be here?
  Here at the end of time we are, and we don’t really know why.
- [[Someone]] thought it’d be amusing to see a group of stragglers try to reverse time or something. 
- We might look like gods, but trust me, compared to *them* we are nothing. Vermin at best. Oh well, we got used to it. Not like we can change anything, or anyone else will do so for us, and the chances of us getting a doohickey to work for us also won’t happen. 
+ [[Old Gods|Someone]] thought it’d be amusing to see a group of stragglers try to reverse time or something. 
+ We might look like gods, but trust me, compared to *them* we are nothing. Vermin at best. Oh well, we got used to it. Not like we can change anything, or anyone else will do so for us, and the chances of us getting a McGuffin to work for us also won’t happen. 
 
 If you’re reading this, it most likely means something went either horribly wrong (for you) or terrifically right (for us). 
 Judge it as you want, or don’t. We won’t care. 

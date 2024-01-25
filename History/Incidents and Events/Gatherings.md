@@ -4,3 +4,5 @@ Bystanders (non-hunters) may use this opportunity to trade, as these gatherings 
 
 ## Wanderer's Gathering
 On each twelfth of a Month, Wanderers rally on a secret location that has been defined in the meeting before. Visiting these might provide valuable insights in suspected treasuries and other locations worth investigating. 
+
+![[Seacurbury Fair]]
