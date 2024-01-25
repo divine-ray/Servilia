@@ -33,7 +33,7 @@ never inspected up close as their massive apothecaries, held high up by strands 
 so apparently both the inn of thousand doors and the zubin society access the oneiroi collective and/or the twilit, but noone knows
 having several groups act towards a shared goal independently sounds quite interesting, especially when they meet
 
-## staring point of Thylyist revolution 
+## starting point of Thylyist revolution 
 - someone finds a relic of times before the betrayal?
 - one of the Mekhanites‘ vow of silence breaks?
 - a peasant saw behind their veil and turned it into folklore/spiritualistic esoteric?
