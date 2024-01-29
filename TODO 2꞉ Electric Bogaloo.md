@@ -39,3 +39,6 @@ having several groups act towards a shared goal independently sounds quite inter
 - a fire burns down a local house of the mekhanites, leaving the local augmented unscathed, all other attendees died 
 - eventual turn of the “i always told y’all!” declared-mad man
 - [[True Machinists]] drop their veil and bringdown the council 
+
+The Story of the child 
+a child, seen as object, 

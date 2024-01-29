@@ -17,6 +17,8 @@ This place is so familiar, yet feels wrong in its entirety; as if wood, rock and
 This mansion or house was built long ago by now long [[Varuú|forgotten noble people]].
 They seem to had powerful knowledge over arcane architecture, as the entire building seems to be capable of sensing its environment and inhabitants.
 
+Why does it feel so familiar? Did I/we/you use to live here? 
+Won’t you stay here, with me, my darling?
 ***
 Across the sea, from over the pier reaching into the water, I spot a tall figure in a boat, seemingly adrift. They are one to carry a weighty bag, through which i spot movement. At the blink of my eyes the boat is set asunder, an i fear the well-being of this man and his ominous cargo. I long to reach to him, lest I cannot, for he is leagues away. 
 
