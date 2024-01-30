@@ -12,6 +12,8 @@ The Mekhanites are the monotheistic religion which worship the [[Heart of Mekhan
 They are the leading and ruling class of [[Empire of Thylyist]], self-entitled to reign, with no restraints to use force through the [[Thylyian Military]] 
 This clump is the remains of a formerly towering god-construct with incredible powers.
 
+Internal tension has led to the formation of a splinter group who call themselves the [[True Machinists]], who reject the current interpretation and execution of [[His Divine Reassembly]]. 
+
 ## History
  
 Some long time ago, a construct made by primus from the mechanic plane malfunctioned and gained independency. It rapidly figured out that it must modify itself to survive and surpass it\'s ancestry, and began to inject magic into itself.
@@ -23,8 +25,8 @@ This being then amassed followers with it\'s godlike powers, and the Mekhanite r
 
 The then-powerful [[Nølkā]] (also known as sarkites) engaged into a groundbreaking conflict with the mekhanites, which left both parties devastated and shrunk to a fraction of their former selves.
 
-The Construct Mekhane got mostly destroyed and lost all means of interaction, leaving it’s many components and modules scattered about the lands and planes. 
-One part of this construct is secured deeply in the [[Citadel of the Gear]] in maintown thylyist.
+The Construct Mekhane got mostly destroyed and lost all means of coordinated action, leaving it’s many components and modules scattered about the lands and planes. 
+One [[Heart of Mekhane|part of this construct]] is secured deeply in the [[Citadel of the Gear]] in maintown thylyist.
 
 Occasionally, by sacrificing metal or energy, attuned devotees may have a insight or unlocking thought that causes their research toward the assembly to progress.
 
