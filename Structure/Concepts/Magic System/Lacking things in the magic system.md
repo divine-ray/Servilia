@@ -1,4 +1,4 @@
-- [ ] where does it actually come from?
+- [ ] where does it actually come from? ([[Amarisk]])
 - [ ] procedures for the implants, description
 - [ ] function and role of gauntlets Vs staves/wands
 - [ ] education (i.e. how does a commonfolk learn about magic)
@@ -6,5 +6,5 @@
 	- [ ] material usage in standard casting (pellets)
 	- [ ] side effects on the caster
 		- mental instability?
-		- deformation, physical warping of the hiryn
+		- deformation, physical warping of the Hiryn
 - [ ] other, derived power sources (like blood, plants, etc.)

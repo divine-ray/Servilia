@@ -18,22 +18,22 @@ remnants of the old wars
 both long forgotten
 yet revered by their followers. 
 ***
-Im vertriebenen Norden
-liegt ein Herz.
-Gefroren und kalt
-aber trotzdem lebendig.
+~~Im vertriebenen Norden~~
+~~liegt ein Herz.~~
+~~Gefroren und kalt~~
+~~aber trotzdem lebendig.~~
 
-in der erhitzten Savanne
-im Süden
-steht ein anderes Herz,
-gefüllt mit Flammen, in Brand gesteckt.
+~~in der erhitzten Savanne~~
+~~im Süden~~
+~~steht ein anderes Herz,~~
+~~gefüllt mit Flammen, in Brand gesteckt.~~
 
-sie kennen beide das andere
-spielen des anderen Spiele vor
-schicken ihre Anhänger, Verehrer aus
-um den anderen zu bekämpfen.
+~~sie kennen beide das andere~~
+~~spielen des anderen Spiele vor~~
+~~schicken ihre Anhänger, Verehrer aus~~
+~~um den anderen zu bekämpfen.~~
 
-das eine, um den anderen auszurotten
-Überbleibsel der alten Kriege
-beide längst vergessen
-und doch von ihren Anhängern verehrt.
+~~das eine, um den anderen auszurotten~~
+~~Überbleibsel der alten Kriege~~
+~~beide längst vergessen~~
+~~und doch von ihren Anhängern verehrt.~~
