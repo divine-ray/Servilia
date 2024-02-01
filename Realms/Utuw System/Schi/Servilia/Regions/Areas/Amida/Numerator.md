@@ -15,7 +15,7 @@ The collective of Numerators is possibly scheming a coup or other way to rid of 
 - [[Amida-5]] is the government/corporate HQ and management
 	Control
 - [[Amida-8]]  is the synth^[read:android, pseudoneo] ghetto
-	Hubris
+	Regrets for Newborn
 - [[Amida-9]] is the Space elevator and [[Argrosy|Mass transit hub.]]
 	Icarus
 - [[Amida-11]] is the accumulation sector of furries. 
