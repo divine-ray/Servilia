@@ -1,5 +1,5 @@
 A plague, which swept the lands of Servilia. 
-Caused by [[Schi ut-Pula]]'s depression and the [[Last Resort]] of the [[Nølkā]]. 
+Caused by [[Schi ut-Pula]]'s depression and the devouring of Charon by the [[Nølkā]]. 
 
 Affected individuals have been forcibly relocated and displaced into [[Sepulchre]], the Undead City. Rather, a ghetto. 
 

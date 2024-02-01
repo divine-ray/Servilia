@@ -12,7 +12,7 @@
 - The Gates of Foreign Stone shall become lit when all singing stones have gathered. 
 	%%The [[Lunar Gateways]] in Stargard will become a teleporter to ??? once all monoliths have been placed in [[The Tellurion]]%%
 - Islands will loose their colour once the wheels of metal stop to turn as if beginning occurs again. 
-	%%The [[Chromatic Calderas]] will turn featureless once the Amarisk well, a part of mekhane, has been recovered%%
+	%%The [[Chromatic Calderas]] will turn featureless once the Amarisk Well, a part of mekhane, has been recovered%%
 - Masked judges return to the stage once the seven%%?%% hoards have been freed and their tyrants lost its faces. 
 	%%The [[Court of Storms]], and by a extend, [[Lost City of the Ninth Forest|Tombstone]], will restore themselves once the Archives and Libraries have been purged and Chezke-an has been defeated. %%
 - The Creature of Nothing reveals itself upon the branding of the wrong cattle. 
@@ -21,12 +21,13 @@
 - The [[Reliquary of False Promises|striker]] rings the [[Clocktowers beneath the Sea|Bells]], for promises broken, and hopes may be false and cold.
 - [[Seed of Thought|Free Thought]] brings forth the dawn as we know it. 
 - [[Terrain Shattered|Lands may shatter]] when tempests misbehave and snowfall boils. 
-- Bellows of Jet will loose pace on collapse of the hot and cold hells
+- Bellows of Jet will loose pace on collapse of the hot and cold hells.
 	%%Climate will shift drastically once the hearts of cold/fire have been quelled%%
 - Thirty-Two Fires are ablaze, those cinders scarring the lands.  
 - For when the Fires are quenched, nature shall heal. 
 - The Pit to Nothing aids in ethereal suspense of lands. 
 - Lands confined restrain a verdict spoken unjust. 
+- All Glass shattered returns the Nine Prayers.
 > [!WARNING] Fragments
 > when north becomes south and the Dread Gate opens
 > The Castle of Shadow and Flame shall be found

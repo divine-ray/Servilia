@@ -27,7 +27,5 @@ Furries (sapient anthropomorphic humanoids) exist in [[Amida-8]] due to a leak t
 Addresses are given in XYZ coordinates of that sector relative to the numerator core (0|0|0)
 
 
-![[Amida Buddah.png]]
-
 
 [^1]: read: renegade [[Pseudoneo]], (bio)computational intelligence, Elves, Dragons, homunculi, simulacra, animated mass, etc. 

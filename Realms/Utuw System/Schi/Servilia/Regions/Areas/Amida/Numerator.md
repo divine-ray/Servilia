@@ -12,7 +12,7 @@ Each numerator possesses an avatar, which is usually entrapped within its chambe
 
 The collective of Numerators is possibly scheming a coup or other way to rid of the corporate board.
 ## Sectors, as divided by Numerator:
-- [[Amida-7]] is the government/corporate HQ and management
+- [[Amida-5]] is the government/corporate HQ and management
 	Control
 - [[Amida-8]]  is the synth^[read:android, pseudoneo] ghetto
 	Hubris
@@ -21,8 +21,8 @@ The collective of Numerators is possibly scheming a coup or other way to rid of 
 - [[Amida-11]] is the accumulation sector of furries. 
 	Alteration
 - [[Amida-12]] is centred around brothels, clubs and other institutions of pleasure. 
-	Desire
-Numerators not integrated into the collective:^[The corporate-associated numerators are seen as inferior, as they're severely restrained in their degrees of freedom.]
+	Desire 
+Numerators not integrated into the collective^[The corporate-associated numerators are seen as inferior, as they're severely restrained in their degrees of freedom.]
 - [[A-5b]]
 	[[APAS Ltd.]] HQ, R&D, Testing and Deployment 
 - [[A-5c'a]]
