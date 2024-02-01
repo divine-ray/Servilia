@@ -10,10 +10,8 @@ K-Main sequence, habitable zone 0.1228 AU - 0.1771 AU
 	- volcanic, heated, captured protoplanet
 - [[Heaugi]]
 	- icy, frozen, cold
-### [[Sphill]]
-- 0,66AU large rocky atmosphere less
-- 55 moons
-	- evenly spaced around the planet
+### ![[Sphill]]
+
 ### [[Scheties]]
 - 11,23AU   gas dwarf 
 - [[Dirius]]
