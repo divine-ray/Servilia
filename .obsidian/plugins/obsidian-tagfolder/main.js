@@ -2814,6 +2814,7 @@ function instance5($$self, $$props, $$invalidate) {
           } else {
             const lastTrailTagLC = trimTrailingSlash(previousTrail).toLowerCase();
             if (isInDedicatedTag && tagsAll.some((e => e.toLowerCase() == lastTrailTagLC))) $$invalidate(15, isInDedicatedTag = false);
+            if (!isRoot || _setting.expandUntaggedToRoot) tagsAll = tagsAll.filter((e => "_untagged" != e));
             let existTags = [ ...tagsAll ];
             existTags = existTags.filter((tag => trail.every((trail2 => trimTrailingSlash(tag.toLowerCase()) !== trimTrailingSlash(trail2.toLowerCase())))));
             existTags = existTags.filter((tag => tag.toLowerCase() != thisName.toLowerCase() && tag.toLowerCase() != tagName.toLowerCase()));

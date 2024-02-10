@@ -1,4 +1,4 @@
-A Pair of glaring eyes piercing through the veil of the night, 
+A pair of glaring eyes piercing through the veil of the night, 
 staring into the unfortunate soul which ends caught in their glimpse. 
 They know what you did; what sins you committed; whom you saved; whom you betrayed.
 With thine eyes we see all.

@@ -13,8 +13,9 @@
   "obsidian-plugin-todo",
   "tag-wrangler",
   "obsidian-tagfolder",
-  "obsidian-timelines",
   "obsidian-version-history-diff",
   "notes-dater",
-  "readability-score"
+  "readability-score",
+  "persistent-graph",
+  "supercharged-links-obsidian"
 ]
