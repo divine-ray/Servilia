@@ -27,4 +27,4 @@ some rooms are outfitted with cryostasis capsules, most of which are opaque from
 	- Especially valuable for Sepulchre-Friscoan researchers.
 -   Lavish Currency. Worthless to Thylyist, modest value to Frisco.
 
-![[First Vault 10 (player).png]]%%![[First Vault 10.png]]%%
+![[First Vault 10 (player) 1.png]]%%![[First Vault 10.png]]%%
