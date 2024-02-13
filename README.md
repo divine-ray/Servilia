@@ -25,6 +25,7 @@ Start here:
 - If careless about spoilers: [[Major Plotlines]]
 * For the magic system, consider reading around [[Twilit]] and [[Twilit Casting]]. 
 * Lifeforms and species are described in [[Species of Servilia]]. 
+* The files in the WIP or Projects/Workpieces directory are mostly texts sourced from sudden inspiration, and those are the most coherent in terms of action. 
 ### Timeline
 A coherent story/timeline is yet to come. 
 However, the History of Servilia (The name of this continent) can roughly be divided into "The Past", "The Present" and "The Future".
