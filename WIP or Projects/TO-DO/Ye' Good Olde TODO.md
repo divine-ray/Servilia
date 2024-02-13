@@ -38,7 +38,7 @@
 - [ ] [[Amida]]
 	- [ ] Rough description of each sector, [[Like Obelisks, as far as another Realm]]
 	- [ ] History or rather how Amida rose from Thylyist, [[Talking 'bout a Revolution]]
-	- [x] Amidan Infrastructure and Utilities U.P.C. (unlimited professional corp.)
+	- [ ] Amidan Infrastructure and Utilities U.P.C. (unlimited professional corp.)
 		state-owned infrastructure and utilities Corp., contracting workers, etc.
 		legal loophole that grants amida itself some degree of freedom from the other corps ruling
 	- [ ] Amida has to be as horrible as possible to squeeze out the tiniest profit out of everything
@@ -80,7 +80,7 @@
 
 ## Species
 - [ ] [[Varuú]] 
-the experiments of lavish pseudoneo capabilities on humanoids, infused with twilight, building the city known as [[Lost City of the Ninth Forest|Tombstone]], and the \[\[Archive of Old]]. Probably the first group to be shoved into Exile. 
+the experiments of lavish pseudoneo capabilities on humanoids, infused with twilight, building the city known as `[[Lost City of the Ninth Forest|Tombstone]]`, and the \[\[Archive of Old]]. Probably the first group to be shoved into Exile. 
 - [x] eurasian shadowmaw, also rebrand to fit (Padia?)
 - ### northern glasswing??
 - [ ] [[Lavish Rework ⁄ Lore]]
@@ -95,7 +95,7 @@ the experiments of lavish pseudoneo capabilities on humanoids, infused with twil
 	give each tome a comprehensible function and relevance in some way
 	they shouldn't feel like generic fetch quest/McGuffin, but rather instil some strong feeling of dread/power/fear etc
 - [ ] Materials
-	- [ ]  [[Splinter of Blazes]], other fire related items (Gem of Cinders, simmering rock, etc. )
+	- [ ]  `[[Splinter of Blazes]]`, other fire related items (Gem of Cinders, simmering rock, etc. )
 	- [ ] Various metal plates for armour making 
 ## Oh, the magic
 Write down the entire custom spellcasting system, using gloves/books/wands/staves
@@ -120,13 +120,13 @@ perhaps some mechanism to dispense material component pellets into the gauntlet?
 ## Misc stuff
 make the calendar have hunter/~~wanderer~~/renegade gatherings every nth full moon of moon xyz
 recurring meteor showers
-[[Court of Storms]] as part of tombstone's upper levels which are now ruined 
+`[[Court of Storms]]` as part of tombstone's upper levels which are now ruined 
 oh yeah i should define how long a short/long rest is for combat balancing purposes
 [[Generator Snippets]]
 Time travel backwards with information from the [[Epos' Manuscripts]]?
 this will be VERY unpredictable as I'd have to account for time branch shifting and all that madness -> terminator gambit xdddddd
 
- ### [[Proper Plot]] lmao
+` ### [[Proper Plot]]` lmao
 
 Riders on the Storm 
 
@@ -159,7 +159,7 @@ however this one's man-made and thus not granted divine perfection and blessings
 
 ##### Methods of getting around
 Mounts, Magic stuff, Vehicles......
-[[Quick Travel methods]]
+`[[Quick Travel methods]]`
 Portals/wormholes/twilight rifts
 tl;dr loops in spacetime or twilight fabric that allow physical passage to another place 
 - [x] `[[Riftstones]]`
