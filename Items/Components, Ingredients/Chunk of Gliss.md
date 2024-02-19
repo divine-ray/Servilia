@@ -1,3 +1,7 @@
+---
+aliases:
+  - Gliss
+---
 #Item #commodity
 A decently sized chunk of Gliss, the unnatural substance surrounding the [[Fountainhead]].
 It is almost entirely devoid of physical traits, which makes samples a white, smooth object with no friction or resistances whatsoever. 

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Night Runners
+---
 [[The Void|Void-borne]] Creature, docile unless provoked or perceived.
 A lanky, slender pitch-black creature, erratic in its movement and appearance.
 It appears to... shift? 

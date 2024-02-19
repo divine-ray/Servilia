@@ -6,7 +6,7 @@
 - The Storm of Sorcery shall be freed when the Crown of the Abyss is broken and flesh is made iron.
 	%%raw twilight flux will be released when the FH is broken and pseudoneo revived%%
 - The Brass Court shall be found when the Seal of Quests fails and the Blade of Cruelty is drawn.
-- The Line of Faith shall be hidden until the sun is eclipsed and the caverns of lodes have collapsed.
+- The Line of Faith shall be hidden until the sun is eclipsed and the caverns of emptied lodes have collapsed.
 	%%chalk line of fate, telling the ideal plot --- caverns of lode = hollow mountains%%
 - When the Black Hare lies in blood and blades pierce the sky, the Rogue of the Tome shall fall.
 - The Gates of Foreign Stone shall become lit when all singing stones have gathered. 
@@ -24,10 +24,14 @@
 - Bellows of Jet will loose pace on collapse of the hot and cold hells.
 	%%Climate will shift drastically once the hearts of cold/fire have been quelled%%
 - Thirty-Two Fires are ablaze, those cinders scarring the lands.  
-- For when the Fires are quenched, nature shall heal. 
+- At the last beat of two enemies, nature will experience a painful mend.
+	%%When both Hearts (of Cold/Fire) cease to live, nature will recover to the times pre-Nolka-Mekhan.-War, but in a slow and troublesome process
 - The Pit to Nothing aids in ethereal suspense of lands. 
+	%%The Fountainhead keeps the [[Floating Islands]] in the air%%
 - Lands confined restrain a verdict spoken unjust. 
+	%%The Ancient Exile has been created through a pitched judgement at the Court of Storms%%
 - All Glass shattered returns the Nine Prayers.
+- Those who embellish bodies in Metal are faced with rust; corrosion. 
 > [!WARNING] Fragments
 > when north becomes south and the Dread Gate opens
 > The Castle of Shadow and Flame shall be found

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Lavish Empire
+---
 # Profile: #Lavish 
 
 This water-bound species shaped the once-dry [[Palga Basin]] into a massive body of water, sustaining their life.

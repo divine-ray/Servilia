@@ -8,7 +8,7 @@ This plane is never lit, and sources of light are prone to consumption by the wi
 ## Topology
 This realm is easily divided into two sections: 
 ##### Caverns
-Elaborate and complex caves, carved into the very fabric of this place. It is rumoured that flux and erratic energies from Limbo/Chaos dug and eroded these caverns.   
+Elaborate and complex caves, carved into the very fabric of this place. It is rumoured that flux and erratic energies emerged from Limbo/Chaos to dig and erode these caverns.   
 Some of them are chasms, sheltering entire villages of wall-dwelling creatures, and some barely allow a worm to squeeze through.
 This region is home to most of the lesser shadow creatures.
 ##### The Big Open

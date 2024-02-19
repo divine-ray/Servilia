@@ -32,6 +32,6 @@ Alma'duthd
 [[Warlock Gaíz-an]]
 
 ### #Amida 
-- [[Gavin  Sharp]]
+- [[Gavin Sharp]]
 - [[Graham Corwin]]
 - 

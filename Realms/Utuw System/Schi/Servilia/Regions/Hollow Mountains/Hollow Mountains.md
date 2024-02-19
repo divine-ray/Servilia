@@ -1,27 +1,9 @@
-Hollow Mountains
 
-Monday, 25. April 2022
+The Lavish collaborated with the Council of Thylyist and constructed the [[Fountainhead]] to siphon the Twilit to raise these mountains, primarily to encase the remnants of the [[Nølkā]]. 
+Secondarily, the terraforming has been used to raise the corners of the [[Palga Basin]] to provide more space to the thriving [[The Lavish Empire|Lavish Empire]].
+The [[Nølkā]] have effectively changed and shifted over time, and now are referred to as [[Ancients]] in their [[Ancient Exile|Exile]].
 
-09:16
+The residual energies of the [[Raising]] attract [[Night Runner|Night Runners]].  
+Shortly after the mountains have arisen, various dense and rich ore deposits have been discovered, for which the [[Dwarves]] have been created: to mine the ore, which is still peddled and sold in modern times. 
+However, the recklessness and disregard for their own safety has left the mountains unstable and without further support, leaving entire peaks vulnerable to seismic activities. 
 
- 
-
-The Lavish got tasked by the Council of Thylyist and constructed the Fountainhead to generate the power required to terraform a whole chain of mountains.
-
- 
-
- 
-
-The Lavish raised these mountains to a) encase the Ancient, and b) to expand their basin sea for a higher water level = more space for them.
-
- 
-
-The HM are Home to few night runners and hub for dragons
-
- 
-
-The inside is housing all kinds of underground critters, including dwarves
-
- 
-
-The hollow mountains got dug out by dwarfen miners tasked by The Council Of Thylyist in need of metals and resources.
