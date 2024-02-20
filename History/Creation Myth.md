@@ -1,3 +1,4 @@
+#Structure 
 [[Yaldabaoth]] (goddess of flesh) created humans,
 [[Mekhane]] gifted them machines and invention.
 Yaldabaoth intended them to be uncultured and rather wild, like animals.

@@ -2,7 +2,8 @@
 This page aims to describe current issues that are inflicting trouble on the various factions and religions. 
 # [[Empire of Thylyist]]
 ## Population
-Ongoing poverty, failing harvests, plummeting quality and standards of life. Absence of maintenance towards public interests such as trade routes, water infrastructure and security (i.e. protection from theft, burglary and assassinations) is giving raise to [[Organised Crime]].   
+Ongoing poverty, failing harvests, plummeting quality and standards of life. Absence of maintenance towards public interests such as trade routes, water infrastructure and security (i.e. protection from theft, burglary and assassinations) is giving raise to [[Organised Crime]].  
+Additionally, the misery of citizens is feeding the New God of [[Fear and Hunger]]. 
 Generally, the stagnation and recession of technology and overbearing control forced quite many citizens into small, covert groups in which the law is broken. These groups, however, not interacting nor aware of another, thus cannot network to create organised protests and such. 
 ## [[Council of Thylyist]]
 Those parts of the council that aren’t completely proxy figures to the Mekhanites are becoming increasingly corrupt and influenced by various wealthy organisations and merchants guilds.
