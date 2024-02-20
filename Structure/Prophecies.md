@@ -1,11 +1,17 @@
-- In the Valley of Crystal, when the light comes to lifeless eyes, the Lantern of Strength shall be lost.
+---
+tags:
+  - Structure
+  - History
+  - Events
+---
+- In the [[Valley of Crystal]], when the light comes to lifeless eyes, the [[Lantern of Strength]] shall be lost.
 - Within the great dust bowl, **upon** the dawn of mankind, energy must flow. 
 	%%twilight flux will flow from within the palga basin%%
 - The cord to the skies will be found once life rebirths anew.
 	%%space elevator cable will be built/found upon rediscovery of pseudoneo%%
 - The Storm of Sorcery shall be freed when the Crown of the Abyss is broken and flesh is made iron.
 	%%raw twilight flux will be released when the FH is broken and pseudoneo revived%%
-- The Brass Court shall be found when the Seal of Quests fails and the Blade of Cruelty is drawn.
+- The [[Brass Court]] shall be found when the Seal of Quests fails and the [[Blade of Cruelty]] is drawn.
 - The Line of Faith shall be hidden until the sun is eclipsed and the caverns of emptied lodes have collapsed.
 	%%chalk line of fate, telling the ideal plot --- caverns of lode = hollow mountains%%
 - When the Black Hare lies in blood and blades pierce the sky, the Rogue of the Tome shall fall.
@@ -25,13 +31,14 @@
 	%%Climate will shift drastically once the hearts of cold/fire have been quelled%%
 - Thirty-Two Fires are ablaze, those cinders scarring the lands.  
 - At the last beat of two enemies, nature will experience a painful mend.
-	%%When both Hearts (of Cold/Fire) cease to live, nature will recover to the times pre-Nolka-Mekhan.-War, but in a slow and troublesome process
+	%%When both Hearts (of Cold/Fire) cease to live, nature will recover to the times pre-Nolka-Mekhan.-War, but in a slow and troublesome process.%%
 - The Pit to Nothing aids in ethereal suspense of lands. 
 	%%The Fountainhead keeps the [[Floating Islands]] in the air%%
 - Lands confined restrain a verdict spoken unjust. 
 	%%The Ancient Exile has been created through a pitched judgement at the Court of Storms%%
 - All Glass shattered returns the Nine Prayers.
 - Those who embellish bodies in Metal are faced with rust; corrosion. 
+	 %%The [[Blessed Machine]] will eventually falter and fail the [[True Machinists]], forcing them towards computation and uploading of themselves.
 > [!WARNING] Fragments
 > when north becomes south and the Dread Gate opens
 > The Castle of Shadow and Flame shall be found

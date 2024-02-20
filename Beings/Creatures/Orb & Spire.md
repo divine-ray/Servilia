@@ -50,5 +50,6 @@ Assemble into a spire when approached, attacks when engaged.
 2d4-1 Atk blunt or bludgeoning damage per hit.
 
 Usually located around Druid-influenced or otherwise nature magic places.
+Mossy variations or those overgrown with algae and seaweed exist around the [[Lunar Mangroves]]. 
 
 > Respawns

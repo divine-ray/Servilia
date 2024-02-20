@@ -1,0 +1,1 @@
+Story concept that is about a lover using time travel to go back in time to see their loved one before they committed suicide, only to be trapped in a endless cycle of tragedy and sadness
