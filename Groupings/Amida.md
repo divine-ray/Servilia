@@ -1,5 +1,5 @@
 ---
-tags: Amida, Settlements, Factions
+tags: Amida, Settlements, Faction
 --- 
 
 Post-Revolution [[Empire of Thylyist]] which caused major turnovers in cultural and social norms, which led to a very liberal but unstable culture and population.

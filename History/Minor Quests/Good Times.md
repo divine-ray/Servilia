@@ -12,53 +12,37 @@ Retrieve the Vacuum Cleaner and Permit for a citizen
 It was a Monday  
 When we took the car  
 And drove it to the shops-  
-  
 [RANDY]  
 I think it was a Tuesday-  
-  
 [SAMMY J]  
 I'm pretty sure it wasn't-  
 No, you're right, it was a Tuesday  
-  
 [BOTH]  
 Cause Derek had the permit  
-  
 [RANDY]  
 It's a clear way on a Monday  
-  
 [SAMMY J]  
 Yeah, but we parked there  
-
 [BOTH]  
 So it must have been a Tuesday  
-  
 [SAMMY J]  
 When we took the car-  
-  
 [RANDY]  
 Did Derek give that permit back?  
-  
 [SAMMY J]  
 He said he'd leave it when he went to Queensland  
-  
 [RANDY]  
 We should chase that up  
-  
 [SAMMY J]  
 We will  
-  
 [BOTH]  
 Still  
-  
 [SAMMY J]  
 We were in the car  
-  
 [RANDY]  
 Urgh...  
-
 [SAMMY J]  
 Driving to the shops-  
-  
 [RANDY]  
 I'm serious, that permit wasn't cheap  
   
