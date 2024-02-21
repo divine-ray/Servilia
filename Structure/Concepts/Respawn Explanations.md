@@ -1,15 +1,15 @@
 
 You/The Player may choose from one of the following to cheat death, however, it comes with severe drawbacks. 
--   Curse of the Undead
+-   [[Curse of the Undead]]
 	%%Curse of the undead caused by corruption and Between Twilight upon humans%%
 
--   Vessel 
+-   [[Vessels]]
 	%%Hollow knight vessel, aka void container%%
 
--   Ashen 
+-   [[Ashen]]
 	%%Incineration/Cremation caused by the Blazing from Children of The Flame%%
 
--   Symbioparasite
+-   [[Symbioparasite]]
 	%%Symbpara is an amorphous artificial organism, a ’core’ capable of burying into bodies and controlling them.%%
 
 -   Spirit-induced Animation
@@ -18,7 +18,7 @@ You/The Player may choose from one of the following to cheat death, however, it 
 	%%A sophisticated construct with high degrees of freedom, which is forced to complete some task during the campaign.%% 
 
 - Frozen/Cold Husk
-	%%Frozen/Cold Husk as a entity that has obtainend some degree of autonomy from The Heart. %%
+	%%Frozen/Cold Husk as a entity that has obtainend some degree of autonomy from a Heart of Cold. %%
 ***
 
 
