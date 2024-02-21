@@ -8,3 +8,4 @@
 - Citizen discovering magic artifacts and such
 - Whistleblowing or other information leaks, leading way to public enlightenment
 - [[Assassination of Council Members]]
+- [[Daeva Revolutionists]]
