@@ -1,11 +1,14 @@
 ---
+tags:
+  - "#History"
 fc-date: 01-01-0001
 fc-end: 03-04-0122
 timelines:
   - timeline
 aat-render-enabled: true
 ---
-#TODO 
+#TODO #History #Event
+
 ## ![[Creation Myth]]
 This led to a [[Prime Clash of Nolka vs Mekhanites|severe conflict]], arms race and eventual escalation in global war between the both factions, devastating humanity as a whole (save for those species who were above human clashing).
 Only splinter groups remained, but those are what now drives the [[Children of The Flame]], [[Nølkā]] and [[Followers of Mekhane|Mekhanite]]. 

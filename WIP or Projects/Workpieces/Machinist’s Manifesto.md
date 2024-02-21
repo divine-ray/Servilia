@@ -1,4 +1,4 @@
-Gross, filthy flesh. 
+*Gross*, filthy flesh. 
 A prison forced upon myself, revered as the only way by the broad mass.
 Its limits disgust me, keeping me forced in routines dictated by its sole purpose: self-sustaining. 
 Ridiculed I am, but not shall be, a pity bound to being avenged with highest force. 
