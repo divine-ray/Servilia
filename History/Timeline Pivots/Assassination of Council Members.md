@@ -1,9 +1,4 @@
-Potential Assassination of Council Members
-
-Monday, 25. April 2022
-
-11:41
-
+[[Council of Thylyist]] - Members might be assassinated... 
  
 
 <table>
