@@ -2,6 +2,7 @@
 A slightly oversized and overdone Worldbuilding project, singlehanded-ly done by me. 
 Originally designed as D&D(ish) + Home-brew setting, has expanded out and beyond that ever since. 
 There's little understandable or coherent, linked story going on, since my interests are more in the entire overarching environment and such. But you'll find some texts that are from the point of view of a individual, who might become a persistent character. Who knows.[^1]
+[[Towards the Reader]].  
 ### Themes
 There’s no consistent theme aside from “the world is horrible yet we keep on pushing” and issues arising from that, so, have fun! 
 In terms of genres and bullet points this project includes:
