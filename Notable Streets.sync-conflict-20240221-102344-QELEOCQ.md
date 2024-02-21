@@ -1,2 +1,0 @@
-[[Telegraph Road]]
-[[Electric Avenue]]
