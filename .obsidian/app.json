@@ -19,7 +19,7 @@
     "editor:redo",
     "editor:configure-toolbar"
   ],
-  "mobilePullAction": "editor:focus-left",
+  "mobilePullAction": "command-palette:open",
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
   "trashOption": "local"
