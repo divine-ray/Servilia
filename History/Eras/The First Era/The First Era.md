@@ -9,6 +9,8 @@ timelines:
 ---
 #History
 
+#History
+
 %%Gorgo%% 
 Notable events are described in [[Before the First Era]]. 
 #### Alliance and Peace

@@ -1,5 +1,8 @@
 #Weapon 
-*And his music was electric.*
+*And his music was electric.*Finest and most exotic wood, strung with exotic [metal](Inanistathine), but bearing smoulders, through which lightning bore its way. 
+
+
+### Stats
 Finest and most exotic wood, strung with exotic [metal](Inanistathine), but bearing smoulders, through which lightning bore its way. 
 
 

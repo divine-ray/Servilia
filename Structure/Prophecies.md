@@ -4,6 +4,12 @@ tags:
   - History
   - Events
 ---
+---
+tags:
+  - Structure
+  - History
+  - Events
+---
 - In the [[Valley of Crystal]], when the light comes to lifeless eyes, the [[Lantern of Strength]] shall be lost.
 - Within the great dust bowl, **upon** the dawn of mankind, energy must flow. 
 	%%twilight flux will flow from within the palga basin%%
