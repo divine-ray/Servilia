@@ -27,4 +27,4 @@ possibly a [[little subgroup of the lunatics]] struggling to study the [[Lunar G
 some other group #TODO to study the way of the soul through [[Styx]], [[Acheron]] and into the [[Afterlives]] (and hells/heavens, respectively) to achieve the journey to paradise, off the mortal realm.
 
 [[The Zubin Society]] as NRM with the goal to uncouple the soul from the body.
-Possibly is distantly related to a old split-off from the Nolka, as they overlap in their lost prophet and try to surpass the mortal body
+Possibly is distantly related to a old split-off from the Nolka, as they overlap in their lost prophet and try to surpass the mortal body, as seen above. 

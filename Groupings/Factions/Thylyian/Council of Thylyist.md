@@ -1,17 +1,17 @@
-#Thylyist #Thylyist-Government 
+#Thylyist 
 Once the shining example of democracy, this institution has been overthrown after the [[Betrayal]].
-Ever since, the [[Followers of Mekhane]] reign with a [[Thylyian Military|iron fist]], thwarting any opposition and anything that could possibly threaten their reign. 
-
+Ever since, the [[Followers of Mekhane]] reign with a [[Gearforged Vanguard|iron fist]], thwarting any opposition and anything that could possibly threaten their reign. 
 	The council of seven individuals governing the City Empire of Thylyist. 
 	They are seen as ethereal and incorporeal from the population.
 	Members of the council are very rarely seen in persona and they employ life-extending technology.
-	Every 16 orbital periods of Heaugi (16op x 64d/op = 1024d) ,they hold a secret vote if one member has become untrustworthy and requires  replacements. 
+	Every 16 orbital periods of Heaugi (16op x 64d/op = 1024d) ,they hold a secret vote if one member has become untrustworthy and requires *replacements*. 
 	A replacement is selected from a pool of unknowing citizens.
-
+[[Possible Ways Thylyist can collapse|But their reign is flimsy, and bound to fall and burn.]]
 They always use code names or those that don’t change.
 
-Plottwist: [[Darb ut-Tabānah]], a exilian (he got exiled from the other deities) is now betraying and traitorous towards the other deities and pushes the government to act upon the issue of magic, especially the fountainhead, and ancients.
-
+> [!WARNING] Outdated
+> Plottwist: [[Darb ut-Tabānah]], a exilian (he got exiled from the other deities) is now betraying and traitorous towards the other deities and pushes the government to act upon the issue of magic, especially the fountainhead, and ancients.
+> 
 
 
 ###### Old Stuff
@@ -108,8 +108,6 @@ The Administrator is actually a halfbreed of god and dragon and the only one who
 </tr>
 </tbody>
 </table>
-
-\<- there's a matriarchal revolution going on, started by the [[Daeva Revolutionists ]]
 
 "Past" iteration of #Amida [[Amida]]
 

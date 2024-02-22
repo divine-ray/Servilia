@@ -1,6 +1,9 @@
 ---
-tags: Thylyist-Military, Thylyist, Thylyist-Government
-aliases: Strategic Planning and Coordination Department, Thylyist Military
+tags:
+  - Thylyist
+aliases:
+  - Strategic Planning and Coordination Department
+  - Thylyist Military
 ---
 *Strategic Planning and Coordination Department*
 The Thylyian Military, led by a small group of wealthy and otherwise influential people, including city-famous merchant guild leaders or [[Followers of Mekhane|Mekhanites]]. 
@@ -16,3 +19,6 @@ Most significant, those cover up the extinction of the Lavish, the propaganda an
 
 ### 2. Dogs of War
 ![[Dogs of War]]
+
+### 3. [[War Constructors]]
+![[War Constructors#^87a079]]

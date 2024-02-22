@@ -22,5 +22,6 @@
   "mobilePullAction": "command-palette:open",
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
-  "trashOption": "local"
+  "trashOption": "local",
+  "attachmentFolderPath": "Media"
 }
