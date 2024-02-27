@@ -1,5 +1,5 @@
 A [[machine]], made to [[Deployed Giant|vanquish]] the indomitable human spirit.
-A [[monster]], birthed to usurp all there is. 
+A [[red plague|monster]], birthed to usurp all there is. 
 Two unstoppable forces, made to face another, fighting for resolution of their quest.
 In the last glimpse, as their inner workings start to fail from the damage inflicted by the other, both become one in a dying embrace.
 Their suffering leaves suffering, yet to be released from their abuse as tools.

@@ -4,12 +4,6 @@ tags:
   - History
   - Events
 ---
----
-tags:
-  - Structure
-  - History
-  - Events
----
 - In the [[Valley of Crystal]], when the light comes to lifeless eyes, the [[Lantern of Strength]] shall be lost.
 - Within the great dust bowl, **upon** the dawn of mankind, energy must flow. 
 	%%twilight flux will flow from within the palga basin%%
@@ -44,7 +38,8 @@ tags:
 	%%The Ancient Exile has been created through a pitched judgement at the Court of Storms%%
 - All Glass shattered returns the Nine Prayers.
 - Those who embellish bodies in Metal are faced with rust; corrosion. 
-	 %%The [[Blessed Machine]] will eventually falter and fail the [[True Machinists]], forcing them towards computation and uploading of themselves.
+	 %%The [[Blessed Machine]] will eventually falter and fail the [[True Machinists]], forcing them towards computation and uploading of themselves.%%
+ - Rocks boiling die off at eon's whisk. 
 > [!WARNING] Fragments
 > when north becomes south and the Dread Gate opens
 > The Castle of Shadow and Flame shall be found
