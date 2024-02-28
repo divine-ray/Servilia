@@ -9,8 +9,3 @@ Tuesday, 26. April 2022
 This could provide such an energy that they can *skip across timeline branches.*
 
 Instead of solely back in time, so they could manipulate the entire plot and extinction of lavish and ancients!
-
-
-# piercings
-gotta get some piercings I suppose
-and haircare
