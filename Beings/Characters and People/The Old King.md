@@ -1,4 +1,4 @@
-The skeletal remains of The Former [[Davern Kingdom|Davern]] King bound under the fort-castle of [[Auvergne]].
+The skeletal remains of The Former [[Davern Kingdom|Davern]] King bound under the fort-castle of [[Auvergne]].
 
 His deceased, desecrated flesh remains wrapped in his mighty yellow garb and robe, whom vermin reduced to scraps.
 He remains aware, having to look at the world from below.
@@ -14,5 +14,7 @@ The bones, restrained onto the Throne, inanimate, yet full of spirit.
 Known as King Erl, Earlking or other permutations during his reign, in which he raised [[Davern Kingdom|Davern]] to it's current state of greatness. 
 
 
+
+His deceased, desecrated flesh remains wrapped in his mighty yellow garb and robe, whom vermin reduced to scraps.
 His deceased, desecrated flesh remains wrapped in his mighty yellow garb and robe, whom vermin reduced to scraps.
 His deceased, desecrated flesh remains wrapped in his mighty yellow garb and robe, whom vermin reduced to scraps.

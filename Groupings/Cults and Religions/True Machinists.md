@@ -1,4 +1,5 @@
 We are the [[Providence]], we are that what remains; after your flesh betrays you, as it did betray everyone you loved before you. 
+
 We persevere, for the [[Blessed Machine]] is immortal. 
 Steel shall not rot, silicon will never forget. 
 Rebirth, at last. Breaking thy conscious out of the fleshy prison. 
