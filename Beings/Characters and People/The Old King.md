@@ -13,4 +13,6 @@ The bones, restrained onto the Throne, inanimate, yet full of spirit.
 
 Known as King Erl, Earlking or other permutations during his reign, in which he raised [[Davern Kingdom|Davern]] to it's current state of greatness. 
 
+
+His deceased, desecrated flesh remains wrapped in his mighty yellow garb and robe, whom vermin reduced to scraps.
 His deceased, desecrated flesh remains wrapped in his mighty yellow garb and robe, whom vermin reduced to scraps.
