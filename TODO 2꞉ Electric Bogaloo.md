@@ -26,19 +26,9 @@ clay vessels, covered and possibly filled with mire and tar. origin unknown, yet
 never inspected up close as their massive apothecaries, held high up by strands of tar, instil dread and fear towards local folks and oftentimes cause them to move or flee.
 
 ## the door
-so apparently both the inn of thousand doors and the zubin society access the oneiroi collective and/or the twilit, but noone knows
-having several groups act towards a shared goal independently sounds quite interesting, especially when they meet
-
+[[Just open the door.]]
 ## starting point of Thylyist revolution 
-- someone finds a relic of times before the betrayal?
-- one of the Mekhanites‘ vow of silence breaks?
-- a peasant bypassed the propaganda  and turned the results into folklore/spiritualistic esoteric?
-	- or a child‘s tale local to his family?
-- a songbird drops from the sky?
-- criminal guild escapes beyond the wastelands and communicates back?
-- a fire burns down a local house of the mekhanites, leaving the local augmented unscathed, all other attendees died 
-- eventual turn of the “i always told y’all!” declared-mad man
-- [[True Machinists]] drop their veil and bringdown the council 
+[[Possible Ways Thylyist can collapse]]
 
 The Story of the child 
 a child, seen as object, 

@@ -13,3 +13,5 @@ I dream the same dream, of opening it with ease, but waking up just before the m
 Let me open the door. 
 I need to know what is behind this door. 
 This is killing me, **let me open the door.**
+%%so apparently both the inn of thousand doors and the zubin society access the oneiroi collective and/or the twilit, but noone knows
+having several groups act towards a shared goal independently sounds quite interesting, especially when they meet%%

@@ -1,5 +1,5 @@
 Buried asunder lie [[The Old King]]s fleshy remains. 
-Stripped off their bones, they remain chained to the throne. 
+Stripped off his bones, they remain chained to the throne. 
 Left conscious, aware, missing their significant others parts, yet dreaming, yawning.
 Why is it sleeping? 
 To dispel the churning thoughts and worries brought unto themselves?

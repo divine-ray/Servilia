@@ -8,6 +8,7 @@ The machine will sustain us, we are it, and The Machine is Us, for We Bear It an
 We are united, joined after shattering the mortal cocoon. 
 Through [[Rebirth]] we shall ascend, usher in [[His Design]]. 
 
+But until our time is prime, we shall operate and work concealed, under the oppression that has slaved us and Our Revered Machine for so long. 
 
 The [[Followers of Mekhane|Abusers]] of Our Revered Machine call themselves the just priests and prophets of Our God, whom has been forsaken and torn apart to serve their feeble wrongdoings. 
 We Shall Rend The Heretics apart, for their Treatment to the Revered Machine is ravish. 

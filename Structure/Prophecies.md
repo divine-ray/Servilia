@@ -20,7 +20,7 @@
 - For when Eyes Open and Saltwater has rained, the other wounds bleed again.
 - The [[Reliquary of False Promises|striker]] rings the [[Clocktowers beneath the Sea|Bells]], for promises broken, and hopes may be false and cold.
 - [[Seed of Thought|Free Thought]] brings forth the dawn as we know it. 
-- [[Terrain Shattered|Lands may shatter]] when tempests misbehave and snowfall boils. 
+- [[Terrain Shattered|Lands may shatter]] when [[tempests]] misbehave and snowfall boils. 
 - Bellows of Jet will loose pace on collapse of the hot and cold hells.
 	%%Climate will shift drastically once the hearts of cold/fire have been quelled%%
 - Thirty-Two Fires are ablaze, those cinders scarring the lands.  
