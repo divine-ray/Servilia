@@ -10,3 +10,13 @@
 - Whistleblowing or other information leaks, leading way to public enlightenment
 - [[Assassination of Council Members]] or other ways to destabilise the iron fist grip of the [[Council of Thylyist]]. 
 - [[Daeva Revolutionists]]
+## Older, taken from TODO2
+- someone finds a relic of times before the betrayal?
+- one of the Mekhanites‘ vow of silence breaks?
+- a peasant bypassed the propaganda and turned the results into folklore/spiritualistic esoteric?
+	- or a child‘s tale local to his family?
+- a songbird drops from the sky?
+- criminal guild escapes beyond the wastelands and communicates back?
+- a fire burns down a local house of the Mekhanites/Machinists, leaving the local augmented unscathed, all other attendees died 
+- eventual turn of the “i always told y’all!” declared-mad man
+- [[True Machinists]] drop their veil and bring down the council 
