@@ -9,12 +9,12 @@
     {
       "type": "file",
       "ctime": 1697447001182,
-      "path": "Structure/Generator Snippets.md"
+      "path": "Overviews/Generator Snippets.md"
     },
     {
       "type": "file",
       "ctime": 1698498341333,
-      "path": "Structure/Digests/Major Plotlines.md",
+      "path": "Overviews/Summaries, Digests/Major Plotlines.md",
       "title": "Plots"
     },
     {
@@ -24,7 +24,7 @@
         {
           "type": "file",
           "ctime": 1699711390715,
-          "path": "Structure/Digests/Things that Need Fixing.md",
+          "path": "Overviews/Summaries, Digests/Things that Need Fixing.md",
           "title": "Issues and flaws"
         },
         {
