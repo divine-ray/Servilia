@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1693337818542,
+      "path": "WIP or Projects/TO-DO/Ye' Good Olde TODO.md",
+      "title": "Main TODO struct"
+    },
+    {
+      "type": "file",
+      "ctime": 1697447001182,
+      "path": "Overviews/Generator Snippets.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1698498341333,
+      "path": "Overviews/Summaries, Digests/Major Plotlines.md",
+      "title": "Plots"
+    },
+    {
+      "type": "group",
+      "ctime": 1701165749644,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1699711390715,
+          "path": "Overviews/Summaries, Digests/Things that Need Fixing.md",
+          "title": "Issues and flaws"
+        },
+        {
+          "type": "file",
+          "ctime": 1701165704332,
+          "path": "Beings/Species/Liches.md",
+          "title": "Liches / Disrupting Twilit"
+        },
+        {
+          "type": "file",
+          "ctime": 1701422007571,
+          "path": "WIP or Projects/TO-DO/Before the First Era.md"
+        }
+      ],
+      "title": "TODO"
+    },
+    {
+      "type": "group",
+      "ctime": 1701165754434,
+      "items": [],
+      "title": "Structure"
+    }
+  ]
+}

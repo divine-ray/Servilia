@@ -1,6 +1,6 @@
 You. Yes, you.
 You do crave, hunger, don't you? 
-You want power, you want wealth. You want fame, want to be someon known, relatable. 
+You want power, you want wealth. You want fame, want to be someone known, relatable. 
 I know, i know. You puny humans, all the same.
 But. 
 I can offer you intangible wealth, power and all riches you can imagine, for you, and all your children to come. 
