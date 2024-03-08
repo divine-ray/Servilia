@@ -12,11 +12,11 @@ aat-render-enabled: true
 #TODO #History #Event
 
 ## ![[Creation Myth]]
-This led to a [[Prime Clash of Nolka vs Mekhanites|severe conflict]], arms race and eventual escalation in global war between the both factions, devastating humanity as a whole (save for those species who were above human clashing).
+This led to a [[Prime Clash of Nolka vs Mekhanites|severe conflict]], arms race and eventual escalation in global war between the both factions, devastating humanity as a whole in the events of the [[Nølkā-Mekhanite War]] (save for those species who were above human clashing).
 Only splinter groups remained, but those are what now drives the [[Children of The Flame]], [[Nølkā]] and [[Followers of Mekhane|Mekhanite]]. 
 Arriving slightly later is the following to the Cold, the [[Ghiaccia Conclave]]. 
 	The Children have formed in crusades against the undying and cold, as their flames can rid the [[Curse of the Undead]] and [[The Cold]], which is the enduring descendant of lively weaponry employed by the [[Nølkā]].
-Mekhane shattered during this fight into many components and pieces, one of which drives the entire Empire [[Empire of Thylyist|Thylyist]]. Some managed to escape into the plane of Mechanus, others into the vast eternal sea. It is seen as the duty and holy goal of the Mekhanites perform [[His Divine Reassembly]]. 
+Mekhane shattered during this fight into many components and pieces, [[Heart of Mekhane|one of which]] drives the entire Empire [[Empire of Thylyist|Thylyist]]. Some managed to escape into the plane of Mechanus, others into the vast eternal sea. It is seen as the duty and holy goal of the Mekhanites perform [[His Divine Reassembly]]. 
 
 And presumably the [[Nølkā-Mekhanite War]] is the original event that turned Schi ut-Pulá depressed, as she did not foresee the followers of her "friends" annihilate each other. ~~shortly turned into the undying and such~~
 The Curse of the Undead and the Cold are the final retaliation strikes by the [[Nølkā]] against the people of mekhane, knowing they'll bring misery for eternity to come. 
