@@ -14,6 +14,7 @@ aka: big obstructions for readability towards «other people»
 	- [[Character Overview]]
 - [[Stressors on Factions]] = faction motivations
 - why i am doing this -> [[Motivation]]
+- [[Complete History of Servilia]], since the entire history is busted and spread too widely
 ### Local Populace, Townsfolk
 - [[Religions]]
 	- [[Universal Pantheon]]
