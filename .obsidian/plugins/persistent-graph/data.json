@@ -1,2764 +1,2719 @@
 {
   "nodePositions": [
     {
-      "id": "Apartment 403/Attire/Boots and Heels.md",
-      "x": 833.4660034179688,
-      "y": -2077.732666015625
-    },
-    {
-      "id": "Apartment 403/Attire/Bottom Pieces.md",
-      "x": 1171.692138671875,
-      "y": -1740.7127685546875
-    },
-    {
-      "id": "Apartment 403/Attire/Clothing.md",
-      "x": 970.6131591796875,
-      "y": -1797.0445556640625
-    },
-    {
-      "id": "Dresses",
-      "x": 1167.223388671875,
-      "y": -1620.8477783203125
-    },
-    {
-      "id": "Straps",
-      "x": 778.7836303710938,
-      "y": -1970.96337890625
-    },
-    {
-      "id": "Socks and Legwear",
-      "x": 704.2681884765625,
-      "y": -1795.5999755859375
-    },
-    {
-      "id": "Apartment 403/Attire/Odd Things That Reject Taxonomy.md",
-      "x": 822.5756225585938,
-      "y": -1562.296630859375
-    },
-    {
-      "id": "Apartment 403/Attire/Piercings.md",
-      "x": 1049.4193115234375,
-      "y": -1643.5611572265625
-    },
-    {
-      "id": "Apartment 403/Attire/Shiny Top Pieces.md",
-      "x": 674.3987426757812,
-      "y": -1911.8126220703125
-    },
-    {
-      "id": "Apartment 403/Attire/Shopping list.md",
-      "x": 1061.9013671875,
-      "y": -1515.858642578125
-    },
-    {
-      "id": "Apartment 403/Attire/Top Pieces.md",
-      "x": 726.8369750976562,
-      "y": -1671.6302490234375
-    },
-    {
-      "id": "Coats and Mantles",
-      "x": 468.0256652832031,
-      "y": -1744.8822021484375
-    },
-    {
-      "id": "Apartment 403/Attire/Underwear.md",
-      "x": 1290.946533203125,
-      "y": -1668.82666015625
-    },
-    {
-      "id": "Garter Belts",
-      "x": 1462.990234375,
-      "y": -1454.1380615234375
-    },
-    {
-      "id": "Apartment 403/Attire/Unsorted Bookmarks.md",
-      "x": 1179.5281982421875,
-      "y": -2027.7071533203125
-    },
-    {
-      "id": "Apartment 403/HRT.md",
-      "x": 1409.3441162109375,
-      "y": -1561.4710693359375
-    },
-    {
-      "id": "Therapist",
-      "x": 1427.638671875,
-      "y": -1292.0970458984375
-    },
-    {
-      "id": "Apartment 403/IKEA notetaking.md",
-      "x": 1765.6123046875,
-      "y": -1639.0264892578125
-    },
-    {
-      "id": "Apartment 403/Indices/Apt403 SUPERINDEX.md",
-      "x": 859.833251953125,
-      "y": -1851.651611328125
-    },
-    {
-      "id": "Apartment 403/Indices/Diary INDEX.md",
-      "x": 393.36151123046875,
-      "y": -2015.9146728515625
-    },
-    {
-      "id": "Apartment 403/Indices/NSFW INDEX.md",
-      "x": 536.4879760742188,
-      "y": -1985.4742431640625
-    },
-    {
-      "id": "Apartment 403/Indices/Personell Files INDEX.md",
-      "x": 233.22007751464844,
-      "y": -1861.409912109375
-    },
-    {
-      "id": "Kira",
-      "x": 28.488445281982422,
-      "y": -2057.707763671875
-    },
-    {
-      "id": "Clash",
-      "x": -56.16729736328125,
-      "y": -1972.710693359375
-    },
-    {
-      "id": "TheNewGuy",
-      "x": -63.15162658691406,
-      "y": -1852.937744140625
-    },
-    {
-      "id": "Apartment 403/Indices/Re-Do INDEX.md",
-      "x": 1277.0545654296875,
-      "y": -1798.049560546875
-    },
-    {
-      "id": "Apartment 403/Indices/Unsorted INDEX.md",
-      "x": 1526.959716796875,
-      "y": -1585.20703125
-    },
-    {
-      "id": "Apartment 403/Letter to Clash №1.md",
-      "x": 1740.961669921875,
-      "y": -1456.771484375
-    },
-    {
-      "id": "Apartment 403/Memory repository/Diary, I guess/2024'02'21'00-44-01.md",
-      "x": 143.21035766601562,
-      "y": -2092.837646484375
-    },
-    {
-      "id": "Apartment 403/Memory repository/Diary, I guess/27-05-23.md",
-      "x": 96.6418685913086,
-      "y": -2203.415283203125
-    },
-    {
-      "id": "Apartment 403/Memory repository/Diary, I guess/Fr, 07.07.2023.md",
-      "x": 354.5954895019531,
-      "y": -2275.030517578125
-    },
-    {
-      "id": "Apartment 403/Memory repository/Diary, I guess/We, 07.06.2023.md",
-      "x": 534.669921875,
-      "y": -2232.08984375
-    },
-    {
-      "id": "Apartment 403/Memory repository/Important job stuff.md",
-      "x": 1544.5430908203125,
-      "y": -1319.0126953125
-    },
-    {
-      "id": "Apartment 403/Modifications to Werewolves.md",
-      "x": 1642.7864990234375,
-      "y": -1387.9228515625
-    },
-    {
-      "id": "Apartment 403/NSFW/Dildos and related.md",
-      "x": 300.86541748046875,
-      "y": -2122.05859375
-    },
-    {
-      "id": "Apartment 403/NSFW/Headgear.md",
-      "x": 264.8238220214844,
-      "y": -1978.1046142578125
-    },
-    {
-      "id": "Apartment 403/NSFW/Wrestling Rules.md",
-      "x": 685.5509643554688,
-      "y": -2188.446044921875
-    },
-    {
-      "id": "Apartment 403/Optimised Groceries.md",
-      "x": 1751.5965576171875,
-      "y": -1337.3175048828125
-    },
-    {
-      "id": "Apartment 403/Personel Files/Sofía.md",
-      "x": -7.695005893707275,
-      "y": -1746.5428466796875
-    },
-    {
-      "id": "Apartment 403/Stuff for Venezia.md",
-      "x": 1829.56005859375,
-      "y": -1537.5247802734375
-    },
-    {
-      "id": "Apartment 403/Stupid (New) Year's Resolutions.md",
-      "x": 1194.6224365234375,
-      "y": -1504.0577392578125
-    },
-    {
-      "id": "Apartment 403/The Apartment/Diffused Light.md",
-      "x": -657.3197631835938,
-      "y": 703.60009765625
-    },
-    {
       "id": "Leonis",
-      "x": -135.01837158203125,
-      "y": 134.7064971923828
-    },
-    {
-      "id": "Apartment 403/The Apartment/The Museum.md",
-      "x": -935.91845703125,
-      "y": 905.9558715820312
-    },
-    {
-      "id": "Apartment 403/The Pit/This Vessel.md",
-      "x": 1653.3541259765625,
-      "y": -1268.4444580078125
-    },
-    {
-      "id": "Apartment 403/Things to buy.md",
-      "x": 1682.074462890625,
-      "y": -1766.2069091796875
-    },
-    {
-      "id": "Beings/Characters and People/Alma’ḍuṭhd.md",
-      "x": 172.31814575195312,
-      "y": 1818.02783203125
-    },
-    {
-      "id": "Beings/Characters and People/Amidae/Evelyn.md",
-      "x": 526.3889770507812,
-      "y": -1262.3564453125
-    },
-    {
-      "id": "Beings/Characters and People/Amidae/Gavin Sharp.md",
-      "x": 189.41493225097656,
-      "y": 1683.1866455078125
-    },
-    {
-      "id": "Network 24)' DROPTABLE",
-      "x": 230.27862548828125,
-      "y": 2003.5743408203125
-    },
-    {
-      "id": "Beings/Characters and People/Amidae/Graham Corwin.md",
-      "x": -475.0327453613281,
-      "y": 651.6094970703125
+      "x": -1019.34521484375,
+      "y": 698.1716918945312
     },
     {
       "id": "protoGen Industrial Group",
-      "x": -328.6033020019531,
-      "y": 227.27145385742188
+      "x": -725.3211669921875,
+      "y": -1007.178955078125
     },
     {
       "id": "A-5b",
-      "x": -489.1746520996094,
-      "y": 84.37332153320312
-    },
-    {
-      "id": "Memory Fracture",
-      "x": -688.8619995117188,
-      "y": 897.735107421875
-    },
-    {
-      "id": "Beings/Characters and People/Character Index.md",
-      "x": 102.28179931640625,
-      "y": 1191.03662109375
-    },
-    {
-      "id": "Beings/Characters and People/Chilleas.md",
-      "x": 33.39904022216797,
-      "y": -908.5256958007812
-    },
-    {
-      "id": "Beings/Characters and People/Chézke-an.md",
-      "x": 387.7949523925781,
-      "y": 1212.7451171875
-    },
-    {
-      "id": "Beings/Characters and People/Daniel.md",
-      "x": 614.9127807617188,
-      "y": 568.066162109375
-    },
-    {
-      "id": "Beings/Characters and People/Devin.md",
-      "x": -920.1656494140625,
-      "y": 368.001708984375
-    },
-    {
-      "id": "Beings/Characters and People/Everlong Empress.md",
-      "x": 662.1188354492188,
-      "y": -909.515625
-    },
-    {
-      "id": "Beings/Characters and People/Exiled/Marilee, the Songstress.md",
-      "x": -53.44865036010742,
-      "y": 750.9649047851562
-    },
-    {
-      "id": "Beings/Characters and People/Katallja-Nâ.md",
-      "x": -142.96224975585938,
-      "y": 1778.900390625
-    },
-    {
-      "id": "Beings/Characters and People/Kookie, Mage.md",
-      "x": -908.9312133789062,
-      "y": -1117.918212890625
-    },
-    {
-      "id": "Beings/Characters and People/Little Goblin.md",
-      "x": 284.0163879394531,
-      "y": -654.7201538085938
-    },
-    {
-      "id": "Beings/Characters and People/Player Characters/Dai Jin.md",
-      "x": 1469.5264892578125,
-      "y": 1368.296875
-    },
-    {
-      "id": "Beings/Characters and People/Player Characters/Salire.md",
-      "x": 1350.9537353515625,
-      "y": 1445.52685546875
-    },
-    {
-      "id": "Beings/Characters and People/Rastaban.md",
-      "x": 1264.5799560546875,
-      "y": 1295.58349609375
-    },
-    {
-      "id": "Beings/Characters and People/Serpensyll.md",
-      "x": -23.602975845336914,
-      "y": 1766.72314453125
-    },
-    {
-      "id": "Beings/Characters and People/Soldier, Poet, King.md",
-      "x": 171.9891357421875,
-      "y": 1484.6240234375
-    },
-    {
-      "id": "Beings/Characters and People/Stellar.md",
-      "x": -978.6524047851562,
-      "y": 793.830810546875
-    },
-    {
-      "id": "Beings/Characters and People/The Old King.md",
-      "x": 387.6127014160156,
-      "y": -499.6693420410156
+      "x": -683.8570556640625,
+      "y": -894.6152954101562
     },
     {
       "id": "Auvergne",
-      "x": 430.3670654296875,
-      "y": -847.9632568359375
-    },
-    {
-      "id": "throne of ascension",
-      "x": 27.58348274230957,
-      "y": -415.3083190917969
-    },
-    {
-      "id": "Beings/Characters and People/Thylyian/Giant Mechanician.md",
-      "x": 283.9104919433594,
-      "y": 1527.70361328125
-    },
-    {
-      "id": "Beings/Characters and People/Thylyian/High Engineer Kzhan II.md",
-      "x": 106.55657196044922,
-      "y": 1585.10205078125
-    },
-    {
-      "id": "Beings/Characters and People/Thylyian/War Constructor Borange Olbaz.md",
-      "x": 1134.6416015625,
-      "y": 893.5122680664062
-    },
-    {
-      "id": "Beings/Characters and People/Warlock Gaíz-an.md",
-      "x": -59.54414749145508,
-      "y": 631.1463012695312
-    },
-    {
-      "id": "Beings/Creatures/Amphitheriid.md",
-      "x": -837.396728515625,
-      "y": 974.4490356445312
-    },
-    {
-      "id": "Beings/Creatures/Faceless.md",
-      "x": 166.70944213867188,
-      "y": 811.4075317382812
-    },
-    {
-      "id": "Varuú",
-      "x": 475.07269287109375,
-      "y": 721.5587158203125
-    },
-    {
-      "id": "Beings/Creatures/Flying PiSquid.md",
-      "x": -1493.56494140625,
-      "y": -1292.073486328125
-    },
-    {
-      "id": "Beings/Creatures/Hollowed.md",
-      "x": 473.52032470703125,
-      "y": 14.44985294342041
-    },
-    {
-      "id": "Beings/Creatures/Ice Cub.md",
-      "x": -1081.6722412109375,
-      "y": 571.465576171875
-    },
-    {
-      "id": "Beings/Creatures/Night Runner.md",
-      "x": -651.3441772460938,
-      "y": -153.76034545898438
-    },
-    {
-      "id": "Beings/Creatures/Oni of the Plains.md",
-      "x": -436.9929504394531,
-      "y": -886.18701171875
-    },
-    {
-      "id": "Beings/Creatures/Orb & Spire.md",
-      "x": -1015.0604248046875,
-      "y": 1849.1978759765625
-    },
-    {
-      "id": "Beings/Creatures/Pseudoneo/Sleeker.md",
-      "x": -360.9087219238281,
-      "y": -1181.65673828125
-    },
-    {
-      "id": "Beings/Creatures/Pseudoneo/Songbird.md",
-      "x": -571.2415771484375,
-      "y": -798.0401000976562
-    },
-    {
-      "id": "Beings/Creatures/Pseudoneo/Symbioparasite.md",
-      "x": 244.73191833496094,
-      "y": -857.6831665039062
-    },
-    {
-      "id": "Beings/Creatures/Pseudoneo/Warped Angel.md",
-      "x": 19.48189926147461,
-      "y": -741.8143310546875
-    },
-    {
-      "id": "Beings/Creatures/Ring of Fire.md",
-      "x": 1000.5036010742188,
-      "y": 1721.1983642578125
-    },
-    {
-      "id": "Beings/Creatures/Undead Cat.md",
-      "x": -295.7571105957031,
-      "y": 2092.477783203125
-    },
-    {
-      "id": "Beings/Gods and Deities/Celestial Family/Darb ut-Tabānah.md",
-      "x": -195.39328002929688,
-      "y": 325.7792053222656
-    },
-    {
-      "id": "Darb",
-      "x": -885.85400390625,
-      "y": 482.90789794921875
-    },
-    {
-      "id": "Beings/Gods and Deities/Celestial Family/Schi ut-Pula.md",
-      "x": 500.54180908203125,
-      "y": 604.3714599609375
-    },
-    {
-      "id": "Beings/Gods and Deities/Charon.md",
-      "x": 1349.7274169921875,
-      "y": 500.0466613769531
-    },
-    {
-      "id": "Afterlives",
-      "x": 863.2711791992188,
-      "y": 206.82858276367188
-    },
-    {
-      "id": "Styx",
-      "x": 889.2985229492188,
-      "y": 34.602413177490234
-    },
-    {
-      "id": "Acheron",
-      "x": 794.781005859375,
-      "y": 108.43621063232422
-    },
-    {
-      "id": "gifted to him",
-      "x": 1617.3155517578125,
-      "y": 704.0679321289062
-    },
-    {
-      "id": "I hear the songs",
-      "x": 1530.1910400390625,
-      "y": 786.48828125
-    },
-    {
-      "id": "Beings/Gods and Deities/Fear and Hunger.md",
-      "x": 1493.5396728515625,
-      "y": -286.6092529296875
-    },
-    {
-      "id": "Apocalyptic Quartet",
-      "x": 1736.7777099609375,
-      "y": -328.82073974609375
-    },
-    {
-      "id": "Death",
-      "x": 1738.602294921875,
-      "y": -510.22637939453125
-    },
-    {
-      "id": "Famine",
-      "x": 1842.7349853515625,
-      "y": -272.6256103515625
-    },
-    {
-      "id": "Warfarefare",
-      "x": 1639.808837890625,
-      "y": -578.2970581054688
-    },
-    {
-      "id": "Conquest",
-      "x": 1816.2012939453125,
-      "y": -418.7420349121094
-    },
-    {
-      "id": "Beings/Gods and Deities/Mekhane.md",
-      "x": 1124.54736328125,
-      "y": -181.28292846679688
-    },
-    {
-      "id": "Nølkā-Mekhanite War",
-      "x": 958.7688598632812,
-      "y": -152.41250610351562
-    },
-    {
-      "id": "His Divine Reassembly",
-      "x": 878.3330688476562,
-      "y": -289.5627136230469
-    },
-    {
-      "id": "Nølkā",
-      "x": 847.1644897460938,
-      "y": -108.41138458251953
-    },
-    {
-      "id": "Beings/Gods and Deities/Old Gods.md",
-      "x": 1632.15380859375,
-      "y": 387.7635192871094
-    },
-    {
-      "id": "Beings/Gods and Deities/Queen of Shadows.md",
-      "x": -263.7425537109375,
-      "y": 1584.0802001953125
-    },
-    {
-      "id": "Shnūt",
-      "x": 363.0877685546875,
-      "y": 1437.562744140625
-    },
-    {
-      "id": "Beings/Gods and Deities/The Navigator.md",
-      "x": -149.0950469970703,
-      "y": 1471.193115234375
-    },
-    {
-      "id": "Spelljammers",
-      "x": -17.435556411743164,
-      "y": 1183.386962890625
-    },
-    {
-      "id": "Beings/Gods and Deities/Voidfish.md",
-      "x": -563.1072998046875,
-      "y": 178.88748168945312
-    },
-    {
-      "id": "celestials",
-      "x": -888.5057373046875,
-      "y": 135.33106994628906
-    },
-    {
-      "id": "Beings/Heart of Cold.md",
-      "x": -1133.5732421875,
-      "y": 984.010986328125
-    },
-    {
-      "id": "Icy Plains",
-      "x": -1395.04736328125,
-      "y": 858.4136962890625
-    },
-    {
-      "id": "Beings/Species/Lavish.md",
-      "x": -118.66131591796875,
-      "y": -212.39483642578125
-    },
-    {
-      "id": "Beings/Species/Liches.md",
-      "x": 800.5575561523438,
-      "y": 626.2261352539062
-    },
-    {
-      "id": "Beings/Species/Padian Shadowmaw.md",
-      "x": -196.21328735351562,
-      "y": -819.81982421875
-    },
-    {
-      "id": "Beings/Species/Pseudoneo.md",
-      "x": -174.5654296875,
-      "y": -937.7939453125
-    },
-    {
-      "id": "Arcane Engineering",
-      "x": -435.36236572265625,
-      "y": -125.60369110107422
-    },
-    {
-      "id": "Beings/Species/Vessels.md",
-      "x": -208.146240234375,
-      "y": -127.89306640625
-    },
-    {
-      "id": "Corse.md",
-      "x": 1319.969482421875,
-      "y": 646.052734375
-    },
-    {
-      "id": "Dead Child's Lullaby.md",
-      "x": 1700.5465087890625,
-      "y": 617.7183227539062
-    },
-    {
-      "id": "Groupings/Amida.md",
-      "x": -42.328704833984375,
-      "y": 58.65469741821289
-    },
-    {
-      "id": "Organised Crime",
-      "x": 362.1016540527344,
-      "y": 282.3177490234375
-    },
-    {
-      "id": "Amida-8",
-      "x": -355.2927551269531,
-      "y": -36.26548385620117
-    },
-    {
-      "id": "Groupings/Amida/APAS Ltd..md",
-      "x": 299.2064514160156,
-      "y": 558.7588500976562
-    },
-    {
-      "id": "Lavish Rediscoveries",
-      "x": 525.2317504882812,
-      "y": 830.21826171875
-    },
-    {
-      "id": "Mechas",
-      "x": 463.4607238769531,
-      "y": 933.046630859375
-    },
-    {
-      "id": "Battlesuits",
-      "x": 639.5244750976562,
-      "y": 794.1812133789062
-    },
-    {
-      "id": "Groupings/Amida/Board of Amida-Seven.md",
-      "x": -80.54937744140625,
-      "y": 513.01220703125
-    },
-    {
-      "id": "Amidan Infrastructure and Utilities U.P.C.",
-      "x": -254.78482055664062,
-      "y": 132.64292907714844
-    },
-    {
-      "id": "adAstra SocInstitute",
-      "x": -157.5230255126953,
-      "y": 866.5689086914062
-    },
-    {
-      "id": "Groupings/Amida/The Cradle.md",
-      "x": 66.38626861572266,
-      "y": 745.7169189453125
-    },
-    {
-      "id": "Talking 'bout a Revolution",
-      "x": 166.8428955078125,
-      "y": 1085.077880859375
-    },
-    {
-      "id": "Project Silverspoon",
-      "x": 46.87611770629883,
-      "y": 1082.2703857421875
-    },
-    {
-      "id": "Groupings/Cults and Religions/Children of The Flame.md",
-      "x": 22.430761337280273,
-      "y": 897.1404418945312
-    },
-    {
-      "id": "Crimson Heart",
-      "x": -219.9383544921875,
-      "y": 969.00146484375
-    },
-    {
-      "id": "Groupings/Cults and Religions/Followers of Mekhane.md",
-      "x": 1169.31689453125,
-      "y": -321.45135498046875
-    },
-    {
-      "id": "Groupings/Cults and Religions/Lunatics.md",
-      "x": -165.5576934814453,
-      "y": 1352.4151611328125
-    },
-    {
-      "id": "Groupings/Cults and Religions/Oblivion Lodge.md",
-      "x": 180.2079315185547,
-      "y": 413.5458068847656
-    },
-    {
-      "id": "Groupings/Cults and Religions/True Machinists.md",
-      "x": 748.9136352539062,
-      "y": -651.749267578125
-    },
-    {
-      "id": "Blessed Machine",
-      "x": 545.8670043945312,
-      "y": -716.5037841796875
-    },
-    {
-      "id": "Rebirth",
-      "x": 868.1405639648438,
-      "y": -938.8234252929688
-    },
-    {
-      "id": "Groupings/Cultures/Avian Renegades.md",
-      "x": -1064.099365234375,
-      "y": -474.483642578125
-    },
-    {
-      "id": "Groupings/Cultures/Kva'al.md",
-      "x": 261.4547119140625,
-      "y": 27.525264739990234
-    },
-    {
-      "id": "Right Ribs",
-      "x": 216.97256469726562,
-      "y": -301.7655334472656
-    },
-    {
-      "id": "Groupings/Dwarves.md",
-      "x": -457.8374328613281,
-      "y": -398.3978271484375
-    },
-    {
-      "id": "Groupings/Factions/Ancients.md",
-      "x": 328.648681640625,
-      "y": -246.07106018066406
-    },
-    {
-      "id": "Groupings/Factions/Daeva Revolutionists.md",
-      "x": 637.4815063476562,
-      "y": 174.1330108642578
-    },
-    {
-      "id": "Groupings/Factions/Dragonkin.md",
-      "x": 447.2887268066406,
-      "y": -263.9159851074219
-    },
-    {
-      "id": "Groupings/Factions/Empire of Winds.md",
-      "x": -1276.2352294921875,
-      "y": -54.20625305175781
-    },
-    {
-      "id": "Crevice Canyons",
-      "x": -1581.9195556640625,
-      "y": -128.42477416992188
-    },
-    {
-      "id": "Groupings/Factions/Spirits.md",
-      "x": 241.7487030029297,
-      "y": -1249.0823974609375
-    },
-    {
-      "id": "Groupings/Factions/The Cold.md",
-      "x": -693.2756958007812,
-      "y": 384.27862548828125
-    },
-    {
-      "id": "Ghiaccia Conclave",
-      "x": 37.48002243041992,
-      "y": 534.4187622070312
-    },
-    {
-      "id": "Groupings/Factions/The Lavish Empire.md",
-      "x": -231.9547119140625,
-      "y": -447.8011474609375
-    },
-    {
-      "id": "Groupings/Factions/Thylyian/Council of Thylyist.md",
-      "x": 763.5704345703125,
-      "y": -389.2396545410156
-    },
-    {
-      "id": "Groupings/Factions/Thylyian/Currency; Premarevy.md",
-      "x": -615.6256103515625,
-      "y": -1952.9573974609375
-    },
-    {
-      "id": "Groupings/Factions/Thylyian/Dogs of War.md",
-      "x": 941.5916137695312,
-      "y": -393.22412109375
-    },
-    {
-      "id": "Merchant Guild",
-      "x": 926.982177734375,
-      "y": -730.1820678710938
-    },
-    {
-      "id": "Groupings/Factions/Thylyian/Gearforged Vanguard.md",
-      "x": 1260.414306640625,
-      "y": -170.58102416992188
-    },
-    {
-      "id": "High Conclave",
-      "x": 1577.9229736328125,
-      "y": -201.29782104492188
-    },
-    {
-      "id": "Fall of the Lavish",
-      "x": 745.107421875,
-      "y": 227.0775604248047
-    },
-    {
-      "id": "Groupings/Factions/Thylyian/Labor Union of Thylyist.md",
-      "x": 1120.796875,
-      "y": -471.26995849609375
-    },
-    {
-      "id": "Groupings/Factions/Thylyian/The Hounds.md",
-      "x": 656.2068481445312,
-      "y": -788.5004272460938
-    },
-    {
-      "id": "Groupings/Factions/Thylyian/War Constructors.md",
-      "x": 1351.8316650390625,
-      "y": 262.32244873046875
-    },
-    {
-      "id": "Groupings/First Party.md",
-      "x": 1281.7816162109375,
-      "y": 1157.047119140625
-    },
-    {
-      "id": "Groupings/Frisco/Frisco Bay Confederation.md",
-      "x": 839.5152587890625,
-      "y": 324.3737487792969
-    },
-    {
-      "id": "Frisco Bay",
-      "x": 728.7222290039062,
-      "y": 530.1674194335938
-    },
-    {
-      "id": "Groupings/Organisations/Argrosy.md",
-      "x": 39.75484085083008,
-      "y": -170.0467987060547
-    },
-    {
-      "id": "Anor",
-      "x": -112.89898681640625,
-      "y": -432.56243896484375
-    },
-    {
-      "id": "Groupings/Organisations/Erudition Coven.md",
-      "x": 1190.6387939453125,
-      "y": 616.2329711914062
-    },
-    {
-      "id": "Elemental Libraries",
-      "x": 1330.6392822265625,
-      "y": 946.080078125
-    },
-    {
-      "id": "Groupings/Organisations/Servilian Railroad and Train Network.md",
-      "x": 370.9143981933594,
-      "y": 76.61981964111328
-    },
-    {
-      "id": "Groupings/Organisations/The Zubin Society.md",
-      "x": -884.6513061523438,
-      "y": -433.7269287109375
-    },
-    {
-      "id": "Oneiroi Collective",
-      "x": -1125.588623046875,
-      "y": -679.3399047851562
-    },
-    {
-      "id": "left any listener unsettled and terrified",
-      "x": -1208.8505859375,
-      "y": -592.9892578125
-    },
-    {
-      "id": "HTML Spell circle lmao.md",
-      "x": -2243.745849609375,
-      "y": -427.14031982421875
-    },
-    {
-      "id": "His Design.md",
-      "x": 1085.970703125,
-      "y": -831.5436401367188
-    },
-    {
-      "id": "Ascension",
-      "x": 1327.1370849609375,
-      "y": -1020.3412475585938
-    },
-    {
-      "id": "History/Complete History of Servilia.md",
-      "x": -1863.831787109375,
-      "y": -1116.229248046875
-    },
-    {
-      "id": "History/Creation Myth.md",
-      "x": 1050.9332275390625,
-      "y": 82.47367095947266
-    },
-    {
-      "id": "Yaldabaoth",
-      "x": 1276.178466796875,
-      "y": 169.19566345214844
-    },
-    {
-      "id": "History/Eras/Baseline Reality Timeline.md",
-      "x": 1137.8055419921875,
-      "y": -0.27829524874687195
-    },
-    {
-      "id": "Raising",
-      "x": 59.0462532043457,
-      "y": -599.232666015625
-    },
-    {
-      "id": "History/Eras/Era of the True Machinists.md",
-      "x": 520.2439575195312,
-      "y": -359.17474365234375
-    },
-    {
-      "id": "History/Eras/Human Eras.md",
-      "x": 1073.4539794921875,
-      "y": 641.8139038085938
-    },
-    {
-      "id": "History/Eras/The First Era/Perishing.md",
-      "x": 1859.0869140625,
-      "y": 164.85736083984375
-    },
-    {
-      "id": "God",
-      "x": 2085.324951171875,
-      "y": -181.84153747558594
-    },
-    {
-      "id": "History/Eras/The First Era/Routines.md",
-      "x": 1007.04150390625,
-      "y": 1343.802734375
-    },
-    {
-      "id": "History/Eras/The First Era/The First Era.md",
-      "x": 887.4540405273438,
-      "y": 434.34783935546875
-    },
-    {
-      "id": "History/Eras/The Second Era/Fall.md",
-      "x": 727.7635498046875,
-      "y": 875.805419921875
-    },
-    {
-      "id": "History/Eras/The Second Era/Rats.md",
-      "x": -935.893310546875,
-      "y": -638.6524047851562
-    },
-    {
-      "id": "History/Eras/The Second Era/Return of Automatia.md",
-      "x": 233.05157470703125,
-      "y": -449.8042907714844
-    },
-    {
-      "id": "Automatia",
-      "x": -207.63763427734375,
-      "y": -7.871150493621826
-    },
-    {
-      "id": "History/Eras/The Second Era/Taxes.md",
-      "x": 1237.73779296875,
-      "y": -590.3993530273438
-    },
-    {
-      "id": "History/Eras/The Second Era/The Second Era.md",
-      "x": 979.8877563476562,
-      "y": 179.08216857910156
-    },
-    {
-      "id": "History/Eras/The Second Era/Tunnels.md",
-      "x": -575.5577392578125,
-      "y": -426.01416015625
-    },
-    {
-      "id": "History/Incidents and Events/Betrayal.md",
-      "x": 1117.79443359375,
-      "y": -591.1407470703125
-    },
-    {
-      "id": "History/Incidents and Events/Gatherings.md",
-      "x": -1945.1597900390625,
-      "y": -974.5349731445312
-    },
-    {
-      "id": "History/Incidents and Events/Seacurbury Fair.md",
-      "x": -1690.109619140625,
-      "y": -1024.9957275390625
-    },
-    {
-      "id": "Isle of Tankar",
-      "x": -1419.5035400390625,
-      "y": -996.1980590820312
-    },
-    {
-      "id": "History/Major Quests/Ain't no Rest for the Wicked.md",
-      "x": 638.8890991210938,
-      "y": 413.5646667480469
-    },
-    {
-      "id": "Two Hangmen",
-      "x": 643.1395263671875,
-      "y": -172.86781311035156
-    },
-    {
-      "id": "History/Major Quests/It’s a Dead Man’s Party.md",
-      "x": 537.27392578125,
-      "y": 240.0125732421875
-    },
-    {
-      "id": "History/Major Quests/The Word and Thought.md",
-      "x": 853.7967529296875,
-      "y": -593.5443725585938
-    },
-    {
-      "id": "History/Major Quests/When Forces Meet.md",
-      "x": -235.25628662109375,
-      "y": 1131.55908203125
-    },
-    {
-      "id": "History/Minor Quests/Good Times.md",
-      "x": -440.8068542480469,
-      "y": -2016.02587890625
-    },
-    {
-      "id": "History/Minor Quests/Introduction to the Snow.md",
-      "x": -960.866943359375,
-      "y": 589.78173828125
-    },
-    {
-      "id": "History/Minor Quests/Intruder Alert.md",
-      "x": 635.4790649414062,
-      "y": 1029.2987060546875
-    },
-    {
-      "id": "History/Minor Quests/Kindle the Flame.md",
-      "x": -338.3155517578125,
-      "y": 1345.437255859375
-    },
-    {
-      "id": "History/Minor Quests/Tides of Avon.md",
-      "x": 1034.820068359375,
-      "y": -677.8048706054688
-    },
-    {
-      "id": "History/Story Snippets/Birth of Energy.md",
-      "x": 279.986083984375,
-      "y": -1023.11328125
-    },
-    {
-      "id": "History/Story Snippets/Broken Wings.md",
-      "x": -303.5469970703125,
-      "y": -1286.9957275390625
-    },
-    {
-      "id": "History/Story Snippets/Ceremony.md",
-      "x": 1207.586181640625,
-      "y": 1062.7725830078125
-    },
-    {
-      "id": "History/Story Snippets/Controversies within Nolka.md",
-      "x": 1710.3712158203125,
-      "y": 296.7782897949219
-    },
-    {
-      "id": "History/Story Snippets/Ethershade.md",
-      "x": -1230.978515625,
-      "y": -475.07928466796875
-    },
-    {
-      "id": "History/Story Snippets/Saltwater Rain.md",
-      "x": -1309.2225341796875,
-      "y": -1417.9315185546875
-    },
-    {
-      "id": "Empty Crown",
-      "x": -1125.168212890625,
-      "y": -1239.4036865234375
-    },
-    {
-      "id": "History/Story Snippets/The Song of Fire and Ice.md",
-      "x": -608.703369140625,
-      "y": 987.0107421875
-    },
-    {
-      "id": "History/Technological Advancements/Development of Petrochemistry.md",
-      "x": 994.3328247070312,
-      "y": -23.321687698364258
-    },
-    {
-      "id": "History/Technological Advancements/Development of Printing.md",
-      "x": 1048.546875,
-      "y": 524.5009765625
-    },
-    {
-      "id": "History/Technological Advancements/Electricity.md",
-      "x": -53.320594787597656,
-      "y": 360.0541076660156
-    },
-    {
-      "id": "Steam Turbines",
-      "x": -313.53363037109375,
-      "y": 346.3042907714844
-    },
-    {
-      "id": "History/Technological Advancements/Radio Equipment.md",
-      "x": -434.54730224609375,
-      "y": 823.3094482421875
-    },
-    {
-      "id": "History/Things to remember during the Eclipse.md",
-      "x": -1666.1251220703125,
-      "y": -469.7301330566406
-    },
-    {
-      "id": "History/Time Travelling for Dummies™.md",
-      "x": 246.40858459472656,
-      "y": 313.5816650390625
-    },
-    {
-      "id": "History/Timeline Pivots/02_Open Affiliation to the Arcane.md",
-      "x": -2172.868896484375,
-      "y": -664.5020751953125
-    },
-    {
-      "id": "History/Timeline Pivots/03_Repairing the Fountainhead.md",
-      "x": 2284.9287109375,
-      "y": -342.0190124511719
-    },
-    {
-      "id": "History/Timeline Pivots/04_POST-FH-REPAIR_ connecting the FH into Thylyist .md",
-      "x": 2298.45654296875,
-      "y": -29.525564193725586
-    },
-    {
-      "id": "History/Timeline Pivots/Assassination of Council Members.md",
-      "x": 1001.205322265625,
-      "y": -562.6716918945312
-    },
-    {
-      "id": "History/Timeline Pivots/Closing the Fountainhead.md",
-      "x": -609.9124755859375,
-      "y": -543.9745483398438
-    },
-    {
-      "id": "Items/Artifacts/Eldritch Brand.md",
-      "x": -718.3828735351562,
-      "y": -254.25892639160156
-    },
-    {
-      "id": "Items/Artifacts/Fountainhead Catalyst.md",
-      "x": -977.0518188476562,
-      "y": -357.1928405761719
-    },
-    {
-      "id": "Items/Artifacts/Horn of Blizzards.md",
-      "x": -1204.8428955078125,
-      "y": 267.6494140625
-    },
-    {
-      "id": "Items/Artifacts/Mask Fragment.md",
-      "x": 280.2103576660156,
-      "y": 194.59869384765625
-    },
-    {
-      "id": "Items/Artifacts/Mekhanite Staff.md",
-      "x": 1617.0975341796875,
-      "y": -320.86090087890625
-    },
-    {
-      "id": "Items/Artifacts/Overly fancy Milkbag.md",
-      "x": -918.8200073242188,
-      "y": -2067.821533203125
-    },
-    {
-      "id": "milkman",
-      "x": -675.6683959960938,
-      "y": -2147.576171875
-    },
-    {
-      "id": "Items/Artifacts/Premature Heart of Cold.md",
-      "x": -777.0399169921875,
-      "y": 696.4469604492188
-    },
-    {
-      "id": "Items/Artifacts/Red Telephone.md",
-      "x": -798.9813232421875,
-      "y": -832.369873046875
-    },
-    {
-      "id": "Items/Artifacts/Seed of Thought.md",
-      "x": 439.4386901855469,
-      "y": -607.8351440429688
-    },
-    {
-      "id": "Items/Artifacts/Vessel Mask.md",
-      "x": 35.19120407104492,
-      "y": 150.12562561035156
-    },
-    {
-      "id": "Items/Artifacts/Voidtouched Boots.md",
-      "x": -339.09954833984375,
-      "y": -197.1769256591797
-    },
-    {
-      "id": "Items/Books et al/Childish Book of Prayers.md",
-      "x": 59.68394088745117,
-      "y": 1303.121826171875
-    },
-    {
-      "id": "Items/Books et al/Epos' Manuscripts.md",
-      "x": 507.4124450683594,
-      "y": 1203.5408935546875
-    },
-    {
-      "id": "Items/Books et al/Gane's Parchments of Shadows.md",
-      "x": -315.0749816894531,
-      "y": 1042.03857421875
-    },
-    {
-      "id": "Items/Books et al/Nekonomicon.md",
-      "x": -3.880291223526001,
-      "y": 1948.06982421875
-    },
-    {
-      "id": "Items/Books et al/On the Warfare using the Arcane.md",
-      "x": -1755.4205322265625,
-      "y": -9.55662727355957
-    },
-    {
-      "id": "Items/Books et al/The Celestial Compendium of Schi.md",
-      "x": -248.5584716796875,
-      "y": 1265.8902587890625
-    },
-    {
-      "id": "Athenaeum of Sorcery",
-      "x": -406.08172607421875,
-      "y": 1580.734375
-    },
-    {
-      "id": "Items/Books et al/The Elvos Incunabulum.md",
-      "x": -265.3318786621094,
-      "y": 1729.4910888671875
-    },
-    {
-      "id": "Items/Books et al/Tomes of Twilit.md",
-      "x": 277.5457458496094,
-      "y": 1343.0721435546875
-    },
-    {
-      "id": "Items/Books et al/Tomes.md",
-      "x": -3.413407325744629,
-      "y": 1648.529541015625
-    },
-    {
-      "id": "Black Barrow of Ricusi the Eldritch",
-      "x": -178.17832946777344,
-      "y": 1907.1962890625
-    },
-    {
-      "id": "Items/Bottled Embers.md",
-      "x": 613.235595703125,
-      "y": 911.4376220703125
-    },
-    {
-      "id": "Items/Bottled Smoulders.md",
-      "x": 427.9501647949219,
-      "y": 1336.6080322265625
-    },
-    {
-      "id": "Items/Bundle of medicinal herbs.md",
-      "x": 939.85498046875,
-      "y": 2059.014892578125
-    },
-    {
-      "id": "Items/Components, Ingredients/Bar of Ithildine.md",
-      "x": -458.2713928222656,
-      "y": 1346.4873046875
-    },
-    {
-      "id": "Items/Components, Ingredients/Bottle of Dreams.md",
-      "x": 883.9716796875,
-      "y": 1794.8699951171875
-    },
-    {
-      "id": "Items/Components, Ingredients/Chunk of Gliss.md",
-      "x": -922.7698974609375,
-      "y": -250.2644500732422
-    },
-    {
-      "id": "Items/Components, Ingredients/Inanistathine.md",
-      "x": -706.5528564453125,
-      "y": -47.25522994995117
-    },
-    {
-      "id": "Items/Components, Ingredients/Splinter of Blazes.md",
-      "x": 214.2211456298828,
-      "y": 1233.9796142578125
-    },
-    {
-      "id": "Items/Components, Ingredients/Strange Flask.md",
-      "x": 791.7052001953125,
-      "y": 1524.5311279296875
-    },
-    {
-      "id": "Items/Equipment/Armour/Sentinel Power Armour.md",
-      "x": 1240.5958251953125,
-      "y": 366.24676513671875
-    },
-    {
-      "id": "Items/Equipment/Climbing Glove.md",
-      "x": 423.3064880371094,
-      "y": 2242.287353515625
-    },
-    {
-      "id": "Items/Equipment/Sea Serpent Splinter.md",
-      "x": 1177.7958984375,
-      "y": -980.1292724609375
-    },
-    {
-      "id": "Items/Flare.md",
-      "x": -685.7593383789062,
-      "y": -1417.4124755859375
-    },
-    {
-      "id": "Items/Potions.md",
-      "x": -2003.1160888671875,
-      "y": -122.31731414794922
-    },
-    {
-      "id": "Items/Spellcasting Glove.md",
-      "x": 461.9477844238281,
-      "y": 1646.033203125
-    },
-    {
-      "id": "Items/Travel/Rat Cart.md",
-      "x": -962.4498901367188,
-      "y": 2092.04150390625
-    },
-    {
-      "id": "Items/Travel/Riftstones.md",
-      "x": -723.8130493164062,
-      "y": 98.2520523071289
-    },
-    {
-      "id": "Items/Weaponry/Child's Staff.md",
-      "x": -60.0467529296875,
-      "y": 1295.421142578125
-    },
-    {
-      "id": "Items/Weaponry/Cyphers.md",
-      "x": -1352.7908935546875,
-      "y": 113.20570373535156
-    },
-    {
-      "id": "Items/Weaponry/Melee/Electric Ukulele.md",
-      "x": -830.4291381835938,
-      "y": -326.746826171875
-    },
-    {
-      "id": "Items/Weaponry/Melee/Mace of the Black One.md",
-      "x": -92.07207489013672,
-      "y": 246.52613830566406
-    },
-    {
-      "id": "Items/Weaponry/Melee/Oni‘s Glaive.md",
-      "x": -534.67333984375,
-      "y": -1247.8289794921875
-    },
-    {
-      "id": "Items/Weaponry/Propelled Projectile/OA-WS BST Model 7ⁿ.md",
-      "x": -400.0830078125,
-      "y": 550.3541870117188
-    },
-    {
-      "id": "Items/Weaponry/Propelled Projectile/OA-WS RCL Mk.40ᵐᵐ.md",
-      "x": -1658.9276123046875,
-      "y": 66.59717559814453
-    },
-    {
-      "id": "Items/Wondrous and Wack/Bag of Crickets.md",
-      "x": -1336.9825439453125,
-      "y": -1665.42333984375
-    },
-    {
-      "id": "Items/Wondrous and Wack/Iron Oculus.md",
-      "x": 0.6365094184875488,
-      "y": 1528.714111328125
-    },
-    {
-      "id": "Items/Wondrous and Wack/Polished Silver Mirror.md",
-      "x": 75.35388946533203,
-      "y": -1493.0635986328125
-    },
-    {
-      "id": "Items/Wondrous and Wack/STOP! Box.md",
-      "x": -468.4820861816406,
-      "y": -2176.3935546875
-    },
-    {
-      "id": "Items/Wondrous and Wack/Soulstone.md",
-      "x": 188.4709930419922,
-      "y": -1533.11328125
-    },
-    {
-      "id": "Legacy/Characters/00_Lynn_.md",
-      "x": -2187.160888671875,
-      "y": -251.7825164794922
-    },
-    {
-      "id": "Legacy/Characters/03_Ash_.md",
-      "x": -2230.364501953125,
-      "y": 299.0278625488281
-    },
-    {
-      "id": "Legacy/Characters/04_Gabe_.md",
-      "x": -1200.6707763671875,
-      "y": 1966.1011962890625
-    },
-    {
-      "id": "Legacy/Characters/Will.md",
-      "x": -1277.7877197265625,
-      "y": 823.2642822265625
-    },
-    {
-      "id": "Legacy/DM internal things/01_(Quest Template) .md",
-      "x": -1616.2264404296875,
-      "y": -1401.247314453125
-    },
-    {
-      "id": "Legacy/DM internal things/01_Values, variables, all that.md",
-      "x": -2163.906005859375,
-      "y": 706.6962890625
-    },
-    {
-      "id": "Legacy/DM internal things/02_Attack values.md",
-      "x": -1835.080810546875,
-      "y": -1324.9114990234375
-    },
-    {
-      "id": "Legacy/DM internal things/03_Item Stats.md",
-      "x": -2000.5379638671875,
-      "y": -1130.5992431640625
-    },
-    {
-      "id": "Legacy/DM internal things/04_Templates.md",
-      "x": -1364.7374267578125,
-      "y": -1830.1697998046875
-    },
-    {
-      "id": "Legacy/DM internal things/05_Status Effects.md",
-      "x": -2247.205322265625,
-      "y": -90.52429962158203
-    },
-    {
-      "id": "Legacy/DM internal things/06_Boolean switches.md",
-      "x": 1320.0777587890625,
-      "y": 1830.555419921875
-    },
-    {
-      "id": "Legacy/Lavish Lore.md",
-      "x": 2246.208984375,
-      "y": 465.9831237792969
-    },
-    {
-      "id": "Legacy/Meta/03_Irr-ational explanations (Q&A).md",
-      "x": 44.08366394042969,
-      "y": -1906.7728271484375
-    },
-    {
-      "id": "Legacy/Misc Ideas/Copy pasta of THE note.md",
-      "x": -577.7313842773438,
-      "y": 2214.88427734375
-    },
-    {
-      "id": "Legacy/Misc Ideas/Generation and tools.md",
-      "x": -729.3428344726562,
-      "y": -1819.0704345703125
-    },
-    {
-      "id": "Legacy/Outdated Lore/Ancient Exile Lore.md",
-      "x": -1845.8084716796875,
-      "y": -893.2099609375
-    },
-    {
-      "id": "Legacy/Outdated Lore/Plot (Outdated).md",
-      "x": 1587.1165771484375,
-      "y": -470.5396728515625
-    },
-    {
-      "id": "Legacy/Outdated Lore/Proper Plot.md",
-      "x": -302.478271484375,
-      "y": 620.0929565429688
-    },
-    {
-      "id": "Legacy/Outdated Lore/Rough Timeline.md",
-      "x": -1658.953125,
-      "y": -1244.2991943359375
-    },
-    {
-      "id": "Legacy/Outdated Lore/Scrapped Plot.md",
-      "x": -779.0618896484375,
-      "y": -2053.51220703125
-    },
-    {
-      "id": "Legacy/TODO/00-Assemble the World.md",
-      "x": -934.072509765625,
-      "y": -1417.5438232421875
-    },
-    {
-      "id": "Steam Gardens",
-      "x": -795.7572631835938,
-      "y": -1157.764892578125
-    },
-    {
-      "id": "Legacy/TODO/00_Villain identities.md",
-      "x": -1535.939453125,
-      "y": -1669.2713623046875
-    },
-    {
-      "id": "Legacy/TODO/01_Rough city layouts.md",
-      "x": 1144.632568359375,
-      "y": 1960.00537109375
-    },
-    {
-      "id": "Legacy/TODO/05_Holy shit .md",
-      "x": -2195.1708984375,
-      "y": 489.9962463378906
-    },
-    {
-      "id": "Legacy/TODO/13_Random bullshit GOOOO.md",
-      "x": -1700.576171875,
-      "y": -1526.1365966796875
-    },
-    {
-      "id": "Legacy/TODO/Floaty magic book.md",
-      "x": -1950.9676513671875,
-      "y": -693.5185546875
-    },
-    {
-      "id": "Leyline.md",
-      "x": -1094.2401123046875,
-      "y": 397.541015625
-    },
-    {
-      "id": "Mr. Business.md",
-      "x": 433.6830749511719,
-      "y": -2153.468994140625
-    },
-    {
-      "id": "Notable Streets.md",
-      "x": -1203.7373046875,
-      "y": -1587.2666015625
-    },
-    {
-      "id": "Telegraph Road",
-      "x": -1448.6085205078125,
-      "y": -1522.3079833984375
-    },
-    {
-      "id": "Electric Avenue",
-      "x": -1199.7987060546875,
-      "y": -1840.5950927734375
-    },
-    {
-      "id": "Possible reasons why Schi-Ut-Pula vanished.md",
-      "x": 1667.59521484375,
-      "y": 502.35003662109375
-    },
-    {
-      "id": "Providence.md",
-      "x": 1151.3240966796875,
-      "y": -706.375732421875
-    },
-    {
-      "id": "the purity",
-      "x": 1414.6124267578125,
-      "y": -875.3283081054688
-    },
-    {
-      "id": "README.md",
-      "x": 758.8511962890625,
-      "y": 414.0140686035156
-    },
-    {
-      "id": "The Third Era",
-      "x": 589.3900146484375,
-      "y": 685.23486328125
-    },
-    {
-      "id": "Realms/Planes/Between.md",
-      "x": -1028.8941650390625,
-      "y": -194.4242401123047
-    },
-    {
-      "id": "Realms/Planes/Beyond.md",
-      "x": 1676.28076171875,
-      "y": 173.37327575683594
-    },
-    {
-      "id": "Realms/Planes/Dark Domain/Echoes.md",
-      "x": -536.8703002929688,
-      "y": -189.51553344726562
-    },
-    {
-      "id": "Realms/Planes/Dark Domain/Empire of Shadows.md",
-      "x": -519.0332641601562,
-      "y": 1118.97998046875
-    },
-    {
-      "id": "Realms/Planes/Dark Domain/Eternal Sea.md",
-      "x": -662.8709106445312,
-      "y": 1385.2891845703125
-    },
-    {
-      "id": "Realms/Planes/Dark Domain/The Void.md",
-      "x": -444.3076171875,
-      "y": 195.55718994140625
-    },
-    {
-      "id": "Realms/Planes/Twilit.md",
-      "x": -809.531005859375,
-      "y": 14.307950019836426
-    },
-    {
-      "id": "Realms/Utuw System/Scheties.md",
-      "x": -1726.3934326171875,
-      "y": 738.8130493164062
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Heaugi.md",
-      "x": -1005.7461547851562,
-      "y": 478.54473876953125
-    },
-    {
-      "id": "Heaugi ut-Tabānah",
-      "x": -1309.662353515625,
-      "y": 436.6492004394531
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Kynoly.md",
-      "x": -1511.4737548828125,
-      "y": 829.5062255859375
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Opar.md",
-      "x": -1431.210205078125,
-      "y": 1062.8314208984375
-    },
-    {
-      "id": "Parop",
-      "x": -1680.77734375,
-      "y": 1011.117431640625
-    },
-    {
-      "id": "Seal of Man",
-      "x": -1667.293701171875,
-      "y": 1232.79150390625
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Schi.md",
-      "x": -1395.6800537109375,
-      "y": 520.3063354492188
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Amida/Numerator.md",
-      "x": -232.0998077392578,
-      "y": -251.48170471191406
-    },
-    {
-      "id": "Amida-5",
-      "x": -277.6852111816406,
-      "y": -558.6954345703125
-    },
-    {
-      "id": "Amida-9",
-      "x": -77.2416763305664,
-      "y": -630.3885498046875
-    },
-    {
-      "id": "Amida-11",
-      "x": -359.6905822753906,
-      "y": -467.3145446777344
-    },
-    {
-      "id": "Amida-12",
-      "x": -394.8017272949219,
-      "y": -581.8258666992188
-    },
-    {
-      "id": "A-5c'a",
-      "x": -159.20066833496094,
-      "y": -543.0879516601562
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Amida/SICK.md",
-      "x": 857.7993774414062,
-      "y": -1322.9000244140625
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom/Davern Kingdom.md",
-      "x": 643.9601440429688,
-      "y": -581.3019409179688
+      "x": 1727.77734375,
+      "y": -805.3413696289062
     },
     {
       "id": "ancient dragon of Auvergne",
-      "x": 544.0587768554688,
-      "y": -888.0933837890625
+      "x": 1842.265380859375,
+      "y": -769.5018310546875
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom/Yawning Grave.md",
-      "x": 117.45388793945312,
-      "y": -494.3173828125
+      "id": "Nølkā-Mekhanite War",
+      "x": 921.9921264648438,
+      "y": -186.07847595214844
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Archive of Old.md",
-      "x": 992.3523559570312,
-      "y": 841.2139282226562
+      "id": "Varuú",
+      "x": 325.0984191894531,
+      "y": 224.8370361328125
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Central Thylyist Armoury.md",
-      "x": 1058.9959716796875,
-      "y": -368.5342712402344
+      "id": "Darb",
+      "x": -780.9014282226562,
+      "y": 393.23980712890625
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Citadel of the Gear.md",
-      "x": 1457.24560546875,
-      "y": -446.9996643066406
+      "id": "Afterlives",
+      "x": 698.6453247070312,
+      "y": -800.8592529296875
     },
     {
-      "id": "Catacombs",
-      "x": 1723.48828125,
-      "y": -664.2411499023438
+      "id": "Styx",
+      "x": 606.457763671875,
+      "y": -877.565673828125
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Empire of Thylyist.md",
-      "x": 770.6412963867188,
-      "y": -219.86448669433594
+      "id": "Acheron",
+      "x": 708.36572265625,
+      "y": -940.9442749023438
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Heart of Mekhane.md",
-      "x": 1512.810546875,
-      "y": -67.99034118652344
+      "id": "Apocalyptic Quartet",
+      "x": 1799.5792236328125,
+      "y": -100.7735366821289
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Brisburne.md",
-      "x": 946.02587890625,
-      "y": 586.832763671875
+      "id": "His Divine Reassembly",
+      "x": 955.4680786132812,
+      "y": -301.142822265625
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Duley and Port.md",
-      "x": 386.3459777832031,
-      "y": 641.1199340820312
+      "id": "Nølkā",
+      "x": 1099.9951171875,
+      "y": -443.5538330078125
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Frisco.md",
-      "x": 645.3980712890625,
-      "y": 293.7644958496094
+      "id": "Shnūt",
+      "x": 114.66166687011719,
+      "y": 993.6271362304688
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/The Cats' Scriptorium.md",
-      "x": 897.9876708984375,
-      "y": 915.2958984375
+      "id": "Spelljammers",
+      "x": 32.94755554199219,
+      "y": 905.7593383789062
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Automated Remains.md",
-      "x": -561.6204833984375,
-      "y": -1130.9136962890625
+      "id": "Icy Plains",
+      "x": -1559.67626953125,
+      "y": 212.60719299316406
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Clocktowers beneath the Sea.md",
-      "x": -1083.5189208984375,
-      "y": -894.9322509765625
+      "id": "Arcane Engineering",
+      "x": 12.602137565612793,
+      "y": -631.7880859375
     },
     {
-      "id": "Carnival",
-      "x": -1302.6529541015625,
-      "y": -1079.023681640625
+      "id": "Organised Crime",
+      "x": -113.21308898925781,
+      "y": -771.1023559570312
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Dump Site.md",
-      "x": -1090.5155029296875,
-      "y": -1716.5814208984375
+      "id": "Amida-8",
+      "x": -137.59075927734375,
+      "y": -943.7820434570312
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Inn of a Thousand Names.md",
-      "x": -1653.2467041015625,
-      "y": 248.26451110839844
+      "id": "Amidan Infrastructure and Utilities U.P.C.",
+      "x": -755.5692749023438,
+      "y": -1313.5445556640625
     },
     {
-      "id": "innkeeper",
-      "x": -1942.169921875,
-      "y": 273.7982177734375
+      "id": "Talking 'bout a Revolution",
+      "x": -195.38418579101562,
+      "y": 71.63172149658203
     },
     {
-      "id": "Just open the door.",
-      "x": -1928.415283203125,
-      "y": 149.5981903076172
+      "id": "Crimson Heart",
+      "x": -365.35760498046875,
+      "y": 117.74592590332031
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Lakehouse.md",
-      "x": 753.666015625,
-      "y": 1008.801513671875
+      "id": "Blessed Machine",
+      "x": 602.568359375,
+      "y": -997.4341430664062
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile.md",
-      "x": 133.8401641845703,
-      "y": -778.1350708007812
+      "id": "Ghiaccia Conclave",
+      "x": -91.85652160644531,
+      "y": -80.78678894042969
     },
     {
-      "id": "New Londo",
-      "x": 101.73612213134766,
-      "y": -1110.465576171875
+      "id": "Fall of the Lavish",
+      "x": 674.094970703125,
+      "y": 45.04893112182617
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile/Floating Islands.md",
-      "x": -212.3465118408203,
-      "y": -1131.52099609375
+      "id": "Frisco Bay",
+      "x": 825.8223876953125,
+      "y": 510.65087890625
     },
     {
-      "id": "Terrain Shattered",
-      "x": -484.02545166015625,
-      "y": -1014.333984375
+      "id": "Anor",
+      "x": 420.49224853515625,
+      "y": -785.475341796875
     },
     {
-      "id": "Midwife",
-      "x": -288.6123352050781,
-      "y": -1434.1668701171875
+      "id": "Elemental Libraries",
+      "x": 694.89208984375,
+      "y": 895.957763671875
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile/Limbo Boneyard.md",
-      "x": 21.256458282470703,
-      "y": -51.52149963378906
+      "id": "Yaldabaoth",
+      "x": 982.8623657226562,
+      "y": -417.7462463378906
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile/Londo.md",
-      "x": 57.20869445800781,
-      "y": -299.2308044433594
+      "id": "Raising",
+      "x": 406.6136779785156,
+      "y": -666.3851318359375
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile/Streets Of Londo.md",
-      "x": -98.52384948730469,
-      "y": -57.43635559082031
+      "id": "God",
+      "x": 2090.4453125,
+      "y": 416.1632995605469
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Hallownest.md",
-      "x": -714.7077026367188,
-      "y": -626.475830078125
+      "id": "Isle of Tankar",
+      "x": -1660.498291015625,
+      "y": -636.9369506835938
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Hollow Mountains.md",
-      "x": -197.06524658203125,
-      "y": -673.9945678710938
+      "id": "Two Hangmen",
+      "x": 792.7276611328125,
+      "y": -199.6439971923828
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/A Hill.md",
-      "x": -382.28302001953125,
-      "y": 1141.3770751953125
+      "id": "Steam Gardens",
+      "x": -314.2308654785156,
+      "y": -1634.1092529296875
     },
     {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Castle on a hill.md",
-      "x": -271.35986328125,
-      "y": 778.0611572265625
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Long Savannah.md",
-      "x": -890.8538208007812,
-      "y": -126.21183776855469
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/Eroded Frames.md",
-      "x": -425.6432189941406,
-      "y": -723.9478759765625
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/First Vault.md",
-      "x": -316.99334716796875,
-      "y": -673.020751953125
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/Fountainhead.md",
-      "x": -540.3633422851562,
-      "y": -311.3721923828125
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/Lavish Wastes.md",
-      "x": -827.7415771484375,
-      "y": -586.79931640625
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/Palga Basin.md",
-      "x": -358.8778076171875,
-      "y": -330.6493225097656
-    },
-    {
-      "id": "Family Tree",
-      "x": -503.0869140625,
-      "y": -632.404296875
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/SC-AM.md",
-      "x": -100.35613250732422,
-      "y": -747.8060302734375
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/Syksa, Lavish Capital.md",
-      "x": 179.01058959960938,
-      "y": -597.0430297851562
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/The Abyss.md",
-      "x": -772.7293701171875,
-      "y": -147.3126220703125
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Scorched Acres.md",
-      "x": -714.6594848632812,
-      "y": 593.9617919921875
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Sentinel of Steel.md",
-      "x": 1776.5897216796875,
-      "y": 452.1611633300781
-    },
-    {
-      "id": "red plague",
-      "x": 1891.5721435546875,
-      "y": 863.855224609375
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Ninth Forest/Caverns.md",
-      "x": -1234.62890625,
-      "y": 1648.213623046875
-    },
-    {
-      "id": "rough surface",
-      "x": -1495.484130859375,
-      "y": 1625.4652099609375
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Ninth Forest/Court of Storms.md",
-      "x": -429.0546875,
-      "y": 314.4286804199219
-    },
-    {
-      "id": "The One Who Judges",
-      "x": -573.184326171875,
-      "y": 582.6302490234375
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Ninth Forest/Green Swale of Seven Spires.md",
-      "x": -913.6964721679688,
-      "y": 1530.1480712890625
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Ninth Forest/Lost City of the Ninth Forest.md",
-      "x": 182.01222229003906,
-      "y": 533.4334106445312
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Ninth Forest/Ninth Forest.md",
-      "x": -613.7752075195312,
-      "y": 1528.5303955078125
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Ninth Forest/Sepulchre.md",
-      "x": 526.34033203125,
-      "y": 487.1980285644531
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Northern Reaches/Alp Peaks.md",
-      "x": -1197.945556640625,
-      "y": 75.6778335571289
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Northern Reaches/Black Forest.md",
-      "x": -1518.853515625,
-      "y": 297.493408203125
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Northern Reaches/Eternal Glacier.md",
-      "x": -1478.3564453125,
-      "y": 944.7789306640625
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Northern Reaches/Ice Plains.md",
-      "x": -1435.6885986328125,
-      "y": 1229.3231201171875
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Northern Reaches/Northern Reaches.md",
-      "x": -1265.1748046875,
-      "y": 548.033935546875
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Northern Reaches/Tundra.md",
-      "x": -1302.54052734375,
-      "y": 1253.643310546875
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Astral Ocean.md",
-      "x": -731.474365234375,
-      "y": 1229.73779296875
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Belisha Beacon.md",
-      "x": -1076.145263671875,
-      "y": 863.7720336914062
-    },
-    {
-      "id": "scattered islands",
-      "x": -1291.1309814453125,
-      "y": 1103.4400634765625
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Chromatic Calderas.md",
-      "x": -314.61968994140625,
-      "y": 466.1961364746094
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/City of Stargard.md",
-      "x": -335.2569885253906,
-      "y": 890.6787719726562
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Forgotten Atoll.md",
-      "x": -434.8327331542969,
-      "y": 1033.529296875
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Kaá-Rav.md",
-      "x": -174.30833435058594,
-      "y": 596.2093505859375
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Lunar Gateways.md",
-      "x": -370.4361572265625,
-      "y": 101.0661849975586
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Skalitz.md",
-      "x": 93.09844207763672,
-      "y": 44.51056671142578
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/The Oculus of Night.md",
-      "x": -466.5154724121094,
-      "y": 1226.8162841796875
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/The Tellurion.md",
-      "x": -430.2137145996094,
-      "y": 434.2994384765625
-    },
-    {
-      "id": "the uprooting",
-      "x": -760.9720458984375,
-      "y": 483.3004455566406
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Lunar Mangroves.md",
-      "x": -1033.438232421875,
-      "y": 1537.9642333984375
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Edge of Hope.md",
-      "x": -980.3447265625,
-      "y": 1430.3599853515625
-    },
-    {
-      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Sea Major.md",
-      "x": -638.9465942382812,
-      "y": 1116.87353515625
-    },
-    {
-      "id": "Realms/Utuw System/Sphill.md",
-      "x": -1603.2725830078125,
-      "y": 571.3150024414062
-    },
-    {
-      "id": "Realms/Utuw System/St. Nowhere.md",
-      "x": 1406.108642578125,
-      "y": 742.588134765625
-    },
-    {
-      "id": "Café at the End of Time",
-      "x": 799.5007934570312,
-      "y": 779.70849609375
-    },
-    {
-      "id": "Realms/Utuw System/The Utuw Family.md",
-      "x": -1366.036376953125,
-      "y": 741.9824829101562
-    },
-    {
-      "id": "Dirius",
-      "x": -1629.710693359375,
-      "y": 809.7396850585938
-    },
-    {
-      "id": "Degois",
-      "x": -1713.120849609375,
-      "y": 619.5785522460938
-    },
-    {
-      "id": "Shifty",
-      "x": -1616.4725341796875,
-      "y": 690.5846557617188
-    },
-    {
-      "id": "Herguami",
-      "x": -1597.0142822265625,
-      "y": 925.21044921875
-    },
-    {
-      "id": "Realms/Utuw System/Three Moons.md",
-      "x": -1080.0062255859375,
-      "y": 1161.501953125
-    },
-    {
-      "id": "Realms/Utuw System/Utuw.md",
-      "x": -1713.3026123046875,
-      "y": 895.6464233398438
-    },
-    {
-      "id": "Reliquary of False Promises.md",
-      "x": -872.8912353515625,
-      "y": -971.5985717773438
-    },
-    {
-      "id": "Somewhat Coherent/War and Flesh/Deployed Giant.md",
-      "x": 1939.6744384765625,
-      "y": 1118.5010986328125
-    },
-    {
-      "id": "Somewhat Coherent/War and Flesh/On the victorious Defeat.md",
-      "x": 1800.936279296875,
-      "y": 1402.0399169921875
-    },
-    {
-      "id": "Somewhat Coherent/War and Flesh/Posthumous Unity.md",
-      "x": 1563.0748291015625,
-      "y": 1637.93603515625
-    },
-    {
-      "id": "Somewhat Coherent/War and Flesh/Reddened Warmachine.md",
-      "x": 1682.652587890625,
-      "y": 1422.24169921875
-    },
-    {
-      "id": "Somewhat Coherent/War and Flesh/The Tale of Two Giants.md",
-      "x": 2046.9251708984375,
-      "y": 763.86865234375
-    },
-    {
-      "id": "machine",
-      "x": 2079.814453125,
-      "y": 1016.977294921875
-    },
-    {
-      "id": "Somewhat Coherent/Wings/2024'02'10'21-58-29.md",
-      "x": -411.7601623535156,
-      "y": -1613.3055419921875
-    },
-    {
-      "id": "Somewhat Coherent/Wings/2024'02'10'22-39-35.md",
-      "x": -486.2211608886719,
-      "y": -1852.1480712890625
-    },
-    {
-      "id": "Somewhat Coherent/Wings/These Foul Spires.md",
-      "x": -929.8499755859375,
-      "y": -1732.2432861328125
-    },
-    {
-      "id": "Structure/Concepts/Apotheosis.md",
-      "x": 1338.260009765625,
-      "y": 66.57068634033203
-    },
-    {
-      "id": "Horde of Many",
-      "x": 1664.4342041015625,
-      "y": 53.9631233215332
-    },
-    {
-      "id": "Structure/Concepts/Curse of the Undead.md",
-      "x": 469.37420654296875,
-      "y": 338.9169616699219
-    },
-    {
-      "id": "Structure/Concepts/Magic System/Amarisk.md",
-      "x": -549.0079345703125,
-      "y": 417.76971435546875
-    },
-    {
-      "id": "Structure/Concepts/Magic System/Ignition Events.md",
-      "x": -777.01171875,
-      "y": 816.3598022460938
-    },
-    {
-      "id": "Amarisk Emission",
-      "x": -914.6312866210938,
-      "y": 1129.9564208984375
-    },
-    {
-      "id": "Pulastaya",
-      "x": -1008.3731079101562,
-      "y": 1055.05908203125
-    },
-    {
-      "id": "gift",
-      "x": -140.0803985595703,
-      "y": 1058.5712890625
-    },
-    {
-      "id": "Structure/Concepts/Magic System/Lacking things in the magic system.md",
-      "x": -834.6370849609375,
-      "y": 591.2835693359375
-    },
-    {
-      "id": "Structure/Concepts/Magic System/Twilit Casting.md",
-      "x": 510.22943115234375,
-      "y": 1045.0787353515625
-    },
-    {
-      "id": "the implant",
-      "x": 687.3780517578125,
-      "y": 1354.987060546875
-    },
-    {
-      "id": "Structure/Concepts/Respawn Explanations.md",
-      "x": 318.5527038574219,
-      "y": -365.6294860839844
-    },
-    {
-      "id": "Ashen",
-      "x": 392.9650573730469,
-      "y": -718.43115234375
-    },
-    {
-      "id": "Structure/Concepts/Soul Theory.md",
-      "x": 637.4237060546875,
-      "y": -461.4985656738281
+      "id": "Overviews/Concepts/Soul Theory.md",
+      "x": 575.6856689453125,
+      "y": -1174.638916015625
     },
     {
       "id": "A Realm Beyond",
-      "x": 778.0979614257812,
-      "y": -768.1261596679688
+      "x": 736.2617797851562,
+      "y": -1465.2103271484375
     },
     {
-      "id": "Structure/Concepts/Theophagy.md",
-      "x": 1367.022705078125,
-      "y": 381.3289794921875
+      "id": "Overviews/Concepts/Theophagy.md",
+      "x": 1277.623291015625,
+      "y": 76.12692260742188
     },
     {
       "id": "New Gods",
-      "x": 1584.156494140625,
-      "y": 588.5801391601562
+      "x": 1605.224609375,
+      "y": 176.9609375
     },
     {
-      "id": "Structure/Concepts/Twilit Rift.md",
-      "x": -1106.685302734375,
-      "y": -285.7763977050781
+      "id": "Overviews/Concepts/Twilit Rift.md",
+      "x": -842.0823974609375,
+      "y": -583.903076171875
     },
     {
-      "id": "Structure/Digests/Differences Regarding Factions.md",
-      "x": -5.799992561340332,
-      "y": 2302.188232421875
-    },
-    {
-      "id": "Structure/Digests/Faction Overview.md",
-      "x": 683.542236328125,
-      "y": 63.50341796875
-    },
-    {
-      "id": "Structure/Digests/Locations and You.md",
-      "x": 1177.2200927734375,
-      "y": 474.65740966796875
-    },
-    {
-      "id": "Structure/Digests/Major Plotlines.md",
-      "x": 294.63916015625,
-      "y": -87.73764038085938
-    },
-    {
-      "id": "Structure/Digests/Religions.md",
-      "x": 778.0723266601562,
-      "y": -10.361109733581543
-    },
-    {
-      "id": "Structure/Digests/Species of Servilia.md",
-      "x": -30.909912109375,
-      "y": -519.89208984375
-    },
-    {
-      "id": "Ivory Highflyer",
-      "x": -78.64208984375,
-      "y": -865.7730712890625
-    },
-    {
-      "id": "Structure/Digests/Stressors on Factions.md",
-      "x": 666.8433227539062,
-      "y": -55.30586242675781
-    },
-    {
-      "id": "Structure/Digests/Things that Need Fixing.md",
-      "x": 1156.41650390625,
-      "y": 175.6504669189453
-    },
-    {
-      "id": "Character Overview",
-      "x": 1493.91259765625,
-      "y": 234.94485473632812
-    },
-    {
-      "id": "Motivation",
-      "x": 1494.685791015625,
-      "y": 114.96005249023438
-    },
-    {
-      "id": "Structure/Digests/Universal Pantheon.md",
-      "x": 968.6404418945312,
-      "y": 298.42596435546875
-    },
-    {
-      "id": "Structure/Disambiguations/War.md",
-      "x": 1396.4390869140625,
-      "y": -102.19889068603516
+      "id": "Overviews/Disambiguations/War.md",
+      "x": 1372.93896484375,
+      "y": -16.134429931640625
     },
     {
       "id": "Warfare",
-      "x": 1730.0533447265625,
-      "y": -110.51216125488281
+      "x": 1727.675048828125,
+      "y": -4.775125503540039
     },
     {
-      "id": "Structure/Generator Snippets.md",
-      "x": -1020.79443359375,
-      "y": 302.69927978515625
+      "id": "Overviews/Generator Snippets.md",
+      "x": -668.0997924804688,
+      "y": 283.1011047363281
     },
     {
       "id": "Orhyrst, City of the First Light",
-      "x": -1383.780517578125,
-      "y": 342.3744812011719
+      "x": -997.428955078125,
+      "y": 435.51458740234375
     },
     {
       "id": "Orphanage of the Fane in the Empyrean Sky",
-      "x": -1336.7320556640625,
-      "y": 232.0474395751953
+      "x": -1016.9815063476562,
+      "y": 317.1455078125
     },
     {
-      "id": "Structure/Homebrew.md",
-      "x": 144.1119384765625,
-      "y": 251.01242065429688
+      "id": "Overviews/Homebrew.md",
+      "x": 28.87390899658203,
+      "y": 484.2457275390625
     },
     {
-      "id": "Structure/New Unique Note Template.md",
-      "x": 1668.3304443359375,
-      "y": 1580.3126220703125
+      "id": "Overviews/New Unique Note Template.md",
+      "x": -2221.146240234375,
+      "y": -300.5751647949219
     },
     {
-      "id": "Structure/Possible Ways Thylyist can collapse.md",
-      "x": 996.053955078125,
-      "y": -266.4188537597656
+      "id": "Overviews/Notable Streets.md",
+      "x": -1802.0335693359375,
+      "y": -1363.165771484375
     },
     {
-      "id": "Structure/Prime Clash of Nolka vs Mekhanites.md",
-      "x": 1267.870849609375,
-      "y": -30.58894157409668
+      "id": "Telegraph Road",
+      "x": -1983.4864501953125,
+      "y": -1172.0728759765625
     },
     {
-      "id": "Structure/Prophecies.md",
-      "x": -493.0979919433594,
-      "y": -512.9835205078125
+      "id": "Electric Avenue",
+      "x": -1607.83447265625,
+      "y": -1548.16162109375
+    },
+    {
+      "id": "Overviews/Possible Ways Thylyist can collapse.md",
+      "x": 569.7032470703125,
+      "y": -421.5998840332031
+    },
+    {
+      "id": "Overviews/Possible reasons why Schi-Ut-Pula vanished.md",
+      "x": 1551.1029052734375,
+      "y": 284.0301818847656
+    },
+    {
+      "id": "Overviews/Prime Clash of Nolka vs Mekhanites.md",
+      "x": 1266.8902587890625,
+      "y": -281.78143310546875
+    },
+    {
+      "id": "Overviews/Prophecies.md",
+      "x": -418.5123596191406,
+      "y": -473.91998291015625
     },
     {
       "id": "Valley of Crystal",
-      "x": -703.8919067382812,
-      "y": -759.6802978515625
+      "x": -808.6920166015625,
+      "y": -443.05242919921875
     },
     {
       "id": "Lantern of Strength",
-      "x": -553.1420288085938,
-      "y": -916.3482055664062
+      "x": -732.4437255859375,
+      "y": -535.59375
     },
     {
       "id": "Brass Court",
-      "x": -664.99267578125,
-      "y": -872.9989013671875
+      "x": -594.752685546875,
+      "y": -680.0201416015625
     },
     {
       "id": "Blade of Cruelty",
-      "x": -810.801025390625,
-      "y": -705.5617065429688
+      "x": -690.3488159179688,
+      "y": -423.4063720703125
     },
     {
-      "id": "Structure/References.md",
-      "x": 160.2158203125,
-      "y": -152.36563110351562
-    },
-    {
-      "id": "Structure/Rumours.md",
-      "x": -504.5544738769531,
-      "y": 1909.996826171875
-    },
-    {
-      "id": "Structure/Session Notes/Session Notes no1.md",
-      "x": 1214.7509765625,
-      "y": 804.2083129882812
-    },
-    {
-      "id": "Structure/The Father of Death.md",
-      "x": 286.58355712890625,
-      "y": 813.5843505859375
-    },
-    {
-      "id": "Structure/Weather Forecast.md",
-      "x": -1242.4561767578125,
-      "y": -169.34396362304688
+      "id": "Terrain Shattered",
+      "x": -344.1433410644531,
+      "y": -943.0150756835938
     },
     {
       "id": "tempests",
-      "x": -1537.5865478515625,
-      "y": -305.6484069824219
+      "x": -821.609619140625,
+      "y": -702.0441284179688
     },
     {
-      "id": "TODO 2꞉ Electric Bogaloo.md",
-      "x": 939.538818359375,
-      "y": -1035.2540283203125
+      "id": "Overviews/References.md",
+      "x": 205.40928649902344,
+      "y": -299.8785095214844
     },
     {
-      "id": "The Warrens of Unspeakable Horror 04.md",
-      "x": 2286.330078125,
-      "y": 236.53976440429688
+      "id": "Overviews/Rumours.md",
+      "x": -797.0336303710938,
+      "y": 1543.9732666015625
+    },
+    {
+      "id": "Overviews/Session Notes/Session Notes no1.md",
+      "x": 1618.7730712890625,
+      "y": 678.2094116210938
+    },
+    {
+      "id": "Overviews/Summaries, Digests/Differences Regarding Factions.md",
+      "x": -1036.1727294921875,
+      "y": -1965.321044921875
+    },
+    {
+      "id": "Overviews/Summaries, Digests/Faction Overview.md",
+      "x": 1075.12353515625,
+      "y": -100.3626708984375
+    },
+    {
+      "id": "Overviews/Summaries, Digests/Locations and You.md",
+      "x": 951.4102783203125,
+      "y": 438.484619140625
+    },
+    {
+      "id": "Overviews/Summaries, Digests/Major Plotlines.md",
+      "x": 380.6188049316406,
+      "y": -435.57330322265625
+    },
+    {
+      "id": "Overviews/Summaries, Digests/Religions.md",
+      "x": 627.4161987304688,
+      "y": -316.4148864746094
+    },
+    {
+      "id": "Overviews/Summaries, Digests/Species of Servilia.md",
+      "x": -418.033447265625,
+      "y": -332.3077087402344
+    },
+    {
+      "id": "Ivory Highflyer",
+      "x": -806.6541748046875,
+      "y": -278.25146484375
+    },
+    {
+      "id": "Overviews/Summaries, Digests/Stressors on Factions.md",
+      "x": 664.6678466796875,
+      "y": -202.3483428955078
+    },
+    {
+      "id": "Overviews/Summaries, Digests/Things that Need Fixing.md",
+      "x": 1149.1568603515625,
+      "y": 136.1433563232422
+    },
+    {
+      "id": "Character Overview",
+      "x": 1333.3536376953125,
+      "y": 382.85089111328125
+    },
+    {
+      "id": "Motivation",
+      "x": 1438.142822265625,
+      "y": 324.4914855957031
+    },
+    {
+      "id": "Overviews/Summaries, Digests/Universal Pantheon.md",
+      "x": 847.1177368164062,
+      "y": -92.48590087890625
+    },
+    {
+      "id": "Overviews/The Father of Death.md",
+      "x": 295.02655029296875,
+      "y": 340.94598388671875
+    },
+    {
+      "id": "Overviews/Weather Forecast.md",
+      "x": -883.3291625976562,
+      "y": -892.2734375
+    },
+    {
+      "id": "README.md",
+      "x": 489.8955078125,
+      "y": 146.3273468017578
+    },
+    {
+      "id": "The Third Era",
+      "x": 443.0614013671875,
+      "y": 540.3369140625
+    },
+    {
+      "id": "Realms/Planes/Between.md",
+      "x": -561.6641235351562,
+      "y": -1043.8065185546875
+    },
+    {
+      "id": "Realms/Planes/Beyond.md",
+      "x": 1513.3426513671875,
+      "y": 99.7406005859375
+    },
+    {
+      "id": "Realms/Planes/Dark Domain/Empire of Shadows.md",
+      "x": -697.9896850585938,
+      "y": 579.046875
+    },
+    {
+      "id": "Realms/Planes/Dark Domain/Eternal Sea.md",
+      "x": -658.5872192382812,
+      "y": 1016.4182739257812
+    },
+    {
+      "id": "Realms/Planes/Dark Domain/The Void.md",
+      "x": -572.3968505859375,
+      "y": -329.7279052734375
+    },
+    {
+      "id": "Realms/Planes/Twilit.md",
+      "x": -470.2561340332031,
+      "y": -682.9754028320312
+    },
+    {
+      "id": "Realms/Utuw System/Scheties.md",
+      "x": -1495.19287109375,
+      "y": 921.04833984375
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Heaugi.md",
+      "x": -880.1259155273438,
+      "y": 460.6805419921875
+    },
+    {
+      "id": "Heaugi ut-Tabānah",
+      "x": -1181.7852783203125,
+      "y": 564.2378540039062
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Kynoly.md",
+      "x": -1375.1964111328125,
+      "y": 917.984130859375
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Opar.md",
+      "x": -1289.4423828125,
+      "y": 1014.2591552734375
+    },
+    {
+      "id": "Parop",
+      "x": -1512.4879150390625,
+      "y": 1112.700927734375
+    },
+    {
+      "id": "Seal of Man",
+      "x": -1452.6339111328125,
+      "y": 1265.373291015625
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Schi.md",
+      "x": -1306.4161376953125,
+      "y": 593.9264526367188
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Amida/Numerator.md",
+      "x": -313.7302551269531,
+      "y": -1176.856689453125
+    },
+    {
+      "id": "Amida-5",
+      "x": -419.2286376953125,
+      "y": -1446.8984375
+    },
+    {
+      "id": "Amida-9",
+      "x": -314.4354553222656,
+      "y": -1505.302734375
+    },
+    {
+      "id": "Amida-11",
+      "x": -602.6467895507812,
+      "y": -1419.5975341796875
+    },
+    {
+      "id": "Amida-12",
+      "x": -522.1978759765625,
+      "y": -1508.4700927734375
+    },
+    {
+      "id": "A-5c'a",
+      "x": -417.40380859375,
+      "y": -1566.8348388671875
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Amida/SICK.md",
+      "x": -99.56246948242188,
+      "y": -1383.029296875
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom/Davern Kingdom.md",
+      "x": 1476.760498046875,
+      "y": -592.1890869140625
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Davern Kingdom/Yawning Grave.md",
+      "x": 2041.0665283203125,
+      "y": -657.514892578125
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Archive of Old.md",
+      "x": 701.6582641601562,
+      "y": 546.0928344726562
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Central Thylyist Armoury.md",
+      "x": 1238.142578125,
+      "y": -56.160037994384766
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Citadel of the Gear.md",
+      "x": 1557.9051513671875,
+      "y": -503.80413818359375
+    },
+    {
+      "id": "Catacombs",
+      "x": 1842.78466796875,
+      "y": -635.0186767578125
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Empire of Thylyist.md",
+      "x": 863.2119140625,
+      "y": -425.78936767578125
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Empire of Thylyist/Heart of Mekhane.md",
+      "x": 1383.14599609375,
+      "y": -311.31353759765625
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Brisburne.md",
+      "x": 1383.0284423828125,
+      "y": 492.07257080078125
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Duley and Port.md",
+      "x": 909.2769165039062,
+      "y": 596.8195190429688
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/Frisco.md",
+      "x": 1117.15478515625,
+      "y": 251.78692626953125
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Frisco Bay/The Cats' Scriptorium.md",
+      "x": 1294.1971435546875,
+      "y": 712.3973388671875
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Automated Remains.md",
+      "x": 126.06328582763672,
+      "y": -1627.41552734375
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Clocktowers beneath the Sea.md",
+      "x": -1219.9144287109375,
+      "y": -677.9639282226562
+    },
+    {
+      "id": "Carnival",
+      "x": -1528.2337646484375,
+      "y": -757.7387084960938
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Dump Site.md",
+      "x": -1160.6361083984375,
+      "y": -1918.099609375
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Inn of a Thousand Names.md",
+      "x": -1051.101318359375,
+      "y": -64.15482330322266
+    },
+    {
+      "id": "innkeeper",
+      "x": -1395.602783203125,
+      "y": -16.180578231811523
+    },
+    {
+      "id": "Just open the door.",
+      "x": -615.4801635742188,
+      "y": -561.8799438476562
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Areas/Locations/Lakehouse.md",
+      "x": 286.0870361328125,
+      "y": 529.971923828125
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile.md",
+      "x": 419.257080078125,
+      "y": -1173.0068359375
+    },
+    {
+      "id": "New Londo",
+      "x": 550.7938232421875,
+      "y": -1467.134521484375
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile/Floating Islands.md",
+      "x": -218.8973846435547,
+      "y": -1395.263671875
+    },
+    {
+      "id": "Midwife",
+      "x": -257.6888122558594,
+      "y": -1739.9161376953125
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile/Limbo Boneyard.md",
+      "x": -449.99658203125,
+      "y": -869.5840454101562
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile/Londo.md",
+      "x": -17.827470779418945,
+      "y": -951.0873413085938
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Ancient Exile/Streets Of Londo.md",
+      "x": -121.22090911865234,
+      "y": -532.467041015625
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Hallownest.md",
+      "x": -181.29144287109375,
+      "y": -1055.5048828125
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Hollow Mountains.md",
+      "x": 108.09574890136719,
+      "y": -896.7857055664062
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Hollow Mountains/Searing Lode.md",
+      "x": -124.60579681396484,
+      "y": -1239.875732421875
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/A Hill.md",
+      "x": -550.21923828125,
+      "y": 260.88153076171875
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Castle on a hill.md",
+      "x": -301.66259765625,
+      "y": 16.17049789428711
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Long Savannah.md",
+      "x": -416.67388916015625,
+      "y": -1238.435302734375
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/Eroded Frames.md",
+      "x": 169.86856079101562,
+      "y": -1172.9962158203125
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/First Vault.md",
+      "x": 260.7569274902344,
+      "y": -1094.6790771484375
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/Fountainhead.md",
+      "x": -61.551048278808594,
+      "y": -1062.785400390625
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/Lavish Wastes.md",
+      "x": 5.764892578125,
+      "y": -1440.4954833984375
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/Palga Basin.md",
+      "x": 172.46090698242188,
+      "y": -795.5299072265625
+    },
+    {
+      "id": "Family Tree",
+      "x": 63.641502380371094,
+      "y": -1117.2816162109375
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/SC-AM.md",
+      "x": 283.18133544921875,
+      "y": -1212.5260009765625
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/Syksa, Lavish Capital.md",
+      "x": 310.3309020996094,
+      "y": -737.887451171875
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Palga Basin/The Abyss.md",
+      "x": -564.4019165039062,
+      "y": -905.7924194335938
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Scorched Acres.md",
+      "x": -495.58013916015625,
+      "y": -565.7793579101562
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Long Savannah/Sentinel of Steel.md",
+      "x": 833.3897094726562,
+      "y": 983.9274291992188
+    },
+    {
+      "id": "red plague",
+      "x": 345.164306640625,
+      "y": 1281.9852294921875
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Ninth Forest/Caverns.md",
+      "x": -1034.8984375,
+      "y": 1654.284912109375
+    },
+    {
+      "id": "rough surface",
+      "x": -945.1548461914062,
+      "y": 1887.225341796875
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Ninth Forest/Court of Storms.md",
+      "x": -441.2110290527344,
+      "y": 543.587158203125
+    },
+    {
+      "id": "The One Who Judges",
+      "x": -900.8300170898438,
+      "y": 716.8046875
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Ninth Forest/Green Swale of Seven Spires.md",
+      "x": -826.5025634765625,
+      "y": 1397.86767578125
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Ninth Forest/Lost City of the Ninth Forest.md",
+      "x": 384.00115966796875,
+      "y": 427.6885070800781
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Ninth Forest/Ninth Forest.md",
+      "x": -681.883056640625,
+      "y": 1214.9576416015625
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Ninth Forest/Sepulchre.md",
+      "x": 627.9318237304688,
+      "y": 281.8402099609375
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Northern Reaches/Alp Peaks.md",
+      "x": -1278.1624755859375,
+      "y": -559.8549194335938
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Northern Reaches/Black Forest.md",
+      "x": -1640.861572265625,
+      "y": -336.52581787109375
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Northern Reaches/Eternal Glacier.md",
+      "x": -1768.599365234375,
+      "y": 104.63975524902344
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Northern Reaches/Ice Plains.md",
+      "x": -1604.4659423828125,
+      "y": 356.20172119140625
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Northern Reaches/Northern Reaches.md",
+      "x": -1492.237060546875,
+      "y": -104.9820327758789
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Northern Reaches/Tundra.md",
+      "x": -1497.890380859375,
+      "y": 439.2523498535156
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Astral Ocean.md",
+      "x": -830.6585693359375,
+      "y": 962.009033203125
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Belisha Beacon.md",
+      "x": -267.3570251464844,
+      "y": 529.4022827148438
+    },
+    {
+      "id": "scattered islands",
+      "x": -592.1057739257812,
+      "y": 669.3367919921875
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Chromatic Calderas.md",
+      "x": -367.6883850097656,
+      "y": 237.68362426757812
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/City of Stargard.md",
+      "x": -560.5563354492188,
+      "y": 526.4000244140625
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Forgotten Atoll.md",
+      "x": -585.21630859375,
+      "y": 789.1126098632812
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Kaá-Rav.md",
+      "x": -220.4969024658203,
+      "y": 639.7863159179688
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Lunar Gateways.md",
+      "x": -336.24627685546875,
+      "y": -98.64026641845703
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/Skalitz.md",
+      "x": -413.92333984375,
+      "y": 348.3948974609375
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/The Oculus of Night.md",
+      "x": -783.1327514648438,
+      "y": 739.960205078125
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Kaá-Rav Isles/The Tellurion.md",
+      "x": -567.1304931640625,
+      "y": 92.51039123535156
+    },
+    {
+      "id": "the uprooting",
+      "x": -911.5510864257812,
+      "y": 213.32379150390625
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Astral Ocean/Lunar Mangroves.md",
+      "x": -1051.6776123046875,
+      "y": 1328.21826171875
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Edge of Hope.md",
+      "x": -41.988014221191406,
+      "y": 1223.7327880859375
+    },
+    {
+      "id": "Realms/Utuw System/Schi/Servilia/Regions/Sea Major/Sea Major.md",
+      "x": -482.6794128417969,
+      "y": 1108.9564208984375
+    },
+    {
+      "id": "Realms/Utuw System/Sphill.md",
+      "x": -1471.846923828125,
+      "y": 700.7142333984375
+    },
+    {
+      "id": "Realms/Utuw System/St. Nowhere.md",
+      "x": 1194.477294921875,
+      "y": 779.1456298828125
+    },
+    {
+      "id": "Café at the End of Time",
+      "x": 619.6021728515625,
+      "y": 758.606201171875
+    },
+    {
+      "id": "Realms/Utuw System/The Utuw Family.md",
+      "x": -1189.804931640625,
+      "y": 830.130126953125
+    },
+    {
+      "id": "Dirius",
+      "x": -1432.5369873046875,
+      "y": 1023.2749633789062
+    },
+    {
+      "id": "Degois",
+      "x": -1557.5626220703125,
+      "y": 818.579345703125
+    },
+    {
+      "id": "Shifty",
+      "x": -1437.6929931640625,
+      "y": 815.70654296875
+    },
+    {
+      "id": "Herguami",
+      "x": -1235.36376953125,
+      "y": 1123.36083984375
+    },
+    {
+      "id": "Realms/Utuw System/Three Moons.md",
+      "x": -1047.34521484375,
+      "y": 1050.603759765625
+    },
+    {
+      "id": "Realms/Utuw System/Utuw.md",
+      "x": -1355.0140380859375,
+      "y": 1114.7762451171875
+    },
+    {
+      "id": "Somewhat Coherent/War and Flesh/Deployed Giant.md",
+      "x": 527.4320068359375,
+      "y": 1589.3468017578125
+    },
+    {
+      "id": "Somewhat Coherent/War and Flesh/On the victorious Defeat.md",
+      "x": 717.3121337890625,
+      "y": 1777.2479248046875
+    },
+    {
+      "id": "Somewhat Coherent/War and Flesh/Posthumous Unity.md",
+      "x": 509.33306884765625,
+      "y": 1863.2083740234375
+    },
+    {
+      "id": "Somewhat Coherent/War and Flesh/Reddened Warmachine.md",
+      "x": 384.007568359375,
+      "y": 1639.0936279296875
+    },
+    {
+      "id": "Somewhat Coherent/War and Flesh/The Tale of Two Giants.md",
+      "x": 704.7833251953125,
+      "y": 1397.6236572265625
+    },
+    {
+      "id": "machine",
+      "x": 837.2550048828125,
+      "y": 1612.189697265625
+    },
+    {
+      "id": "Somewhat Coherent/Wings/2024'02'10'21-58-29.md",
+      "x": -1134.4100341796875,
+      "y": -1447.7099609375
+    },
+    {
+      "id": "Somewhat Coherent/Wings/2024'02'10'22-39-35.md",
+      "x": -1331.046875,
+      "y": -1631.8438720703125
+    },
+    {
+      "id": "Somewhat Coherent/Wings/These Foul Spires.md",
+      "x": -1354.8431396484375,
+      "y": -1816.9150390625
     },
     {
       "id": "WIP or Projects/Dhât út-Bhadan.md",
-      "x": 427.9322204589844,
-      "y": 182.19456481933594
+      "x": -610.9913940429688,
+      "y": 906.2928466796875
     },
     {
       "id": "Dhât",
-      "x": 550.3828125,
-      "y": -92.41592407226562
+      "x": -824.25146484375,
+      "y": 1163.0078125
     },
     {
       "id": "WIP or Projects/Lavish Rework ⁄ Lore.md",
-      "x": 25.60984230041504,
-      "y": 269.6772766113281
+      "x": 138.8273162841797,
+      "y": 46.84001541137695
     },
     {
       "id": "WIP or Projects/Like Obelisks, as far as another Realm.md",
-      "x": 109.19413757324219,
-      "y": 979.8980712890625
+      "x": 16.55465316772461,
+      "y": 673.3417358398438
     },
     {
       "id": "WIP or Projects/TO-DO/Before the First Era.md",
-      "x": 530.4962768554688,
-      "y": 119.98764038085938
+      "x": 541.6705322265625,
+      "y": -161.11595153808594
     },
     {
       "id": "WIP or Projects/TO-DO/Davern Kingdom ⧣TODO.md",
-      "x": 653.0591430664062,
-      "y": -342.55328369140625
+      "x": 1520.0557861328125,
+      "y": -739.08935546875
     },
     {
       "id": "WIP or Projects/TO-DO/History of Sepulchre and the Faceless.md",
-      "x": 407.0919494628906,
-      "y": 500.55364990234375
+      "x": 658.0512084960938,
+      "y": 434.3729248046875
     },
     {
       "id": "WIP or Projects/TO-DO/How Dying ceased.md",
-      "x": 1005.4569702148438,
-      "y": 412.5787353515625
+      "x": 977.5081176757812,
+      "y": -30.65434455871582
     },
     {
       "id": "WIP or Projects/TO-DO/How to get out of Compton.md",
-      "x": -1769.5140380859375,
-      "y": -711.4454956054688
+      "x": -2118.77197265625,
+      "y": -399.1432189941406
     },
     {
       "id": "WIP or Projects/TO-DO/Phenomenon.md",
-      "x": -1394.9635009765625,
-      "y": -222.8257293701172
+      "x": -1078.4034423828125,
+      "y": -362.774658203125
     },
     {
       "id": "WIP or Projects/TO-DO/Quick Travel methods.md",
-      "x": -547.8111572265625,
-      "y": 297.8234558105469
+      "x": 30.213598251342773,
+      "y": 186.1688690185547
     },
     {
       "id": "that funny retro scifi stone motorcycle",
-      "x": -879.82421875,
-      "y": 255.01023864746094
+      "x": -230.5576171875,
+      "y": 315.2547607421875
     },
     {
       "id": "WIP or Projects/TO-DO/Ramblings/A visit at the theatre.md",
-      "x": 225.2283477783203,
-      "y": -2397.26611328125
+      "x": 2044.8267822265625,
+      "y": 894.6813354492188
     },
     {
       "id": "WIP or Projects/TO-DO/Ramblings/Cluttered thoughts about Tombstone.md",
-      "x": -195.2706298828125,
-      "y": 478.06781005859375
+      "x": -948.9866943359375,
+      "y": 981.8782958984375
     },
     {
       "id": "sacred alder trees",
-      "x": -375.6701354980469,
-      "y": 718.7957153320312
+      "x": -1139.449462890625,
+      "y": 1233.35693359375
+    },
+    {
+      "id": "WIP or Projects/TO-DO/Ramblings/HTML Spell circle lmao.md",
+      "x": 230.40074157714844,
+      "y": 1874.9764404296875
     },
     {
       "id": "WIP or Projects/TO-DO/Ramblings/Now, how does the CoTBG or mekhanites affect the world.md",
-      "x": -2019.8017578125,
-      "y": -550.1019897460938
+      "x": -2182.121337890625,
+      "y": 13.931358337402344
+    },
+    {
+      "id": "WIP or Projects/TO-DO/TODO 2꞉ Electric Bogaloo.md",
+      "x": -9.534000396728516,
+      "y": -831.4429321289062
     },
     {
       "id": "WIP or Projects/TO-DO/Ye' Good Olde TODO.md",
-      "x": 196.94740295410156,
-      "y": 652.4817504882812
+      "x": 196.31268310546875,
+      "y": 450.506103515625
     },
     {
       "id": "Witches",
-      "x": 271.5428161621094,
-      "y": 1026.6688232421875
+      "x": 287.6643981933594,
+      "y": 838.2354736328125
     },
     {
       "id": "Cyberware",
-      "x": 405.5949401855469,
-      "y": 828.0330200195312
+      "x": 251.09764099121094,
+      "y": 723.9805908203125
     },
     {
       "id": "The Broken Orchestra",
-      "x": 333.6941833496094,
-      "y": 923.9481811523438
+      "x": 53.20026397705078,
+      "y": 787.5393676757812
     },
     {
       "id": "Black Parade",
-      "x": 391.43328857421875,
-      "y": 1028.9769287109375
+      "x": 133.81033325195312,
+      "y": 698.6691284179688
     },
     {
       "id": "The Six Seals",
-      "x": 213.85121154785156,
-      "y": 921.572021484375
+      "x": 170.47999572753906,
+      "y": 812.8619995117188
     },
     {
       "id": "WIP or Projects/The Wall.md",
-      "x": -1684.1591796875,
-      "y": -320.4122314453125
+      "x": -1427.52685546875,
+      "y": -361.2967529296875
     },
     {
       "id": "WIP or Projects/Workpieces/2024'01'03'00-06-00.md",
-      "x": 1283.4549560546875,
-      "y": -358.36968994140625
+      "x": 921.58837890625,
+      "y": -624.5040893554688
     },
     {
       "id": "WIP or Projects/Workpieces/2024'02'25'21-55-56.md",
-      "x": -2066.563232421875,
-      "y": -812.6980590820312
+      "x": -1863.351806640625,
+      "y": -1176.5247802734375
     },
     {
       "id": "WIP or Projects/Workpieces/2024'02'26'13-46-38.md",
-      "x": -835.2400512695312,
-      "y": 2041.980224609375
+      "x": -1304.702880859375,
+      "y": 1789.59423828125
     },
     {
       "id": "WIP or Projects/Workpieces/2024'02'26'14-16-47.md",
-      "x": -2244.3115234375,
-      "y": 99.47376251220703
-    },
-    {
-      "id": "WIP or Projects/Workpieces/2024'02'26'23-54-09.md",
-      "x": -1082.412109375,
-      "y": -1964.140380859375
+      "x": -2183.40625,
+      "y": 151.63232421875
     },
     {
       "id": "WIP or Projects/Workpieces/2024'02'27'00-12-48.md",
-      "x": -2094.0791015625,
-      "y": -424.56158447265625
+      "x": 96.55460357666016,
+      "y": -2287.695068359375
     },
     {
       "id": "WIP or Projects/Workpieces/2024'02'27'12-16-04.md",
-      "x": -610.3583374023438,
-      "y": -684.9884643554688
+      "x": -96.59325408935547,
+      "y": -1503.0045166015625
     },
     {
       "id": "WIP or Projects/Workpieces/2024'02'27'14-15-18.md",
-      "x": -720.9909057617188,
-      "y": 1029.3424072265625
+      "x": 575.4545288085938,
+      "y": 906.8980102539062
     },
     {
-      "id": "WIP or Projects/Workpieces/2024'02'27'18-08-12.md",
-      "x": 735.9019165039062,
-      "y": 2127.3916015625
+      "id": "WIP or Projects/Workpieces/2024'02'28'11-33-29.md",
+      "x": 1382.514892578125,
+      "y": -1791.799072265625
+    },
+    {
+      "id": "WIP or Projects/Workpieces/2024'02'28'15-25-04.md",
+      "x": -2031.7265625,
+      "y": -643.0743408203125
+    },
+    {
+      "id": "WIP or Projects/Workpieces/2024'02'29'13-58-29.md",
+      "x": -479.8604431152344,
+      "y": 711.71435546875
+    },
+    {
+      "id": "WIP or Projects/Workpieces/2024'03'04'20-59-01.md",
+      "x": 1102.6273193359375,
+      "y": -1299.34033203125
+    },
+    {
+      "id": "Valerie",
+      "x": 1308.2821044921875,
+      "y": -1519.4765625
+    },
+    {
+      "id": "WIP or Projects/Workpieces/Blessed Cattle.md",
+      "x": 1557.190185546875,
+      "y": -1664.9071044921875
     },
     {
       "id": "WIP or Projects/Workpieces/Cult and Religious Movement Overhaul.md",
-      "x": 185.80960083007812,
-      "y": 120.6201400756836
+      "x": 165.077880859375,
+      "y": -523.075927734375
     },
     {
       "id": "little subgroup of the lunatics",
-      "x": 64.31857299804688,
-      "y": 383.2337951660156
+      "x": 423.17303466796875,
+      "y": -547.630859375
     },
     {
       "id": "WIP or Projects/Workpieces/Future development of the Mekhanites.md",
-      "x": 411.94256591796875,
-      "y": -1073.2899169921875
+      "x": 520.2430419921875,
+      "y": -1583.179931640625
     },
     {
       "id": "Holy Code",
-      "x": 518.4988403320312,
-      "y": -1493.3228759765625
+      "x": 483.5749206542969,
+      "y": -1991.916259765625
     },
     {
       "id": "Runtime",
-      "x": 618.8081665039062,
-      "y": -1427.57958984375
+      "x": 599.8805541992188,
+      "y": -1962.497802734375
     },
     {
       "id": "The Debugger",
-      "x": 719.6643676757812,
-      "y": -1362.6328125
+      "x": 704.5396118164062,
+      "y": -1861.8070068359375
     },
     {
       "id": "WIP or Projects/Workpieces/God's Personal Cellphone.md",
-      "x": 2112.87646484375,
-      "y": -481.3913269042969
+      "x": 2168.211669921875,
+      "y": 651.051513671875
     },
     {
       "id": "WIP or Projects/Workpieces/Greed.md",
-      "x": -896.0706787109375,
-      "y": -1885.328857421875
+      "x": 632.1459350585938,
+      "y": -1356.5228271484375
+    },
+    {
+      "id": "WIP or Projects/Workpieces/Hunt.md",
+      "x": 109.1170654296875,
+      "y": -1823.0247802734375
     },
     {
       "id": "WIP or Projects/Workpieces/Judgement.md",
-      "x": -1692.613525390625,
-      "y": 1575.4166259765625
+      "x": -1932.5147705078125,
+      "y": 1103.020751953125
     },
     {
       "id": "cloaked in shadows",
-      "x": -1509.9678955078125,
-      "y": 1760.3309326171875
+      "x": -1859.0318603515625,
+      "y": 1345.401123046875
     },
     {
       "id": "WIP or Projects/Workpieces/Machinist’s Manifesto.md",
-      "x": 1405.11328125,
-      "y": -555.0797729492188
+      "x": 1365.37060546875,
+      "y": -840.4263916015625
+    },
+    {
+      "id": "WIP or Projects/Workpieces/Mechas.md",
+      "x": -1620.1329345703125,
+      "y": -1261.017822265625
+    },
+    {
+      "id": "Aerial Combat Entity/Vehicle",
+      "x": -1816.1041259765625,
+      "y": -1066.223876953125
     },
     {
       "id": "WIP or Projects/Workpieces/One Language.md",
-      "x": 846.541259765625,
-      "y": -1679.85498046875
+      "x": 769.4100952148438,
+      "y": -2116.7900390625
     },
     {
       "id": "The Kernel",
-      "x": 994.615966796875,
-      "y": -1918.131591796875
+      "x": 1011.6732177734375,
+      "y": -2063.760498046875
     },
     {
       "id": "Hard Drives",
-      "x": 1084.2222900390625,
-      "y": -1835.6361083984375
+      "x": 586.6451416015625,
+      "y": -2268.725830078125
+    },
+    {
+      "id": "WIP or Projects/Workpieces/Pieces of the Machine.md",
+      "x": 1067.359619140625,
+      "y": -1924.462646484375
     },
     {
       "id": "WIP or Projects/Workpieces/Regarding the Planets and Star.md",
-      "x": -1122.92333984375,
-      "y": 1692.046875
+      "x": 369.33245849609375,
+      "y": 750.4193725585938
     },
     {
       "id": "WIP or Projects/Workpieces/Rouge Matter-Energy.md",
-      "x": -607.8773803710938,
-      "y": 67.5919189453125
+      "x": -845.2889404296875,
+      "y": -1006.0789184570312
     },
     {
       "id": "anomaly",
-      "x": -964.8496704101562,
-      "y": 29.475902557373047
+      "x": -1155.297607421875,
+      "y": -1152.1680908203125
     },
     {
       "id": "WIP or Projects/Workpieces/So, God is Dead.md",
-      "x": 1972.7149658203125,
-      "y": 124.91893768310547
+      "x": 1865.80615234375,
+      "y": 567.4871826171875
+    },
+    {
+      "id": "Angels",
+      "x": 1945.3077392578125,
+      "y": 806.8878784179688
     },
     {
       "id": "WIP or Projects/Workpieces/Spectre.md",
-      "x": 2212.436767578125,
-      "y": 725.1675415039062
+      "x": 1052.3455810546875,
+      "y": 1500.4239501953125
     },
     {
       "id": "WIP or Projects/Workpieces/Thank the Gears.md",
-      "x": 647.9284057617188,
-      "y": -1034.77392578125
+      "x": 765.1346435546875,
+      "y": -1282.6300048828125
     },
     {
       "id": "WIP or Projects/Workpieces/Time-Assisted Homicide.md",
-      "x": -2064.4296875,
-      "y": 1034.3232421875
+      "x": -2127.4248046875,
+      "y": 474.51934814453125
     },
     {
       "id": "WIP or Projects/Workpieces/Towards the Reader.md",
-      "x": 970.9518432617188,
-      "y": 704.1910400390625
+      "x": 548.818359375,
+      "y": 483.82427978515625
     },
     {
       "id": "WIP or Projects/Workpieces/Yet Another Summary.md",
-      "x": 1240.731201171875,
-      "y": -470.46044921875
+      "x": 1152.085693359375,
+      "y": -795.9765014648438
     },
     {
       "id": "WIP or Projects/Workpieces/🝋.md",
-      "x": -305.25079345703125,
-      "y": -2184.9560546875
+      "x": 357.2440185546875,
+      "y": -2225.887939453125
+    },
+    {
+      "id": "WIP or Projects/Workpieces/One Day.md",
+      "x": -1753.8851318359375,
+      "y": 1287.5828857421875
+    },
+    {
+      "id": "Media/Floor Layouts/Dungeons/The Warrens of Unspeakable Horror 04.md",
+      "x": 1239.6134033203125,
+      "y": -1906.4241943359375
+    },
+    {
+      "id": "Overviews/Concepts/Apotheosis.md",
+      "x": 1176.6602783203125,
+      "y": -202.7841796875
+    },
+    {
+      "id": "Horde of Many",
+      "x": 1503.5103759765625,
+      "y": -264.06854248046875
+    },
+    {
+      "id": "Overviews/Concepts/Corse.md",
+      "x": 1406.472900390625,
+      "y": -193.6110076904297
+    },
+    {
+      "id": "Overviews/Concepts/Curse of the Undead.md",
+      "x": 499.4779968261719,
+      "y": -273.45086669921875
+    },
+    {
+      "id": "Overviews/Concepts/Echoes.md",
+      "x": -321.4654846191406,
+      "y": -403.46514892578125
+    },
+    {
+      "id": "Overviews/Concepts/Magic System/Amarisk.md",
+      "x": -265.3966979980469,
+      "y": -564.2949829101562
+    },
+    {
+      "id": "Overviews/Concepts/Magic System/Ignition Events.md",
+      "x": -897.4520874023438,
+      "y": -356.6027526855469
+    },
+    {
+      "id": "Amarisk Emission",
+      "x": -1238.9228515625,
+      "y": -382.7561340332031
+    },
+    {
+      "id": "Pulastaya",
+      "x": -1241.1771240234375,
+      "y": -262.7974548339844
+    },
+    {
+      "id": "gift",
+      "x": -686.8591918945312,
+      "y": 85.1287841796875
+    },
+    {
+      "id": "Overviews/Concepts/Magic System/Lacking things in the magic system.md",
+      "x": -534.3593139648438,
+      "y": -784.2833862304688
+    },
+    {
+      "id": "Overviews/Concepts/Magic System/Leyline.md",
+      "x": -645.5521240234375,
+      "y": -100.38549041748047
+    },
+    {
+      "id": "Overviews/Concepts/Magic System/Twilit Casting.md",
+      "x": -108.49073791503906,
+      "y": 352.0937805175781
+    },
+    {
+      "id": "the implant",
+      "x": -339.5711669921875,
+      "y": 625.18505859375
+    },
+    {
+      "id": "Overviews/Concepts/Respawn Explanations.md",
+      "x": 254.1343536376953,
+      "y": -631.8804931640625
+    },
+    {
+      "id": "Ashen",
+      "x": 437.79730224609375,
+      "y": -904.1494140625
+    },
+    {
+      "id": "Apartment 403/Attire/2024'03'03'00-50-51.md",
+      "x": -2058.816162109375,
+      "y": 864.85205078125
+    },
+    {
+      "id": "Apartment 403/Attire/2024'03'04'11-59-14.md",
+      "x": -717.865234375,
+      "y": 2170.872314453125
+    },
+    {
+      "id": "Apartment 403/Attire/Boots and Heels.md",
+      "x": 370.89276123046875,
+      "y": 1963.1900634765625
+    },
+    {
+      "id": "Apartment 403/Attire/Bottom Pieces.md",
+      "x": -329.3759765625,
+      "y": 2132.16162109375
+    },
+    {
+      "id": "Apartment 403/Attire/Clothing.md",
+      "x": -33.01140213012695,
+      "y": 1960.763916015625
+    },
+    {
+      "id": "Dresses",
+      "x": -218.64425659179688,
+      "y": 2085.9990234375
+    },
+    {
+      "id": "Straps",
+      "x": -276.1446838378906,
+      "y": 1896.5655517578125
+    },
+    {
+      "id": "Socks and Legwear",
+      "x": -222.49758911132812,
+      "y": 1789.2479248046875
+    },
+    {
+      "id": "Apartment 403/Attire/Odd Things That Reject Taxonomy.md",
+      "x": -312.2666320800781,
+      "y": 2011.00146484375
+    },
+    {
+      "id": "Apartment 403/Attire/Piercings.md",
+      "x": 443.8647766113281,
+      "y": 2264.0068359375
+    },
+    {
+      "id": "Apartment 403/Attire/Shiny Top Pieces.md",
+      "x": -200.38880920410156,
+      "y": 2204.57177734375
+    },
+    {
+      "id": "Apartment 403/Attire/Shopping list.md",
+      "x": -72.692626953125,
+      "y": 2105.7509765625
+    },
+    {
+      "id": "Apartment 403/Attire/Top Pieces.md",
+      "x": -423.0344543457031,
+      "y": 2057.168212890625
+    },
+    {
+      "id": "Coats and Mantles",
+      "x": -701.167724609375,
+      "y": 2039.10546875
+    },
+    {
+      "id": "Apartment 403/Attire/Underwear.md",
+      "x": -393.28857421875,
+      "y": 1922.5155029296875
+    },
+    {
+      "id": "Garter Belts",
+      "x": -668.2664794921875,
+      "y": 1915.9810791015625
+    },
+    {
+      "id": "Apartment 403/Attire/Unsorted Bookmarks.md",
+      "x": 251.28538513183594,
+      "y": 2122.280029296875
+    },
+    {
+      "id": "Apartment 403/HRT.md",
+      "x": 310.83343505859375,
+      "y": 2227.626708984375
+    },
+    {
+      "id": "Therapist",
+      "x": 75.23381042480469,
+      "y": 2139.504150390625
+    },
+    {
+      "id": "Apartment 403/IKEA notetaking.md",
+      "x": 1249.5528564453125,
+      "y": 1640.4366455078125
+    },
+    {
+      "id": "Apartment 403/Indices/Apt403 SUPERINDEX.md",
+      "x": 1201.3956298828125,
+      "y": 1789.3359375
+    },
+    {
+      "id": "Apartment 403/Indices/Diary INDEX.md",
+      "x": 1714.3084716796875,
+      "y": 1451.6094970703125
+    },
+    {
+      "id": "Apartment 403/Indices/NSFW INDEX.md",
+      "x": 804.475341796875,
+      "y": 1961.433349609375
+    },
+    {
+      "id": "Apartment 403/Indices/Personell Files INDEX.md",
+      "x": 1614.4267578125,
+      "y": 1569.86083984375
+    },
+    {
+      "id": "Kira",
+      "x": 1385.4915771484375,
+      "y": 1484.985107421875
+    },
+    {
+      "id": "Clash",
+      "x": 1648.603515625,
+      "y": 1290.0211181640625
+    },
+    {
+      "id": "TheNewGuy",
+      "x": 1541.232421875,
+      "y": 1343.4239501953125
+    },
+    {
+      "id": "Apartment 403/Indices/Re-Do INDEX.md",
+      "x": 478.9188537597656,
+      "y": 2015.427734375
+    },
+    {
+      "id": "Apartment 403/Indices/Unsorted INDEX.md",
+      "x": 1336.3240966796875,
+      "y": 1889.7435302734375
+    },
+    {
+      "id": "Apartment 403/Letter to Clash №1.md",
+      "x": 1369.5040283203125,
+      "y": 1637.1881103515625
+    },
+    {
+      "id": "Apartment 403/Memory repository/Diary, I guess/2024'02'21'00-44-01.md",
+      "x": 1963.7850341796875,
+      "y": 1327.5223388671875
+    },
+    {
+      "id": "Apartment 403/Memory repository/Diary, I guess/27-05-23.md",
+      "x": 1881.4619140625,
+      "y": 1114.1549072265625
+    },
+    {
+      "id": "Apartment 403/Memory repository/Diary, I guess/Fr, 07.07.2023.md",
+      "x": 1888.7227783203125,
+      "y": 1233.927734375
+    },
+    {
+      "id": "Apartment 403/Memory repository/Diary, I guess/We, 07.06.2023.md",
+      "x": 1779.5882568359375,
+      "y": 1184.04443359375
+    },
+    {
+      "id": "Apartment 403/Memory repository/Important job stuff.md",
+      "x": 1102.9647216796875,
+      "y": 2030.089111328125
+    },
+    {
+      "id": "Apartment 403/Modifications to Werewolves.md",
+      "x": 1201.04931640625,
+      "y": 2099.174560546875
+    },
+    {
+      "id": "Apartment 403/NSFW/Dildos and related.md",
+      "x": 593.1320190429688,
+      "y": 2061.111328125
+    },
+    {
+      "id": "Apartment 403/NSFW/Headgear.md",
+      "x": 720.4285888671875,
+      "y": 2192.018310546875
+    },
+    {
+      "id": "Apartment 403/NSFW/Wrestling Rules.md",
+      "x": 860.2894287109375,
+      "y": 1729.9569091796875
+    },
+    {
+      "id": "Apartment 403/Optimised Groceries.md",
+      "x": 1484.0570068359375,
+      "y": 1678.041259765625
+    },
+    {
+      "id": "Apartment 403/Personel Files/Maya.md",
+      "x": 1424.6302490234375,
+      "y": 1371.5697021484375
+    },
+    {
+      "id": "Apartment 403/Personel Files/Sofía.md",
+      "x": 1757.756103515625,
+      "y": 1339.7640380859375
+    },
+    {
+      "id": "Apartment 403/Personel Files/Xia.md",
+      "x": 1532.2398681640625,
+      "y": 1797.07958984375
+    },
+    {
+      "id": "Apartment 403/Stuff for Venezia.md",
+      "x": 1071.0687255859375,
+      "y": 1914.4493408203125
+    },
+    {
+      "id": "Apartment 403/Stupid (New) Year's Resolutions.md",
+      "x": 209.5328369140625,
+      "y": 2000.227783203125
+    },
+    {
+      "id": "Apartment 403/The Apartment/Diffused Light.md",
+      "x": -1617.2724609375,
+      "y": 682.387451171875
+    },
+    {
+      "id": "Apartment 403/The Apartment/The Museum.md",
+      "x": -1884.123046875,
+      "y": 735.2274169921875
+    },
+    {
+      "id": "Apartment 403/The Pit/This Vessel.md",
+      "x": 1138.920654296875,
+      "y": 1686.9112548828125
+    },
+    {
+      "id": "Apartment 403/Things to buy.md",
+      "x": 1081.5421142578125,
+      "y": 1794.9256591796875
+    },
+    {
+      "id": "Beings/Characters and People/Alma’ḍuṭhd.md",
+      "x": -603.99365234375,
+      "y": 1370.8721923828125
+    },
+    {
+      "id": "Beings/Characters and People/Amidae/Evelyn.md",
+      "x": 75.70406341552734,
+      "y": -1255.4910888671875
+    },
+    {
+      "id": "Beings/Characters and People/Amidae/Gavin Sharp.md",
+      "x": -291.56378173828125,
+      "y": 1117.1318359375
+    },
+    {
+      "id": "Network 24)' DROPTABLE",
+      "x": -372.9429016113281,
+      "y": 1454.11669921875
+    },
+    {
+      "id": "Beings/Characters and People/Amidae/Graham Corwin.md",
+      "x": -689.4544067382812,
+      "y": -303.53692626953125
+    },
+    {
+      "id": "Memory Fracture",
+      "x": -1027.06884765625,
+      "y": -254.31411743164062
+    },
+    {
+      "id": "Beings/Characters and People/Character Index.md",
+      "x": -100.89932250976562,
+      "y": 649.0584106445312
+    },
+    {
+      "id": "Beings/Characters and People/Chilleas.md",
+      "x": -324.10406494140625,
+      "y": -796.1453857421875
+    },
+    {
+      "id": "Beings/Characters and People/Chézke-an.md",
+      "x": 540.615234375,
+      "y": 1021.6658935546875
+    },
+    {
+      "id": "Beings/Characters and People/Daniel.md",
+      "x": 608.6406860351562,
+      "y": 163.47840881347656
+    },
+    {
+      "id": "Beings/Characters and People/Devin.md",
+      "x": -1130.1861572265625,
+      "y": -192.97056579589844
+    },
+    {
+      "id": "Beings/Characters and People/Everlong Empress.md",
+      "x": 1740.2451171875,
+      "y": -924.6688842773438
+    },
+    {
+      "id": "Beings/Characters and People/Exiled/Marilee, the Songstress.md",
+      "x": 39.11734390258789,
+      "y": 305.8157653808594
+    },
+    {
+      "id": "Beings/Characters and People/Katallja-Nâ.md",
+      "x": -453.1217041015625,
+      "y": 1282.8338623046875
+    },
+    {
+      "id": "Beings/Characters and People/King Erl the Yellow.md",
+      "x": 1992.9415283203125,
+      "y": -808.3453979492188
+    },
+    {
+      "id": "Beings/Characters and People/Kookie, Mage.md",
+      "x": -76.137451171875,
+      "y": -1852.4010009765625
+    },
+    {
+      "id": "Beings/Characters and People/Little Goblin.md",
+      "x": 104.22339630126953,
+      "y": -1372.07421875
+    },
+    {
+      "id": "Beings/Characters and People/Mr. Business.md",
+      "x": 497.97686767578125,
+      "y": -1056.0965576171875
+    },
+    {
+      "id": "Steam Turbines",
+      "x": 747.9330444335938,
+      "y": -459.0594177246094
+    },
+    {
+      "id": "Beings/Characters and People/Player Characters/Dai Jin.md",
+      "x": 1489.173095703125,
+      "y": 1085.8284912109375
+    },
+    {
+      "id": "Beings/Characters and People/Player Characters/Salire.md",
+      "x": 1633.7806396484375,
+      "y": 1081.123046875
+    },
+    {
+      "id": "Beings/Characters and People/Rastaban.md",
+      "x": 1176.554443359375,
+      "y": 1047.4737548828125
+    },
+    {
+      "id": "Beings/Characters and People/Serpensyll.md",
+      "x": -347.80230712890625,
+      "y": 1225.35498046875
+    },
+    {
+      "id": "Beings/Characters and People/Soldier, Poet, King.md",
+      "x": -80.30399322509766,
+      "y": 969.75390625
+    },
+    {
+      "id": "Beings/Characters and People/Stellar.md",
+      "x": -1876.7694091796875,
+      "y": 588.4005737304688
+    },
+    {
+      "id": "Beings/Characters and People/The Old King.md",
+      "x": 1773.404541015625,
+      "y": -537.1213989257812
+    },
+    {
+      "id": "throne of ascension",
+      "x": 2068.282470703125,
+      "y": -540.6422729492188
+    },
+    {
+      "id": "Beings/Characters and People/Thylyian/Giant Mechanician.md",
+      "x": 438.0421142578125,
+      "y": 284.3292236328125
+    },
+    {
+      "id": "Beings/Characters and People/Thylyian/High Engineer Kzhan II.md",
+      "x": -199.4896240234375,
+      "y": 956.0354614257812
+    },
+    {
+      "id": "Beings/Characters and People/Thylyian/War Constructor Borange Olbaz.md",
+      "x": 1041.0152587890625,
+      "y": 666.3768920898438
+    },
+    {
+      "id": "Beings/Characters and People/Warlock Gaíz-an.md",
+      "x": -456.2294921875,
+      "y": -100.67251586914062
+    },
+    {
+      "id": "Beings/Creatures/Amphitheriid.md",
+      "x": -403.48785400390625,
+      "y": 838.3776245117188
+    },
+    {
+      "id": "Beings/Creatures/Faceless.md",
+      "x": 473.6256103515625,
+      "y": 691.0820922851562
+    },
+    {
+      "id": "Beings/Creatures/Flying PiSquid.md",
+      "x": -281.3477478027344,
+      "y": 2326.3017578125
+    },
+    {
+      "id": "Beings/Creatures/Hollowed.md",
+      "x": 321.0480651855469,
+      "y": -331.55169677734375
+    },
+    {
+      "id": "Beings/Creatures/Ice Cub.md",
+      "x": -1170.506103515625,
+      "y": -42.8937873840332
+    },
+    {
+      "id": "Beings/Creatures/Night Runner.md",
+      "x": -666.7974853515625,
+      "y": -775.896484375
+    },
+    {
+      "id": "Beings/Creatures/Oni of the Plains.md",
+      "x": 338.2837219238281,
+      "y": -1319.131591796875
+    },
+    {
+      "id": "Beings/Creatures/Orb & Spire.md",
+      "x": -1279.63232421875,
+      "y": 1543.7071533203125
+    },
+    {
+      "id": "Beings/Creatures/Pseudoneo/Sleeker.md",
+      "x": 146.31509399414062,
+      "y": -1498.7037353515625
+    },
+    {
+      "id": "Beings/Creatures/Pseudoneo/Songbird.md",
+      "x": -454.7416076660156,
+      "y": -989.4506225585938
+    },
+    {
+      "id": "Beings/Creatures/Pseudoneo/Symbioparasite.md",
+      "x": 66.70928955078125,
+      "y": -738.860595703125
+    },
+    {
+      "id": "Beings/Creatures/Pseudoneo/Warped Angel.md",
+      "x": 192.37020874023438,
+      "y": -1290.7974853515625
+    },
+    {
+      "id": "Beings/Creatures/Ring of Fire.md",
+      "x": 829.5569458007812,
+      "y": 270.2016906738281
+    },
+    {
+      "id": "Beings/Creatures/Undead Cat.md",
+      "x": -587.5192260742188,
+      "y": 1635.930908203125
+    },
+    {
+      "id": "Beings/Gods and Deities/Celestial Family/Darb ut-Tabānah.md",
+      "x": -209.35899353027344,
+      "y": -105.17253112792969
+    },
+    {
+      "id": "Beings/Gods and Deities/Celestial Family/Schi ut-Pula.md",
+      "x": 266.4607849121094,
+      "y": 25.47158432006836
+    },
+    {
+      "id": "Beings/Gods and Deities/Charon.md",
+      "x": 1084.2255859375,
+      "y": -894.9390258789062
+    },
+    {
+      "id": "gifted to him",
+      "x": 1201.095703125,
+      "y": -1183.877197265625
+    },
+    {
+      "id": "I hear the songs",
+      "x": 1316.5872802734375,
+      "y": -1151.5
+    },
+    {
+      "id": "Beings/Gods and Deities/Fear and Hunger.md",
+      "x": 1615.83544921875,
+      "y": -306.1907653808594
+    },
+    {
+      "id": "Death",
+      "x": 1881.059814453125,
+      "y": -217.35113525390625
+    },
+    {
+      "id": "Famine",
+      "x": 1878.6368408203125,
+      "y": -474.2027893066406
+    },
+    {
+      "id": "Warfarefare",
+      "x": 1903.9019775390625,
+      "y": -356.9620666503906
+    },
+    {
+      "id": "Conquest",
+      "x": 1988.0787353515625,
+      "y": -271.5194091796875
+    },
+    {
+      "id": "Beings/Gods and Deities/Mekhane.md",
+      "x": 1002.2972412109375,
+      "y": -535.9805297851562
+    },
+    {
+      "id": "Beings/Gods and Deities/Old Gods.md",
+      "x": 1487.830078125,
+      "y": 433.6889953613281
+    },
+    {
+      "id": "Beings/Gods and Deities/Queen of Shadows.md",
+      "x": -413.74676513671875,
+      "y": 1010.7674560546875
+    },
+    {
+      "id": "Beings/Gods and Deities/The Navigator.md",
+      "x": -289.9668884277344,
+      "y": 877.2346801757812
+    },
+    {
+      "id": "Beings/Gods and Deities/Voidfish.md",
+      "x": -458.7201843261719,
+      "y": 41.0604133605957
+    },
+    {
+      "id": "celestials",
+      "x": -822.8749389648438,
+      "y": 107.53974914550781
+    },
+    {
+      "id": "Beings/Heart of Cold.md",
+      "x": -1211.474853515625,
+      "y": 338.3954162597656
+    },
+    {
+      "id": "Beings/Species/Lavish.md",
+      "x": 146.82797241210938,
+      "y": -404.51739501953125
+    },
+    {
+      "id": "Beings/Species/Liches.md",
+      "x": 776.7455444335938,
+      "y": -342.6265563964844
+    },
+    {
+      "id": "Beings/Species/Padian Shadowmaw.md",
+      "x": -726.1363525390625,
+      "y": -189.29771423339844
+    },
+    {
+      "id": "Beings/Species/Pseudoneo.md",
+      "x": 126.78756713867188,
+      "y": -1015.2793579101562
+    },
+    {
+      "id": "Beings/Species/Vessels.md",
+      "x": -246.0634002685547,
+      "y": -682.7271118164062
+    },
+    {
+      "id": "Copyright Disclaimer.md",
+      "x": 806.7220458984375,
+      "y": -658.9594116210938
+    },
+    {
+      "id": "Groupings/Amida.md",
+      "x": -98.9352035522461,
+      "y": -400.24774169921875
+    },
+    {
+      "id": "Groupings/Amida/APAS Ltd..md",
+      "x": -904.6613159179688,
+      "y": -1328.71337890625
+    },
+    {
+      "id": "Lavish Rediscoveries",
+      "x": -1073.188720703125,
+      "y": -1571.0252685546875
+    },
+    {
+      "id": "Groupings/Amida/Board of Amida-Seven.md",
+      "x": -964.806396484375,
+      "y": -980.3571166992188
+    },
+    {
+      "id": "adAstra SocInstitute",
+      "x": -1045.3590087890625,
+      "y": -682.0367431640625
+    },
+    {
+      "id": "Groupings/Amida/The Cradle.md",
+      "x": -573.2551879882812,
+      "y": -449.6097412109375
+    },
+    {
+      "id": "Project Silverspoon",
+      "x": -937.814453125,
+      "y": -469.5665283203125
+    },
+    {
+      "id": "Groupings/Cults and Religions/Children of The Flame.md",
+      "x": -111.90290069580078,
+      "y": 157.71885681152344
+    },
+    {
+      "id": "Groupings/Cults and Religions/Followers of Mekhane.md",
+      "x": 1239.2080078125,
+      "y": -566.0423583984375
+    },
+    {
+      "id": "Groupings/Cults and Religions/Lunatics.md",
+      "x": -491.7630310058594,
+      "y": 919.6073608398438
+    },
+    {
+      "id": "Groupings/Cults and Religions/Oblivion Lodge.md",
+      "x": -221.93214416503906,
+      "y": -336.409912109375
+    },
+    {
+      "id": "Groupings/Cults and Religions/True Machinists.md",
+      "x": 871.4843139648438,
+      "y": -935.6253662109375
+    },
+    {
+      "id": "Rebirth",
+      "x": 1027.1094970703125,
+      "y": -1206.06201171875
+    },
+    {
+      "id": "Groupings/Cultures/Avian Renegades.md",
+      "x": -936.4151000976562,
+      "y": -736.9338989257812
+    },
+    {
+      "id": "Groupings/Cultures/Kva'al.md",
+      "x": 145.73402404785156,
+      "y": 218.46519470214844
+    },
+    {
+      "id": "Right Ribs",
+      "x": -34.1583366394043,
+      "y": 66.32007598876953
+    },
+    {
+      "id": "Groupings/Dwarves.md",
+      "x": -105.75814819335938,
+      "y": -651.4095458984375
+    },
+    {
+      "id": "Groupings/Factions/Ancients.md",
+      "x": 517.823974609375,
+      "y": -621.2887573242188
+    },
+    {
+      "id": "Groupings/Factions/Daeva Revolutionists.md",
+      "x": 431.0751647949219,
+      "y": 17.021926879882812
+    },
+    {
+      "id": "Groupings/Factions/Dragonkin.md",
+      "x": 208.30686950683594,
+      "y": -79.435791015625
+    },
+    {
+      "id": "Groupings/Factions/Empire of Winds.md",
+      "x": -1335.23681640625,
+      "y": -454.32122802734375
+    },
+    {
+      "id": "Crevice Canyons",
+      "x": -1643.456787109375,
+      "y": -456.4906005859375
+    },
+    {
+      "id": "Groupings/Factions/Spirits.md",
+      "x": 260.1546936035156,
+      "y": -1760.501708984375
+    },
+    {
+      "id": "Groupings/Factions/The Cold.md",
+      "x": -830.870361328125,
+      "y": -130.797607421875
+    },
+    {
+      "id": "Groupings/Factions/The Lavish Empire.md",
+      "x": 233.41952514648438,
+      "y": -936.044677734375
+    },
+    {
+      "id": "Groupings/Factions/Thylyian/Council of Thylyist.md",
+      "x": 690.9953002929688,
+      "y": -564.6138916015625
+    },
+    {
+      "id": "Groupings/Factions/Thylyian/Currency; Premarevy.md",
+      "x": -2.0715065002441406,
+      "y": 2291.325927734375
+    },
+    {
+      "id": "Groupings/Factions/Thylyian/Dogs of War.md",
+      "x": 1586.3702392578125,
+      "y": -176.67962646484375
+    },
+    {
+      "id": "Merchant Guild",
+      "x": 1869.161865234375,
+      "y": 5.16424036026001
+    },
+    {
+      "id": "Groupings/Factions/Thylyian/Gearforged Vanguard.md",
+      "x": 1290.227294921875,
+      "y": -164.16506958007812
+    },
+    {
+      "id": "High Conclave",
+      "x": 1594.642333984375,
+      "y": -57.00444412231445
+    },
+    {
+      "id": "Groupings/Factions/Thylyian/Labor Union of Thylyist.md",
+      "x": 1348.49560546875,
+      "y": -449.586669921875
+    },
+    {
+      "id": "Groupings/Factions/Thylyian/The Hounds.md",
+      "x": 1038.6295166015625,
+      "y": -650.6790161132812
+    },
+    {
+      "id": "Groupings/Factions/Thylyian/War Constructors.md",
+      "x": 1341.90966796875,
+      "y": 236.02838134765625
+    },
+    {
+      "id": "Groupings/First Party.md",
+      "x": 1582.9188232421875,
+      "y": 835.8954467773438
+    },
+    {
+      "id": "Groupings/Frisco/Frisco Bay Confederation.md",
+      "x": 926.7042236328125,
+      "y": 199.88919067382812
+    },
+    {
+      "id": "Groupings/Organisations/Argrosy.md",
+      "x": 349.40802001953125,
+      "y": -214.97279357910156
+    },
+    {
+      "id": "Groupings/Organisations/Erudition Coven.md",
+      "x": 348.6477355957031,
+      "y": 632.2655639648438
+    },
+    {
+      "id": "Groupings/Organisations/Servilian Railroad and Train Network.md",
+      "x": 789.6515502929688,
+      "y": 12.79911994934082
+    },
+    {
+      "id": "Groupings/Organisations/The Zubin Society.md",
+      "x": -350.6104431152344,
+      "y": -1062.7420654296875
+    },
+    {
+      "id": "Oneiroi Collective",
+      "x": -499.64923095703125,
+      "y": -1357.975341796875
+    },
+    {
+      "id": "left any listener unsettled and terrified",
+      "x": -604.4588623046875,
+      "y": -1299.708740234375
+    },
+    {
+      "id": "History/Complete History of Servilia.md",
+      "x": 1458.144775390625,
+      "y": 206.2274932861328
+    },
+    {
+      "id": "History/Creation Myth.md",
+      "x": 1038.507568359375,
+      "y": -214.61582946777344
+    },
+    {
+      "id": "History/Eras/Baseline Reality Timeline.md",
+      "x": 1029.222900390625,
+      "y": 137.55848693847656
+    },
+    {
+      "id": "History/Eras/Era of the True Machinists.md",
+      "x": 1119.3470458984375,
+      "y": -561.9103393554688
+    },
+    {
+      "id": "History/Eras/Human Eras.md",
+      "x": 732.4786987304688,
+      "y": 340.4857177734375
+    },
+    {
+      "id": "History/Eras/The First Era/Perishing.md",
+      "x": 1773.093017578125,
+      "y": 284.256103515625
+    },
+    {
+      "id": "History/Eras/The First Era/Routines.md",
+      "x": 975.3628540039062,
+      "y": 1216.8631591796875
+    },
+    {
+      "id": "History/Eras/The First Era/The First Era.md",
+      "x": 681.3848876953125,
+      "y": -74.7177963256836
+    },
+    {
+      "id": "History/Eras/The Second Era/Fall.md",
+      "x": 806.8206787109375,
+      "y": 816.3082885742188
+    },
+    {
+      "id": "History/Eras/The Second Era/Rats.md",
+      "x": -366.8273010253906,
+      "y": -214.64671325683594
+    },
+    {
+      "id": "History/Eras/The Second Era/Return of Automatia.md",
+      "x": 1484.58154296875,
+      "y": -853.6654052734375
+    },
+    {
+      "id": "Automatia",
+      "x": 1239.9007568359375,
+      "y": -398.59454345703125
+    },
+    {
+      "id": "History/Eras/The Second Era/Taxes.md",
+      "x": 1919.5430908203125,
+      "y": -103.72361755371094
+    },
+    {
+      "id": "History/Eras/The Second Era/The Second Era.md",
+      "x": 812.2344970703125,
+      "y": 135.03765869140625
+    },
+    {
+      "id": "History/Eras/The Second Era/Tunnels.md",
+      "x": 4.075196743011475,
+      "y": -188.18701171875
+    },
+    {
+      "id": "History/Incidents and Events/Betrayal.md",
+      "x": 1087.11767578125,
+      "y": -324.31463623046875
+    },
+    {
+      "id": "History/Incidents and Events/Gatherings.md",
+      "x": -2031.1409912109375,
+      "y": -206.6514129638672
+    },
+    {
+      "id": "History/Incidents and Events/Seacurbury Fair.md",
+      "x": -1931.3148193359375,
+      "y": -451.59613037109375
+    },
+    {
+      "id": "History/Major Quests/Ain't no Rest for the Wicked.md",
+      "x": 938.9712524414062,
+      "y": 319.23614501953125
+    },
+    {
+      "id": "History/Major Quests/It’s a Dead Man’s Party.md",
+      "x": 1018.421630859375,
+      "y": 547.065185546875
+    },
+    {
+      "id": "History/Major Quests/The Word and Thought.md",
+      "x": 815.0361328125,
+      "y": -829.7543334960938
+    },
+    {
+      "id": "History/Major Quests/When Forces Meet.md",
+      "x": -474.0986633300781,
+      "y": 168.2057647705078
+    },
+    {
+      "id": "History/Minor Quests/Good Times.md",
+      "x": -2122.78125,
+      "y": 643.0909423828125
+    },
+    {
+      "id": "History/Minor Quests/Introduction to the Snow.md",
+      "x": -1113.67529296875,
+      "y": 62.77187728881836
+    },
+    {
+      "id": "History/Minor Quests/Intruder Alert.md",
+      "x": 736.2813110351562,
+      "y": 719.255126953125
+    },
+    {
+      "id": "History/Minor Quests/Kindle the Flame.md",
+      "x": -589.8917846679688,
+      "y": 374.092041015625
+    },
+    {
+      "id": "History/Minor Quests/Tides of Avon.md",
+      "x": 1262.989990234375,
+      "y": -717.8510131835938
+    },
+    {
+      "id": "History/Story Snippets/Birth of Energy.md",
+      "x": 264.9068298339844,
+      "y": -1544.8604736328125
+    },
+    {
+      "id": "History/Story Snippets/Broken Wings.md",
+      "x": -810.4349975585938,
+      "y": -1206.8275146484375
+    },
+    {
+      "id": "History/Story Snippets/Ceremony.md",
+      "x": 926.6949462890625,
+      "y": 811.4987182617188
+    },
+    {
+      "id": "History/Story Snippets/Controversies within Nolka.md",
+      "x": 1626.0394287109375,
+      "y": 58.80434036254883
+    },
+    {
+      "id": "History/Story Snippets/Ethershade.md",
+      "x": -670.5599975585938,
+      "y": -1199.6373291015625
+    },
+    {
+      "id": "History/Story Snippets/Saltwater Rain.md",
+      "x": -1715.6763916015625,
+      "y": -1000.5232543945312
+    },
+    {
+      "id": "Empty Crown",
+      "x": -1450.3690185546875,
+      "y": -955.373046875
+    },
+    {
+      "id": "History/Story Snippets/The Song of Fire and Ice.md",
+      "x": -813.9935302734375,
+      "y": -12.006784439086914
+    },
+    {
+      "id": "History/Technological Advancements/Development of Petrochemistry.md",
+      "x": 834.3885498046875,
+      "y": -542.2293090820312
+    },
+    {
+      "id": "History/Technological Advancements/Development of Printing.md",
+      "x": 1209.117919921875,
+      "y": 373.29437255859375
+    },
+    {
+      "id": "History/Technological Advancements/Electricity.md",
+      "x": 925.4466552734375,
+      "y": 77.43077850341797
+    },
+    {
+      "id": "History/Technological Advancements/Radio Equipment.md",
+      "x": 592.7196655273438,
+      "y": 596.3958129882812
+    },
+    {
+      "id": "History/Things to remember during the Eclipse.md",
+      "x": -2172.17626953125,
+      "y": -639.2064819335938
+    },
+    {
+      "id": "History/Time Travelling for Dummies™.md",
+      "x": 159.5615997314453,
+      "y": -189.06480407714844
+    },
+    {
+      "id": "History/Timeline Pivots/02_Open Affiliation to the Arcane.md",
+      "x": -1727.79638671875,
+      "y": -1545.29052734375
+    },
+    {
+      "id": "History/Timeline Pivots/03_Repairing the Fountainhead.md",
+      "x": -2050.993896484375,
+      "y": -833.7608642578125
+    },
+    {
+      "id": "History/Timeline Pivots/04_POST-FH-REPAIR_ connecting the FH into Thylyist .md",
+      "x": -743.08544921875,
+      "y": -2103.865478515625
+    },
+    {
+      "id": "History/Timeline Pivots/Assassination of Council Members.md",
+      "x": 896.353515625,
+      "y": -741.6251220703125
+    },
+    {
+      "id": "History/Timeline Pivots/Closing the Fountainhead.md",
+      "x": -240.6475830078125,
+      "y": -882.3656005859375
+    },
+    {
+      "id": "Items/Artifacts/Eldritch Brand.md",
+      "x": -608.8726806640625,
+      "y": -214.61769104003906
+    },
+    {
+      "id": "Items/Artifacts/Fountainhead Catalyst.md",
+      "x": -461.1417236328125,
+      "y": -1109.2926025390625
+    },
+    {
+      "id": "Items/Artifacts/Horn of Blizzards.md",
+      "x": -1301.21435546875,
+      "y": -110.6009521484375
+    },
+    {
+      "id": "Items/Artifacts/Mask Fragment.md",
+      "x": -935.455810546875,
+      "y": -1096.711181640625
+    },
+    {
+      "id": "Items/Artifacts/Mekhanite Staff.md",
+      "x": 1610.5189208984375,
+      "y": -660.2997436523438
+    },
+    {
+      "id": "Items/Artifacts/Overly fancy Milkbag.md",
+      "x": -578.0651245117188,
+      "y": -2164.429443359375
+    },
+    {
+      "id": "milkman",
+      "x": -341.3392028808594,
+      "y": -2234.990966796875
+    },
+    {
+      "id": "Items/Artifacts/Premature Heart of Cold.md",
+      "x": -791.9705810546875,
+      "y": 223.36244201660156
+    },
+    {
+      "id": "Items/Artifacts/Red Telephone.md",
+      "x": -711.798828125,
+      "y": -653.70361328125
+    },
+    {
+      "id": "Items/Artifacts/Reliquary of False Promises.md",
+      "x": -1051.6092529296875,
+      "y": -801.8888549804688
+    },
+    {
+      "id": "Items/Artifacts/Seed of Thought.md",
+      "x": 531.6914672851562,
+      "y": -740.4498291015625
+    },
+    {
+      "id": "Items/Artifacts/Vessel Mask.md",
+      "x": -780.3352661132812,
+      "y": -814.6968383789062
+    },
+    {
+      "id": "Items/Artifacts/Voidtouched Boots.md",
+      "x": -358.2381896972656,
+      "y": -640.2584838867188
+    },
+    {
+      "id": "Items/Bottled Embers.md",
+      "x": 353.2509460449219,
+      "y": 108.2752456665039
+    },
+    {
+      "id": "Items/Bottled Smoulders.md",
+      "x": 154.70379638671875,
+      "y": 338.074462890625
+    },
+    {
+      "id": "Items/Bundle of medicinal herbs.md",
+      "x": 1732.99755859375,
+      "y": -1479.159912109375
+    },
+    {
+      "id": "Items/Components, Ingredients/Bar of Ithildine.md",
+      "x": -768.9778442382812,
+      "y": 859.1068115234375
+    },
+    {
+      "id": "Items/Components, Ingredients/Bottle of Dreams.md",
+      "x": 840.9605102539062,
+      "y": 391.6974792480469
+    },
+    {
+      "id": "Items/Components, Ingredients/Chunk of Gliss.md",
+      "x": -311.85552978515625,
+      "y": -1296.8211669921875
+    },
+    {
+      "id": "Items/Components, Ingredients/Inanistathine.md",
+      "x": -978.4229125976562,
+      "y": -582.4611206054688
+    },
+    {
+      "id": "Items/Components, Ingredients/Splinter of Blazes.md",
+      "x": -91.15269470214844,
+      "y": 483.60150146484375
+    },
+    {
+      "id": "Items/Components, Ingredients/Strange Flask.md",
+      "x": 540.7125244140625,
+      "y": 364.1645202636719
+    },
+    {
+      "id": "Items/Equipment/Armour/Sentinel Power Armour.md",
+      "x": 1263.64306640625,
+      "y": 480.522216796875
+    },
+    {
+      "id": "Items/Equipment/Climbing Glove.md",
+      "x": -2200.25048828125,
+      "y": -129.9755859375
+    },
+    {
+      "id": "Items/Equipment/Sea Serpent Splinter.md",
+      "x": 1583.6661376953125,
+      "y": -921.2761840820312
+    },
+    {
+      "id": "Items/Flare.md",
+      "x": 28.860570907592773,
+      "y": -1928.3109130859375
+    },
+    {
+      "id": "Items/Potions.md",
+      "x": 344.95281982421875,
+      "y": -980.0994262695312
+    },
+    {
+      "id": "Items/Spellcasting Glove.md",
+      "x": 277.0016784667969,
+      "y": 1380.7335205078125
+    },
+    {
+      "id": "Items/Texts, Books, Written Things/Catalogue of Armaments.md",
+      "x": -1297.52587890625,
+      "y": -1398.01171875
+    },
+    {
+      "id": "Battlesuits",
+      "x": -1553.9560546875,
+      "y": -1420.7249755859375
+    },
+    {
+      "id": "Items/Texts, Books, Written Things/Childish Book of Prayers.md",
+      "x": -198.91746520996094,
+      "y": 430.9588928222656
+    },
+    {
+      "id": "Items/Texts, Books, Written Things/Epos' Manuscripts.md",
+      "x": 383.1194763183594,
+      "y": 946.9004516601562
+    },
+    {
+      "id": "Items/Texts, Books, Written Things/Gane's Parchments of Shadows.md",
+      "x": -177.46920776367188,
+      "y": 1080.09765625
+    },
+    {
+      "id": "Items/Texts, Books, Written Things/Nekonomicon.md",
+      "x": 54.514007568359375,
+      "y": 1632.07958984375
+    },
+    {
+      "id": "Items/Texts, Books, Written Things/On the Warfare using the Arcane.md",
+      "x": 132.40298461914062,
+      "y": -638.4719848632812
+    },
+    {
+      "id": "Items/Texts, Books, Written Things/The Celestial Compendium of Schi.md",
+      "x": -60.124488830566406,
+      "y": 1105.14501953125
+    },
+    {
+      "id": "Athenaeum of Sorcery",
+      "x": -78.41444396972656,
+      "y": 1422.0723876953125
+    },
+    {
+      "id": "Items/Texts, Books, Written Things/The Elvos Incunabulum.md",
+      "x": -241.60137939453125,
+      "y": 1313.116455078125
+    },
+    {
+      "id": "Items/Texts, Books, Written Things/Tomes of Twilit.md",
+      "x": 243.8442840576172,
+      "y": 1061.4598388671875
+    },
+    {
+      "id": "Items/Texts, Books, Written Things/Tomes.md",
+      "x": 144.35755920410156,
+      "y": 1362.4718017578125
+    },
+    {
+      "id": "Black Barrow of Ricusi the Eldritch",
+      "x": 174.6727294921875,
+      "y": 1638.745849609375
+    },
+    {
+      "id": "Items/Texts, Books, Written Things/True Machinist's Scriptures/Dead Child's Lullaby.md",
+      "x": 1366.6827392578125,
+      "y": -1042.5048828125
+    },
+    {
+      "id": "Items/Texts, Books, Written Things/True Machinist's Scriptures/His Design.md",
+      "x": 935.3001708984375,
+      "y": -1283.3338623046875
+    },
+    {
+      "id": "Ascension",
+      "x": 1050.5140380859375,
+      "y": -1561.921875
+    },
+    {
+      "id": "Items/Texts, Books, Written Things/True Machinist's Scriptures/Providence.md",
+      "x": 1035.13818359375,
+      "y": -1062.15625
+    },
+    {
+      "id": "the purity",
+      "x": 1223.708740234375,
+      "y": -1323.8370361328125
+    },
+    {
+      "id": "Items/Travel/Rat Cart.md",
+      "x": -2174.681884765625,
+      "y": 336.72833251953125
+    },
+    {
+      "id": "Items/Travel/Riftstones.md",
+      "x": -246.98529052734375,
+      "y": -219.0926513671875
+    },
+    {
+      "id": "Items/Weaponry/Child's Staff.md",
+      "x": -318.46856689453125,
+      "y": 420.9276428222656
+    },
+    {
+      "id": "Items/Weaponry/Cyphers.md",
+      "x": -129.4907989501953,
+      "y": -194.70115661621094
+    },
+    {
+      "id": "Items/Weaponry/Melee/Electric Ukulele.md",
+      "x": -1339.1551513671875,
+      "y": -664.65673828125
+    },
+    {
+      "id": "Items/Weaponry/Melee/Mace of the Black One.md",
+      "x": -213.67608642578125,
+      "y": -456.0906982421875
+    },
+    {
+      "id": "Items/Weaponry/Melee/Oni‘s Glaive.md",
+      "x": 413.73663330078125,
+      "y": -1655.34375
+    },
+    {
+      "id": "Items/Weaponry/Propelled Projectile/OA-WS BST Model 7ⁿ.md",
+      "x": 238.16268920898438,
+      "y": 142.0779266357422
+    },
+    {
+      "id": "Items/Weaponry/Propelled Projectile/OA-WS RCL Mk.40ᵐᵐ.md",
+      "x": 20.162303924560547,
+      "y": -414.7668151855469
+    },
+    {
+      "id": "Items/Wondrous and Wack/Bag of Crickets.md",
+      "x": -928.953857421875,
+      "y": -2035.1807861328125
+    },
+    {
+      "id": "Items/Wondrous and Wack/Iron Oculus.md",
+      "x": -562.7943115234375,
+      "y": 1229.380859375
+    },
+    {
+      "id": "Items/Wondrous and Wack/Polished Silver Mirror.md",
+      "x": 166.054443359375,
+      "y": -2037.222412109375
+    },
+    {
+      "id": "Items/Wondrous and Wack/STOP! Box.md",
+      "x": -2049.925537109375,
+      "y": 230.2646942138672
+    },
+    {
+      "id": "Items/Wondrous and Wack/Soulstone.md",
+      "x": 286.29754638671875,
+      "y": -2041.321533203125
     }
   ],
   "automaticallyRestoreNodePositions": true
