@@ -1,3 +1,5 @@
+
+
 Individual segments of [[Orb & Spire]] stones are capable of reacting to basic stimuli, whereas larger groups can coordinate movement and exhibit complex internal social dynamics between minerals of different kinds. 
 This leads to the assumption of internal hierarchies and a linear advancement of complexity within as their mass grows.
 
