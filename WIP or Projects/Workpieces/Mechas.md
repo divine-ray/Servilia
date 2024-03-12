@@ -24,5 +24,6 @@ different branch for aerial combat, [[Aerial Combat Entity/Vehicle]] (ACE/V), re
 Those are used for:
 - Cargo and troop transport (Carriers)
 - Reconnaissance and Intel
-- Bombing
+- Air-To-Ground Assault
+	- Bombing
 Dog-fighting and air-to-air combat with these units is rare, due to lacking agility and speed. 
