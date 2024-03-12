@@ -4,6 +4,7 @@ Souls without any coherence and such enter a state of degenerate matter, known a
 This opens the question of "Where are souls formed?" and "Where does amarisk gain coherence to become a soul?" and "Is it possible to reverse the deformation of a soul?"
 And the question of "Where does the soul go after the death of it's shell?" is answered by the entire dilemma of the Undead and Charon being disabled;
 	That being the soul being unable to depart from the mortal vessel, thus being forced to reside in the decaying body which is leeching this soul's power. 
+	
 Possibly the [[Afterlives]] are also dysfunctional, same as the rivers [[Acheron]] and [[Styx]]. Amarisk gain coherence to become a soul?" and "Is it possible to reverse the deformation of a soul?"
 
 And the question of "Where does the soul go after the 'death'[^1] of it's shell?" is answered by the entire dilemma of the Undead and Charon being disabled;

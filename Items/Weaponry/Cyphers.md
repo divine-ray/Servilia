@@ -5,6 +5,9 @@ Greater cyphers may be "recharged" by re-applying their lost power/catalyst usin
 
 ## Superior 
 - A *smouldering*, raw shard of *bloody* ruby, with streaks of *glimmering embers* within it. Upon activation, it summons a fireball (6m sucessful dex save, 8d6 fire on fail, half on sucess) at either a desired or its own position (manual/thrown). It can cast up to eight fireballs before depletion. 
+- A smooth and polished amber, containing a *tiny flame*.  Upon use, the amber turns ashen grey and a wall of inextinguishable flame emerges on the spot of activation, which can melt any metal. 
+- A blueish-milky white icicle, with iridescent reflections playing on the surface. 
+  Upon activation, it flash-freezes any substance until it's brittle in a radius of 3m. With each use, a centimetre of it melts away into common water, until the deep-frozen core at 15cm depletion remains (this equates to 5 uses).
 ## Greater 
 - A dragon's claw engraved with *glowing* symbols. When activated, the cypher grants the target advantage on attack rolls until the end of their next turn.
 - Grey Cypher:  A glass spindle filled with *silvery liquid*.  When broken over a weapon, the weapon is transmuted into a unknown metal.  It deals an additional 2d6 points of damage until the end of the session, after which the weapon disintegrates.
