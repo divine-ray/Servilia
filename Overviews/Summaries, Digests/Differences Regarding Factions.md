@@ -4,12 +4,6 @@ tags:
   - Faction
   - Overviews
 ---
----
-tags:
-  - Structure
-  - Faction
-  - Overviews
----
 ## Thylyist
 ### Boons
 - Attunement to all things mechanical
@@ -22,7 +16,7 @@ tags:
 	> No Tech greater than gear, steam and steel
 	> Magic? doesn‘t exist
 
-KoS orders from Dragonkin, Frisco and Exile/Nolka
+Kill-on-Sight orders from Dragonkin, Frisco and Exile/Nolka
 ## Sepulchre
 ### Boons
 - Sense of community; shared goods across the necropolis (i.e. less requirements for money)
