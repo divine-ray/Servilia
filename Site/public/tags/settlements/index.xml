@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Settlements on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/settlements/</link>
+    <description>Recent content in Settlements on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/settlements/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/realms/utuw-system/schi/servilia/regions/ninth-forest/sepulchre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/realms/utuw-system/schi/servilia/regions/ninth-forest/sepulchre/</guid>
+      <description>The undying City #Undead #Settlements #Faction&#xA;The main settlement 1 for victims of the Curse of the Undead.&#xA;Only a smaller fraction of the residents voluntarily lives here, most of them got forcibly sent here, oftentimes through concentration camp-like treatment from certain governmental bodies.&#xA;It&amp;rsquo;s underground, and they have a small religion going on, but it drifted too far into states that a alive and integer mind cannot parse. +1d4 insanity on inspect The main place of worship of their religion is said to be built atop a Lichen relic vault, which has been cemented there before the Great Woe.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/realms/utuw-system/schi/servilia/regions/sea-major/astral-ocean/ka%C3%A1-rav-isles/city-of-stargard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/realms/utuw-system/schi/servilia/regions/sea-major/astral-ocean/ka%C3%A1-rav-isles/city-of-stargard/</guid>
+      <description>Overview A community of isolated and deranged sorcerers who devote their time towards the study and use of celestial bodies and formations. A decent part of their population is made from other outcasts and strangers.&#xA;The only remaining actively practising guild for Astral Sorcery. Townsfolk and activity are only seen past sundown and cease after sunrise; during the day, every citizen sleeps until nightfall. There are only few accommodations and housing-for-hire that offer a &amp;ldquo;normal&amp;rdquo; opening schedule for foreigners.</description>
+    </item>
+  </channel>
+</rss>

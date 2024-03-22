@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Structure on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/structure/</link>
+    <description>Recent content in Structure on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/structure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/overviews/concepts/magic-system/leyline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/overviews/concepts/magic-system/leyline/</guid>
+      <description>Strands of energies, stretching across space and time. Like strings pinned down, they tangle up and straighten again. One of the many shapes of Amarisk- yet not woven of Twilit. Unique in their own ways, these threads connect places and planets. Soaring heights and hills cause ties and tangle, plains soothe the weave.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/overviews/disambiguations/war/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/overviews/disambiguations/war/</guid>
+      <description>This is a disambiguation page! You are likely looking for:&#xA;the Nølkā-Mekhanite War the Fall of the Lavish, the conflict that wiped out the Lavish Warfare, a member of the Apocalyptic Quartet </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/overviews/summaries/differences-regarding-factions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/overviews/summaries/differences-regarding-factions/</guid>
+      <description>Thylyist Boons Attunement to all things mechanical Easy access to various military and economic resources Possibly acquiring Thylyian Military supplies legally or through conscription/service Drawbacks Narrative adjustments There‘s no world outside of Thylyist No Tech greater than gear, steam and steel Magic? doesn‘t exist&#xA;Kill-on-Sight orders from Dragonkin, Frisco and Exile/Nolka&#xA;Sepulchre Boons Sense of community; shared goods across the necropolis (i.e. less requirements for money) Diplomatic relations to Frisco Indirect access to both Thylyian and Friscoan Tech, Items and weaponry Access to the trains Drawbacks Treat/Property „Undying“ mandatory Prone to hollowing Outsider mentality and treatment by others Frisco Davern Exiled/Nølkā Kva’al </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/overviews/summaries/faction-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/overviews/summaries/faction-overview/</guid>
+      <description>Empire of Thylyist Former city-state, grown to the size of a empire. The City of Thylyist is their capital, and epicentre of their official religion, the Followers of Mekhane, originally conceived as bunker-fort installation shortly before the end of the Nølkā-Mekhanite War. Their government is practically defunct. Instead, the religious elite (Council of Thylyist), and to a extend, the Gearforged Vanguard is de-facto ruling. The fanatical devotion impacts everyday life and has frozen technological and scientific progress, leaving them stuck in early steam-driven technology.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/overviews/summaries/religions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/overviews/summaries/religions/</guid>
+      <description>A comprehensive summary of Cults, Organised Religions and other followings present in Servilia. Loosely sorted by impact and known member count.&#xA;Followers of Mekhane One of the two big religions ever formed in Servilia, this religion descended from the remnants of their once-great Mekhanite religion. Originally created as direct worshippers of Mekhanes will at the conception of Mankind, now turned into a lesser, deviated hodgepodge, in which their highest ranks assume the positions of dictatorship.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/overviews/summaries/things-that-need-fixing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/overviews/summaries/things-that-need-fixing/</guid>
+      <description>TODO 3: TOKYO DRIFT aka: big obstructions for readability towards «other people»&#xA;CONTEXT short overview of factions: Faction Overview Locations and You good, summarising index of major actors I.e. politicians, military, religious leaders, economical officials, … Character Overview Stressors on Factions = faction motivations why i am doing this -&amp;gt; Motivation Complete History of Servilia, since the entire history is busted and spread too widely Local Populace, Townsfolk Religions Universal Pantheon Cultural beliefs superstitions “Attributes” </description>
+    </item>
+  </channel>
+</rss>

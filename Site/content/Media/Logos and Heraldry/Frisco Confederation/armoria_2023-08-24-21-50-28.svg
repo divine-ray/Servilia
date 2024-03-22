@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1536" height="2014" viewBox="2.5 0 200 200">
+  <defs>
+    <clipPath id="shield_216989323">
+      <path d="M 10,40 h190 l-65,60 65,60 h-190 Z"/>
+    </clipPath>
+    <style>g.secondary,
+    path.secondary {
+      fill: var(--secondary);
+    }
+    g.tertiary,
+    path.tertiary {
+      fill: var(--tertiary);
+    }</style>
+    <radialGradient id="spotlight" cx="35%" cy="35%" r="100%">
+      <stop stop-color="#fff" stop-opacity=".3" offset="0"/>
+      <stop stop-color="#fff" stop-opacity=".15" offset=".2"/>
+      <stop stop-color="#000" stop-opacity="0" offset=".7"/>
+    </radialGradient>
+    <g id="mullet8" author="Azgaar" license="https://creativecommons.org/publicdomain/zero/1.0">
+      <polygon points="100 60 105.85 85.88 128.28 71.72 114.12 94.15 140 100 114.12 105.85 128.28 128.28 105.85 114.12 100 140 94.15 114.12 71.72 128.28 85.88 105.85 60 100 85.88 94.15 71.72 71.72 94.15 85.88"/>
+    </g>
+  </defs>
+  <g clip-path="url(#shield_216989323)">
+    <rect class="field" x="0" y="0" width="200" height="200" fill="#fafafa"/>
+    <g class="ordinary" i="0">
+      <path d="M 10,40 h190 l-65,60 65,60 h-190 Z" fill="none" stroke="#333333" stroke-width="16.7%"/>
+    </g>
+    <g class="charge" i="0" charge="mullet8" fill="#85185b" transform="translate(-10 0) rotate(90 100 100)" stroke="none" style="--secondary: #85185b; --tertiary: #85185b;">
+      <use xlink:href="#mullet8" transform="translate(-9 -9) scale(1.09)"/>
+    </g>
+  </g>
+  <path class="grad" d="M 10,40 h190 l-65,60 65,60 h-190 Z" fill="url(#spotlight)" stroke="#333333" stroke-width="1" style="pointer-events: none;"/>
+</svg>

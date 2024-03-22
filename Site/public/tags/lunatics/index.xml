@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lunatics on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/lunatics/</link>
+    <description>Recent content in Lunatics on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/lunatics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/realms/utuw-system/schi/servilia/regions/sea-major/astral-ocean/ka%C3%A1-rav-isles/city-of-stargard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/realms/utuw-system/schi/servilia/regions/sea-major/astral-ocean/ka%C3%A1-rav-isles/city-of-stargard/</guid>
+      <description>Overview A community of isolated and deranged sorcerers who devote their time towards the study and use of celestial bodies and formations. A decent part of their population is made from other outcasts and strangers.&#xA;The only remaining actively practising guild for Astral Sorcery. Townsfolk and activity are only seen past sundown and cease after sunrise; during the day, every citizen sleeps until nightfall. There are only few accommodations and housing-for-hire that offer a &amp;ldquo;normal&amp;rdquo; opening schedule for foreigners.</description>
+    </item>
+  </channel>
+</rss>

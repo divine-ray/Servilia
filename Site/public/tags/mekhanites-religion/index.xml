@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mekhanites, Religion on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/mekhanites-religion/</link>
+    <description>Recent content in Mekhanites, Religion on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/mekhanites-religion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/realms/utuw-system/schi/servilia/regions/areas/empire-of-thylyist/heart-of-mekhane/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/realms/utuw-system/schi/servilia/regions/areas/empire-of-thylyist/heart-of-mekhane/</guid>
+      <description>A large sphere of rotating gears and ticking escapements, crafted from brass and inscribed with glowing runes. No-one seems to know who created it, nor when, nor its purpose.&#xA;No tangible power source of this object is visible, and any kind of studies are met with highest force from the Followers of Mekhane as solely viewing it is considered heresy.&#xA;High Constructors believe that this piece is the heart of their torn apart god, the Blessed Machine Mekhane.</description>
+    </item>
+  </channel>
+</rss>

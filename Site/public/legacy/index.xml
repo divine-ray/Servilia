@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legacies on My New Hugo Site</title>
+    <link>http://localhost:1313/legacy/</link>
+    <description>Recent content in Legacies on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/legacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/characters/00_lynn_/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/characters/00_lynn_/</guid>
+      <description>Lynn:&#xA;Monday, 25. April 2022&#xA;12:27&#xA;https://www.dndbeyond.com/characters/72779987&#xA;They witnessed the raid of New Londo from Loose Vessels, and vaguely know Darb ut-Tabānah.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/characters/03_ash_/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/characters/03_ash_/</guid>
+      <description>Ash:&#xA;Sunday, 29. May 2022&#xA;16:37&#xA;https://www.dndbeyond.com/characters/74765860/gYDFnv&#xA;Lifestyle: comfortable&#xA;Faith: slay that dragon&#xA;Neutral good&#xA;Grown up in a forest&#xA;224 y o&#xA;Wants to revenge master who died on the 100th birthday&#xA;Slain by dragon</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/characters/04_gabe_/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/characters/04_gabe_/</guid>
+      <description>Gabe:&#xA;25 November 2022&#xA;16:37&#xA;https://ddb.ac/characters/88649341/XYCxsz</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/characters/will/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/characters/will/</guid>
+      <description>https://www.dndbeyond.com/characters/62385830/Ze9y6J</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/dm-internal-things/01_quest-template-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/dm-internal-things/01_quest-template-/</guid>
+      <description>(Quest Template)&#xA;Friday, 29. April 2022&#xA;08:42&#xA;Main objective: OBJECTIVE.&#xA;[Detailed Description:]{.underline}&#xA;If-condition:&#xA;If-operator,&#xA;Task Task.&#xA;Detail 1&#xA;Sub task. [Conclusion:]{.underline} Text&#xA;Optional:&#xA;Task [Alternative Conclusion:]{.underline} Lorem Ipsum Dolor Sit Amed</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/dm-internal-things/01_values-variables-all-that/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/dm-internal-things/01_values-variables-all-that/</guid>
+      <description>Values, variables, all that&#xA;Monday, 25. April 2022&#xA;11:44&#xA;Reputation: Indicator for Standing to a Faction&#xA;Ranges from -100 to 100&#xA;Watch Level: The rating how cautious a Faction handles THEM&#xA;Hollowing: How much one&amp;rsquo;s soul and body has been crunched by chaos&#xA;And undead</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/dm-internal-things/02_attack-values/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/dm-internal-things/02_attack-values/</guid>
+      <description>Attack values&#xA;Tuesday, 26. April 2022&#xA;11:26&#xA;Damage types:&#xA;Damage types:</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/dm-internal-things/03_item-stats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/dm-internal-things/03_item-stats/</guid>
+      <description>Item Stats&#xA;Thursday, 28. April 2022&#xA;13:08&#xA;Item Size: XS/S/M/L/XL/G/C Item Weight: VL/L/M/H/VH/M Value: C🪙,S🪙,G🪙,P🪙 Very small, small, medium, large, very large, gargantuan, colossal&#xA;Very light, light, medium, heavy, very heavy, massive&#xA;Copper Coin, Silver Coin, Platinum Coin</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/dm-internal-things/04_templates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/dm-internal-things/04_templates/</guid>
+      <description>Templates&#xA;Friday, 29. April 2022&#xA;11:03&#xA;Main objective: OBJECTIVE.&#xA;[Detailed Description:]{.underline}&#xA;If-condition:&#xA;If-operator,&#xA;Task Task.&#xA;Detail 1&#xA;Sub task. [Conclusion:]{.underline} Text&#xA;Optional:&#xA;Task [Alternative Conclusion:]{.underline} Lorem Ipsum Dolor Sit Amed&#xA;Conflicts:&#xA;Start, Scale, Stakes, Settle&#xA;Location:&#xA;Dangerousness:&#xA;(Creatures-Traps-Environment)&#xA;Possible Loot:&#xA;(Equipment-Valuables-Currency)&#xA;Who?&#xA;Why?&#xA;What?&#xA;Where?&#xA;When?&#xA;Why are all these conflicts happening to my players, and what strings link them all together?&#xA;How does this all come to a conclusion?</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/dm-internal-things/05_status-effects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/dm-internal-things/05_status-effects/</guid>
+      <description>Status Effects&#xA;Tuesday, 26. April 2022&#xA;11:40&#xA;Stunned Restrained Prone Poisoned Petrified Paralysed Burning Hunter&amp;rsquo;s Mark Mage Armour Invisible Incapacitated Grappled Flying Exhausted Divine Favor Concentration Deafened Blinded Bleeding Movement-related Effects&#xA;Stunned Restrained Petrified Paralysed Incapacitated Exhausted Oil&#xA;Health-affecting Statuses&#xA;Regeneration Poisoned Irradiated Sensory-Affecting Effects&#xA;Blinded Deafened Concentration </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/dm-internal-things/06_boolean-switches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/dm-internal-things/06_boolean-switches/</guid>
+      <description>Boolean switches&#xA;Monday, 25. April 2022&#xA;12:26&#xA;Skip &amp;ldquo;Item Use Description&amp;rdquo;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/lavish-lore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/lavish-lore/</guid>
+      <description>Lavish Lore&#xA;Monday, 25. April 2022&#xA;12:57&#xA;The lavish somewhen discovered the twilight and (skip) opened a physical way to the Twilight by piercing the fabric of reality&#xA;That required the most powerful Catalyst ever seen&#xA;Do lore for Catalyst&#xA;(Soul of a Ancient Deity?)&#xA;Through The Pierce, the Lavish ascended to a power level that threatened the Ancient Deities, who are big fans of harmony and they massively hated the Lavish for harming their (sentient, after all) power source</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/meta/03_irr-ational-explanations-qa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/meta/03_irr-ational-explanations-qa/</guid>
+      <description>Irr-ational explanations (Q&amp;amp;A)&#xA;Friday, 29. April 2022&#xA;10:28&#xA;Q: Why is it easier to use flying airships than to traverse the ground?&#xA;A: The technology is long-established and cheap, and relatively safe. Burglary or raids are only possible while loading/unloading, and ground-to-air assaults are too much of a attention-grabber.&#xA;Q:&#xA;A:</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/misc-ideas/copy-pasta-of-the-note/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/misc-ideas/copy-pasta-of-the-note/</guid>
+      <description>DO NOT DELETE Gay DnD&#xA;Areas: arcane-like Steampunk city cyberpunk 2077 night city dream realm hallownest Hollow mountains (dragon roost and underworld like) The wastes (salt flats, creepy, nuclear ruins) Enemies in areas: Steampunk: [B] Clockwork dragon, Rastaban Brass Sentinel [B] Zeppelin Warship citizen Elite Guard Sentinels (basically police) Armed Automaton&#xA;Cyberpunk&#xA;Merchants in Areas: Steampunk:&#xA;Tinkerer (big, chonky guy with dangly gear who works on whatever, story related) Retired Sentinel (provides outdated Intel on the sentinels, and mimicking equipment) Merchants in general: Items in areas: Items in general: Vehicles and transport: Artifacts: Storyline:</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/misc-ideas/generation-and-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/misc-ideas/generation-and-tools/</guid>
+      <description>https://donjon.bin.sh/fantasy/dungeon/ https://donjon.bin.sh/fantasy/treasure_map/ https://donjon.bin.sh/fantasy/town/&#xA;https://www.rangen.co.uk/world/solargen.php&#xA;{&amp;quot;year_len&amp;quot;:246,&amp;quot;events&amp;quot;:1,&amp;quot;n_months&amp;quot;:9,&amp;quot;months&amp;quot;:[&amp;quot;Durthrou&amp;quot;,&amp;quot;Navarn&amp;quot;,&amp;quot;Bakk&amp;quot;,&amp;quot;Nika&amp;quot;,&amp;quot;Banara&amp;quot;,&amp;quot;Stvlisa&amp;quot;,&amp;quot;Apsni&amp;quot;,&amp;quot;Zari&amp;quot;,&amp;quot;Listija&amp;quot;],&amp;quot;month_len&amp;quot;:{&amp;quot;Durthrou&amp;quot;:27,&amp;quot;Navarn&amp;quot;:27,&amp;quot;Bakk&amp;quot;:27,&amp;quot;Nika&amp;quot;:27,&amp;quot;Banara&amp;quot;:27,&amp;quot;Stvlisa&amp;quot;:27,&amp;quot;Apsni&amp;quot;:28,&amp;quot;Zari&amp;quot;:28,&amp;quot;Listija&amp;quot;:28},&amp;quot;week_len&amp;quot;:9,&amp;quot;weekdays&amp;quot;:[&amp;quot;Jelune&amp;quot;,&amp;quot;Disul&amp;quot;,&amp;quot;Sadorn&amp;quot;,&amp;quot;Lundia&amp;quot;,&amp;quot;Erdai&amp;quot;,&amp;quot;Jovdai&amp;quot;,&amp;quot;Brespod&amp;quot;,&amp;quot;Duaro&amp;quot;,&amp;quot;Senin&amp;quot;],&amp;quot;n_moons&amp;quot;:3,&amp;quot;moons&amp;quot;:[&amp;quot;Opar&amp;quot;,&amp;quot;Scheties &amp;quot;,&amp;quot;Heaugi&amp;quot;],&amp;quot;lunar_cyc&amp;quot;:{&amp;quot;Opar&amp;quot;:11,&amp;quot;Scheties &amp;quot;:27,&amp;quot;Heaugi&amp;quot;:64},&amp;quot;lunar_shf&amp;quot;:{&amp;quot;Opar&amp;quot;:1,&amp;quot;Scheties &amp;quot;:0,&amp;quot;Heaugi&amp;quot;:0},&amp;quot;year&amp;quot;:1020,&amp;quot;first_day&amp;quot;:6,&amp;quot;notes&amp;quot;:{&amp;quot;1018-2-12&amp;quot;:&amp;quot;Triple Fullmoon&amp;quot;,&amp;quot;1018-5-25&amp;quot;:&amp;quot;Comet appears, Triple Newmoon&amp;quot;}} &amp;lt;https://donjon.bin.sh/fantasy/calendar/&amp;gt; Superseded by Calendar plugin.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/outdated-lore/ancient-exile-lore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/outdated-lore/ancient-exile-lore/</guid>
+      <description>#Ancients Actually the ancients were quite friendly since they wanted to bring the gift of Twilight, Amarisk and Arcane to all Humanoids.&#xA;This is less of a species but more of a category for beings that are so proficient with magic, arts or technology that they have been seen as gods by common folk.&#xA;Ascended Level 20 Characters These are like the &amp;ldquo;big friendly giant&amp;rdquo;-sorta individuals since they realised that war or disinhibited aggression is not thriving, only degenerating</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/outdated-lore/plot-outdated/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/outdated-lore/plot-outdated/</guid>
+      <description>For a better version, read: 2024&#39;01&#39;03&#39;00-06-00 Tuesday, 26. April 2022 08:15&#xA;Three major factions; the Ancient Deities, the Thylyist Federation, and the Empire of the Lavish. The Thylyist are extremely afraid of magic and the deities, and decided to use the lavish to banish the deities, then nuke the lavish. The starting scene is &amp;ldquo;ohshit the gods are about to screw us over, get the elite gang and banish these fucks again&amp;rdquo;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/outdated-lore/proper-plot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/outdated-lore/proper-plot/</guid>
+      <description>(As of 6/5/22) (for the playing party) Darb ut-Tabānah has recently been seen travelling the realm (despite being claimed dead), heading towards Thylyist.&#xA;He aims towards the Thylyian Government to exploit their fear towards the arcane and use it to finally deal with the fountainhead.&#xA;The Party could set on that rumour and try to catch the proclaimed-dead Ancient and to interrogate them.&#xA;If that doesn&amp;rsquo;t happen,Darb ut-Tabānah will sneak into the Thylyian government and do things to get them towards the Fountainhead.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/outdated-lore/rough-timeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/outdated-lore/rough-timeline/</guid>
+      <description>Look here Complete History of Servilia and here Outdated: People did decide against electricity and semiconductors as technology and got into steam and biotechnology.&#xA;When the 19th century wound down they discovered the potential of magic and attracted the Ancients&#xA;And they were suddenly aware of magic powers and the destructive potential.&#xA;So the last thing they did with magic was to condense a fuckton of Chaos into a nuclear warhead and to yeet that at The Fountainhead of Lavish</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/outdated-lore/scrapped-plot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/outdated-lore/scrapped-plot/</guid>
+      <description>The party starts out with the thylyian doctrine &amp;ldquo;magic = bad.&amp;rdquo;&#xA;Who (Actually is their secret founder, and who are themselves)? They&amp;rsquo;ve been put together as &amp;ldquo;mobile task force&amp;rdquo; by (to them) secret group, with the task to travel to The Wastes (they also don&amp;rsquo;t know that its dangerous af).&#xA;What (assembled this group)? The thylyian council in a covert mission to eradicate the Fountainhead. (The party just knows &amp;ldquo;go to there and break it&amp;rdquo;).</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/todo/00-assemble-the-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/todo/00-assemble-the-world/</guid>
+      <description>Assemble the World Thursday, 28. April 2022 12:15 Short conclusion of map and areas:&#xA;city empire of Thylyist, laid In a moderately hilly place which transitions to a massive cliff falloff Hollow mountains encircling the Floating Islands, in close proximity to The Waste Flats, big outstretched salt flats in proximity to a desert, dead rivers Arctic tundra And glacial / polar ice plains, home to the Heart Of Cold Volcanic and desert-y hot lands, home to the CotF (they still live underground) The hot hot grass fields; slightly charred at their area Steam Gardens https://azgaar.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/todo/00_villain-identities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/todo/00_villain-identities/</guid>
+      <description>Villain identities&#xA;Montag, 9. Mai 2022&#xA;21:03&#xA;&amp;gt;&#xA;I just love the deranged ones they just have the personality of an angel&#xA;From &amp;lt;https://canary.discord.com/channels/@me/967166246497964032&amp;gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/todo/01_rough-city-layouts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/todo/01_rough-city-layouts/</guid>
+      <description>Rough city layouts&#xA;Tuesday, 26. April 2022&#xA;11:13&#xA;And &amp;ldquo;treasury rooms&amp;rdquo;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/todo/05_holy-shit-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/todo/05_holy-shit-/</guid>
+      <description>Holy shit&#xA;Saturday, 30. April 2022&#xA;20:31&#xA;I forgot about the pancakes!</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/todo/13_random-bullshit-goooo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/todo/13_random-bullshit-goooo/</guid>
+      <description>so a umbrella that when opened up it forms a portal that leads to a part of space basically&#xA;Butterfly knife but it is sentient and neutral evil, constantly tries to stab the user?&#xA;i was thinking of an acutal wand that works like a flip knife but that works</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legacy/todo/floaty-magic-book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legacy/todo/floaty-magic-book/</guid>
+      <description>Floaty magic book Sunday, 1. May 2022 13:59&#xA;Which makes arm movements funny&#xA;-&amp;gt; astral sorcery</description>
+    </item>
+  </channel>
+</rss>

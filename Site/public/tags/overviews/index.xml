@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overviews on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/overviews/</link>
+    <description>Recent content in Overviews on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/overviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/overviews/summaries/differences-regarding-factions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/overviews/summaries/differences-regarding-factions/</guid>
+      <description>Thylyist Boons Attunement to all things mechanical Easy access to various military and economic resources Possibly acquiring Thylyian Military supplies legally or through conscription/service Drawbacks Narrative adjustments There‘s no world outside of Thylyist No Tech greater than gear, steam and steel Magic? doesn‘t exist&#xA;Kill-on-Sight orders from Dragonkin, Frisco and Exile/Nolka&#xA;Sepulchre Boons Sense of community; shared goods across the necropolis (i.e. less requirements for money) Diplomatic relations to Frisco Indirect access to both Thylyian and Friscoan Tech, Items and weaponry Access to the trains Drawbacks Treat/Property „Undying“ mandatory Prone to hollowing Outsider mentality and treatment by others Frisco Davern Exiled/Nølkā Kva’al </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/overviews/summaries/faction-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/overviews/summaries/faction-overview/</guid>
+      <description>Empire of Thylyist Former city-state, grown to the size of a empire. The City of Thylyist is their capital, and epicentre of their official religion, the Followers of Mekhane, originally conceived as bunker-fort installation shortly before the end of the Nølkā-Mekhanite War. Their government is practically defunct. Instead, the religious elite (Council of Thylyist), and to a extend, the Gearforged Vanguard is de-facto ruling. The fanatical devotion impacts everyday life and has frozen technological and scientific progress, leaving them stuck in early steam-driven technology.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/overviews/summaries/religions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/overviews/summaries/religions/</guid>
+      <description>A comprehensive summary of Cults, Organised Religions and other followings present in Servilia. Loosely sorted by impact and known member count.&#xA;Followers of Mekhane One of the two big religions ever formed in Servilia, this religion descended from the remnants of their once-great Mekhanite religion. Originally created as direct worshippers of Mekhanes will at the conception of Mankind, now turned into a lesser, deviated hodgepodge, in which their highest ranks assume the positions of dictatorship.</description>
+    </item>
+  </channel>
+</rss>

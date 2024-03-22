@@ -1,5 +1,6 @@
 ---
-tags: Mekhanites, Religion
+tags:
+  - Mekhanites
 ---
 A large sphere of rotating gears and ticking escapements, crafted from brass and inscribed with glowing runes. *No-one seems to know who created it, nor when, nor its purpose.* 
 

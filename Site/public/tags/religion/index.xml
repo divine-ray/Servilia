@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Religion on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/religion/</link>
+    <description>Recent content in Religion on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/religion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/groupings/cults-and-religions/followers-of-mekhane/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/groupings/cults-and-religions/followers-of-mekhane/</guid>
+      <description>The Mekhanites are the monotheistic religion which worship the Heart of Mekhane and it’s Ideal Design of Gear, Steel and Steam. They are the leading and ruling class of Empire of Thylyist, self-entitled to reign, with no restraints to use force through the Gearforged Vanguard. As of the present, their proxy figures in the Council of Thylyist has led to a authoritarian regime in which progress, may it be scientific, economic or cultural, is condemned and free thought considered unlawful and valid grounds for execution or expulsion.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/overviews/summaries/religions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/overviews/summaries/religions/</guid>
+      <description>A comprehensive summary of Cults, Organised Religions and other followings present in Servilia. Loosely sorted by impact and known member count.&#xA;Followers of Mekhane One of the two big religions ever formed in Servilia, this religion descended from the remnants of their once-great Mekhanite religion. Originally created as direct worshippers of Mekhanes will at the conception of Mankind, now turned into a lesser, deviated hodgepodge, in which their highest ranks assume the positions of dictatorship.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/wip-or-projects/workpieces/future-development-of-the-mekhanites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wip-or-projects/workpieces/future-development-of-the-mekhanites/</guid>
+      <description>They&amp;rsquo;ll see that the Machine will betray them, rust, fall apart. The True Machinists were mistaken; His Design is flawed. They will turn to the silicon, to what makes computers: Holy Code. They will try to strip their physical body, become one with the Runtime. Each will become the very first Numerator, entrapped in steel, silicon and misshapen flesh, but promised to exist forevermore. There will be no flaws, for The Debugger is flawless.</description>
+    </item>
+  </channel>
+</rss>
