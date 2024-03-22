@@ -1,15 +1,14 @@
 ---
 tags:
   - "#History"
-tags:
-  - "#History"
+  - TODO
 fc-date: 01-01-0001
 fc-end: 03-04-0122
 timelines:
   - timeline
 aat-render-enabled: true
 ---
-#TODO #History #Event
+
 
 ## ![[Creation Myth]]
 This led to a [[Prime Clash of Nolka vs Mekhanites|severe conflict]], arms race and eventual escalation in global war between the both factions, devastating humanity as a whole in the events of the [[Nølkā-Mekhanite War]] (save for those species who were above human clashing).
