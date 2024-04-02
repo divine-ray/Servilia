@@ -16,7 +16,7 @@
 - [x] \[\[History of Sepulchre and the Faceless]]
 - [ ] `[[How Dying ceased]]` 
 - [ ] Pogrom & genocide upon Lavish and Varuú, [[Fall of the Lavish]]
-### [[The Second Era]]:
+### `[[The Second Era]]`:
 - ### Thylyist
 	- [x]  `[[Thylyian Military|Thylyist Military]]`
 		- [ ]  sentinels
@@ -35,7 +35,7 @@
 	corpo that has a decent stock and rule over the world, akin to militech from CP2077
 - [ ] [[Cyberware]] and stuff for biotech implants, third age
 - [ ] SICK Club
-- [ ] [[Amida]]
+- [ ] `[[Amida]]`
 	- [ ] Rough description of each sector, [[Like Obelisks, as far as another Realm]]
 	- [ ] History or rather how Amida rose from Thylyist, [[Talking 'bout a Revolution]]
 	- [ ] Amidan Infrastructure and Utilities U.P.C. (unlimited professional corp.)

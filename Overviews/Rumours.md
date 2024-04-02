@@ -12,3 +12,4 @@ Please note that these rumours are not localised, local rumours are on their pag
 - An undead knight in the ruins of Gratun Tower still stands watch over the tomb of his queen.
 - Mysterious lights have appeared in the [Jungle of Megaliths](Ninth%20Forest).
 - Those who shout "is anyone out there" will find company soon. 
+- Bright light could summon a whistling explosion, but only in some areas. 

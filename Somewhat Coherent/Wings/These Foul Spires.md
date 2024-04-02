@@ -1,4 +1,5 @@
-These foul spires, intertwined with their wicked veins.  Who knows what they're hiding in these? 
+These foul spires, intertwined with their wicked veins.
+Who knows what they're hiding in these? 
 What forsaken abominations are being enslaved to be our very sustenance?
 Everything here revolves around them, they define our nation and society. 
 Irregular and twisted like bricks being stacked another recklessly and held together by these abominable arteries. And the light. The lighting follows you everywhere, there is not a single crevice left undone. Glaring and over-saturated do the advertisements scream for attention.

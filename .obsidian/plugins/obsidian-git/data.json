@@ -52,5 +52,7 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
+  "authorInHistoryView": "hide",
+  "dateInHistoryView": false,
   "autoCommitMessage": "vault backup: {{date}}"
 }

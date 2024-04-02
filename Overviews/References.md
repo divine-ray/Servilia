@@ -1,6 +1,6 @@
 #Structure 
 
-![[Copyright Disclaimer#^f2df94]]
+![[Copyright Disclaimer#^69cab1]]
 ## Games
 Hollow Knight: Void, Vessels
 Dark Souls: Hollows, Estus flask -> bottled embers/smoulders
@@ -12,16 +12,6 @@ The Elder Scrolls VI: Skyrim: Dagoth Ur, the Heart
 ## Music
 
 [Here's a Spotify Playlist for the songs listed below.](https://open.spotify.com/playlist/2Oso7xXvVmf0vPEKlvLjv3?si=90ce088620154bd0)
-- [[Introduction to the Snow]]: ???
-- Dream Sweet in [[Sea Major]]: aptly-named region, the [[Edge of Hope]]
-- Stand And Deliver: Criminal gang associated to raiding the Servilian Railroad
-- Goody Two Shoes: ???
-- Dagothronomia: [[Darb ut-Tabānah]], formerly known as Dagoth Ur
-- Streets of London: Streets of Londo
-- Scarborough Fair: [[Seacurbury Fair]], annual meetup of all traders 
-- Achilles Come Down: [[Chilleas]]
-- Black Rainbows: Stella Octangula
-- Fallout 76 [[Ring of Fire]]
 
 | Artist                               | Album                                                                         | Song                                                    | Reference                                |
 | ------------------------------------ | ----------------------------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------- |
@@ -68,5 +58,7 @@ The Elder Scrolls VI: Skyrim: Dagoth Ur, the Heart
 | Léandre Monette                      | Struggling OST                                                                | Flesh Opera: Cries of the Firstborn                     |                                          |
 | Faded Paper Figures                  | Dynamo                                                                        | Metropolis                                              |                                          |
 | Cody Simpson                         | captain's dance with the devil                                                | captain's dance with the devil                          | Possibly [[Return of Automatia]]         |
-|                                      |                                                                               |                                                         |                                          |
+| The East Pointers                    | What We Leave Behind                                                          | 82 Fires                                                |                                          |
+| Lord Huron                           | Lonesome Dreams (Bonus Track Version)                                         | The Ghost on the Shore                                  |                                          |
+| Tally Hall                           | Good & Evil                                                                   | Misery Fell                                             |                                          |
 |                                      |                                                                               |                                                         |                                          |

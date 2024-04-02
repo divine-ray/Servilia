@@ -4,7 +4,7 @@ For the present moment (12.03.2024), the [[Oneiroi Collective]] is also named af
 I do not intend to plagiarise or otherwise claim these as truly my ideas; their original conception, attribution and IP belongs to the authors of the SCP Wiki.
 
 I do not claim any listed works in [[References]] as my own nor do I (intend to) capitalise upon them, they only serve a role as inspiration.
-Most of this project boils down as a amalgam and combination of many media influences, and purposes as a overarching canon to unify many works of art and other media.   ^f2df94
 
+Most of this project boils down as a amalgam and combination of many media influences, and purposes as a overarching canon to unify many works of art and other media. ^69cab1
 
 Many other inspirations and adaptations have been taken from other media, please refer to [[References]]. 

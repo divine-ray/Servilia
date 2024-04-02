@@ -12,8 +12,11 @@ General combination of squid and octopus aspects,
 	- the strong one is primarily for locomotion
 	- the weaker one can precisely push stuff around
 - two primary eyes, one secondary eye on the downside
+- eight tentacles, two of which are longer with a widened end (as rudder)
+	- suction cups on the six lesser tentacles to grab and manipulate things
 
 
 https://scp-wiki.wikidot.com/scp-1000
 
-they got completely genocide'd by thylyist, and accepted it/didn't put up too much of a fight. 
+they got completely genocide'd by Thylyist, and accepted it/didn't put up too much of a fight. 
+General personality type and alignment of a peaceful but curious mind, which is probably what allowed them to tap into the twilit in the beginning (as opposed to the gory and violent way of the fountainhead). 

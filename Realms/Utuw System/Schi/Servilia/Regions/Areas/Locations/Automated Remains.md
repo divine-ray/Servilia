@@ -1,4 +1,5 @@
 Various buildings and structures left around the continent by [someone long gone](The%20Lavish%20Empire.md). 
+Recent studies and research with scholars and experts of the field have dated these to [[Before the First Era]]. 
 Most of them remain functional through the maintenance of [peculiar critters](Pseudoneo) and other creatures, which [I](Kookie,%20Mage) did not inspect closer yet. 
 In this entry I will summarise the most notable ones i found repeatedly, and theorise their function. 
 ## Gun Installation
