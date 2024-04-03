@@ -1,6 +1,7 @@
 ---
 tags:
   - Thylyist
+  - Faction
 aliases:
   - Strategic Planning and Coordination Department
   - Thylyist Military

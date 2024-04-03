@@ -1,4 +1,4 @@
-The god of Fear and Hunger, sharing family with the [[Apocalyptic Quartet]] of [[Death]], [[Famine]], [[Warfarefare]] and [[Conquest]]. 
+The god of Fear and Hunger, sharing family with the [[Apocalyptic Quartet]] of [[Death]], [[Famine]], [[War|Warfare]] and [[Conquest]]. 
 Wicked, outright wrong, this warped tyrant is defying creation, placing itself unruly in the place of the just judge of death and decay. 
 Arose from a human vessel that only experienced fear and hunger in its short life, which has been ended through ritual means.  
 
