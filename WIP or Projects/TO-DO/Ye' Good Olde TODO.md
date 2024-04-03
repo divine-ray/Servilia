@@ -43,7 +43,7 @@
 		legal loophole that grants amida itself some degree of freedom from the other corps ruling
 	- [ ] Amida has to be as horrible as possible to squeeze out the tiniest profit out of everything
 		- any building is minmaxxed to hell (and fucking collapses in a year),
-		- pre-crime picks off people for lobotomisation years before,
+		- pre-crime picks off people for lobotomisation or biomass conversion years before,
 		- numerators are in control of elimination and torture and the police state, 
 		- there is no “state”/government. it’s all bought by corporate empires.
 		- idk some pending damocles’ sword which will cause downfall or shit 
@@ -122,7 +122,7 @@ make the calendar have hunter/~~wanderer~~/renegade gatherings every nth full mo
 recurring meteor showers
 `[[Court of Storms]]` as part of tombstone's upper levels which are now ruined 
 oh yeah i should define how long a short/long rest is for combat balancing purposes
-[[Generator Snippets]]
+`[[Generator Snippets]]`
 Time travel backwards with information from the [[Epos' Manuscripts]]?
 this will be VERY unpredictable as I'd have to account for time branch shifting and all that madness -> terminator gambit xdddddd
 
