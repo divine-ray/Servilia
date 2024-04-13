@@ -2,6 +2,7 @@
 aliases:
   - Left Ribs
 tags:
+  - Areas
 ---
 
 #Areas 

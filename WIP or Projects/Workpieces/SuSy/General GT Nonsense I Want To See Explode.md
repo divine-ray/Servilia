@@ -2,8 +2,10 @@
 tags:
   - Workpieces
 ---
-# AKA Other General GT Nonsense I Want To See Explode
 Yes, this is all highly subjective and biased. It is My Opinion™.
+
+fix dxhitty GCYM assembler smh
+
 ## Tiers and Associated
 
 ## Circuits
