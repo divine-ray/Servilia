@@ -1,3 +1,5 @@
+#SuSy
+[[General GT Nonsense I Want To See Explode]]
 - I want to have a handler that allows multiblock controllers to run more than one recipe map.
 	This is to unify similar multiblocks into one controller while retaining the differences in function. 
 	The use case i have in mind are merged processing machines for ores, categorized after method (mechanical (Jaw crusher, VSI, gyratory..), chemical (leaching), separation (...), etc.). 
