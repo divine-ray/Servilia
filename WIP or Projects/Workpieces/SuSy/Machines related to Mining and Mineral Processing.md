@@ -5,15 +5,7 @@ tags:
 # Heading
 (I primarily want to focus on multiblocks for their perceived modularity and less bloat of single blocks for every tier)
 ## Extraction
-To have some tangible value to digging up the ground for minerals, the concept and implementation of ores has to be overhauled. The following assumes that such changes have taken place. 
-### Rocks And Ores
-![[2024'04'04'10-03-28#Bucket Wheel Excavator]]
-#### Vertical Mining Rig
-Guh? 
-Maybe deploys some sort of silly mechanical worm that eats up the ores
-
-### Sediments
-### Liquids and Fluids
+![[Extraction (SuSy)]]
 
 ## Refining
 ### Mechanical R. 

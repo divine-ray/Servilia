@@ -1,4 +1,4 @@
----
+---
 tags:
   - Workpieces
 ---
@@ -13,3 +13,4 @@ tags:
 ### Transportation
 - Open Rift
 	This spell tears open a rift in the twilit, which has to be imprinted with a location to act as a traveling method. One possible use-case for these would be confining them into [[Riftstones]].
+	

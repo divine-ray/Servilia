@@ -1,6 +1,23 @@
-Imperial Currency of the Thylyian, accepted only within Thylyist and associate. 
+Imperial Currency of the [[Empire of Thylyist]], accepted as currency within Thylyist.
+	Other countries scowl at these, but grudgingly accept them for their raw material value. 
  
 
+Businesses typically store and transport their parts mounted on Axles.
+Individuals tend to carry their parts in small leather bags or chainmail pouches.
+
+Given the high price and regulated number of axles in circulation, they are seen as investment and treated akin to ingots of rare metals (gold, silver, platinum) on Terra.
+
+Ducts is the most common part for everyday commerce, pinions and cogs are mostly used for investment or high expenses, whereas shims equate to loose change. 
+
+| Unit   | Material, Shape                      | Conversion Rate                                                 | Icon     |
+| ------ | ------------------------------------ | --------------------------------------------------------------- | -------- |
+| Shim   | Holed bronze disc                    | n.a.                                                            | Sh. (📀) |
+| Duct   | Short copper pipe (annealed)         | 1 Duct = 3 Shims                                                | Dc. (🪈) |
+| Pinion | Brushed tiny steel gear              | 1 Pinion = 10 Ducts = 30 Shims                                  | Pn(⚙️)   |
+| Cog    | Polished small HSS gear              | 1 Cog = 5 Pinions = 50 Ducts =1500 Shims                        | Cg (🏅)  |
+| Axle   | Decorated axle, not standardised[^1] | 1 Axle = 250 Cogs = 1250 Pinions = 62.500 Ducts = 187.500 Shims | Ax.      |
+
+ 
 Example References:
 
  
@@ -91,50 +108,6 @@ Example References:
 
 4 types of coin: (coin-material)
 
-<table>
-<colgroup>
-<col style="width: 16%" />
-<col style="width: 21%" />
-<col style="width: 44%" />
-<col style="width: 17%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><h3 id="unit">Unit:</h3></th>
-<th><h3 id="material">Material:</h3></th>
-<th><h3 id="conversion">Conversion: </h3></th>
-<th><h3 id="icons">Icons:</h3></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><h5 id="preni">Preni</h5></td>
-<td>Bronze</td>
-<td>1 Preni</td>
-<td>🥉, BC, B🪙</td>
-</tr>
-<tr class="even">
-<td><h5 id="mang">Mang</h5></td>
-<td>Silver</td>
-<td>1 Mang = 213 Preni</td>
-<td>🥈, SC, S🪙</td>
-</tr>
-<tr class="odd">
-<td><h5 id="renu">Renu</h5></td>
-<td>Gold</td>
-<td>1 Renu = 14 Mang OR 2.987 Preni</td>
-<td>🏅, GC, G🪙</td>
-</tr>
-<tr class="even">
-<td><h5 id="vyahn">Vyahn</h5></td>
-<td>Platinum-Gold</td>
-<td>1 Vyahn = 5 Renu = 70 Mang = 14.910 Preni</td>
-<td>🪩, PC, P🪙</td>
-</tr>
-</tbody>
-</table>
-
- 
 
 
 
@@ -149,3 +122,5 @@ Example References:
 Pre-ma-re-vy
 
 Premarevy
+
+[^1]: As these axles are meant for storage, they also act as holding license, as to regulate how much wealth someone can amass in a orderly way. Electrum is the most common material for them. 
