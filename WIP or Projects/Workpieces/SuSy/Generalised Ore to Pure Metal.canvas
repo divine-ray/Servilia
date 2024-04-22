@@ -14,7 +14,8 @@
 		{"id":"44c19fc3d660857a","type":"text","text":"# Dewatering\nSolid/Liquid separation. ","x":1260,"y":21,"width":250,"height":94},
 		{"id":"0f67f0f80533a6e5","type":"text","text":"## Gravity Concentration\nHeavy/Dense Media Separation\n\tDense Feedstock Cyclones\n\tLarcodems (Coal, Iron, Plastics)\n- Reflux Classifier\n- Dyana Whirlpool Separator\n- Knelson concentrator","x":880,"y":500,"width":320,"height":320},
 		{"id":"90fa322d374aac1e","type":"text","text":"# Froth Floatation\nwe all know what this does\nMK2 is the Jameson Cell\nMK3 is Staged Floatation Reactor (multiunit circuit)","x":1216,"y":500,"width":338,"height":174},
-		{"id":"8421d15d081fc093","type":"text","text":"shit that i was too pissed to properly write down:\nelectrostatic separation\nmagnetic separation\nelectrowinning\nleaching\n","x":600,"y":500,"width":250,"height":381,"color":"1"}
+		{"id":"8421d15d081fc093","type":"text","text":"shit that i was too pissed to properly write down:\nelectrostatic separation\nmagnetic separation\nelectrowinning\nleaching\n","x":600,"y":500,"width":250,"height":381,"color":"1"},
+		{"id":"e24947f41396fc9c","x":1600,"y":38,"width":250,"height":60,"type":"text","text":"off to smelting with the finalised concentrate"}
 	],
 	"edges":[
 		{"id":"901cd70bc545aa37","fromNode":"4eb29e5864a13a82","fromSide":"top","toNode":"a5e4100beda4bf45","toSide":"bottom"},
@@ -31,6 +32,7 @@
 		{"id":"edcbebee8e2abefb","fromNode":"2fe7c34cf699590c","fromSide":"right","toNode":"44c19fc3d660857a","toSide":"left"},
 		{"id":"45a88639e92d7f33","fromNode":"2fe7c34cf699590c","fromSide":"bottom","toNode":"0f67f0f80533a6e5","toSide":"top","toEnd":"none"},
 		{"id":"2cd7be6c07bc89c5","fromNode":"2fe7c34cf699590c","fromSide":"bottom","toNode":"90fa322d374aac1e","toSide":"top","toEnd":"none"},
-		{"id":"7b735108b74474f2","fromNode":"2fe7c34cf699590c","fromSide":"bottom","toNode":"8421d15d081fc093","toSide":"top","toEnd":"none"}
+		{"id":"7b735108b74474f2","fromNode":"2fe7c34cf699590c","fromSide":"bottom","toNode":"8421d15d081fc093","toSide":"top","toEnd":"none"},
+		{"id":"49cbbe0f05980073","fromNode":"44c19fc3d660857a","fromSide":"right","toNode":"e24947f41396fc9c","toSide":"left"}
 	]
 }
