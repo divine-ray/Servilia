@@ -8,6 +8,7 @@ All visitors long gone, left with the rocks they gutted from Schi’s crust, lef
 No human has bestowed these figures any attention in ages. 
 Why would some traveller even take interest in a burnt theatre, spare for the shelter and firewood?
 But then.. I can hear..
+
 The music
 it is heavenly
 <sub>come, sit down</sub>
