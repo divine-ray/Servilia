@@ -7,7 +7,7 @@
 	- [ ] Horses
 	- [x] [[Amphitheriid]]
 - [ ] Vehicles
-	- [ ] [[that funny retro scifi stone motorcycle]]
+	- [ ] [[that funny retro scifi stone motorcycle]] (Legend Of Zelda: Breath of the Wild)
 	- [ ] airships 
 	- [x] [[Servilian Railroad and Train Network]]
 	- [x] [[Argrosy]]
