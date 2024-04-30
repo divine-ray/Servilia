@@ -7,26 +7,23 @@ tags:
 ## Extraction
 ![[Extraction (SuSy)]]
 
-## Refining
-### Mechanical R. 
-Mechanical Refining refers to the processing of reducing the size of ore. 
-#### Primary Crushing
-Primary grinding is the initial step of crushing ores and solid sediments after they have been mined, typically resulting in grain sizes of 150-300mm (Gravel).
-- Jaw
-- Cone
-#### Secondary Crushing
-Results in grain sizes of less than a centimetre, the size of pebbles and very coarse sand.
-- Gyratory
-- HPGR/Roll
-#### Teritary Crushing (Milling)
-This stage is primarily applied before chemical treatment such as floatation and leaching. 
-Averages 100-500µm per run (very fine sand to silt).^[Crushers, especially these mills, arrange individual machines in series to achieve the desired grain size.]
-- Vertical Shaft Impactor
-- Ball or Semi-Autogenous
-- (For a slurry suspension:) IsaMill
+## Refining and Processing
+### Comminution
+Mechanical Refining refers to the processing of reducing the size of ore; synonymous to comminution which means 'To reduce to minute particles, pulverize'[^dictionary]
+Technically speaking, the process of mining could be considered as mechanical refining as well, since those operations break down deposits and sediments, often several kilometres in size, into boulders and rocks that can be shipped. 
+Crushing and milling are dry operations (i.e. with minimal liquid involved) whereas grinding is exclusively performed as wet operation or even as slurry or suspension. 
+
+![[Primary Crushing]]
+
+![[Secondary Crushing]]
+
+![[Tertiary Crushing]]
+#### Milling
+#### Grinding
 ## Sorting
 ### Sizing
-These machines sort large-grained feedstock based on their size.
+These machines sort larger grain feedstock based on their size.
 - Sluice
-- Rotating *Trommel*
+- Rotating *Trommel* 
 
+[^dictionary]: “Comminute.” Merriam-Webster.com Dictionary, Merriam-Webster, https://www.merriam-webster.com/dictionary/comminute. Accessed 26 Apr. 2024.
