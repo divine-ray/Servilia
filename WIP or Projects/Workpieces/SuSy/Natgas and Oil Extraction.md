@@ -1,4 +1,5 @@
-### Natgas and Oil Extraction
+Natural Gas and Crude Oil 
+---
 Oil Wells experience three phases in their life, each of which tied to the remaining petroleum in the deposit. 
 - Primary Recovery
 	When a field of gas or oil is first tapped, the pressure present in and on the pockets oftentimes suffices to bring the desired liquids to the surface, therefore not necessarily requiring machinery to extract it. However, machines may enhance the recovery rate. 
