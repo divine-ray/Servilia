@@ -17,4 +17,4 @@ Yes. These Husks. Not even human anymore. </p>
 
 ---
 
-![[2024'05'02'16-42-58]]
+![[2024'05'02'19-37-42]]
