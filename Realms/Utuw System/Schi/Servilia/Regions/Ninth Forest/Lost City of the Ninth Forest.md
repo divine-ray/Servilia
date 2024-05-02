@@ -1,6 +1,10 @@
 ---
-aliases: Tombstone, Lost City
-tags: locations, ruin, dungeons
+aliases:
+  - Tombstone
+  - Lost City
+tags:
+  - locations
+  - ruin
 ---
 # During [[The First Era]]:
 A flourishing and thriving city, dedicated towards research and trade. 

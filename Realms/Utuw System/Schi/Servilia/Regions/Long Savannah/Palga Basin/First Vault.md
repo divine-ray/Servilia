@@ -1,11 +1,12 @@
-#### #dungeons
- **Location**: Salt Flats of The Wastes.
+#Lavish  
+ **Location**: [[Palga Basin]]. 
 
-Approx. 5km northeast of the [[Fountainhead]].
+Approx. 5 km northeast of the [[Fountainhead]].
 
-some rooms are outfitted with cryostasis capsules, most of which are opaque from rot or shattered. 
+Some rooms are outfitted with Cryostasis capsules, most of which are opaque from rot or shattered. 
+Perhaps the last [[Lavish]] remain in here, slowly succumbing to system failure. 
 
-**Dangerousness:** Lethal.
+**Threat:** Lethal.
 
 (**C**reatures-**T**raps-**E**nvironment)
 
