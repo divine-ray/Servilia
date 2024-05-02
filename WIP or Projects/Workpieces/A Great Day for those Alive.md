@@ -2,5 +2,5 @@
 tags:
   - Workpieces
 ---
-memorial day in the [[Frisco Bay Confederation]] related to the [[Curse of the Undead]] and associated woes.
-Held on the first day on the middle of the year. 
+# A Great Day for those Alive
+memorial day in the Frisco Confederation related to the curse and it's many woes
