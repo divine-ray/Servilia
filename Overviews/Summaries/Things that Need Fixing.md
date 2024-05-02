@@ -8,7 +8,7 @@ tags:
 aka: big obstructions for readability towards «other people»
 ### CONTEXT
 - short overview of factions: [[Faction Overview]]
-	- [[Locations and You]]
+- [[Locations and You]]
 - good, summarising index of major actors
 	- I.e. politicians, military, religious leaders, economical officials, …  
 	- [[Character Overview]]
@@ -19,5 +19,5 @@ aka: big obstructions for readability towards «other people»
 - [[Religions]]
 	- [[Universal Pantheon]]
 - Cultural beliefs 
-	- superstitions
+	- Superstitions
 - “Attributes”
