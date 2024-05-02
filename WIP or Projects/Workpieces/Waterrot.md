@@ -7,4 +7,4 @@ Foul, as if someone minced a rotting corpse into a vile brew.
 It is not cold and not dry: growth for plagues and infections. 
 Those who dared touch the rot or came near…
 	The bodies were never found. 
-		Rumour has it that they turned into the rot.
+		Some say that they turned into the rot.

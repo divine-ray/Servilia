@@ -1,6 +1,7 @@
 ---
 tags:
   - Workpieces
+  - Poetry
 ---
 shadows woven into finest garbs, enshrouding whoever picks those up.
 veiled and unseen, they blend into the night. 

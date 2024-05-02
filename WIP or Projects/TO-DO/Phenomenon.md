@@ -3,3 +3,4 @@
 - [[The Wall]] grows over time, bricks added from seemingly nowhere. 
 - [[Echoes]] might occasionally crush open like a scarred wound into a [[Twilit Rift]].
 - [[Leyline|Tangled energes]] unfurl and fold atop heights, attracted by disaster and rejoice equal.
+- [Water is rotting](Waterrot), spreading disease and famine. 

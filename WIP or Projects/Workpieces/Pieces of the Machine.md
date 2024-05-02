@@ -4,7 +4,7 @@ tags:
 aliases:
   - Every Piece
 ---
-Every piece in the machine knows its place. 
+Every piece in [[Mekhane|The Machine]] knows its place. 
 Each knows where it belongs, and which responsibility it carries for the whole.
 Each component remembers who carved them from the blank, who conceived them on the drawing board. 
 And to all, they work together, destined for their purpose, united in their load. 
