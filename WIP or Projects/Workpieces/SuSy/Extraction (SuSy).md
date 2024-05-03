@@ -8,3 +8,4 @@ Maybe deploys some sort of silly mechanical worm that eats up the ores
 
 ### Sediments
 ### Liquids and Fluids
+[[WIP or Projects/Workpieces/SuSy/Natgas and Oil Extraction|Natgas and Oil Extraction]]
