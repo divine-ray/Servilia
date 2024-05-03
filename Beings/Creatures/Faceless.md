@@ -9,6 +9,7 @@ Maybe you can try to help these lost fellows?
 Their facial features are all destroyed, covered below horrible scars, seem to shape eerie patterns. You have a uneasy feeling trying to make out what these patterns mean. That shadow just moved, didn't it?
 These scars likely come from self-imposed injuries from their uncut nails, which would place a dragon in envy. 
 In fact, their entire body appears to be mistreated and neglected, starved to the bone, uncut hair... but... They seem to remember to wash themselves. Odd.
+[[Report of a Broken Face]] leads to clues that they're still cognisant, or at least aware, but physically incapable of expressing themselves with dignity. 
 
 > [!NOTE]- Outdated
 > Their faces are covered in long and poorly-healed scars, likely sourcing from scratching themselves with their horribly elongated nails that resemble talons or claws.
