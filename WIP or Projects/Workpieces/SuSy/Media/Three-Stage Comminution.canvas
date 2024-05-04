@@ -8,7 +8,7 @@
 		{"id":"3a1f8b1eab56a131","type":"file","file":"WIP or Projects/Workpieces/SuSy/Tertiary Crushing.md","x":-120,"y":600,"width":400,"height":218,"color":"6"},
 		{"id":"d85612d3b063b517","type":"file","file":"WIP or Projects/Workpieces/SuSy/Media/Three-Stage Crushing.png","x":-800,"y":420,"width":288,"height":400},
 		{"id":"f232a29b4f0db1fc","type":"text","text":"# To [[Milling]]","x":-400,"y":820,"width":250,"height":60},
-		{"id":"c8cfcdba2a6d87a0","x":-300,"y":433,"width":50,"height":50,"type":"text","text":""}
+		{"id":"c8cfcdba2a6d87a0","type":"text","text":"","x":-300,"y":433,"width":50,"height":50}
 	],
 	"edges":[
 		{"id":"e8d8fc72a5d0b2af","fromNode":"e2b5a7c4b3d55050","fromSide":"bottom","toNode":"a108c1280080141a","toSide":"top"},
