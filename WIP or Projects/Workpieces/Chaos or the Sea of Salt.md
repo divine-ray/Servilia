@@ -3,7 +3,6 @@ tags:
   - Workpieces
   - Poetry
 ---
-# Act 1
 Chaos was the mother of the waters.
 	The waters of the sea are salt; chaos moves within them.
 		Nothing moves in nothing;
@@ -25,7 +24,7 @@ No field was formed, no marsh was to be seen;
 	The gods were none of them called into being;
 		None bore a name, no destinies were ordained;
 				Chaos she coiled and the seas were salt.
-# Act 2
+
 Then came the names of things. Then were born the gods.
 	Brightly burst in Heaven, writhing in the Earth,
 		Dank and cold and moving in the deeps below.
@@ -49,7 +48,6 @@ It was grievous and she spat up this stone.
 	Let none forget the words of the primal waters.
 		Let them be remembered, sacred be;
 			To those who forget them shall come worse things than salt:
-# Act 3
 Once, there was a maiden...
 	Who cared for the sacred stone.
 		She cleaned it, and polished it,
@@ -67,10 +65,4 @@ Everywhere was the noise of them
 
 
 
-
-
-
-
-
-
-<sub>Credit: Unknown. </sub>
+<sub>Credit: Jenna Moran: Lies of Iolithae Septiman/Remembrance of Tiamat. </sub>

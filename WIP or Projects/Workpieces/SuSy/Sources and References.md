@@ -10,6 +10,8 @@ https://www.sintef.no/globalassets/project/kortreist-stein/013-kortreist-stein-r
 https://ucpcdn.thyssenkrupp.com/_legacy/UCPthyssenkruppBAIS/assets.files/products___services/mineral_processing/crushers/backenbrecher_en_1.pdf
 - Jaw Crusher specifications sold from Thyssen-Krupp
 
+https://crushing-machine.com/crushing-equipment/from-rocks-to-gravel-a-comprehensive-guide-to-primary-secondary-and-tertiary-crushing/
+
 https://www.mclanahan.com/blog/what-type-of-crusher-is-best-for-primary-crushing
 https://crushing-machine.com/crushing-equipment/from-rocks-to-gravel-a-comprehensive-guide-to-primary-secondary-and-tertiary-crushing/
 

@@ -1,6 +1,7 @@
 {
   "pinned": [
     "file-explorer:move-file",
-    "app:delete-file"
+    "app:delete-file",
+    "zk-prefixer"
   ]
 }
