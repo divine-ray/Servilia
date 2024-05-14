@@ -6,4 +6,4 @@ Averages 100-500µm per run (very fine sand to silt).[^circuits]
 
 
 
-[^circuits]: Facilities for these arrange individual machines in series or loops in combination with separation machines to achieve these very fine particulates ([[Three-Stage Comminution.canvas|Three-Stage Comminution]])
+[^circuits]: Facilities for these arrange individual machines in series or loops in combination with separation machines to achieve these very fine particulates (refer to [[Three-Stage Comminution.canvas|Three-Stage Comminution]])
