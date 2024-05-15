@@ -8,7 +8,7 @@ Numerators were able to interact with the control of the [[SC-AM]] project and t
 Most of the heat produced is absorbed by purposed [[The Cold]] tissue to recuperate energy and not to devastate the environment like Rainworld.
 
 Modified Cold tissue has been tamed to form transport pathways throughout each Numerator structure; Strands and bundles of neurons, veins and other capillary paths facilitate most matter and information (including civilian) transport within each numerator.
-General population is aware of the rough task of the numerators but they don't really care other than for housing and [[Amidan Infrastructure and Utilities U.P.C.|utilities]]. 
+General population is aware of the rough task of the numerators but they don't really care other than for housing and [[Amidan Infrastructure & Utilities U.P.C.|utilities]]. 
 
 As each Numerator is sentient, they shifted and changed their structure to reflect and express themselves, which contributed to the erratic and organic looks of Amida as whole. 
 Each Sector/Numerator has grown and accustomed to a specific populace group or thematic scheme which correlates to their personality. 
