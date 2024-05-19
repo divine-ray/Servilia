@@ -1,6 +1,4 @@
 # #TODO #Structure  
-### [[References]] before i forget 
-
 # Sorted To-Do
 ## Chronology
 ### Timeless: 
@@ -36,11 +34,11 @@
 - [ ] [[Cyberware]] and stuff for biotech implants, third age
 - [ ] SICK Club
 - [ ] `[[Amida]]`
-	- [ ] Rough description of each sector, [[Like Obelisks, as far as another Realm]]
+	- [ ] Rough description of each [[Sector]],`[[Like Obelisks, as far as another Realm]]`
 	- [ ] History or rather how Amida rose from Thylyist, [[Talking 'bout a Revolution]]
 	- [ ] Amidan Infrastructure and Utilities U.P.C. (unlimited professional corp.)
 		state-owned infrastructure and utilities Corp., contracting workers, etc.
-		legal loophole that grants amida itself some degree of freedom from the other corps ruling
+		legal loophole that grants Amida itself some degree of freedom from the other corps ruling
 	- [ ] Amida has to be as horrible as possible to squeeze out the tiniest profit out of everything
 		- any building is minmaxxed to hell (and fucking collapses in a year),
 		- pre-crime picks off people for lobotomisation or biomass conversion years before,
