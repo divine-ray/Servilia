@@ -1,8 +1,8 @@
 ---
 tags:
   - Structure
-  - Faction
   - Overviews
+  - Faction
 ---
 ## [[Empire of Thylyist|Empire of Thylyist]]
 Former city-state, grown to the size of a empire. 
