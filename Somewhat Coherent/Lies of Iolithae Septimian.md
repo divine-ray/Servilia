@@ -1,5 +1,5 @@
 #Poetry 
-Hear the story of Iolithae Septimian.
+**Hear the story of Iolithae Septimian.**
 A temple stands up above the sea.
 	Its people fish up a stone. It is a stone of great age. On that stone are words.
  The words are lies. The man of the temple reads those words. His finger runs along the stone.
@@ -15,7 +15,7 @@ A temple stands up above the sea.
 				  These are the words of the stone:
 
 ---
-Before the name of Heaven, before the name of Earth,  
+**Before the name of Heaven, before the name of Earth,**  
 	Nothing moved in nothing.  
 		The waters of the sea were salt; chaos moved in them,  
 			Chaos was the mother of the waters.

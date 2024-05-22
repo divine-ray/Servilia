@@ -2,23 +2,12 @@
 K-Main sequence, habitable zone 0.1228 AU - 0.1771 AU
 @0.7 solar masses + 0.8× solar radius, 40'856 bil years old
 
-### [[Schi]]
-- 0.13AU earthlike ringed inhabited
-- [[Opar]]
-	- desolate rocky (moon)
-- [[Kynoly]]
-	- volcanic, heated, captured protoplanet
-- [[Heaugi]]
-	- icy, frozen, cold
+### ![[Schi]]
 ### ![[Sphill]]
 
-### [[Scheties]]
-- 11,23AU   gas dwarf 
-- [[Dirius]]
-	- rocky grey not cratered 
-- [[Degois]]
-- [[Darb]]
-~~-------~~
+### ![[Scheties]]
+
+---
 - 11 proto planets
 	Eldritch god put a fart cloud
 - 45 significant asteroids 
