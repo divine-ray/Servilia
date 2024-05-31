@@ -10,7 +10,7 @@ I swallowed that what once saw and once gifted light to another being.
 Now hastily, swallow the glass, to blind the seers inside. 
 No, this is safe, yes, this is suicide. 
 Haste now! They will see inside you, see yourself and your life in all its wrongdoings!
-It is too late, they know now. Be wary, someone but you knows your guilts and memories now.
+It is too late, they know now. Be wary, someone but you knows your guilt and memories now.
 
 `TEAR THEM OUT`
 `YOUR FLESH HAS BETRAYED YOU`
