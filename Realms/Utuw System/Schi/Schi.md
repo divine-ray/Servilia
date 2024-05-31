@@ -1,4 +1,4 @@
-A earthen like planet, outfitted with rings and three moons:
+A earthen like planet, outfitted with rings and [[Three Moons]]:
 - [[Heaugi]]
 - [[Opar]]
 - [[Kynoly]]

@@ -51,6 +51,5 @@ Assemble into a spire when approached, attacks when engaged.
 
 Usually located around Druid-influenced or otherwise nature magic places.
 Mossy variations or those overgrown with algae and seaweed exist around the [[Lunar Mangroves]]. 
-Mossy variations or those overgrown with algae and seaweed exist around the [[Lunar Mangroves]]. 
 
 > Respawns
