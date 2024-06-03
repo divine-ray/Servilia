@@ -1,7 +1,6 @@
 # Locations
 ## Towns and Cities
-- Greenhome: A two-storey stone-walled building which has been completely overgrown by flowering vines, with scale-like leaves and thorny, writhing branches. It is the home of Nina, a young green dragon sage.
-- The Earth Shrine: A wondrous monolith of precious stone, said to hold the ruby heart of a world. On every full moon, dew hued in the colour of that moon condenses on it. Local folks say it is crying. 
+- Greenhome: A two-storey stone-walled building which has been completely overgrown by flowering vines, with scale-like leaves and thorny, writhing branches. It is the home of Nina, a young green dragon sage. The Earth Shrine: A wondrous monolith of precious stone, said to hold the ruby heart of a world. On every full moon, dew hued in the colour of that moon condenses on it. Local folks say it is crying. 
 - The ruins of a seven-sided tower, which appears restored upon the night of the new moon.
 - The [[Gallows Tree]]: A long-dead ironwood tree, said to be haunted by the ghosts of the thieves and murderers which once hung from it.
 	THIS FOR THE TWO HANGMEN
