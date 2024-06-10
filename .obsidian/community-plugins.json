@@ -5,7 +5,6 @@
   "dataview",
   "obsidian-dice-roller",
   "editing-toolbar",
-  "fantasy-calendar",
   "granite",
   "obsidian-random-todo",
   "obsidian-leaflet-plugin",
@@ -17,5 +16,6 @@
   "readability-score",
   "persistent-graph",
   "supercharged-links-obsidian",
-  "obsidian-timelines"
+  "obsidian-timelines",
+  "calendarium"
 ]
