@@ -3,11 +3,8 @@
   "table-editor-obsidian",
   "aprils-automatic-timelines",
   "dataview",
-  "obsidian-dice-roller",
   "editing-toolbar",
-  "fantasy-calendar",
   "granite",
-  "obsidian-random-todo",
   "obsidian-leaflet-plugin",
   "obsidian-plugin-todo",
   "tag-wrangler",
@@ -17,5 +14,6 @@
   "readability-score",
   "persistent-graph",
   "supercharged-links-obsidian",
-  "obsidian-timelines"
+  "obsidian-timelines",
+  "calendarium"
 ]
