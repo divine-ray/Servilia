@@ -10,14 +10,21 @@ Deities that could possibly be the central pivot of a monotheistic religion; sti
 ## [[Charon]]
 
 ## [[Mekhane]]
-# this is the todo area
+## The [[Apocalyptic Quartet]]
+# Lesser
+# Local 
+# Isolated
+# this is the #TODO area
 
 - [ ] deity of time/fate, probably going with the three weavers of fate thread 
-	- [ ] the creator
+	- [ ] the spinster
 	- [ ] the weaver
-	- [ ] the terminator/ender
-- [ ] group of knowledge
+	- [ ] the unpicker 
+- [ ] coven of knowledge
 	- [ ] the one who reads
 	- [ ] the one who writes
-	- [ ] the one who archives/remembers/libraries
-- [ ] Mischief
+	- [ ] the one who remembers
+- [ ] Gray ones
+	- [ ] Trickster
+	- [ ] Thief
+	- [ ] Fraudster 

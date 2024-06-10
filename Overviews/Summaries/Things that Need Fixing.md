@@ -7,7 +7,7 @@ tags:
 ### TODO 3: TOKYO DRIFT 
 aka: big obstructions for readability towards «other people»
 ### CONTEXT
-- short overview of factions: [[Faction Overview]]
+- [x] short overview of factions: [[Faction Overview]]
 - [[Locations and You]]
 - good, summarising index of major actors
 	- I.e. politicians, military, religious leaders, economical officials, …  
