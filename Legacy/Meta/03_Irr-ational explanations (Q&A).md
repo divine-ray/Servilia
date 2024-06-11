@@ -1,10 +1,8 @@
-Irr-ational explanations (Q&A)
+---
+tags:
+  - Legacy
+---
 
-Friday, 29. April 2022
-
-10:28
-
- 
 
 **Q:** Why is it easier to use flying airships than to traverse the ground?
 

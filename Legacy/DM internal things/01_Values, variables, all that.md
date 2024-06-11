@@ -1,10 +1,7 @@
-Values, variables, all that
-
-Monday, 25. April 2022
-
-11:44
-
- 
+---
+tags:
+  - Legacy
+---
 
 ## Reputation: 
 

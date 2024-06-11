@@ -1,10 +1,8 @@
-Ash:
-
-Sunday, 29. May 2022
-
-16:37
-
- 
+---
+tags:
+  - Legacy
+  - Characters
+---
 
 <https://www.dndbeyond.com/characters/74765860/gYDFnv>
 
