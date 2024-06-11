@@ -1,6 +1,6 @@
 ---
 tags:
-  - Workpieces
+  - Workpiece
   - Poetry
 ---
 shadows woven into finest garbs, enshrouding whoever picks those up.

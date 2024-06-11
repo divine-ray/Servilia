@@ -1,7 +1,7 @@
 ---
 tags:
   - Areas
-  - locations
+  - Locations
 ---
 ## Overview
 This Mangrove forest is never seen during day. It is always obscured by a almost tangible fog during daytime, which clears at nightfall. 

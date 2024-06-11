@@ -1,4 +1,4 @@
-#Void #locations #Ruin 
+#Void #Locations #Ruin 
 
 This is the interdimensional drilling rig that leads to [[Twilit]] and eventually, the void.
 The borehole is [[The Abyss|physically accessible]]. 

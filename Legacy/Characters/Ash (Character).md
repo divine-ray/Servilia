@@ -1,7 +1,7 @@
 ---
 tags:
   - Legacy
-  - Characters
+  - Character
 ---
 
 <https://www.dndbeyond.com/characters/74765860/gYDFnv>

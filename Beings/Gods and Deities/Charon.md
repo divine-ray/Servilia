@@ -1,3 +1,8 @@
+---
+tags:
+  - Divine
+  - Character
+---
 There he stands, he who rules the dreary transit. 
 A sordid, wretched god: down from his hairy chin
 A length of beard descends, neglected, uncombed, unclean. 

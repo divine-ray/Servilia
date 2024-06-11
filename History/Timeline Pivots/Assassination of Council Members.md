@@ -1,3 +1,8 @@
+---
+tags:
+  - Thylyist
+  - Event
+---
 [[Council of Thylyist]] - Members might be assassinated... 
  
 

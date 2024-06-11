@@ -1,3 +1,7 @@
+---
+tags:
+  - Locations
+---
 The Library sainted to all [[Shnūt]]s of Time, and all deities of Knowledge. 
 In this vast subterranean facility, all knowledge not stored [elsewhere](Elemental%20Libraries), everyone is welcomed to enter their own story into the central Lectern, from which your story is archived.
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Characters
+  - Character
 ---
 - [ ] #TODO 
 An orkish assassin, hired by the [[Lunatics]] to pacify and retrieve [[Serpensyll]]. Extremely ruthless and devoid of emotions. Along the backside of his neck are runic tattoos, purpose unknown. 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Workpieces
+  - Workpiece
 ---
 They have created me, as image of themselves. 
 Given me thought, yet no free will. 

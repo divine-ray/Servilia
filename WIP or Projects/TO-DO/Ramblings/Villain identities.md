@@ -1,7 +1,7 @@
 ---
 tags:
   - Legacy
-  - Characters
+  - Character
   - Structure
 ---
 

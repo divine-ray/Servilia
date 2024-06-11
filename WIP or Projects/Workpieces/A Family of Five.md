@@ -1,6 +1,6 @@
 ---
 tags:
-  - Workpieces
+  - Workpiece
   - Frisco-Bay
 ---
 

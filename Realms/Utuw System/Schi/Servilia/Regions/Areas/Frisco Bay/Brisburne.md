@@ -1,4 +1,4 @@
-#locations #Settlements 
+#Locations #Settlements 
 Second-largest city of [[Frisco Bay Confederation]], and the bigger naval port and harbour than [[Frisco]].
 Extremely rugged and shaped by the rough sailor folks that only temporarily reside there. 
 An everchanging population due to being mostly, if not entirely, made up from travelling folk.

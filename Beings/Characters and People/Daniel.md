@@ -1,4 +1,4 @@
-#Characters
+#Character
 Formerly a barkeep in both [[Empire of Thylyist]] and [[Frisco]], he left these cities behind to seek out his own goals; to take to the sky in trying to be a better man. 
 Some would describe him as eccentric, but wholehearted. His exposure to many, many drunkards clearly shaped him, and he wishes to make up for what he (indirectly) brought to these people. 
 When he left Thylyist he sold all his other possessions to get hold on a wreck of a airship, which he meticulously repaired into his flying home. 

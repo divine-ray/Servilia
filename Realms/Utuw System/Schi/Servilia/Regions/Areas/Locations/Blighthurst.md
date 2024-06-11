@@ -1,3 +1,8 @@
+---
+tags:
+  - Frisco-Bay
+  - Locations
+---
 Former mining town, located around the border of the [[Frisco Bay Confederation|Bay Confederation]], supplying a mineral bearing iron oxide, copper and, most importantly, gold. 
 The deposit tapped is an extension of the [[Searing Lode]], which makes up for tiny traces of uranium.
 As the tunnelling extended, the concentration of uranium increased, to a point where many of the miners reported an invisible sickness caused from those in the deeper and further layers. 

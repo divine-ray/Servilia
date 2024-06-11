@@ -1,4 +1,4 @@
-#Characters #Void 
+#Character #Void 
 
 A [[The Void|voidborne]] vessel, solely made from nothing.  Despite this, it bears impurities that allow it to bear a free will and shape its appearance at any time.
 Resides in the [[Northern Reaches]] in the shape of a Snow Leopard, as the Ninth Forest as its Swale experienced drastic changes in the aftermath of Amida's construction.

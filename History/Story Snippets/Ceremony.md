@@ -1,3 +1,9 @@
+---
+tags:
+  - Story-Fragment
+  - Thylyist
+  - Workpiece
+---
 A formation of figures strides in the serpentine catacombs of Thylyist, heading towards their destination at a determined, steady pace. 
 With respectful distance, a small squadron of guards follows, keeping pace. 
 They are headed towards the [[Archive of Old]]. 

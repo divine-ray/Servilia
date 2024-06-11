@@ -1,4 +1,4 @@
-#Settlements #locations #Travel 
+#Settlements #Locations #Travel 
 ## Airport and Scientific Nexus in the [[Frisco Bay]]
 
 

@@ -3,7 +3,7 @@ aliases:
   - Tombstone
   - Lost City
 tags:
-  - locations
+  - Locations
   - ruin
 ---
 # During [[The First Era]]:

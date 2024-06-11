@@ -1,4 +1,4 @@
-#Amida #Characters 
+#Amida #Character 
 Take your ordinary goth girl, combine them with a kinky bi babe, and…
 Well, that isn't Evelyn, really.
 She changed and still changes between a many of extremes, the above being just the usual. Yes, the implication is obvious, she is hiding many things from others.
