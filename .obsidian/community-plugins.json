@@ -5,15 +5,14 @@
   "dataview",
   "editing-toolbar",
   "granite",
-  "obsidian-leaflet-plugin",
   "obsidian-plugin-todo",
-  "tag-wrangler",
-  "obsidian-tagfolder",
   "obsidian-version-history-diff",
   "notes-dater",
   "readability-score",
   "persistent-graph",
   "supercharged-links-obsidian",
   "obsidian-timelines",
-  "calendarium"
+  "calendarium",
+  "tag-wrangler",
+  "obsidian-tagfolder"
 ]
