@@ -1,4 +1,4 @@
-#QUEST 
+#Quest 
 **Main objective: Supply the [[Crimson Heart]] with suitable Sacrifices.**
 
  

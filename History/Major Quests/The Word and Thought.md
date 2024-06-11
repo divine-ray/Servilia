@@ -1,4 +1,4 @@
- #QUEST 
+ #Quest 
 
 **Main objective: Retrieve (and optionally use) the [[Seed of Thought]].**
 

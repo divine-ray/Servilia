@@ -1,4 +1,4 @@
-#QUEST 
+#Quest 
 
 ### Detailed Description:
 Play off [[Children of The Flame]] against the [[Ghiaccia Conclave]], and cause the downfall of both parties.

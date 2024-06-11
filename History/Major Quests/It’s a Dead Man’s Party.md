@@ -1,4 +1,4 @@
-#QUEST 
+#Quest 
  
 Enter the Necropolis [[Sepulchre]] and get to know the undying. 
 It might be possible to get informed about the Frisco Bay Confederation if the party is not aware yet. 

@@ -1,4 +1,4 @@
-#QUEST #Undead 
+#Quest #Undead 
 
 **Main objective: Discover the [[Sepulchre|Necropolis]].**
 >Discover the [[Two Hangmen]] hanged by a tree on top of a hill close-by to [[Lost City of the Ninth Forest|a devastated city]].

@@ -7,8 +7,8 @@ Once built as siphon to channel more energies from the Twilit into the material 
 And now that the [[The Lavish Empire]] aren't here to maintain the catalyst of the Fountainhead, the whole [[Between]] creatures (and -energies) come crawling through the wastes, corrupting the landscape and it's residents. 
 
 
-> #QUEST: retrieve the Catalyst from ??? And repair the Fountainhead
-> #QUEST : Destroy and seal the Fountainhead
+> #Quest: retrieve the Catalyst from ??? And repair the Fountainhead
+> #Quest : Destroy and seal the Fountainhead
 
 The Wastes around the FH have become [[Chunk of Gliss|Gliss]], a substance with close to zero physical properties, thus, no colour or friction
 
