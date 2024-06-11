@@ -1,4 +1,4 @@
-#Structure #QUEST #Overviews 
+#Structure #Quest #Overview 
 # Greater 
 ## Great Amnesty
 1. Close/Repair the [[Fountainhead]]

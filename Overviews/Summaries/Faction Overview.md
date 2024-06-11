@@ -1,7 +1,7 @@
 ---
 tags:
   - Structure
-  - Overviews
+  - Overview
   - Faction
 ---
 ## [[Empire of Thylyist|Empire of Thylyist]]

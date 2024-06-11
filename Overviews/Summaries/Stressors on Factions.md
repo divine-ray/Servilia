@@ -1,4 +1,4 @@
-#Structure #Overviews 
+#Structure #Overview 
 This page aims to describe current issues that are inflicting trouble on the various factions and religions. 
 # [[Empire of Thylyist]]
 ## Population
