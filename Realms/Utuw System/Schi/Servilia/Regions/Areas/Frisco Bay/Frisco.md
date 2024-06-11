@@ -12,6 +12,6 @@ Sailing ships still reign supreme in their naval trades over at [[Brisburne]] Ha
 They possess a unfinished [[Argrosy]] station, and are only half-aware of it. Some spelunkers and excavation teams have repeatedly ran into it, but left it untouched, unknowing what it is. 
 
 ### Notable Locations
- The Dragon Pottery: The workshop of a female dwarf potter named Gela, built within a large dragon kiln. Gela spends several months filling the shop with thrown pots, then bricks in the door and spends several days firing it. The opening of the fired kiln is a local festival
+ The Dragon Pottery: The workshop of a female-aligned dwarv potter named Gela, built within a large dragon kiln. Gela spends several months filling the shop with thrown pots, then bricks in the door and spends several days firing it. The opening of the fired kiln is a local festival.
 
 [^1]: Individuals that didn't meet the Curse yet.
