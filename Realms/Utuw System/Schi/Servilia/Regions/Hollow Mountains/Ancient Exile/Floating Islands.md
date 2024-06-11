@@ -1,4 +1,4 @@
-#Areas 
+#Area 
 Remnants of the Betrayal, overgrown and renatured shrapnel and rubble, coagulated by earthen spirits. Suspended by gatherings of aer (air) spirits, who create massive updraft winds to keep their homes adrift.
 Possibly the first manifestation of [[Terrain Shattered]] by the distress of the Twilit.
 

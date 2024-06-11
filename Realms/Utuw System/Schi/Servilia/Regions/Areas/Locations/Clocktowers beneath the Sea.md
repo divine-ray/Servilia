@@ -1,3 +1,8 @@
+---
+tags:
+  - Location
+  - Ruin
+---
 What now is known as the [[Isle of Tankar]] was once the peak of a mountain long forgotten, from eras far away, before land has reared its body. 
 The first Mekhanites, the first ones to shape mass into design using power. Gears and springs, refined to perfection, made to endure, dragging their shambling remains into the present. 
 

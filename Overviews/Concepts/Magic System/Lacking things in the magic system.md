@@ -1,3 +1,9 @@
+---
+tags:
+  - TODO
+  - Magic-System
+  - Twilit
+---
 - [ ] where does it actually come from? ([[Amarisk]])
 - [ ] procedures for the implants, description
 - [ ] function and role of gauntlets Vs staves/wands

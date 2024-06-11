@@ -1,3 +1,8 @@
+---
+tags:
+  - Location
+  - Lunatics
+---
 Three arches, forming a triangle. 
 One from dark basalt, hot to the touch.
 One from blueish ice, frozen forever.

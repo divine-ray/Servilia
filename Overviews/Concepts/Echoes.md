@@ -1,3 +1,9 @@
+---
+tags:
+  - Concept
+  - Magic-System
+  - Twilit
+---
 The [[Twilit]], as collective conscious/noosphere, truly memorises everything it ever witnessed.
 Physical manifestations of trauma and extreme emotions such as grief, anger and remorse may manifest in so-called echoes, which are occasionally visible in case of severe traumata. 
 These Echoes typically appear to the common eye as gloomy, spherical objects, shining brightly and erratically. 

@@ -1,4 +1,4 @@
- #Locations 
+ #Location 
 The main stockpile of the Thylyian Military and Sentinels.
 
 You should be really carefully here, they don't want anyone to see or know about this!

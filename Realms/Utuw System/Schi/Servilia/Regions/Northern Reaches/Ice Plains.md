@@ -1,3 +1,8 @@
+---
+tags:
+  - Area
+  - Northern-Reaches
+---
 The stretch where [[Heart of Cold]]  is situated.
 
 Nothing but blinding, glaring white in sight. 

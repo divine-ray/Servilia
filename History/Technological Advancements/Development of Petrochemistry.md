@@ -1,3 +1,8 @@
+---
+tags:
+  - History
+  - Frisco-Bay
+---
 "It had to happen sometime"
 
 crude oil deposits are mostly found around the long savannah and somewhere in the proximity of the atoll islands in the astral ocean, the latter to remain untouched for ages since the realisation of offshore oil deposits being far away.

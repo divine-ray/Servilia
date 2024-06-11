@@ -1,3 +1,8 @@
+---
+tags:
+  - Character
+  - Frisco-Bay
+---
 A necromancer, who has a acquired taste and incline towards felines. 
 She governs smaller squadrons of [undead cats](Undead%20Cat.md) for her elusive and mischievous plans. Notably, those include intelligence and spying activities, which yield her a sizable knowledge of both international political diplomacy and a poor man's troubles. 
 

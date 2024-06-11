@@ -1,3 +1,8 @@
+---
+tags:
+  - Item
+  - Magic-System
+---
 The brand of the [[Voidfish]], slowly carving out the unfortunate body it has been placed upon. 
 It oozes, which seems to attempt to lash onto anything it grabs. 
 The ooze, black as night, darker than anything. 

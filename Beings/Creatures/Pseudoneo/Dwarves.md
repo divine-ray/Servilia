@@ -1,3 +1,8 @@
+---
+tags:
+  - Pseudoneo
+  - Creature
+---
 *Singular: Dwarv*
 [[Pseudoneo]] created by the [[Lavish]] to exploit the back-then newly arisen [[Hollow Mountains]] for resources. 
 

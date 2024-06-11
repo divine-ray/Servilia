@@ -1,3 +1,7 @@
+---
+tags:
+  - Workpiece
+---
 
 There is only one way to get out of Compton with your life. One must follow these instructions if they wish to exit.
 

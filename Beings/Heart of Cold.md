@@ -1,4 +1,4 @@
-#The-Cold #Heart-of-Cold #Locations 
+#The-Cold #Heart-of-Cold #Location 
 
 Central, vaguely heart-shaped organ of [[The Cold]].
 If you're insane, this is the best place to steal tissue from the Cold for creating instances of [[Premature Heart of Cold]].

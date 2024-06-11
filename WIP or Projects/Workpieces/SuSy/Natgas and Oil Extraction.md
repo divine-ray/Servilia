@@ -1,3 +1,7 @@
+---
+tags:
+  - SuSy
+---
 Natural Gas and Crude Oil 
 ---
 Oil/Gas Wells experience three phases in their life, each of which tied to the remaining petroleum in the deposit. 

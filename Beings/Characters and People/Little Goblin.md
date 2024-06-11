@@ -1,3 +1,7 @@
+---
+tags:
+  - Character
+---
 A poor, poverty-suffering goblin, rejected by his family due to his disability to perform anything to their benefit. Thus, he embarked on a journey that lasted him his entire childhood and adolescence, during which he only fought combat with himself and his belief of not sufficing. 
 This rock-solid determination led to him unconsciously gaining access to the twilight and it's limitless potential, now changing and warping the world around him for the better. 
 During his end- and relentless wandering, he eventually got confined into the [[Ancient Exile]], where he'd settle in Arno after witnessing [[Londo|the Fall]]. 

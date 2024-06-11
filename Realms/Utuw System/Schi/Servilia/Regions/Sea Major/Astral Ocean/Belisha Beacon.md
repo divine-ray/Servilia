@@ -1,6 +1,6 @@
 ---
 tags:
-  - Locations
+  - Location
   - Lavish
 ---
 A beacon and lighthouse, built atop one of the many [[scattered islands]] of Servilia. It's original architects are speculated to be Lavish workforces, but results of analysis opens speculations for it to be older than the First Era. 

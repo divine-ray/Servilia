@@ -1,3 +1,10 @@
+---
+tags:
+  - Mekhanites
+  - Written-Text
+  - Culture
+  - Religion
+---
 Through conception and planning; ideas refined, polished till perfection.
 In [[Mekhane|His]] Image we plan, construct, assemble. 
 Our [[Blessed Machine]] guides the way through [[Providence]] to [[Ascension]]. 

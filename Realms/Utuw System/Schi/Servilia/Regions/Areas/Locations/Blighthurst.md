@@ -1,7 +1,7 @@
 ---
 tags:
   - Frisco-Bay
-  - Locations
+  - Location
 ---
 Former mining town, located around the border of the [[Frisco Bay Confederation|Bay Confederation]], supplying a mineral bearing iron oxide, copper and, most importantly, gold. 
 The deposit tapped is an extension of the [[Searing Lode]], which makes up for tiny traces of uranium.

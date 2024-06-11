@@ -1,3 +1,8 @@
+---
+tags:
+  - Magic-System
+  - Concept
+---
 *(name pending, subject to change)*
 
 As [[Amarisk]] [accumulates and amasses itself](Amarisk%20Emission) (due not being consumed or decaying), it builds up until the mass collapses into itself.

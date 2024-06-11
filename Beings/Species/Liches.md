@@ -1,3 +1,9 @@
+---
+tags:
+  - Concept
+  - Creature
+  - Magic-System
+---
 *Not to be confused with a [[Corse]], the animate remains of a Deity.*
 Before [[How Dying ceased|Dying ceased]], Arch-mages and other arcane-affiliated people which wanted to live forever sacrificed their humanity and personality, turning their body into a husk that thrives on sacrificed Amarisk. 
 This practice was frowned and looked-down upon by the majority of other arcane folk, but those that survived the procedure were usually accepted (and respected for their survival). 

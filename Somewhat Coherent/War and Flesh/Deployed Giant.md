@@ -1,3 +1,10 @@
+---
+tags:
+  - Story-Fragment
+  - Thylyist
+  - Mekhanites
+  - History
+---
 Gunfire ringing in my ear, bullets hailing from above.
 The whistling, ear-shattering noise, then the impact.
 Everyone scuttles about, as if someone prodded a stick into an anthill, looking for bodies to recover.

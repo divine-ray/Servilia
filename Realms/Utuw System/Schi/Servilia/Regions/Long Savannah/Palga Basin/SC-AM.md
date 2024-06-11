@@ -1,4 +1,4 @@
-#Locations #Lavish 
+#Location #Lavish 
 
 ***S***uper-***c***ollider ***A***nti-***m***atter power project
 Lavish-built super-collider with four major cylindrical towers for stabilisation

@@ -1,3 +1,8 @@
+---
+tags:
+  - Ruin
+  - Location
+---
 Ruins, where once the [[First Light]] was kept lit. 
 Now desolate, left neglected by those who once entitled themselves to keep it. 
 Somewhere in the highlands, along nothing but rubble and dust. 

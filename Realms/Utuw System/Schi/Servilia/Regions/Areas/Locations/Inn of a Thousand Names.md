@@ -1,3 +1,7 @@
+---
+tags:
+  - Location
+---
 An elegant dwarven inn, which is said to have a thousand doors in a thousand towns, each under a different sign and name. Anyone who enters through a particular door can only leave through that same door, unless they know the [[innkeeper]]'s secret.
 Each house shares some similarities with the other houses, but not enough to differ from the local architecture and culture. Almost like secret codices allow for easy spotting of these inns and taverns. 
 

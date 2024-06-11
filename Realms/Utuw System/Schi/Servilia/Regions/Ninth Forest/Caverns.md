@@ -1,4 +1,4 @@
-#Areas 
+#Area 
 Imagine a sprawling deep underground network of small, room sized cavities. Some of them are barren, raw rock and devoid of all life, whereas other as are filled with moss, luminescent fungi, and other exotic specialist life forms that exist underground, Occasionally, these cavities even bear a range of valuable fancy minerals and rocks.
 
 It's certain that these caves have formerly been inhabited by at least one intelligent species, as we found rotten wood struts, leftovers of fibre and metal scraps.

@@ -1,3 +1,7 @@
+---
+tags:
+  - Celestial-Object
+---
 Moon of [[Schi]].
 high volcanic activity and hot, presumably a captured protoplanet.
 

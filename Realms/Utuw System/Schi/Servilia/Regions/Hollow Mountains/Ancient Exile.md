@@ -2,7 +2,7 @@
 aliases:
   - Exile
 ---
-#Ancients #Areas 
+#Ancients #Area 
 
 Area where transcended humanoids reside after getting contained by the [[Fountainhead]] through [[The Lavish Empire]]. 
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - Area
+  - Ninth-Forest
+---
 A wide-spanning forest ecosystem, including rain-forest but also temperate towards Mediterranean plant life.
 
 Central to it is the [[Green Swale of Seven Spires]].

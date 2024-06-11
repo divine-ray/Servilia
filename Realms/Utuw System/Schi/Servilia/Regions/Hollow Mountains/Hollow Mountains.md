@@ -1,3 +1,8 @@
+---
+tags:
+  - Area
+  - Hollow-Mountains
+---
 
 The Lavish collaborated with the Council of Thylyist and constructed the [[Fountainhead]] to siphon the Twilit to raise these mountains, primarily to encase the remnants of the [[Nølkā]]. 
 Secondarily, the terraforming has been used to raise the corners of the [[Palga Basin]] to provide more space to the thriving [[The Lavish Empire|Lavish Empire]].

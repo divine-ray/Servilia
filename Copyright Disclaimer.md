@@ -1,3 +1,8 @@
+---
+tags:
+  - Overview
+  - Structure
+---
 The [[Nølkā]] and [[Followers of Mekhane|Mekhanites]] are inspired, and mostly based off, the SCP Wiki Community. 
 For the present moment^[(12.03.2024)], the [[Oneiroi Collective]] is also named after the SCP Wiki Group Of Interest. 
 [Link to the Church of the Broken God-Hub](https://scp-wiki.wikidot.com/church-of-the-broken-god-hub) and [Likewise for Sarkicism/Nälkä.](https://scp-wiki.wikidot.com/sarkicism-hub)

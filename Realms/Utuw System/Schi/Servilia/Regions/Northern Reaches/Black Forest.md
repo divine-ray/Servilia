@@ -1,4 +1,4 @@
-#Areas 
+#Area 
 The colony of what little remains from the decimated plant life that once resided on the [[Northern Reaches]].
 
 This forest is settled around the feet of the [[Alp Peaks]]. Mainly consisting of needle trees, and being entangled with many (partly subterranean) rivers causes a high occurrence of deadwood and therefore drive a flourishing ecosphere of the extreme, for those that accustomed to the weather and cold.

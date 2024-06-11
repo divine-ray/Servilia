@@ -1,3 +1,8 @@
+---
+tags:
+  - Location
+  - Ruin
+---
 A place where magicians and mechanists alike dumps their unused or misshaped creations.
 **Location:**
 

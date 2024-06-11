@@ -1,6 +1,6 @@
 ---
 tags:
-  - Locations
+  - Location
   - Lavish
   - Ruin
 ---

@@ -3,8 +3,8 @@ aliases:
   - Tombstone
   - Lost City
 tags:
-  - Locations
-  - ruin
+  - Location
+  - Ruin
 ---
 # During [[The First Era]]:
 A flourishing and thriving city, dedicated towards research and trade. 

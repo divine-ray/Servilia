@@ -1,3 +1,9 @@
+---
+tags:
+  - Faction
+  - Realm
+  - Beyond
+---
 ## Overview
 Elemental plane of Darkness, under the reign of Her Majesty, the [[Queen of Shadows]].
 Part to the Darkness domain, and thus neighbouring and fading into the [[The Void]] and [[Eternal Sea]]. 
