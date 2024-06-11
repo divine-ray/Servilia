@@ -6,7 +6,7 @@ tags:
 ---
 ### Overview
 A slightly oversized and overdone Worldbuilding project, single-handed-ly done by me. 
-Originally designed as D&D(ish) + Home-brew setting, has expanded out and beyond that ever since. Currently ^[(11.06.24)] in the process of removing D&D-related structures. 
+Originally designed as D&D™(ish) + Home-brew setting, has expanded out and beyond that ever since. Currently ^[(11.06.24)] in the process of removing D&D™-related structures. 
 There's little understandable or coherent, linked story going on, since my interests are more in the entire overarching environment and such. But you'll find some texts that are from the point of view of a individual, who might become a persistent character. Who knows.[^1]
 Please read what we put [[Towards the Reader]].  
 ### Themes
@@ -34,7 +34,7 @@ Start here:
 * Lifeforms and species are described in [[Species of Servilia]]. 
 * The files in the WIP or Projects/Workpieces directory are mostly texts sourced from sudden inspiration, and those are the most coherent in terms of action. 
 * [[Regarding the Planets and Star]] explains the current state of the solar system. 
-* Starting Today the #First-Reading tag shall be 
+* Starting Today the #First-Reading tag shall be made. 
 ### Timeline
 A coherent story/timeline is yet to come. 
 However, the History of Servilia (The name of this continent) can roughly be divided into "The Past", "The Present" and "The Future".
