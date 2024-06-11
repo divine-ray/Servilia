@@ -1,7 +1,7 @@
 ---
 tags:
   - History
-  - Events
+  - Event
 fc-date: 04-22-1287
 aat-render-enabled: true
 timelines:

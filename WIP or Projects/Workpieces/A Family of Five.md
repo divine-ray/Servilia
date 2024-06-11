@@ -1,3 +1,9 @@
+---
+tags:
+  - Workpieces
+  - Frisco-Bay
+---
+
 Child, Child, Grandmother, Grandfather, Father (Mother† after second birth). 
 Of Thylyian descent, now residing in a single house in [[Duley and Port]]. 
 Low income, threatened by poverty. 

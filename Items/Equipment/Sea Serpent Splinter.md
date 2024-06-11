@@ -1,4 +1,4 @@
-#equipment #elemental 
+#equipment #Elemental 
 ### **Armor: Splint**
 
 This fragment of the Avonian [[Tides of Avon|sea serpent]] may be mounted on or in a armour piece that spans the torso. 

@@ -1,4 +1,4 @@
-#enemies #elemental
+#enemies #Elemental
 
 Tormented fire elementals, corrupted by the pained twilight and sweeps of void.
 
