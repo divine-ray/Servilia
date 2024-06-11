@@ -117,5 +117,11 @@ they
 died
 curled in anguish i weep 
 to remember,  this tragic individual 
+***
+
+> [!tldr] Summary
+> Through a coordinated operation sometime during the [[War]] the majority of [[Varuú]]in [[lost]]
+
+
 
 
