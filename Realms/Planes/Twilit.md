@@ -1,3 +1,9 @@
+---
+tags:
+  - Concept
+  - Realm
+  - Twilit
+---
 Manifestation of [[Amarisk]], coagulation of thought, condensed cognition. Source of energies and potential to mages and spellcasters through deliberate actions.
 Occasionally manifests [[Echoes]] and other supernatural phenomena, oftentimes scaping or rearranging a local landscape.  
 It is never directly seen, but its effects are always noticeable on the material plane. 

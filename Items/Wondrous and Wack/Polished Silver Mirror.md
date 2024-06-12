@@ -1,3 +1,9 @@
+---
+tags:
+  - Item
+  - Artifact
+  - Magical
+---
 
 *Starting item for those with a familiar.*
 

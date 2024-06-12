@@ -1,3 +1,8 @@
+---
+tags:
+  - Diffused-Light
+  - Character
+---
 The machine, a killer. 
 Death reincarnated as machine. 
 Engineered to perfection. 

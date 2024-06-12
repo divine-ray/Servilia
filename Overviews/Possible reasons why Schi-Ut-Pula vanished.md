@@ -1,3 +1,9 @@
+---
+tags:
+  - Overview
+  - Workpiece
+  - TODO
+---
 - Depressed through:
 	- destruction through war at the hands of mankind
 	- family stress and drama, unknown

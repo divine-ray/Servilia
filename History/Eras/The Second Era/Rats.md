@@ -1,3 +1,7 @@
+---
+tags:
+  - Story-Fragment
+---
 Oh, the human has opened the [door](Tunnels.md). 
 The human has seen us. Seen our remains. 
 We take the chance, show who we are.

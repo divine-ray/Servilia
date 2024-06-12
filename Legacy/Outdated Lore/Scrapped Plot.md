@@ -1,3 +1,7 @@
+---
+tags:
+  - Legacy
+---
 
 The party starts out with the thylyian doctrine "magic = bad."
 

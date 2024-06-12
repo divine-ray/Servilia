@@ -1,3 +1,8 @@
+---
+tags:
+  - Story-Fragment
+  - Workpiece
+---
 A [[machine]], made to [[Deployed Giant|vanquish]] the indomitable human spirit.
 A [[red plague|monster]], birthed to usurp all there is. 
 Two unstoppable forces, made to face another, fighting for resolution of their quest.

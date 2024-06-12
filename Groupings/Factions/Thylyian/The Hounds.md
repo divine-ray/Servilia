@@ -1,3 +1,8 @@
+---
+tags:
+  - Thylyist
+  - Faction
+---
 >I can almost hear the hounds
 >What kind of man built a machine, to kill a girl,
 >He must not have used his hand, but a tool

@@ -1,3 +1,8 @@
+---
+tags:
+  - Concept
+  - Overview
+---
 
 You/The Player may choose from one of the following to cheat death, however, it comes with severe drawbacks. 
 -   [[Curse of the Undead]]
@@ -15,9 +20,9 @@ You/The Player may choose from one of the following to cheat death, however, it 
 -   Spirit-induced Animation
 	%%Closely related to a golem, these beings consist of anorganic, motive and cognizant mass, coordinated by possessing spirits.%%
 - Construct
-	%%A sophisticated construct with high degrees of freedom, which is forced to complete some task during the campaign.%% 
+	%%A sophisticated autonomous construct with high degrees of freedom, which is forced to complete some task during the campaign.%% 
 
-- Frozen/Cold Husk
+- Frozen/[[The Cold|Cold]] Husk
 	%%Frozen/Cold Husk as a entity that has obtainend some degree of autonomy from a Heart of Cold. %%
 ***
 

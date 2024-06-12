@@ -1,3 +1,9 @@
+---
+tags:
+  - Poetry
+  - Children-of-the-Flame
+  - The-Cold
+---
 To the [displaced north](Northern%20Reaches)
 [a heart](Heart%20of%20Cold) lies.
 Frozen and cold

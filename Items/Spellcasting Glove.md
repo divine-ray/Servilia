@@ -1,1 +1,6 @@
-This glove, made from leather, is capable of articulating the Amarisk and Twilit flowing through the Caster
+---
+tags:
+  - Item
+  - Magical
+---
+This glove, made from leather, is capable of articulating the Amarisk and Twilit flowing through the Caster.

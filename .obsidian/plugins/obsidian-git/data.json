@@ -27,8 +27,6 @@
   "submoduleRecurseCheckout": false,
   "gitDir": "",
   "showFileMenu": true,
-  "authorInHistoryView": "hide",
-  "dateInHistoryView": false,
   "lineAuthor": {
     "show": false,
     "followMovement": "inactive",
@@ -54,5 +52,7 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
+  "authorInHistoryView": "hide",
+  "dateInHistoryView": false,
   "autoCommitMessage": "vault backup: {{date}}"
 }

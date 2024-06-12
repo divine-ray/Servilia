@@ -1,3 +1,8 @@
+---
+tags:
+  - Concept
+  - Twilit
+---
 A [tear](Riftstones) in space-time, filled with stars and memories of what [was, is and will be](Twilit). 
 Dark ooze drips from it, like blood from a wound which didn't heal.
 Reaching into it makes you shiver, your hand and arm immersed in a conflicting, searing cold. 

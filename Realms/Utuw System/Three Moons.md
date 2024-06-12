@@ -1,3 +1,9 @@
+---
+tags:
+  - Celestial-Object
+  - Poetry
+  - First-Reading
+---
 Three Children burdened upon their Mother, 
 [One](Kynoly) to be firey and filled with wrath and hatred, 
 [One](Heaugi) to be left alone, forgotten and left to drown in tears,

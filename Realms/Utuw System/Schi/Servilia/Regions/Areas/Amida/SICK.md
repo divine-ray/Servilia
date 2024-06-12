@@ -1,3 +1,8 @@
+---
+tags:
+  - Amida
+  - Location
+---
 %%SICK Illusions and Club Kink?%%
 %%Sinister Oasis of Kinky Delights?%%
 %%Sinful Indulgence Club & Kink%%

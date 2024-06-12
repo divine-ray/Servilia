@@ -1,3 +1,8 @@
+---
+tags:
+  - Workpiece
+  - Location
+---
  We are here because you are not.
  Wait, how are you reading this if you cant be here?
  Here at the end of time we are, and we don’t really know why.

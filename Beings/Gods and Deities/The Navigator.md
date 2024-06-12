@@ -1,3 +1,7 @@
+---
+tags:
+  - Divine
+---
 Disembodied [[Shnūt]], manifested concept of navigation using stellar constellations. 
 Usually benevolent towards travellers, aiding their voyages. adored by many (past) civilisations as deity of travel.
 Typically falsely associated with starlight itself, through which it is forced to meet the [[Queen of Shadows]]. 

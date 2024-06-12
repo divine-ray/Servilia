@@ -1,3 +1,8 @@
+---
+tags:
+  - Creature
+  - Pseudoneo
+---
 [[Pseudoneo]] originally created as representative entity for someone who couldn’t attend that situation.
 Average in appearance, humanoid with a pale grey skin tone. 
 Given a moderate intellect and animated by electricity. 

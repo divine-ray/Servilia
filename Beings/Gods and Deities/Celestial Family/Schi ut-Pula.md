@@ -1,3 +1,7 @@
+---
+tags:
+  - Divine
+---
 Blatant self insert.
 
 Depressive deity that made the world, but sold it to some unrelated entity.

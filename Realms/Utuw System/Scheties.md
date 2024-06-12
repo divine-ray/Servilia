@@ -1,3 +1,7 @@
+---
+tags:
+  - Celestial-Object
+---
 Gas Dwarf. 11,23AU away from Utuw. 11,23AU away from Utuw. 
 three major moons:
 - [[Dirius]]

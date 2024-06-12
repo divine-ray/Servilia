@@ -1,3 +1,7 @@
+---
+tags:
+  - Location
+---
 In an abandoned mining town, half buried by sand and dust, a lone theatre stands, untouched by the tooth of time and scavengers.
 Built tall but wooden atop a solid stone foundation it seems to invite the lone traveller seeking shelter from the relentless conditions of sandstorms and searing Utuw. 
 

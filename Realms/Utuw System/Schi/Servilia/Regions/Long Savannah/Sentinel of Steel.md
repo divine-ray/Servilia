@@ -1,3 +1,7 @@
+---
+tags:
+  - Location
+---
 As if a corpse was poorly buried, with its partly rotten partly torn off limbs and skin shown in unsightly ways and pose. 
 Stagnant, yet suspended and dormant it lies there. 
 Partially aware, partially deceased. 

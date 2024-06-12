@@ -1,3 +1,9 @@
+---
+tags:
+  - Concept
+  - Overview
+  - Undead
+---
 Each soul is only a visitor from [[A Realm Beyond]], only tied into the mortal shell.
 Souls without any coherence and such enter a state of degenerate matter, known as [[Amarisk]] or [[Spirits]]. Exposure to too much entropy and chaos can deteriorate souls, deform them until they cannot reside in a physical body anymore, but need special procedures ([[Birth of Energy]]) to be materialised. 
 

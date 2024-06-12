@@ -1,3 +1,8 @@
+---
+tags:
+  - Davern
+  - Workpiece
+---
 Buried asunder lie [[The Old King]]s fleshy remains. 
 Stripped off his bones, they remain chained to the throne. 
 Left conscious, aware, missing their significant others parts, yet dreaming, yawning.

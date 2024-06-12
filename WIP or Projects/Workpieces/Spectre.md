@@ -1,3 +1,7 @@
+---
+tags:
+  - Workpiece
+---
 A malicious spectre haunting a true good (but destined to be evil/dark) character, eventually and gradually destroying their body.
 
 Said character is getting furious and devotes self to a religion in search for a remedy, in ignorance of them getting a free salvation from the mortal coil (and all the woes that it entails).

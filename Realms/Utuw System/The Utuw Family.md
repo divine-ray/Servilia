@@ -1,3 +1,9 @@
+---
+tags:
+  - Celestial-Object
+  - Overview
+  - First-Reading
+---
 #### [[Utuw]]
 K-Main sequence, habitable zone 0.1228 AU - 0.1771 AU
 @0.7 solar masses + 0.8× solar radius, 40'856 bil years old

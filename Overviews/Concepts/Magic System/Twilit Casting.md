@@ -1,3 +1,9 @@
+---
+tags:
+  - Magic-System
+  - Twilit
+  - Concept
+---
 This article is about the standardised ways and procedures of casting twilit, the magical force ever-present on the lands of Schi.
 The Twilit and Amarisk are ever-present, and oftentimes manifest themselves spontaneously in various phenomenon of a broad range. 
 Utilising Twilit by a sentient being requires quite some preparation and alteration to one’s body and soul, which makes for a high entry requirement. This keeps most, if not all, common folk away from weaving twilit, as few are willing to dedicate their entire life towards the ways of the weave. 

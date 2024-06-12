@@ -1,3 +1,7 @@
+---
+tags:
+  - Story-Fragment
+---
 The screams of people [below it](Fall), the sound of buildings cracking and collapsing, music to [its](Rastaban) ears.
 Hearing the fainting, helpless pleas for mercy or a swift death instead of succumbing to the flames drove it into ecstasy, into what it made it feel. Feel *good.* 
 Corpses turned to charcoal, burning. Pieces of flesh, splattered to the wall, where someone stood a moment ago. Carcasses and ash in places of buildings. 

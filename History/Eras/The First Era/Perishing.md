@@ -1,3 +1,9 @@
+---
+tags:
+  - Event
+  - Divine
+  - Workpiece
+---
 Does [[God]] live in heaven in fear of what he has created?
 In the First Day, this was, indeed, the case: The Creator fleeting, in loss of control and regulation of his making. 
 On the Second Day, He was faced with a utmost devastating choice; As to retreat, dwindle and eventually die, or to seize force and violently recover His Rule. 

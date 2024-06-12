@@ -1,3 +1,9 @@
+---
+tags:
+  - Written-Text
+  - Item
+  - Magical
+---
 ![[Gane's Parchments of Shadows]]
 
 ![[The Celestial Compendium of Schi]]

@@ -1,3 +1,8 @@
+---
+tags:
+  - Magical
+  - Item
+---
 ==Wondrous Item==
 This small box, coloured black and yellow, features a prominent red knob on top of it, along with the engraved word "**STOP**". 
 When the button is pressed, the environment around the activating person is seemingly frozen in time until the button is released, or a subjective minute has passed. 

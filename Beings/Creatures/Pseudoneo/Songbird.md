@@ -1,3 +1,8 @@
+---
+tags:
+  - Pseudoneo
+  - Creature
+---
 
 Airborne bird-mimicking automatons, among the earlier attempts of [[The Lavish Empire|Lavish]] [[Pseudoneo]] life.
 

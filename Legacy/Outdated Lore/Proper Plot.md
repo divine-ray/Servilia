@@ -1,3 +1,7 @@
+---
+tags:
+  - Legacy
+---
 
 (As of 6/5/22)
 (for the playing party)
