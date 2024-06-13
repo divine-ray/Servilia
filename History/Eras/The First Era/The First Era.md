@@ -14,7 +14,7 @@ Notable events are described in [[Before the First Era]].
 #### Alliance and Peace
 The time during which Humans, Lavish and all others coexisted without conflict or war.
 Alliances and collaborations between species were common, science and magic were thriving. 
-
+One such collaboration resulted in the [[ti-mud'ĝál Ĝiš-hur|Create Life Plan]] to birth the [[Varuú]], the pseudoneo species to replace Humanity. 
 Lasted around {1200 earthen years}. 
 
 Thylyist developed into a fully-fledged nation/empire from the former fort installation of Thylyist, which sheltered the remains of the Mekhanites during the end of the [[Nølkā-Mekhanite War]].
@@ -26,6 +26,8 @@ Knowledge was widely shared, preserved and broadened by groups such as the [[Eru
 
 
 The Curse of Undead is known, but barely present (only about 5 from 100 deceased stay alive), those undying remain functional in society and are accepted widely.  
+
+
 
 The end of the First Era was foreshadowed by the Thylyian order to redirect the Fountainhead to commence the [[Raising]] of the Mountains to contain the Ancients. 
 A final echo of democracy was quelled after the [[Followers of Mekhane|Mekhanites]] executed the [[Council of Thylyist]] in the coup d'état later known as [[Betrayal]]. 

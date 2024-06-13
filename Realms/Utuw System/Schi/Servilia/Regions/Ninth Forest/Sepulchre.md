@@ -14,7 +14,7 @@ Only a smaller fraction of the residents voluntarily lives here, most of them go
 
 It's underground, and they have a small religion going on, but it drifted too far into states that a alive and integer mind cannot parse.
 *+1d4 insanity on inspect*
-The main place of worship of their religion is said to be built atop a [[Tombstone#Lich Reliquary|Lichen relic vault]], which has been cemented there before the [Great Woe](How%20Dying%20ceased.md).  
+The main place of worship of their religion is said to be built atop a , which has been cemented there before the [Great Woe](How%20Dying%20ceased.md).  
 
 Generally, the undying that didn't loose it yet are partially depressed about the seemingly inevitable decay of their kin, and therefore see the contact to the Children of the Flame as revelation/salvation, as they are capable of saving their folk, lest not willing.
 

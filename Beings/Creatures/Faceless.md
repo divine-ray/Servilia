@@ -10,11 +10,12 @@ Possibly hollow or undead people which have lost all mental integrity.
 Upon careful inspection, you recognise their catastrophically degraded mental condition.
 
 Maybe you can try to help these lost fellows?
+Muddled in a sickly, brackish dark ooze which is best described as.. slimy ink?
 
 Their facial features are all destroyed, covered below horrible scars, seem to shape eerie patterns. You have a uneasy feeling trying to make out what these patterns mean. That shadow just moved, didn't it?
-These scars likely come from self-imposed injuries from their uncut nails, which would place a dragon in envy. 
-In fact, their entire body appears to be mistreated and neglected, starved to the bone, uncut hair... but... They seem to remember to wash themselves. Odd.
-[[Report of a Broken Face]] leads to clues that they're still cognisant, or at least aware, but physically incapable of expressing themselves with dignity. 
+These scars likely come from self-imposed injuries from their uncut nails, which would drown a dragon and their claws in envy. 
+In fact, their entire body appears to be mistreated and neglected, starved to the bone, uncut hair... but... They seem to remember to wash themselves. There's no smell, aside from stale water.
+The [[Report of a Broken Face]] leads to clues that they're still cognisant, or at least aware, but physically incapable of expressing themselves with dignity. 
 
 > [!NOTE]- Outdated
 > Their faces are covered in long and poorly-healed scars, likely sourcing from scratching themselves with their horribly elongated nails that resemble talons or claws.
@@ -23,9 +24,9 @@ In fact, their entire body appears to be mistreated and neglected, starved to th
 
 Answering them with sung Gradam Cant is likely (1d100,x\>40) going to calm them, and some lore will be revealed.
 
-Singing to them with [[Marilee, the Songstress]]' blessing will ease their mind and they can be communicated with using nonverbal means (as their mouth and ways of vocalisation are ruined).
+Singing to them with [[Marilee, the Songstress]]' blessing will ease their mind and they can be communicated with using nonverbal means (as their mouth and ways of usual vocalisation are ruined).
 
-(Their mental state is still pretty broken, and on the development of a toddler, 3yo.)
+%%(Their mental state is still pretty broken, and on the development of a toddler, 3yo.)%%
 ### Chanting
 They can be heard chanting this in a sobbing and deranged manner, as long as they don't perceive someone else:
 
