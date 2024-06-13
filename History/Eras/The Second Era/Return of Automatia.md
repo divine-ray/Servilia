@@ -1,3 +1,10 @@
+---
+tags:
+  - Story-Fragment
+  - History
+  - Event
+  - Frisco-Bay
+---
 We have spotted what appears to be our long-lost engineering marvel, the renown ship [[Automatia]]. 
 She has been sent out on her first voyage to test the very early systems of electricity, and to stress-test those novel techniques our engineers have created. 
 Contact to it has been lost since the 13th Apsni 1424, and we never had reports of sightings before. But now, today, on the 19th Nika 1426, it has been seen to the coast of the [[Davern Kingdom]]. Her land engineering crew are most delighted to hear the news, but I am concerned of why it has been lost so long. 

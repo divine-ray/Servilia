@@ -1,3 +1,10 @@
+---
+tags:
+  - Faction
+  - Religion
+  - Organisation
+  - True-Machinists
+---
 We are the [[Providence]], we are that what remains; after your flesh betrays you, as it did betray everyone you loved before you. 
 
 We persevere, for the [[Blessed Machine]] is immortal. 

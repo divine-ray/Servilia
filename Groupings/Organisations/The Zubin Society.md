@@ -1,3 +1,8 @@
+---
+tags:
+  - Faction
+  - Organisation
+---
 A loose group of drug addicts, united in consumption of their [[Ethershade|drug]]. Their drug is special, since everyone who consumes it shares all hallucinations with the rest of the society. 
 The whereabouts of the drug or their leader is unknown, but he is revered as their Messiah, who allowed them to break free from their simple mind.
 United in their consumption and mourning of the absence of their Messiah, they strive for full dissociation of the mind from its mortal shell in pursuit of perpetual ecstasy and insights into the cosmos. 

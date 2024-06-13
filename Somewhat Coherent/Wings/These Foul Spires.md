@@ -1,3 +1,9 @@
+---
+tags:
+  - Amida
+  - Story-Fragment
+  - Numerator
+---
 These foul spires, intertwined with their wicked veins.
 Who knows what they're hiding in these? 
 What forsaken abominations are being enslaved to be our very sustenance?

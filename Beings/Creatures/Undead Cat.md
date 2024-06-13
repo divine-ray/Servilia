@@ -1,3 +1,7 @@
+---
+tags:
+  - Creature
+---
 ```statblock
 name: Undead Cat
 image: [[undead cat.webp]]

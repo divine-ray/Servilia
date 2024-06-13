@@ -1,3 +1,7 @@
+---
+tags:
+  - Story-Fragment
+---
 Now, there they are, in [[Posthumous Unity]]. 
 United, recovering from the wounds and grave damage inflicted to another.
 Half-buried, the mechanical colossus grew armour, bloodied plates of bone and chitin. 

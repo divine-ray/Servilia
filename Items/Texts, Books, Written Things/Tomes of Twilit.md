@@ -1,3 +1,9 @@
+---
+tags:
+  - Magic-System
+  - Written-Text
+  - Item
+---
 ## The Ways of using Amarisk 
 A large, locked coffer made from hardened steel, adorned with silver dragon scales.
 It is filled to the brim with plain, leather-bound scriptures.

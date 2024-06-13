@@ -1,3 +1,8 @@
+---
+tags:
+  - Workpiece
+  - Poetry
+---
 It touches my lips,
 Its gaze cuts my throat from the inside.
 From the dark into the light i saw a delight that never dies - 

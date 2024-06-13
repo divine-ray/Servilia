@@ -1,3 +1,7 @@
+---
+tags:
+  - Workpiece
+---
 So, it ends.
 It finally found something worthy of it's shell, the bittersweet feelings of emerging victorious after countless losses and defeats.
 The machine has been bested, beaten.

@@ -1,3 +1,9 @@
+---
+tags:
+  - Story-Fragment
+  - Workpiece
+  - Poetry
+---
 Open my Eyes, see upon the saltwater rain.
 Take on the [[Empty Crown]], settle upon the Throne of Nothing.
 A King for a Kingdom, A Nobody for Nothing.

@@ -1,3 +1,9 @@
+---
+tags:
+  - Magic-System
+  - Concept
+  - Written-Text
+---
 ## Weaponized Wizardry
 A collection of papers for massacre and violation using the arcane.  
 

@@ -1,6 +1,10 @@
 ---
 aliases:
   - Dragons
+tags:
+  - Dragon
+  - Culture
+  - Faction
 ---
 # Profile: [[Kva'al]]
 

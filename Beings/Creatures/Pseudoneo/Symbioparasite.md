@@ -1,3 +1,9 @@
+---
+tags:
+  - Pseudoneo
+  - Creature
+  - Species
+---
 A refined amoeba, capable of entering bodies and interacting with their nervous system.
 Originally developed as [[Pseudoneo]] by the Lavish to augment their bodies and capabilities (such as offloading coordination).
 Almost facing extinction during the second era, these entities got rediscovered first from the group of Pseudoneo life by Amidaean scientists and directly utilised to override the Curse of the Undead. 

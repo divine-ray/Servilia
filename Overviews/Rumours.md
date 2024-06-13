@@ -1,3 +1,8 @@
+---
+tags:
+  - Culture
+  - Event
+---
 Please note that these rumours are not localised, local rumours are on their page.
 
 - A perpetual storm rages over the Cronemoor Swamp.

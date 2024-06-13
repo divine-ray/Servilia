@@ -1,3 +1,8 @@
+---
+tags:
+  - Divine
+  - Void
+---
 The manifestation of [[Realms/Planes/Dark Domain/The Void|The Void]], appearing as gigantic glowing jellyfish floating above an infinity of nothing.
 Easily considered to be one of the major antagonistic forces, as it envies the material plane of it's details and features. 
 

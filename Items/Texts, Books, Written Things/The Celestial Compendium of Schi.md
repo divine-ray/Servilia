@@ -1,3 +1,8 @@
+---
+tags:
+  - Written-Text
+  - Artifact
+---
 An impressive tome bound in once-polished, now-rusted iron plates set with a large but fractured emerald. 
 It is said to be written by the wizards and sages of the [[Athenaeum of Sorcery]].
 It's sheer weight and appearance raised many rumours in arcane societies, and it is said to hold secrets about sailing the [[Eternal Sea]]. 

@@ -1,3 +1,10 @@
+---
+tags:
+  - Thylyist
+  - Event
+  - History
+  - Overview
+---
 [[Empire of Thylyist|Thylyist's]] fate is doomed, but it's cause of collapse yet to be determined. 
 
 - Overtaking through [[True Machinists]]

@@ -1,3 +1,8 @@
+---
+tags:
+  - Magical
+  - Item
+---
 This bottle is carved out of beryllium bronze with a cork/plug cut from fiery ruby.
 Its metal body is engraved with detailed runes and other arcane writing, which are warm to the touch. 
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Creature
+---
 ## Body
 This dragon features a elegant and short body with slender tail and neck. Their scales are primarily black but some areas are iridescent, markedly those which receive stress often, so on joints and flexible parts. Outside of those some areas have iridescence, I depended of stress, similar to erroring pigmentation. It takes about a year to replace all scales, including those which got stressed into iridescence (wear slowly changes them).
 

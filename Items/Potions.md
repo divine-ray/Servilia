@@ -1,3 +1,8 @@
+---
+tags:
+  - Weapon
+  - Item
+---
 Any "Time of application" is skipped if the container is thrown.
 ### Utility
 Oil of Ironwork (Potion):
@@ -10,10 +15,8 @@ Oil of Ironwork (Potion):
 	This jelly-like oil can can cover a Medium or smaller creature, and takes 10 minutes to apply.  If a tiny or larger creature touches the affected creature within the next 8 hours, the oil bursts into flames.  Each creature within a 5-foot radius must make a Dexterity saving throw.  A target takes 1d6 fire damage on a failed save, or half as much damage on a successful one.
     In any case, this awakens the affected (coated) creature.
 - Gaseous Lime
-	This light-green gas can be poured from it's container, and will remain static mid-air. It is highly flammable, and already slight differences in temperature cause it to ignite. 
-- 
-
-
+	This light-green gas can be poured from it's container, and will remain seemingly unaffected by motion mid-air. It is highly flammable, and already slight differences in temperature cause it to ignite. 
+ 
 ### Miscellaneous 
 - Storyteller's Potion: 
 	After drinking this wispy potion, illusory images accompany your speech.

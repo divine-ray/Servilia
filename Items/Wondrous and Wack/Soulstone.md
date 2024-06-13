@@ -1,3 +1,9 @@
+---
+tags:
+  - Magical
+  - Item
+  - Artifact
+---
 A glass-clear rock, partially encrusted with regular stone. 
 A few impurities and cracks stain the sight, which seem to shift by themselves.
 It is capable of absorbing the final echo of someone’s consciousness in the case of a ultimate demise.

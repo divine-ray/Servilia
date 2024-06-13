@@ -1,6 +1,10 @@
 ---
 aliases:
   - Death of Divinity
+tags:
+  - Concept
+  - Divine
+  - Nolka
 ---
 In their gluttony for power, on the off-road to [[Apotheosis]], the [[Nølkā]] devoured all that is divine, including [[Schi ut-Pula]]/[[Possible reasons why Schi-Ut-Pula vanished]]. 
 The massive power vacuum on the spaces [[Beyond]] allowed [[New Gods]] to rise to power, all bearing the imprint of a terrified and directionless mankind, instilled with fear. Some, if not most, even slotted themselves into the places and domains formerly ruled by the old gods, now reduced to [Corses](Corse.md). 

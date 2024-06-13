@@ -1,3 +1,9 @@
+---
+tags:
+  - Creature
+  - Species
+  - Pseudoneo
+---
 The category for lifeforms and beings created by [[The Lavish Empire|Lavish]] scientists as smart, self-directed workforce, typically for tasks outside of their reach of the Palga Basin, and by extend, the Astral Ocean and Sea Major.
 A relatively common, shared trait amongst pseudoneo zoophytes is the combination of complex life^[read: large species, typically apex predators] , plant life and [[Arcane Engineering]] into a single, autonomous and self-supplying unit.  Typically, a species of pseudoneo units is created with one specific task and purpose present throughout their design and abilities. 
 

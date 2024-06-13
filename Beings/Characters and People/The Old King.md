@@ -1,3 +1,8 @@
+---
+tags:
+  - Character
+  - Davern
+---
 The skeletal remains of The Former [[Davern Kingdom|Davern]] [[King Erl the Yellow|King]] bound under the fort-castle of [[Auvergne]].
 
 He remains aware, having to look at the world from below.

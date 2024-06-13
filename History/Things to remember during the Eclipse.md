@@ -1,3 +1,7 @@
+---
+tags:
+  - Event
+---
   1. Hopkinsville may have the best viewing, but they will also be the first to be sacrificed.
  2. Animals may behave strangely, If your dog speaks like a man, heed it's dire warnings.
  3. Don\'t trust the squirrel with a child's face. It speaks only lies. 

@@ -1,3 +1,8 @@
+---
+tags:
+  - Frisco-Bay
+  - Location
+---
 
 A large scribe's workshop, served by a clowder of cats. The cats usually divide their time between playing, sleeping, and working on the pages of a book of omens and portents. If asked by a wizard, they may copy a spellbook or scroll, given the materials, but no more often than once per month. 
 This business has proven fruitful, and several branch stores are under construction, as their services are excellent in terms of speed and quality. 

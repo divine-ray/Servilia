@@ -1,3 +1,8 @@
+---
+tags:
+  - Character
+  - Workpiece
+---
 Aome chap who is deeply frustrated with his work in the citadel, tired of having to do all these ridiculous routines (he knows what'd be appropriate as someone who has been drafted into ritual maintenance after working as machinist for most of his life), and is considering to go public seeing how the machines in the catacombs get mistreated 
 
 the barkeep of [[SICK]], theyre nose deep in the gossip and not afraid to make use of that 

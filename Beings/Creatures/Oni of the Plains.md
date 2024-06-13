@@ -1,3 +1,7 @@
+---
+tags:
+  - Creature
+---
 
 
 A massive fellow who guards the [[Palga Basin]] from unwanted intruders.

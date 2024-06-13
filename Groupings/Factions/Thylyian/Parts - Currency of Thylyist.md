@@ -1,3 +1,8 @@
+---
+tags:
+  - Thylyist
+  - Culture
+---
 Imperial Currency of the [[Empire of Thylyist]], accepted as currency within Thylyist.
 	Other countries scowl at these, but grudgingly accept them for their raw material value. 
  

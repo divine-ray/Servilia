@@ -1,3 +1,9 @@
+---
+tags:
+  - Faction
+  - Species
+  - Magical
+---
 Typically benevolent manifestations of various elements, forces and other intangible concepts. Despite their lack of a certain corporal form, they surely can affect and exist in their unfortunate confinement. 
 They reside within, atop and around the [[Floating Islands]].
 These are the "foster children" of The Ancients.

@@ -1,4 +1,8 @@
-A earthen like planet, outfitted with rings and [[Three Moons]]:
+---
+tags:
+  - Celestial-Object
+---
+A earthenen like planet, outfitted with rings and [[Three Moons]]:
 - [[Heaugi]]
 - [[Opar]]
 - [[Kynoly]]

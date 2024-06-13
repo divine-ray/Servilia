@@ -1,3 +1,7 @@
+---
+tags:
+  - Story-Fragment
+---
 “Here, listen. You came to me for guidance and my opinion”, said the elderly man, barely holding his posture on a tremor-shaken cane. 
 I took my time, waited for him to collect his thoughts and to speak again.
 “You. er, mmmm-“ he said, trailing off into thoughts. Or maybe he noticed a logical fallacy.

@@ -1,4 +1,9 @@
-For a better version, read: [[2024'01'03'00-06-00]]
+---
+tags:
+  - Legacy
+  - Plot
+---
+==For a better version, read: [[2024'01'03'00-06-00]]/[[Major Plotlines]]==
 Tuesday, 26. April 2022
 08:15
 

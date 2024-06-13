@@ -1,3 +1,7 @@
+---
+tags:
+  - SuSy
+---
 #### Tertiary Crushing 
 This stage is primarily applied before chemical treatment such as floatation and leaching. 
 Averages 100-500µm per run (very fine sand to silt).[^circuits]

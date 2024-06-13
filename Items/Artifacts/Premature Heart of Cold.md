@@ -1,3 +1,8 @@
+---
+tags:
+  - Creature
+  - The-Cold
+---
 
 A small heart, consisting out of mostly indiscernible mass, which is frozen necrotic tissue and biomass. 
 

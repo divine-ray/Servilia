@@ -1,3 +1,7 @@
+---
+tags:
+  - Character
+---
 
 A trio of legendary adventurers who haven\'t been condemned to the Ancient Exile.
 

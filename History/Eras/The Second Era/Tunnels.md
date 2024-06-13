@@ -1,3 +1,8 @@
+---
+tags:
+  - Story-Fragment
+  - Workpiece
+---
 There’s a hatch in my basement. 
 I have no idea how it came to be, but i know that I cannot lock it. 
 My family always forbid me to move the old and unused metal oven that stood in front of it.
