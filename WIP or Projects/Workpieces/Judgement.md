@@ -1,3 +1,7 @@
+---
+tags:
+  - Workpiece
+---
 A pair of glaring eyes piercing through the veil of the night, 
 [[cloaked in shadows]], they are aware of their observer, 
 staring into the unfortunate soul which ends caught in their glimpse. 

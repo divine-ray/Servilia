@@ -1,6 +1,6 @@
 #Structure 
 
-![[Copyright Disclaimer#^69cab1]]
+![[Copyright Disclaimer#^a415f6]]
 ## Games
 Hollow Knight: Void, Vessels
 Dark Souls: Hollows, Estus flask -> bottled embers/smoulders

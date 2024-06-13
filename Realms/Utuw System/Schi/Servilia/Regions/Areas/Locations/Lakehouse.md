@@ -1,4 +1,4 @@
-#locations #Ruin 
+#Location #Ruin 
 *A big, chaotically built mansion, towering over the nearby lake.*
 *It emanates a warm and homely feel. Maybe you want to come inside?*
 

@@ -5,7 +5,7 @@ tags:
 # Heading
 (I primarily want to focus on multiblocks for their perceived modularity and less bloat of single blocks for every tier)
 ## Extraction
-![[Extraction (SuSy)]]
+![[Extraction]]
 
 ## Refining and Processing
 ### Comminution

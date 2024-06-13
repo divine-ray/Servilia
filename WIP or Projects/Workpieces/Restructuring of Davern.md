@@ -1,6 +1,6 @@
 ---
 tags:
-  - Workpieces
+  - Workpiece
 ---
 Structure of the -units- reporting back to the [[New King]] of Davern;
 there ought to be a organisation or some entity serving as research department or such, as their huge hoard of artefacts hides many secrets. 

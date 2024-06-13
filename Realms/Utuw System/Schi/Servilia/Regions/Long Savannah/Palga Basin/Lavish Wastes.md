@@ -1,4 +1,4 @@
-#areas #Lavish 
+#Area #Lavish 
 
 
 Was previously the capital of a nation of magic-affine molluscs, [[The Lavish Empire]].

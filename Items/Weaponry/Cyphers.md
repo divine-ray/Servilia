@@ -1,3 +1,9 @@
+---
+tags:
+  - Magic-System
+  - Item
+  - Weapon
+---
 %%basically one-time use spells, they loose function/self-destruct afterwards. compatible with ommoran firearms, especially the RCL0.%%
 Greater cyphers simply loose their power after activation, lesser cyphers shatter or disintegrate. 
 Superior cyphers may be used several times, but will discharge in a chain when force is acted upon it.

@@ -2,10 +2,10 @@
 aliases:
   - Left Ribs
 tags:
-  - Areas
+  - Area
 ---
 
-#Areas 
+#Area 
 A former rift in tectonic plates caused this jagged chain of volcanoes to tower over the vast ocean. 
 
 Dubbed "left ribs of the world" due to it's regularly spaced peaks, which seem to arch slightly.  

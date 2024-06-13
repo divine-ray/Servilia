@@ -1,8 +1,7 @@
-Attack values
-
-Tuesday, 26. April 2022
-
-11:26
+---
+tags:
+  - Legacy
+---
 
 Damage types:
 

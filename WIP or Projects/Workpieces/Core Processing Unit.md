@@ -1,6 +1,6 @@
 ---
 tags:
-  - Workpieces
+  - Workpiece
 aliases:
   - Core Processing Unit
   - Iterator‘s Core

@@ -1,4 +1,4 @@
-#Weapon #elemental #Children-of-the-Flame 
+#Weapon #Elemental #Children-of-the-Flame 
 
 **Staff**
 

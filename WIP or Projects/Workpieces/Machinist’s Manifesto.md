@@ -1,3 +1,10 @@
+---
+tags:
+  - True-Machinists
+  - Religion
+  - Written-Text
+  - Culture
+---
 **Gross**, filthy flesh. 
 A prison forced upon myself, revered as the only way by the broad mass.
 Its limits disgust me, keeping me forced in routines dictated by its sole purpose: self-sustaining. 

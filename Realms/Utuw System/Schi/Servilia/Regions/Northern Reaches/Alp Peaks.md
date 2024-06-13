@@ -1,4 +1,4 @@
-#Areas #Northern-Reaches 
+#Area #Northern-Reaches 
  These peaks seem to be haunted by poltergeists and memetic nightmares, but only during night. This may be a influence from the deviated sea. An above average occurrence of night runners have been `spotted` ~~here~~...
  
 Almost identical to the surface traits of the Hollow Mountains:

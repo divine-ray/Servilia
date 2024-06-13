@@ -1,3 +1,7 @@
+---
+tags:
+  - Workpiece
+---
 You. Yes, you.
 You do crave, hunger, don't you? 
 You want power, you want wealth. You want fame, want to be someone known, relatable. 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Workpieces
+  - Workpiece
 ---
 Memorial day in the [[Frisco Bay Confederation]] related to the [[Curse of the Undead]] and associated woes.
 

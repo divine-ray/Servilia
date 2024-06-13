@@ -1,4 +1,4 @@
-#Characters 
+#Character 
 Prophet of Absence, Founder of the [[Oblivion Lodge]], he who will tear down the walls in our hearts, allowing [[Realms/Planes/Dark Domain/The Void|it]] to come. 
 
 They have stolen knowledge about the Limbo Boneyard, and embarked on their quest to return the masks to the void.

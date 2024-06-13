@@ -1,12 +1,11 @@
-Lavish Lore
+---
+tags:
+  - Legacy
+  - Lavish
+  - History
+---
 
-Monday, 25. April 2022
-
-12:57
-
- 
-
-The lavish somewhen discovered the twilight and (skip) opened a physical way to the Twilight by piercing the fabric of reality
+The Lavish somewhen discovered the twilight and (skip) opened a physical way to the Twilight by piercing the fabric of reality
 
  
 

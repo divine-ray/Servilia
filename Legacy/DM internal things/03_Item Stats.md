@@ -1,10 +1,8 @@
-Item Stats
-
-Thursday, 28. April 2022
-
-13:08
-
- 
+---
+tags:
+  - Legacy
+---
+==Old DND-ism.== 
 
 | Item Size:   | XS/S/M/L/XL/G/C |
 |--------------|-----------------|

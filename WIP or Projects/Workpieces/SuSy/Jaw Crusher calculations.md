@@ -1,3 +1,7 @@
+---
+tags:
+  - SuSy
+---
 
 1.300 tons (example: hematite ore)/h
 = 252.43 m<sup>3</sup>/h = 252.43 blocks per hour (real-time)

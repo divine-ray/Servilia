@@ -1,3 +1,8 @@
+---
+tags:
+  - Creature
+  - Vaaruu
+---
 
 A curse or other [[Fall|misfortune]] has driven these poor [[Varuú|people]] insane, yet not letting them die.
 Possibly hollow or undead people which have lost all mental integrity.

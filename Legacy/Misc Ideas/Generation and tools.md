@@ -1,3 +1,8 @@
+---
+tags:
+  - Structure
+  - Legacy
+---
 <https://donjon.bin.sh/fantasy/dungeon/>
 <https://donjon.bin.sh/fantasy/treasure_map/>
 <https://donjon.bin.sh/fantasy/town/>

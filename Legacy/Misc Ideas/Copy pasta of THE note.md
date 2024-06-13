@@ -1,4 +1,12 @@
-# DO NOT DELETE
+---
+tags:
+  - Legacy
+---
+
+> [!attention]
+>  DO NOT DELETE
+>  This is of historical value, it's the original brainstormed note. 
+> 
 
 **Gay DnD**
 ### Areas:

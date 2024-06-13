@@ -1,4 +1,4 @@
-#locations 
+#Location 
 
 A hill that manifests on a random grassy plains once any full moon.
 

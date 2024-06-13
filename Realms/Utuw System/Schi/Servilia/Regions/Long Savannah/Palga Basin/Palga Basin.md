@@ -1,4 +1,4 @@
-#Areas #Lavish 
+#Area #Lavish 
 ## Location 
 The Palga Basin was a once %%during the first era%% flooded basin and primary residence to the [[Lavish]] on Servilia (outside of the Sea Major). It got artificially flooded by the Lavish in the successful push to acquire ”land” and resources. 
 

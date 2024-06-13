@@ -1,3 +1,8 @@
+---
+tags:
+  - Workpiece
+  - Hollow-Mountains
+---
 come, little one. let us observe.  watch over these others. they shall learn to fly. its sad seeing them, limp and glum, on the floor.
 we shall teach them flight. allow them to ascend and conquer the air, follow our lead. you have to tell them: spread your wings, breathe, flap, repeat. flight is important. we need the air. 
 see, big one. you shall fend off our islands. there are others who want to take our small refuge. we cannot allow them. our islands are home to us and the elders. 

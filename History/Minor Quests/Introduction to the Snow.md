@@ -1,4 +1,4 @@
-#QUEST 
+#Quest 
 
 **Main objective: Discover [[The Cold]].**
 

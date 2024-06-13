@@ -1,3 +1,7 @@
+---
+tags:
+  - Workpiece
+---
 It was slaughter day.
 A year has since passed, and it was time for these cows to meet the knife. 
 The priest was here, and he has given his ointments. 

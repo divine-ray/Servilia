@@ -17,15 +17,15 @@ Arriving slightly later is the following to the Cold, the [[Ghiaccia Conclave]].
 	The Children have formed in crusades against the undying and cold, as their flames can rid the [[Curse of the Undead]] and [[The Cold]], which is the enduring descendant of lively weaponry employed by the [[Nølkā]].
 Mekhane shattered during this fight into many components and pieces, [[Heart of Mekhane|one of which]] drives the entire Empire [[Empire of Thylyist|Thylyist]]. Some managed to escape into the plane of Mechanus, others into the vast eternal sea. It is seen as the duty and holy goal of the Mekhanites perform [[His Divine Reassembly]]. 
 
-And presumably the [[Nølkā-Mekhanite War]] is the original event that turned Schi ut-Pulá depressed, as she did not foresee the followers of her "friends" annihilate each other. ~~shortly turned into the undying and such~~
-The Curse of the Undead and the Cold are the final retaliation strikes by the [[Nølkā]] against the people of mekhane, knowing they'll bring misery for eternity to come. 
+And presumably the [[Nølkā-Mekhanite War]] is the original event that turned Schi ut-Pulá depressed, as she did not foresee the followers of her "friends" annihilate each other. ~~Shortly turned into the undying and such~~
+The Curse of the Undead and the Cold are the final retaliation strikes by the [[Nølkā]] against the people of Mekhane, knowing they'll bring misery for eternity to come and resulting in mutually assured destruction. 
 ## Introduction of Dragons and Lavish
 honestly, fuck knows
 though I'm thinking that the lavish took the ways of modifying the flesh from the Nølka and turned it into their powerful biotechnology. so I'm presuming that the flooding of the Palga basin happened after the War of Flesh, as humanity was decimated and no longer served a threat. From there on its known what happens, etc.
 
 ### Dragons
 for the time being I'm going to say that some gods/Schnūt collaborated on making a "ideal" species, which kinda failed once chromatic dragons started to exist. 
-thing is that they're the oldest sentient species alive on Schi.
+Thing is that they're the oldest sentient species alive on Schi, possibly in a larger reach of the galaxy as they're just that powerful that they do not need spacesuits.
 ### Twilit
 about the Twilight strain I'm assuming that within the great woe of [[Schi ut-Pula]] abandoning Schi greatly disturbed the young twilight, which made it leak into the population and effectively seeding the strain which resulted in Amarisk mages aka Sorcerers. 
 

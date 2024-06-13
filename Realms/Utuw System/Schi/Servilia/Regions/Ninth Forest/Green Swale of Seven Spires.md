@@ -1,3 +1,9 @@
+---
+tags:
+  - Ninth-Forest
+  - Location
+  - Area
+---
 The lush heart of the forested hell that is the [[Ninth Forest]]. 
 Around the indented basin-lake tower seven spires, adorned with vines and tangles. 
 The basin-lake is the beginning and end of many rivers and streams throughout the Ninth Forest, some of which extend [[Caverns|underground]]. 

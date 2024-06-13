@@ -1,9 +1,16 @@
-Excerpt One
+---
+tags:
+  - Children-of-the-Flame
+  - Religion
+  - Workpiece
+  - Written-Text
+---
+Excerpt One:
 	We are the Children. The [[Children of The Flame]]. 
 	The Flame...
 	Must live on.
 	How do we know? The heat tells us. The Heart... A being, a deity beyond, has sacrificed its core, for us, so that we spread the word, the heat. burn. BURN. **BURN THEM ALL.**
->First Spark, First Book of Cinders, First Blaze
+~ First Spark, First Book of Cinders, First Blaze
 ###### *Preamble:*
 That is our desire, our goal. Everyone, everything, consumed by the flame. Our history rests within fumes of smoke, but you are capable of dividing the fumes. 
 

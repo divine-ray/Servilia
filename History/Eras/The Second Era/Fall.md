@@ -1,7 +1,7 @@
 ---
 tags:
   - History
-  - Events
+  - Event
 fc-date: 04-22-1287
 aat-render-enabled: true
 timelines:
@@ -117,5 +117,11 @@ they
 died
 curled in anguish i weep 
 to remember,  this tragic individual 
+***
+
+> [!tldr] Summary
+> Through a coordinated operation sometime during the [[War]] the majority of [[Varuú]]in [[lost]]
+
+
 
 

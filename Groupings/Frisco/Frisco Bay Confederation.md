@@ -8,6 +8,10 @@ timelines:
   - timeline
   - event
 aat-render-enabled: true
+tags:
+  - Frisco-Bay
+  - Faction
+  - Area
 ---
 
 The confederation spanning the mostly-autonomous cities and rural areas of the [[Frisco Bay]].

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Workpieces
+  - Workpiece
 ---
 
 Tied down with cables, wouldn’t that be as binding a living one with their own entrails

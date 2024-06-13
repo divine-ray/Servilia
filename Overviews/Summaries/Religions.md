@@ -3,7 +3,7 @@ tags:
   - Religion
   - Cult
   - Structure
-  - Overviews
+  - Overview
 ---
 A comprehensive summary of Cults, Organised Religions and other followings present in Servilia. 
 Loosely sorted by impact and known member count. 

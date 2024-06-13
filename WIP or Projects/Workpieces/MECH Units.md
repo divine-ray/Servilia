@@ -1,6 +1,6 @@
 ---
 tags:
-  - Workpieces
+  - Workpiece
 ---
 something about mecha, rambling time
 ## Intelligence Classifications

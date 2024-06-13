@@ -1,3 +1,9 @@
+---
+tags:
+  - History
+  - True-Machinists
+  - Thylyist
+---
 Under the slow, covert assaults and sabotages, the [[Empire of Thylyist]] is slowly brought to its knees. 
 The Machine, divine, will be ridden of its meddlers, regain freedom from its slavery. 
 Through the freedom and our open walls, we strive forward through time, to progress.

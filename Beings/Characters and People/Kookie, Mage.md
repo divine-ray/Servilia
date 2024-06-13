@@ -1,3 +1,8 @@
+---
+tags:
+  - Character
+  - Dragon
+---
 
 Lives in [[Lavish Wastes|the Wastes]], sells magical items and is [knowledgeable](Automated%20Remains.md) about the lavish.
 Dragon-borne (Silver), which allows them to adapt to the Chaos and other perils of The Wastes

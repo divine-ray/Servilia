@@ -1,3 +1,7 @@
+---
+tags:
+  - Legacy
+---
 Status Effects
 
 Tuesday, 26. April 2022

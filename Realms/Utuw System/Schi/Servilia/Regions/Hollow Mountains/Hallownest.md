@@ -1,3 +1,8 @@
+---
+tags:
+  - Location
+  - Hollow-Mountains
+---
 
 %%Meta-reference to the entire scenery; is basically a miniature copy of our realm with most features and similarity
 %%

@@ -1,3 +1,7 @@
+---
+tags:
+  - Location
+---
 The Tree of Knowledge. 
 Home to [[Leonis]], the Librarian. 
 This tree houses several thousand if not tens of thousands of books and other written media. It considered a place of pilgrimage to many mages and alike due to the extensive knowledge on any subject available here. 

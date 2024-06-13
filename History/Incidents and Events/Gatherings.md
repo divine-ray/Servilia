@@ -1,3 +1,8 @@
+---
+tags:
+  - Event
+  - Structure
+---
 ## Hunter's Gatherings
 Every Full Moon of Heaugi, all participating hunters gather up on a lodge within the Ninth Forest.
 Bystanders (non-hunters) may use this opportunity to trade, as these gatherings represent a huge collection of gourmet game, pelts and weaponry. 

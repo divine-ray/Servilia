@@ -1,6 +1,6 @@
 ---
 tags:
-  - Workpieces
+  - Workpiece
   - Poetry
 ---
 Out there in the fields stands a shack

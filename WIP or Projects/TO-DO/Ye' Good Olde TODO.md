@@ -5,38 +5,38 @@
 - [x] `[[Lunar Mangroves]]`
 - military forces of ancients, sepulchre, etc. 
 - [x] `[[Liches]]`
-- [ ] `[[Before the First Era]] `
+- [x] `[[Before the First Era]] `
 	- [x] creation myth
 	- [ ] war of mekhane v Yaldabaoth
 	- [ ] His Divine Reassembly
 ### `[[The First Era]]`:
 - [x] Details and polish of ``[[Syksa, Lavish Capital]]`
 - [x] \[\[History of Sepulchre and the Faceless]]
-- [ ] `[[How Dying ceased]]` 
+- [x] `[[How Dying ceased]]`
 - [ ] Pogrom & genocide upon Lavish and Varuú, [[Fall of the Lavish]]
 ### `[[The Second Era]]`:
 - ### Thylyist
 	- [x]  `[[Thylyian Military|Thylyist Military]]`
 		- [ ]  sentinels
 	- [ ] His Divine Reassembly
-	- [ ] ~~Church of the broken God~~ Mekhanites
-		- [ ] `[[Citadel of the Gear]]`
+	- [x] ~~Church of the broken God~~ Mekhanites
+		- [x] `[[Citadel of the Gear]]`
 - [x] \[\[Lost City of the Ninth Forest|Tombstone]], the City of Lost/Faceless
-- [ ] [[Witches]] in the ninth forest
+- [x] [[Witches]] in the ninth forest
 - [ ] [[Daeva Revolutionists]]
 ### Frisco Bay
 - [ ] [[Frisco Bay]]
 - [ ] [[Duley and Port]]'s university district 
 	- [ ] also "the place where it's build" i.e. all the workshops, docks, etc. 
 ### [[The Third Era]]: 
-- [ ] `[[APAS Ltd.]]` : Continuation of Ommoran Arms in the third age, stands for Active/Passive Arms Systems Limited
+- [x] `[[APAS Ltd.]]` : Continuation of Ommoran Arms in the third age, stands for Active/Passive Arms Systems Limited
 	corpo that has a decent stock and rule over the world, akin to militech from CP2077
 - [ ] [[Cyberware]] and stuff for biotech implants, third age
-- [ ] SICK Club
+- [x] SICK Club
 - [ ] `[[Amida]]`
-	- [ ] Rough description of each [[Sector]],`[[Like Obelisks, as far as another Realm]]`
+	- [x] Rough description of each [[Sector]],`[[Like Obelisks, as far as another Realm]]`
 	- [ ] History or rather how Amida rose from Thylyist, [[Talking 'bout a Revolution]]
-	- [ ] Amidan Infrastructure and Utilities U.P.C. (unlimited professional corp.)
+	- [x] Amidan Infrastructure and Utilities U.P.C. (unlimited professional corp.)
 		state-owned infrastructure and utilities Corp., contracting workers, etc.
 		legal loophole that grants Amida itself some degree of freedom from the other corps ruling
 	- [ ] Amida has to be as horrible as possible to squeeze out the tiniest profit out of everything
@@ -66,7 +66,7 @@
 - [x] `[[Green Swale of Seven Spires]]` in the ninth forest
 - [x] `[[Ninth Forest]]`
 	- [ ] forest of talking trees (dirty paws)
-- [ ] [[The Broken Orchestra]]
+- [x] [[The Broken Orchestra]]
 - [x] Abyss (transition into the void/twilight)
 	- [ ] cave system spanning from the ninth forest to the palga basin 
 - [x] Seacurbury Fair
@@ -85,7 +85,7 @@ the experiments of lavish pseudoneo capabilities on humanoids, infused with twil
 - [ ] [[Dwarves]] overhaul and physiology
 ## Items
 - [ ] OA-WS
-	- [ ] Mortar
+	- [x] Mortar
 	- [ ] sub-machine gun
 	- [ ] guided rocket launcher
 	- [ ] mini-gun, possibly? seems very op

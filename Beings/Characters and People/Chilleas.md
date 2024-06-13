@@ -1,3 +1,8 @@
+---
+tags:
+  - Story-Fragment
+  - Character
+---
 Won't you come down, get off that roof?
 Jump now. We can end this now. 
 Don't, you are just drunk. 
