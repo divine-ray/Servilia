@@ -1,6 +1,6 @@
 -  [ ] #TODO 
 
-The [[Faceless]] now haunting/residing within [[Lost City of the Ninth Forest|Tombstone]] are the withered remains from [[Varuú|descendants]] of a highly ambitious project, that being the combination of Dragonborne and Pseudoneo technology.
+The [[Faceless]] now haunting/residing within [[Tombstone|Tombstone]] are the withered remains from [[Varuú|descendants]] of a highly ambitious project, that being the combination of Dragonborne and Pseudoneo technology.
 Given their notable skills in arcane engineering and twilit weaving alike, they created many marvels in all fields of the crafts. Little of their inventions remain, those known are instruments of terror and destruction. 
 ## Downfall
 *[[Fall of the Lavish|During the end of the First Era]]*

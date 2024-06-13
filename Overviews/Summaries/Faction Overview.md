@@ -32,5 +32,5 @@ Through time and isolation, the isolated populace lost the belief in the Nølkā
 
 ## [[Sepulchre]]
 A community of [[Sepulchre|Undying]] folks, forcefully herded together as they have been rejected from any other nation so far. Seen as scum and scoundrel, the undead are suffering a unjust terrible reputation, despite a fair share of them contributing major work towards the Confederation's economy. 
-Built in the labyrinthine underground of the ruins of [[Lost City of the Ninth Forest|Tombstone]], which originally only served as storage and logistics for the fallen city. Nowadays, Sepulchre is under the looming threat of Lichs, as these catacombs guard vaults of lichen vessels and other banished relics. 
+Built in the labyrinthine underground of the ruins of [[Tombstone|Tombstone]], which originally only served as storage and logistics for the fallen city. Nowadays, Sepulchre is under the looming threat of Lichs, as these catacombs guard vaults of lichen vessels and other banished relics. 
 ## [[Lavish]] [[The Lavish Empire|Empire]](Extinct)

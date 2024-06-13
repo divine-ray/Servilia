@@ -20,7 +20,7 @@ tags:
 - Islands will loose their colour once the wheels of metal stop to turn as if beginning occurs again. 
 	%%The [[Chromatic Calderas]] will turn featureless once the Amarisk Well, a part of mekhane, has been recovered%%
 - Masked judges return to the stage once the seven%%?%% hoards have been freed and their tyrants lost its faces. 
-	%%The [[Court of Storms]], and by a extend, [[Lost City of the Ninth Forest|Tombstone]], will restore themselves once the Archives and Libraries have been purged and Chezke-an has been defeated. %%
+	%%The [[Court of Storms]], and by a extend, [[Tombstone|Tombstone]], will restore themselves once the Archives and Libraries have been purged and Chezke-an has been defeated. %%
 - The Creature of Nothing reveals itself upon the branding of the wrong cattle. 
 %%The [[Voidfish]] will become noticeable after a innocent person has been branded with the [[Eldritch Brand]].%%
 - For when Eyes Open and Saltwater has rained, the other wounds bleed again.

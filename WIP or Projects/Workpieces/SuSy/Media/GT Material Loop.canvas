@@ -5,7 +5,7 @@
 		{"id":"579f22121b6dd4b4","type":"text","text":"Finish Tier, Material becomes useless","x":-346,"y":109,"width":250,"height":60},
 		{"id":"98d27a6b44bc4b54","type":"text","text":"New tier, new material","x":-12,"y":-34,"width":232,"height":69},
 		{"id":"77fd92467577937f","type":"text","text":"Be left with useless infrastructure ","x":-8,"y":280,"width":225,"height":80},
-		{"id":"319aa6b50348037c","x":280,"y":286,"width":174,"height":69,"type":"text","text":"Deconstruct it\nSadness"}
+		{"id":"319aa6b50348037c","type":"text","text":"Deconstruct it\nSadness","x":280,"y":286,"width":174,"height":69}
 	],
 	"edges":[
 		{"id":"55b9c09dc1cf2e7b","fromNode":"98d27a6b44bc4b54","fromSide":"top","toNode":"fdc0e1d1af8e0980","toSide":"right"},

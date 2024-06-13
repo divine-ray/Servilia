@@ -3,6 +3,9 @@ tags:
   - Concept
   - Creature
   - Magic-System
+aliases:
+  - Lich
+  - Lichen
 ---
 *Not to be confused with a [[Corse]], the animate remains of a Deity.*
 Before [[How Dying ceased|Dying ceased]], Arch-mages and other arcane-affiliated people which wanted to live forever sacrificed their humanity and personality, turning their body into a husk that thrives on sacrificed Amarisk. 

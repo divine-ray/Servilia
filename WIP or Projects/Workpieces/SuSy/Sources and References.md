@@ -16,3 +16,5 @@ https://www.mclanahan.com/blog/what-type-of-crusher-is-best-for-primary-crushing
 https://crushing-machine.com/crushing-equipment/from-rocks-to-gravel-a-comprehensive-guide-to-primary-secondary-and-tertiary-crushing/
 
 ![[Jaw Crusher calculations]]
+
+https://www.ausimm.com/globalassets/pdf-files/publications/4-04_metplant/4-04_utley.pdf
