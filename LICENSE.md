@@ -1,3 +1,8 @@
+---
+tags:
+  - Structure
+  - First-Reading
+---
 
 | You Can          | You Cannot                     | You Must                  |
 | ---------------- | ------------------------------ | ------------------------- |
