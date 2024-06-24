@@ -1,4 +1,4 @@
-https://youtu.be/z3BHakymwh4?si=7RbI7TNwfzN4utVu
+https://youtu.be/z3BHakymwh4
 #TODO #Structure 
 ## Restructuring regarding the two heart cults/religions;
 [[Ghiaccia Conclave]]/[[Children of The Flame]]
@@ -14,13 +14,12 @@ Assuming they’re each not trying to kill everyone or bring into the influence 
 		1. sharing part of the conscious into the organism’s neural system?
 		2. enhanced lifespan and/or partial salvation from undying?
 
-by that definition, the mekhanite [[True Machinists]] are a NRM, as it rejects a part of the taught beliefs, propagating the reformation of the human vessel into something holy to the machine
-	seeing that the splinter group might be reformist against the established teachings of the mekhanites, they ~~might be~~ *are* **those** that fasten the decay and downfall of Thylyist/Council 
-
+By that definition, the Mekhanite [[True Machinists]] are a NRM, as it rejects a part of the taught beliefs, propagating the reformation of the human vessel into something holy to the machine
+	seeing that the splinter group might be reformist against the established teachings of the Mekhanites, they ~~might be~~ *are* **those** that fasten the decay and downfall of Thylyist/Council 
 
 *** 
 On that note, the [[Oblivion Lodge]] should also be revisited since they are the stereotypical carbon copy doomsday cult which wants to bring the end of the world as see know it.
-	that’s stupid
+> Which is stupid.
 
 possibly a [[little subgroup of the lunatics]] struggling to study the [[Lunar Gateways]] and [[The Tellurion]]
 
