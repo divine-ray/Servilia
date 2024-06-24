@@ -1,6 +1,7 @@
 ---
 tags:
   - Workpiece
+  - Story-Fragment
 ---
 Theres something in the water, it spoils it. 
 Brown, black, oozing down wherever it touches.
@@ -12,3 +13,5 @@ It is not cold and not dry: growth for plagues and infections.
 Those who dared touch the rot or came near…
 	The bodies were never found. 
 		Some say that they turned into the rot.
+
+Maybe this is a dissolved or water-borne contagion related to the [[Red Plague]]...
