@@ -1,6 +1,7 @@
 ---
 tags:
   - Workpiece
+  - Vaaruu
 ---
 Name workshopping for [[Tombstone]] before the [[Fall]].;
 - Vaarall
