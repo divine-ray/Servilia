@@ -41,7 +41,7 @@
 		legal loophole that grants Amida itself some degree of freedom from the other corps ruling
 	- [ ] Amida has to be as horrible as possible to squeeze out the tiniest profit out of everything
 		- any building is minmaxxed to hell (and fucking collapses in a year),
-		- pre-crime picks off people for lobotomisation or biomass conversion years before,
+		- pre-crime picks off people for lobotomy or biomass conversion years before,
 		- numerators are in control of elimination and torture and the police state, 
 		- there is no “state”/government. it’s all bought by corporate empires.
 		- idk some pending damocles’ sword which will cause downfall or shit 

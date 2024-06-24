@@ -3,7 +3,7 @@ tags:
   - Workpiece
   - Story-Fragment
 ---
-Theres something in the water, it spoils it. 
+There's something in the water, it spoils it. 
 Brown, black, oozing down wherever it touches.
 You get hurt from it, you do not belong in it.
 No cure for the disease that infects our rivers, streams, creeks. 
