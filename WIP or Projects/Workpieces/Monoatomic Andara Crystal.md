@@ -2,7 +2,6 @@
 tags:
   - Workpiece
 ---
-# esoteric crystal wackiness
 [[Random Shit I found On Etsy]]
 Monoatomic Andara crystals with 'male' and 'female' divine energy vibration.
 
