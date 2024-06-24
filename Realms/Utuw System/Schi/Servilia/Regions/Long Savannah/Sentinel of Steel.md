@@ -6,7 +6,7 @@ As if a corpse was poorly buried, with its partly rotten partly torn off limbs a
 Stagnant, yet suspended and dormant it lies there. 
 Partially aware, partially deceased. 
 Formerly a colossus who'd flatten entire cities at a mere tap; the zenith of Mekhane's Design Abused. 
-Becrept, befallen with it's archenemy, suffering a same fate, reduced into vermin: the [[red plague]]. 
+Becrept, befallen with it's archenemy, suffering a same fate, reduced into vermin: the [[Red Plague]]. 
 
 
 

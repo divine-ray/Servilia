@@ -14,5 +14,5 @@ In the distance, unnoticed so far, strides a colossus of steel, determined to ch
 Each of its step like an earthquake, sending everyone and everything shaking. 
 Atop the colossus rests a cannon, shaming everything conceived before it. 
 It does not mind the ants in their holes; it is aiming something else.
-The [[red plague]], which has claimed much land and lives. 
+The [[Red Plague]], which has claimed much land and lives. 
 Now it has been noticed, and the frantic struggling on the battlefield ceased, both in shock and terror of the approaching beast, equal to observing a bullet speeding at my face.
