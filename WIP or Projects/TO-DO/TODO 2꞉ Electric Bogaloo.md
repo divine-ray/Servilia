@@ -28,7 +28,7 @@ never inspected up close as their massive apothecaries, held high up by strands 
 ## the door
 [[Just open the door.]]
 ## starting point of Thylyist revolution 
-[[Possible Ways Thylyist can collapse]]
+[[Downfall of Thylyist]]
 
 The Story of the child 
 a child, seen as object, 

@@ -6,7 +6,7 @@ Ever since, the [[Followers of Mekhane]] reign with a [[Gearforged Vanguard|iron
 	Members of the council are very rarely seen in persona and they employ life-extending technology.
 	Every 16 orbital periods of Heaugi (16op x 64d/op = 1024d) ,they hold a secret vote if one member has become untrustworthy and requires *replacements*. 
 	A replacement is selected from a pool of unknowing citizens.
-[[Possible Ways Thylyist can collapse|But their reign is flimsy, and bound to fall and burn.]]
+[[Downfall of Thylyist|But their reign is flimsy, and bound to fall and burn.]]
 They always use code names or those that don’t change.
 
 > [!WARNING] Outdated
