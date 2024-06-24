@@ -6,12 +6,10 @@ timelines:
   - timeline
   - humans
   - era
+tags:
+  - History
 ---
 %%Melonare%%
-#History
-
-#History
-
 ### Authority and Reign %%This is the Present.%%
 Ended [[The First Era]] through the nuclear extinction of the (known) Lavish, and the partial destruction of the Fountainhead. 
 During this era, the Thylyian Military seizes control over the government and establishes martial law %%for centuries to come%%. Secretly driven by the knowledge that their God, [[Mekhane]], has been shattered, the [[Followers of Mekhane|Mekhanite]] zealots took control over Thylyist in the name of Mekhane and His Divine Reassembly. 

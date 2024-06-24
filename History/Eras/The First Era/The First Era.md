@@ -6,9 +6,9 @@ timelines:
   - timeline
   - humans
   - era
+tags:
+  - History
 ---
-#History
-
 %%Gorgo%% 
 Notable events are described in [[Before the First Era]]. 
 #### Alliance and Peace
@@ -26,8 +26,6 @@ Knowledge was widely shared, preserved and broadened by groups such as the [[Eru
 
 
 The Curse of Undead is known, but barely present (only about 5 from 100 deceased stay alive), those undying remain functional in society and are accepted widely.  
-
-
 
 The end of the First Era was foreshadowed by the Thylyian order to redirect the Fountainhead to commence the [[Raising]] of the Mountains to contain the Ancients. 
 A final echo of democracy was quelled after the [[Followers of Mekhane|Mekhanites]] executed the [[Council of Thylyist]] in the coup d'état later known as [[Betrayal]]. 
