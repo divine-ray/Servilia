@@ -1,4 +1,4 @@
-# #TODO of course
+Sorta-done!
 
 General combination of squid and octopus aspects,
 "sentient molluscs (octopodia/cephalopodia) capable of coordination and manipulation of their environment"
