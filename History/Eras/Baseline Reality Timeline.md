@@ -5,7 +5,7 @@ mekhane and yalgabaoth create humanity, refer to [[Creation Myth]].
 
 conflict ensues after millennia of mostly-peaceful coexistence, referred to as [[The First Era]], during which both religions flourished and indulged each half of the continent approximately.
 
-The [[Nølkā-Mekhanite War]] is fought, resulting in diaspora and destruction of the involved parties, which lasted a very long time and gave way to frenetic arms racing (which birthed the [[red plague]]  and other #TODO machinations).
+The [[Nølkā-Mekhanite War]] is fought, resulting in diaspora and destruction of the involved parties, which lasted a very long time and gave way to frenetic arms racing (which birthed the [[Red Plague]]  and other #TODO machinations).
 
 ... (time passes)
 the Nølkā are banished into the ancient exile, with the mountains [[Raising]] for them

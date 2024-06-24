@@ -18,4 +18,4 @@ The only faction capable of producing [[Bottled Embers]], [[Splinter of Blazes]]
 
 Ashen ones are quite allergic and disliking towards water since it screws up their entire body and shape.
 
-Archenemy towards [[The Cold]] and the [[red plague]], despite being all-too-similar, if not related. 
+Archenemy towards [[The Cold]] and the [[Red Plague]], despite being all-too-similar, if not related. 
