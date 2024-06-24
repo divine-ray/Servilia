@@ -4,6 +4,7 @@ tags:
   - History
   - Event
   - Frisco-Bay
+storyline: "[[Return of Automatia]]"
 ---
 We have spotted what appears to be our long-lost engineering marvel, the renown ship [[Automatia]]. 
 She has been sent out on her first voyage to test the very early systems of electricity, and to stress-test those novel techniques our engineers have created. 
