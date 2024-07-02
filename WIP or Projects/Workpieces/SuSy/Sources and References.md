@@ -18,3 +18,15 @@ https://crushing-machine.com/crushing-equipment/from-rocks-to-gravel-a-comprehen
 ![[Jaw Crusher calculations]]
 
 https://www.ausimm.com/globalassets/pdf-files/publications/4-04_metplant/4-04_utley.pdf
+
+## [[Types of Nodes and Deposits]]
+https://en.wikipedia.org/wiki/Ore_genesis
+ https://en.wikipedia.org/wiki/Volcanogenic_massive_sulfide_ore_deposit
+ https://en.wikipedia.org/wiki/Iron_ore
+ https://en.wikipedia.org/wiki/Channel-iron_deposits
+ https://en.wikipedia.org/wiki/Iron_oxide_copper_gold_ore_deposits
+ https://en.wikipedia.org/wiki/Monazite
+ https://en.wikipedia.org/wiki/Citrobacter (Bacteria that can have up to 300x of average uranium in itself, could be exploited).
+ https://en.wikipedia.org/wiki/Competence_(geology)
+ https://en.wikipedia.org/wiki/Uranium_ore
+ https://en.wikipedia.org/wiki/Heavy_mineral_sands_ore_deposits
