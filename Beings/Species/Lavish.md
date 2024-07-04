@@ -15,3 +15,6 @@ Their 'skin' features an abundance of chromatophores which they use for (primari
 The mouth organ was the first subject of their tinkering, and has ever since been reinforced with metal. 
 Lavish feature two water jets driven from individual muscle sacs, one stronger for locomotion and the second one weaker and smaller for precise manipulation of their environment. 
 They wield eight tentacles, two of which are longer, without suction cups and flattened to act as rudder. The other six are shorter, about two thirds of their total body length and outfitted with suction cups, acting as their primary means of interacting with the world. 
+
+Their dexterity and intellect has catapulted them into the most advanced race of the continent even [[Before the First Era|before humans picked up a rock.]] 
+For the central nation that resided in the [[Palga Basin]], refer to the [[The Lavish Empire|Lavish Empire]]. 
