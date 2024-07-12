@@ -4,7 +4,7 @@ tags:
 ---
 To have some tangible value to digging up the ground for minerals, the concept and implementation of ores has to be overhauled. The following assumes that such changes have taken place. 
 ### Rocks And Ores
-![[2024'04'04'10-03-28#Bucket Wheel Excavator]]
+![[Oreverhaul Main Page#Bucket Wheel Excavator]]
 #### Vertical Mining Rig
 Guh? 
 Maybe deploys some sort of silly mechanical worm that eats up the ores

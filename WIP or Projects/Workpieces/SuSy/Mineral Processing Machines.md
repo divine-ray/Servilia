@@ -2,10 +2,9 @@
 tags:
   - SuSy
 ---
-# Heading
-(I primarily want to focus on multiblocks for their perceived modularity and less bloat of single blocks for every tier)
-## Extraction
-![[Extraction]]
+This page intends to include a mostly complete index and list of machines used for [[Beneficiation]].
+
+I primarily (if not exclusively) want to focus on multiblocks for their perceived modularity and less bloat of single blocks for every tier. 
 
 ## Refining and Processing
 ### Comminution
