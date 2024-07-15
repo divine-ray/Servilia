@@ -1,3 +1,7 @@
+---
+tags:
+  - SuSy
+---
 # Sourcing Minerals
 ## Generalised Excavation
 ### Targeted Local Outcrop Miner
