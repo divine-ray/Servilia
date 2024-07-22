@@ -20,5 +20,9 @@ Moving onwards, I was struck with these thoughts:
 Not shortly after, the rough and uneven cobble alleyway opened up to a properly tiled and very busy road, on which all kinds of people went their ways. Something that I haven’t seen here before are long metal bars, held midair by apparently solid stone. 
 Mildly overwhelmed by the noise of all the traffic and continued presence of the axles turning overhead I tried to regain orientation, or at least figure out where to go next. 
 But then, a foreign noise caught my attention, a rapidly-approaching metallic resonance, which stemmed from the suspended bars. It was moments after that a vehicle slid down these bars, whom I now realise to be rails, at a jarring speed which made me worry for their safety. 
-Though, it seemed like the people around didn't care a bit, mind the shrieking, which almost sent me cowering. Not used to this, stepping back. 
+Though, it seemed like the people around didn't care a bit, mind the shrieking, which almost sent me cowering. Not being used to this, I took a step back. 
 I was left out, standing there lacking direction, among what best resembles a busy anthill; everyone and everything knowing where to go in a relentless chaotic stream of people and goods. 
+Barren of any direction and with my previous experience of unhelpful locals, I chose to follow the rail-way on foot, stepping aside whenever it came screeching by to prevent my hearing. 
+
+---
+They then arrived later at the next station, with some time having passed. It was a building of former glory, many of its bronzen detailings having faded and overtaken by patina. If the noise of the street before was loud, then the traffic here was deafening. An unsurmountable amount of goods and people spilt in and out of the rail carts, as it appeared to be a mixed station; for both cargo and civil transport. 
