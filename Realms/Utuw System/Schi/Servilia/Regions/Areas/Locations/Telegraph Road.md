@@ -1,0 +1,3 @@
+Outward bound street from [[Duley and Port]], heading towards the coast and branching off as one of the few routes towards [[Davern Kingdom|Davern]]. Its name is simply derived off the novel telegraph system installed across its length, with flimsy wires mounted on wooden poles. 
+This road is paved for a decent length, but quickly turns into a dusty trodden pathway out in the wilds. However, the first lengths are prototyping a more reinforced road dubbed as “Fallt”, which is a coating from the heavy residues of [[Development of Petrochemistry]]. 
+Little travel occurs on this route spare for supplies and traders heading from and to the hamlets and villages out there. 
