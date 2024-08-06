@@ -2,7 +2,8 @@
 [[Road To Oreverhaul]]
 [[Sources and References]] [[Research scramble on Fibre Optics]]
 #SuSy 
-![[Mining Machines]]
+
+![[Mining Machines#^f786ea|Mining Machines]]
 
 # Regarding Benefaction and Dressing
 The desired metal of an ore is typically enclosed in a crystalline structure and encased by huge volumes of, for this case, uninteresting rock, hereby called gangue (also known as deaf rock).

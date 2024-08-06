@@ -3,6 +3,9 @@ tags:
   - SuSy
 ---
 # Sourcing Minerals
+
+^f786ea
+
 ## Generalised Excavation
 ### Targeted Local Outcrop Miner
 Akin to what SuSy has at the present point, but possibly with tiers (motor, drill head, maybe in-situ crushing) and more costly in operation
