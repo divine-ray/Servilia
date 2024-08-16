@@ -3,6 +3,8 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "fc-date": "text"
+    "fc-date": "text",
+    "Homework": "checkbox",
+    "hotlinks": "multitext"
   }
 }
