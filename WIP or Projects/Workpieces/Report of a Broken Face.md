@@ -16,5 +16,3 @@ This is how the Broken Blinds spend their day, left to their thinking.<p align="
 Yes. These Husks. Not even human anymore. </p>
 
 ---
-
-![[2024'05'02'19-37-42]]
