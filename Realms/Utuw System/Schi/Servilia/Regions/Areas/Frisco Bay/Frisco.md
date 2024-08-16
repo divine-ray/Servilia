@@ -1,7 +1,7 @@
 #Settlements #Faction 
 The only other noteworthy human capital besides Thylyist, namesake to the [Bay](Frisco%20Bay) and [[Frisco Bay Confederation|Confederation]].
 Originally founded by alive[^1] outcasts from Thylyist, they freed themselves from the nonsense of conservatism and doctrine, making them the de-facto leader in economic and scientific strength. 
-Central railway node, since the Friscoan built most if not all of the [[Servilian Railroad and Train Network]].
+Central railway node, since the Friscoan built most if not all of the [[Railroad and Trains of Servilia Assoc.]].
 
 Economically strong due to being central to trade, travel and business. Rather capable of competing with Thylyist, thus repeated victim to the [[Dogs of War]] in attempts of sabotage. 
 Rumours have it that the researchers over in Duley and -Port are working on novel and experimental military equipment to end Thylyist...
