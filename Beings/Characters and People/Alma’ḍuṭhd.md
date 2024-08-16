@@ -1,12 +1,12 @@
 ---
 tags:
   - Character
+  - Lunatics
 ---
-- [ ] #TODO 
-An orkish assassin, hired by the [[Lunatics]] to pacify and retrieve [[Serpensyll]]. Extremely ruthless and devoid of emotions. Along the backside of his neck are runic tattoos, purpose unknown. 
 
-His moral compass is severely damaged, ruthless towards his targets.
-He is a half-orc and is very scarred.
+A misled summoning of [[The Navigator]] by the [[Lunatics]].
+Sucessfully escaped the lunatics and is now chased by [[Serpensyll]].
 
-The Party may choose to either work with or against him.
+ 
 
+<https://www.dndbeyond.com/characters/76105111>
