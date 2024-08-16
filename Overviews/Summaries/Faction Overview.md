@@ -16,7 +16,7 @@ Originally founded by outcasts of Thylyist, who have been expelled due to ”her
 They freed themselves off the religious constraints, and are thus advancing at steady pace. 
 Current marvels of their craft involve [[Electricity]], the [[Development of Petrochemistry]] and [[Development of Printing]], all of which are conducted and researched on in [[Duley and Port]].
 Their scholars and researchers are roughly aware of magic and lesser details of it, but unable to harness and utilise it themselves, and not paid much attention to due to their yielding developments in technology. 
-Effectively the strongest, both economically and military, force, notably due to their intense naval operations at [[Brisburne]], and the extensive [[Servilian Railroad and Train Network]]. 
+Effectively the strongest, both economically and military, force, notably due to their intense naval operations at [[Brisburne]], and the extensive [[Railroad and Trains of Servilia Assoc.]]. 
 
 [^economy]:  Beliefs in more liberal economy, unrestrained science and technology, rights of the people in democracy. 
 ## [[Davern Kingdom]]
