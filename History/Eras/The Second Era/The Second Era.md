@@ -24,4 +24,4 @@ Undying people are considered unnatural (within Thylyist), and suffer from extre
 %%Future: Eventually, the Military gets couped by the Daeva revolutionists, backed by the Frisco Bay confederation.%%
 
 During this time, the outcast of Thylyist bunch up and settle in the [[Frisco Bay]], effectively founding the [[Frisco Bay Confederation|Bay Confederation]]. Freed from the religious-military dogma and propaganda of Thylyist, they rapidly outperform and rush past Thylyist in terms of development and economic strength.  
-A few of their major advancements include a peace treaty with any civilisation but Thylyist, the [[Servilian Railroad and Train Network]], the [[Development of Printing]] and eventually, electricity. 
+A few of their major advancements include a peace treaty with any civilisation but Thylyist, the [[Railroad and Trains of Servilia Assoc.]], the [[Development of Printing]] and eventually, electricity. 

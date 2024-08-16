@@ -10,4 +10,4 @@ Commonly depicted as derivatives of compass roses, as this emblem both provides 
 It is capable of altering starlight to guide and influence people. This is especially noticeable in [[Amida]] as the current [[Eternal Sea]] [[Spelljammers]] navigate using constellations. 
 
 Primary group of worship are the [[Lunatics]] in Stargard. 
-[[Serpensyll]] is the product of the lunatics trying to force a fragment of the Navigator into a vessel.
+[[Alma’ḍuṭhd]] is the product of the lunatics trying to force a fragment of the Navigator into a vessel.
