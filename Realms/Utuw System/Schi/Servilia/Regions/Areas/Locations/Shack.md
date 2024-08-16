@@ -2,8 +2,10 @@
 tags:
   - Workpiece
   - Poetry
+  - Location
 ---
-Out there in the fields stands a shack
+Out there in the fields 
+	stands a shack
 Or what remains of it.
 Torn by the winds and weathers, 
 It barely stands. 

@@ -3,8 +3,9 @@ tags:
   - Culture
   - Event
 ---
+***
 Please note that these rumours are not localised, local rumours are on their page.
-
+***
 - A perpetual storm rages over the Cronemoor Swamp.
 - A fell [[Katallja-Nâ|necromancer]] is releasing swarms of [[Undead Cat]]s, which are spreading mischief and misinformation.
 - The queen has been murdered by a red-robed assassin.

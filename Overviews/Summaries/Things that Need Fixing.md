@@ -11,7 +11,7 @@ aka: big obstructions for readability towards «other people»
 - [[Locations and You]]
 - good, summarising index of major actors
 	- I.e. politicians, military, religious leaders, economical officials, …  
-	- [[Character Overview]]
+	- [[Character Overview]] that isn't a dataview query
 - [[Stressors on Factions]] = faction motivations
 - why i am doing this -> [[Motivation]]
 - [[Complete History of Servilia]], since the entire history is busted and spread too widely

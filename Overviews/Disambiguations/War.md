@@ -10,5 +10,6 @@ You are likely looking for:
  - the [[Fall of the Lavish]], the conflict that wiped out the Lavish
  - [[Warfare]], a member of the [[Apocalyptic Quartet]]
  - The [[Second Mekhanite War]] against the [[Varuú]] and Pseudoneo
- The [[Second Mekhanite War]] against the [[Varuú]] and Pseudoneo
+ 
+The [[Second Mekhanite War]] against the [[Varuú]] and Pseudoneo
  
