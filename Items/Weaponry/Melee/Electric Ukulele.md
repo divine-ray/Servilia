@@ -1,10 +1,12 @@
-#Weapon 
-*And his music was electric.*Finest and most exotic wood, strung with exotic [metal](Inanistathine), but bearing smoulders, through which lightning bore its way. 
+---
+tags:
+  - Weapon
+  - Magical
+  - Item
+---
 
-
-### Stats
-Finest and most exotic wood, strung with exotic [metal](Inanistathine), but bearing smoulders, through which lightning bore its way. 
-
+*And his music was electric.*
+Finest and most exotic wood, strung with exotic [metal](Inanistathine), but bearing smoulders, through which lightning bore its way through. An intangible static seems to surround this instrument, unimpeded by conductors or flesh in its proximity. 
 
 ### Stats
 Bard's weapon. Any enemy in ranged attack radius will suffer 4d4+2 electric damage per round and 1d6 minutes of paralysation.
