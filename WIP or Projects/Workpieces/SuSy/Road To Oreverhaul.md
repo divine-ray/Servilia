@@ -1,3 +1,7 @@
+---
+tags:
+  - SuSy
+---
 First, something that i could possibly do with help, is create an auto-generator for the intermediates of crushed ores based on sizing (gravel/sand/dust/powder). 
 Each decrease of grain size comes with a higher power cost per unit and concentrates the desired mineral further. 
 In other words: Smaller grain = more EU/t

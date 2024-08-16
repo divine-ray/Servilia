@@ -1,3 +1,7 @@
+---
+tags:
+  - SuSy
+---
 Referring to [[Flaws of GT5u and Related]]; GT5u and *MANY* games suffer from didactic reduction which reduces complex procedures and chains into a (mostly) linear sequence of “A+B->Y+Z”.
 
 In reality, many chemical and pyrometallurgical processes operate in a continuous manner where x is added to a pool and (at certain conditions) y is removed. 
