@@ -4,6 +4,7 @@ tags:
   - Mekhanites
 ---
 
+Descendant of the Kzhan family, who have been providing High Engineers since the Second War. 
 
 High-Ranking Mekhanite who invented the concept of steam-propelled projective weapons, also known as steam gun.
 
