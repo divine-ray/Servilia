@@ -3,7 +3,7 @@ tags:
   - Character
   - Workpiece
 ---
-Some chap who is deeply frustrated with his work in the [[Citadel of the Gear]], tired of having to do all these ridiculous routines. He knows what'd be appropriate as someone who has been drafted into ritual maintenance after working as machinist for most of his life. He is considering to go public seeing how the machines in the catacombs get mistreated. ^62b73f
+Some chap who is deeply frustrated with his work in the [[Citadel of the Gear]], tired of having to do all these ridiculous routines. He knows what'd be appropriate as someone who has been drafted into ritual maintenance after working as machinist for most of his life. He is considering to go public seeing how the machines in the catacombs get mistreated. ^644954
 
 The barkeep of [[SICK]], they're nose-deep in the gossip and not afraid to make use of that.
 
@@ -16,3 +16,5 @@ They might become the one who unwillingly causes a last armed conflict to finall
 
 [[Tall Teller Michæl]]
 [[Manuel]]
+
+“Mr. Worldwide” - Some man who’s in charge of the [[Railroad and Trains of Servilia Assoc.]] and somewhat elusive of public presentation. 
