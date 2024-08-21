@@ -3,7 +3,7 @@ tags:
   - Workpiece
 ---
 A pair of glaring eyes piercing through the veil of the night, 
-[[cloaked in shadows]], they are aware of their observer, 
+[[Shadows Woven]], they are aware of their observer, 
 staring into the unfortunate soul which ends caught in their glimpse. 
 They know what you did; what sins you committed; whom you saved; whom you betrayed.
 With thine eyes we see all.
