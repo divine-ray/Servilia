@@ -2,6 +2,7 @@
   "pinned": [
     "file-explorer:move-file",
     "app:delete-file",
-    "zk-prefixer"
+    "zk-prefixer",
+    "daily-notes"
   ]
 }

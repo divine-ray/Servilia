@@ -14,4 +14,4 @@ One of the Patrons to the Citadel of the Gear, highly devout.
 
  
 
-<https://open.spotify.com/album/3qHPyK7e96uprnWQWzVOnB
+https://open.spotify.com/album/3qHPyK7e96uprnWQWzVOnB

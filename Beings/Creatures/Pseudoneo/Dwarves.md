@@ -6,7 +6,8 @@ tags:
 *Singular: Dwarv*
 [[Pseudoneo]] created by the [[Lavish]] to exploit the back-then newly arisen [[Hollow Mountains]] for resources. 
 
-In the subterranean ecosystem of the mountains, the Dwarves are rather high up, yet not the Apex Predator in the food chain, which led them to develop and create metallic body plating and amour, embedded and embossed onto their very bodies. 
+
+In the subterranean ecosystem of the mountains, the Dwarves are rather high up, yet not the apex predator in the food chain, which led them to develop and create metallic body plating and amour, embedded and embossed onto their very bodies. These platings have been observed to be akin to human clothing, as they convey important information such as age and status. 
 
 They're responsible for the rising instability of the mountains as they're only held up by the dwindling power of the fountainhead and rotting supports.
 

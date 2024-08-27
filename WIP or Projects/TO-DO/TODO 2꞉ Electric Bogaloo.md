@@ -21,9 +21,7 @@ so I’m assuming it is in relation to god-became nolka in cooperation with a gr
 possibly the utuw system is enclosed or wrapped in a Dyson sphere by a unknown actor?
 or to contain something considered malicious?
 
-## Dunestriders
-clay vessels, covered and possibly filled with mire and tar. origin unknown, yet they wander the dunes of the long savannah and sandy areas. oftentimes found in large herds, like flocks of sheep and cattle, but without their shepherd. 
-never inspected up close as their massive apothecaries, held high up by strands of tar, instil dread and fear towards local folks and oftentimes cause them to move or flee.
+![[Dunestriders]]
 
 ## the door
 [[Just open the door.]]
