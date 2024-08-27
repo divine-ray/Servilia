@@ -1,6 +1,6 @@
 [[Technical Implementations of 
 [[Road To Oreverhaul]]
-[[Sources and References]] [[Research scramble on Fibre Optics]]
+[[Sources and References]] [[Fibre Optics]]
 #SuSy 
 
 ![[Mining Machines#^f786ea|Mining Machines]]
