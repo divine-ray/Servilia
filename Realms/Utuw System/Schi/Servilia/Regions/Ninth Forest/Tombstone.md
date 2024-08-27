@@ -7,7 +7,7 @@ aat-render-enabled: true
 ---
 
 > [!NOTE]
-> This page covers the [present](Second%20Era) state of [[Làma'el-iri]], the capital/city-state of the [[Varuú]]. 
+> This page covers the [[The Second Era|present]] state of [[Làma'el-iri]], the capital/city-state of the [[Varuú]]. 
 
 A overgrown city, situated in the [[Ninth Forest]], [[Fall|laid to waste]] and rot long ago. Perhaps another victim of vessel raids?
 
