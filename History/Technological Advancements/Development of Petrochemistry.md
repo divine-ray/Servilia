@@ -5,10 +5,12 @@ tags:
 ---
 "It had to happen sometime"
 
-crude oil deposits are mostly found around the long savannah and somewhere in the proximity of the atoll islands in the astral ocean, the latter to remain untouched for ages since the realisation of offshore oil deposits being far away.
-the expensive extraction of oil has left coal/wood (gasification) favoured for fuelling purposes, with the entire chemistry processing of polymers yet to be found. 
-coal/wood gas is still used plentifully for lighting purposes using gas mantles, and among the few magic communities, aided by contracted fire spirits. 
-### Antiquity
+Crude oil deposits are mostly found around and in the [[Long Savannah]] and somewhere in the proximity of the atoll islands in the astral ocean, the latter to remain untouched for ages since the realisation of offshore oil deposits being far away.
+The expensive extraction of oil has left coal/wood (gasification) favoured for fuelling purposes, with processing of the fractions into fuel and polymers yet to be found. 
+Coal/wood gas is still used plentifully for lighting purposes using gas mantles, and among the few magic communities, aided by contracted fire spirits. 
+
+In recent studies, [[Dunestriders]] have been proven to consist primarily out of a mixture of tar, crude oil and associated semifluids. This has led inventors and technicians from Duley & Port to believe that dunestriders naturally feed off oil deposits, which would, if domesticated and harnessed, dramatically easen the production of petrochemicals. 
+### Earthen Antiquity
 
 The book of [II Maccabees](https://en.wikipedia.org/wiki/II_Maccabees "II Maccabees") (2nd cent. BC) tells how a "thick water" was put on a sacrifice at the time of [Nehemiah](https://en.wikipedia.org/wiki/Nehemiah "Nehemiah") and when the sun shone it caught fire. It adds that "those around Nehemiah termed this 'Nephthar', which means Purification, but it is called Nephthaei by the many."[6](https://en.wikipedia.org/wiki/Naphtha#cite_note-6) This same substance is mentioned in the [Mishnah](https://en.wikipedia.org/wiki/Mishnah "Mishnah") as one of the generally permitted oils for lamps on [Shabbat](https://en.wikipedia.org/wiki/Shabbat "Shabbat"), although [Rabbi Tarfon](https://en.wikipedia.org/wiki/Rabbi_Tarfon "Rabbi Tarfon") permits only [olive oil](https://en.wikipedia.org/wiki/Olive_oil "Olive oil") (Mishnah Shabbat 2).
 
