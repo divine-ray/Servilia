@@ -3,7 +3,7 @@ tags:
   - Workpiece
 ---
 %%[[Random Shit I found On Etsy]]%%
-`[REDACTED]` is the universal consciousness being known as the lord of angels, legend has it that he ascended as human flesh to become his present form.
+`[REDACTED]` is the universal consciousness being known as the lord of angels, legend has it that he ascended as human flesh to become his present form.^[[[Nølkā]] figure?]
 Those who come into contact with him discover an energy the size of a cosmos and paired with an intelligence beyond human comprehension.
 Divine Light Sanctuary is a unique ascension piece funnelling ones conscious to contact and assimilate the codes of `[REDACTED]`, the lord of angels.  
   
