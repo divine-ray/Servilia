@@ -2,6 +2,8 @@
 tags:
   - Workpiece
   - SuSy
+hotlinks:
+  - "[[Control Systems]]"
 ---
 on the most fundamental layer, an automatic locomotive system has to know two things:
 - where it is (and where it isn't )
