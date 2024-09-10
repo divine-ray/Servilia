@@ -1,6 +1,8 @@
 ---
 aliases:
   - Davern
+tags:
+  - Davern
 ---
 #Faction 
 A kingdom in a rather medieval state of development on transition to very very early tech (read: sophisticated agriculture), but already proficient in magic and other studies (present time). 

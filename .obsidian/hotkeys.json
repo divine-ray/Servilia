@@ -1,20 +1,18 @@
 {
-  "editor:swap-line-down": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
   "editor:swap-line-up": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Alt"
       ],
       "key": "ArrowUp"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
     }
   ],
   "app:toggle-left-sidebar": [
@@ -23,7 +21,7 @@
         "Alt",
         "Shift"
       ],
-      "key": "ArrowLeft"
+      "key": "ArrowRight"
     }
   ],
   "app:toggle-right-sidebar": [
@@ -32,7 +30,7 @@
         "Alt",
         "Shift"
       ],
-      "key": "ArrowRight"
+      "key": "ArrowLeft"
     }
   ]
 }
