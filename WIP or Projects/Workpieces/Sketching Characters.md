@@ -12,9 +12,13 @@ A lad who has been chosen by the gods or something to be the [[New King]] to Dav
 The former leaders of both [[Followers of Mekhane|Mekhanites]] and [[Nølkā]] (from back in the day of The War) are still "alive", but their corpses/husks suspended in time, forced to observe the consequences of their massacring and marauding.
 
 A wandering nolkan priest who has mostly abandoned their belief and local community (but kept their modifications), is now on the search for the true history of the [[War]] to resolve their inner peace.
-They might become the one who unwillingly causes a last armed conflict to finally resolve the troubles between the Mekhanites and remaining Nølkā. Resolve here leading into total Annihilation *or* peace negotiations *or* bringing the Mekhanites down.
+They might become the one who unwillingly causes a last armed conflict to finally resolve the troubles between the Mekhanites and remaining Nølkā. Resolve here meaning either of the three:
+- Leading into total Annihilation
+- *or* peace negotiations
+- *or* bringing the Mekhanites down.
 
 [[Tall Teller Michæl]]
 [[Manuel]]
+[[Valerie]] / [[10-49-48-09.09.24]]
 
 “Mr. Worldwide” - Some man who’s in charge of the [[Railroad and Trains of Servilia Assoc.]] and somewhat elusive of public presentation. 

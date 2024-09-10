@@ -9,6 +9,9 @@ The Elder Scrolls VI: Skyrim: Dagoth Ur, the Heart
 ### Minecraft related
 - Thaumcraft: Taint, Gauntlets for spellcasting
 - Botania/Witchery: Lifeforce as source of potential 
+- Blood Magic: saniguis et corpus arcanem (blood and flesh magic)
+### Other
+- Tales from the Loop: [[SC-AM]] 
 ## Music
 
 [Here's a Spotify Playlist for the songs listed below.](https://open.spotify.com/playlist/2Oso7xXvVmf0vPEKlvLjv3?si=90ce088620154bd0)
