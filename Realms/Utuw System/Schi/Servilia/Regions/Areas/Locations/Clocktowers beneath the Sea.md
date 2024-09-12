@@ -6,7 +6,7 @@ tags:
 What now is known as the [[Isle of Tankar]] was once the peak of a mountain long forgotten, from eras far away, before land has reared its body. 
 The first Mekhanites, the first ones to shape mass into design using power. Gears and springs, refined to perfection, made to endure, dragging their shambling remains into the present. 
 
-Rarely their distant sounds can be heard. We consider this an omen of something to whittle itself into existence, as the Lost Bells never carry good omens. 
+Rarely their distant sounds can be heard. We consider this an omen of something to whittle itself into existence, as the [[Division Bell]] never carries good omens. 
 Almost always the bells predated woes in our lands, raids, failing harvests, famines. 
 What is making them ring?
 One foreign traveller may find the saying "Oh, I can hear the bells" peculiar, yet local folks consider it impending ill-fate. 
