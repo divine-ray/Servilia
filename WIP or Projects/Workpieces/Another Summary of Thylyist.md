@@ -1,7 +1,7 @@
 > [!NOTE]
 > Informal; This has been copied from Private Messages and deemed useful enough to make it into here. 
 
-Originally, in the past, their[^1] [God](Mekhane) fought in wars and met destruction, fell into pieces, which got scattered across the lands and times, with the religion shattered, their remains reforming and entasked to reassemble them. they ended up betraying this quest and became sick with power.
+Originally, in the past, their[^1] [God](Mekhane.md) fought in wars and met destruction, fell into pieces, which got scattered across the lands and times, with the religion shattered, their remains reforming and entasked to reassemble them. they ended up betraying this quest and became sick with power.
 
 The present is a zealous/religious empire worshipping a dead machine-god.
 However his is only one of the three or four major [Factions](Faction%20Overview). They are covered elsewhere. 
