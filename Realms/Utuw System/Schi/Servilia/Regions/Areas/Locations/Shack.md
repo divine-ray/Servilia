@@ -19,6 +19,6 @@ The corn.
 Even if they were to care
 There would be nothing to find
 No foundations, no skeletons, no rotting bodies or wood. 
-Only remembrance and the dying spirit of the village, 
+Only remembrance and the dying spirit of the [[Ohrthyrst|city]], 
 driven into the shack like 
 a hunted animal. 
