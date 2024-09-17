@@ -12,3 +12,4 @@ Introducing: Nonkinetics.
 
 Most common in the contemporary battlefield are powerful laser beams, which occasionally also function as close-quarter-combat implements. 
 Defying the definition but still classified as nonkinetics are electromagnetic weapons such as coilguns and gauss rifles. 
+Heavier nonkinetics using particle beams are not suited for mobile combat platforms. Instead, they find applications in stationary fortifications and structures. 
