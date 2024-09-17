@@ -34,4 +34,4 @@ Numerators not integrated into the collective^[The corporate-associated numerato
 - [[A-5b]]
 	[[APAS Ltd.]] HQ, R&D, Testing and Deployment 
 - [[A-5c'a]]
-	[[protoGen Industrial Group]] HQ, Fabrication and R&D
+	[[protoGEN Industrial Group]] HQ, Fabrication and R&D
