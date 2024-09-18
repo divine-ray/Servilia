@@ -12,6 +12,7 @@ tags:
   - Frisco-Bay
   - Faction
   - Area
+  - Nation
 ---
 
 The confederation spanning the mostly-autonomous cities and rural areas of the [[Frisco Bay]].

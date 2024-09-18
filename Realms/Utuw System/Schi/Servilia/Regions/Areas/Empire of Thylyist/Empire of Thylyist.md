@@ -4,6 +4,7 @@ aliases:
 tags:
   - Thylyist
   - Faction
+  - Nation
 ---
 Capital of the human population; highly advanced in mechanics and metalworking. However, they are strictly conservative, if not regressive, about more advanced technology due to their [[Followers of Mekhane|religious dogmata]]. 
 The [[Archive of Old|Archive]] within the lowest Levels feature the staggering history of Thylyist: they [[Fall of the Lavish|eradicated]] [[The Lavish Empire]] after abusing them to forcibly relocate the god-gone [[Nølkā]]. -> [[The Second Era]]
