@@ -11,8 +11,11 @@ Those eyes blurry, washed out, an empty gaze upon an empty sky.
 Their face shattered, their eyes burnt, disfigured to achieve purity in mind.
 Their mouth wide agape, but nothing more than a hole for air to enter and leave through.
 Sat motionless in that thorny throne, inanimate as if dead, yet the ghastly wind proves otherwise.
-This is how the Broken Blinds spend their day, left to their thinking.<p align="right">Unable to do anything but, these are the greatest minds of our era.
+This is how the Broken Blinds spend their day, left to their thinking.
 
-Yes. These Husks. Not even human anymore. </p>
+
+
+Unable to do anything but, these are the greatest minds of our era.
+Yes. These [[Hollowed]] . Not even human anymore.
 
 ---
