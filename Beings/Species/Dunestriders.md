@@ -1,5 +1,9 @@
+---
+tags:
+  - Creature
+---
 
-Clay vessels, covered and possibly filled with mire and tar.
+Clay vessels, covered and usually filled with mire and tar.
 Intricately decorated like gargantuan grave gifts or religious antiquities. 
 Their origin unknown, yet they wander the dunes of the long savannah and [[deserts]]. 
 

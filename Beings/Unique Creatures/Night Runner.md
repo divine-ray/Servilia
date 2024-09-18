@@ -16,12 +16,9 @@ These appear during night-time and will likely assault exhausted travellers and 
 Passively inflicts psychical damage and increases Insanity.
 
 1d6+n psychical damage, n being insanity.
-
 ### Lost Vessel Theory
 These are likely Vessels without Mask which are loose and running wild.
 Carrying any Vessel components (cloth, mask) will gain their attention regardless of position and such, and they will attempt to acquire the components for themselves.
-
- 
 
 Understanding Celestial and Abyssal makes them directly addressable (100% chance) and allows the player to understand them. Still increases insanity.
 

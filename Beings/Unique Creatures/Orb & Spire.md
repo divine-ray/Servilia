@@ -1,4 +1,4 @@
-#enemies #Creature
+#Creature
 
 A bunch of perfectly spherical rocks, inert from a distance.
 Assemble into a column or spire when approached, engages in retaliation if attacked or threatened. 
