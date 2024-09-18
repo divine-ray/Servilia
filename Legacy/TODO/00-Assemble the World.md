@@ -8,7 +8,7 @@ tags:
 -   Hollow mountains encircling the Floating Islands, in close proximity to
 -   The Waste Flats, big outstretched salt flats in proximity to a desert, dead rivers
 -   Arctic tundra
-    -   And glacial / polar ice plains, home to the [[Heart Of Cold]]
+    -   And glacial / polar ice plains, home to the [[Heart of Cold]]
 -   Volcanic and desert-y hot lands, home to the CotF (they still live underground)
     -   The hot hot grass fields; slightly charred at their area
     -   [[Steam Gardens]]

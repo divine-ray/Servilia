@@ -1,6 +1,6 @@
 #Faction   #Location 
 
-A anarchic tribal cluster of winged, [sentient beings](Songbird), residing in the [[Northern Reaches]] and the [[Crevice Canyons]]. Certainly distinct from [Songbirds](Songbird) and self-distinguished from the [[Avian Renegades]], these creatures adapted and modified themselves towards ideal lethality and efficiency. 
+A anarchic tribal cluster of winged, [sentient beings](Songbird.md), residing in the [[Northern Reaches]] and the [[Crevice Canyons]]. Certainly distinct from [Songbirds](Songbird.md) and self-distinguished from the [[Avian Renegades]], these creatures adapted and modified themselves towards ideal lethality and efficiency. 
 Once within the families of songbirds, these extremes-seeking outcasts changed and turned themselves towards the harsh, brutish wilderness. 
 
 They've made themselves into extremely agile hunters, and are cultured as such. Due to the nature of their home, they're virtually unable to leave their territories due to perfect adaptation to their realm.

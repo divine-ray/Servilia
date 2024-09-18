@@ -3,7 +3,7 @@ tags:
   - Workpiece
   - Story-Fragment
 ---
-I want to fly, I want to learn to fly. I have these [wings](Songbird), but they are shattered and limp. Someone must've ripped them off their original body, they're covered in blood. 
+I want to fly, I want to learn to fly. I have these [wings](Songbird.md), but they are shattered and limp. Someone must've ripped them off their original body, they're covered in blood. 
 
 "Healer, doctor, tell me, how can these wings heal?"
 "They will not heal, they are dead, and starting to rot."

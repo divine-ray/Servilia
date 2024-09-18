@@ -5,7 +5,7 @@ tags:
   - The-Cold
 ---
 To the [displaced north](Northern%20Reaches)
-[a heart](Heart%20of%20Cold) lies.
+[a heart](Heart%20of%20Cold.md) lies.
 Frozen and cold
 but alive regardless.
 
