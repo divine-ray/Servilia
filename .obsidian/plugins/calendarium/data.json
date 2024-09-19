@@ -159,12 +159,68 @@
         "displayMoons": true,
         "displayDayNumber": true,
         "leapDays": [],
-        "eras": []
+        "eras": [
+          {
+            "id": "ID_c968693a9a48",
+            "type": "era",
+            "name": "Genesis",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": true,
+            "date": {
+              "year": 1425,
+              "month": 0,
+              "day": 3
+            }
+          },
+          {
+            "id": "ID_38f88bd99ba9",
+            "type": "era",
+            "name": "First Era",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": 122,
+              "month": 3,
+              "day": 3
+            },
+            "end": {
+              "year": 1258,
+              "month": 8,
+              "day": 17
+            }
+          },
+          {
+            "id": "ID_68fb8b1b6979",
+            "type": "era",
+            "name": "Second Era",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 17,
+              "month": 3,
+              "year": 1278
+            }
+          }
+        ],
+        "years": [],
+        "useCustomYears": false
       },
       "current": {
-        "year": 1425,
+        "day": 3,
         "month": 0,
-        "day": 3
+        "year": 1425
       },
       "events": [
         {
@@ -473,7 +529,8 @@
       "syncTimelines": true,
       "timelineTag": "#timeline",
       "displayWeeks": true,
-      "showIntercalarySeparately": false
+      "showIntercalarySeparately": false,
+      "inlineEventTag": null
     }
   ],
   "configDirectory": null,
