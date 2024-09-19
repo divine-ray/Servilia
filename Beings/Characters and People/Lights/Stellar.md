@@ -1,7 +1,6 @@
 ---
 tags:
   - Diffused-Light
-  - Apartment-403
 ---
 Colours converging, emerging from the blended mass they just collapsed into. 
 Swirling liquids, like oil on water that protests unification, insisting on its individuality. 
