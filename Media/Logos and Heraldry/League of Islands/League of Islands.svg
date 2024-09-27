@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1536" height="1924" viewBox="0 0 200 200">
+  <defs>
+    <clipPath id="shield_664559293">
+      <path d="M 10,40 h180 v120 h-180 Z"/>
+    </clipPath>
+    <clipPath id="division_664559293">
+      <polygon points="0,0 200,200 0,200"/>
+    </clipPath>
+    <style>.secondary {
+      fill: var(--secondary);
+    }
+    .tertiary {
+      fill: var(--tertiary);
+    }
+    .pseudostroke {
+      fill: var(--stroke);
+    }
+    .background {
+      display: var(--background);
+    }</style>
+    <radialGradient id="backlight" cx="100%" cy="100%" r="150%">
+      <stop stop-color="#fff" stop-opacity=".3" offset="0"/>
+      <stop stop-color="#fff" stop-opacity=".15" offset=".25"/>
+      <stop stop-color="#000" stop-opacity="0" offset="1"/>
+    </radialGradient>
+    <g id="compassRose" stroke-width=".5" author="Azgaar" license="https://creativecommons.org/publicdomain/zero/1.0">
+      <path d="M100 60l6 28 14-8-8 15 28 5-28 6 8 14-14-8-6 28-6-28-14 8 8-14-28-6 28-6-8-14 14 8z"/>
+      <path fill="#000" stroke="#000" fill-opacity=".5" stroke-opacity=".2" d="M100 61v39l7-6 5 1c2.7-5 5.3-10 8-15-4.3 4.3-8.7 9.7-13 14-2.3-10.7-4.7-22.3-7-33zm0 39l7 7c10.7-2.3 21.3-4.7 32-7zm0 0l-7 7c2.3 10.7 4.7 21.3 7 32zm0 0l-7-7-32 7zm-7-7l1-5-14-8zm0 14c-1.7-.3-3.3-.7-5-1-2.7 4.7-5.3 9.3-8 14l13-13zm14 0c-.3 1.7-.7 3.3-1 5 4.7 2.7 9.3 5.3 14 8z"/>
+    </g>
+    <pattern id="barry-purpure-gules" width="25" height="100" viewBox="0 0 25 100" patternUnits="userSpaceOnUse">
+      <rect width="25" height="100" fill="#d7374a"/>
+      <rect x="0" y="25" width="25" height="25" fill="#522d5b"/>
+      <rect x="0" y="75" width="25" height="25" fill="#522d5b"/>
+    </pattern>
+    <pattern id="barry-argent-azure" width="25" height="100" viewBox="0 0 25 100" patternUnits="userSpaceOnUse">
+      <rect width="25" height="100" fill="#377cd7"/>
+      <rect x="0" y="25" width="25" height="25" fill="#fafafa"/>
+      <rect x="0" y="75" width="25" height="25" fill="#fafafa"/>
+    </pattern>
+    <style xmlns="http://www.w3.org/1999/xhtml" type="text/css"></style>
+  </defs>
+  <g clip-path="url(#shield_664559293)">
+    <rect class="field" x="0" y="0" width="200" height="200" fill="url(#barry-purpure-gules)"/>
+    <g class="division" clip-path="url(#division_664559293)">
+      <rect x="0" y="0" width="200" height="200" fill="url(#barry-argent-azure)"/>
+    </g>
+    <g class="charge" i="0" charge="compassRose" fill="#ffe066" stroke="none" style="--secondary: #ffe066; --tertiary: #ffe066; --stroke: none; --background: block;">
+      <use xlink:href="#compassRose" transform="translate(-40 -40) scale(1.4)"/>
+    </g>
+  </g>
+  <path class="grad" d="M 10,40 h180 v120 h-180 Z" fill="url(#backlight)" stroke="#333333" stroke-width="1" style="pointer-events: none;"/>
+</svg>

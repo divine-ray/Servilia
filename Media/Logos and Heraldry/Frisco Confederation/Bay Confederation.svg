@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1536" height="1924" viewBox="2.5 0 200 200">
+  <defs>
+    <clipPath id="shield_871305465">
+      <path d="M 10,40 h190 l-65,60 65,60 h-190 Z"/>
+    </clipPath>
+    <style>.secondary {
+      fill: var(--secondary);
+    }
+    .tertiary {
+      fill: var(--tertiary);
+    }
+    .pseudostroke {
+      fill: var(--stroke);
+    }
+    .background {
+      display: var(--background);
+    }</style>
+    <linearGradient id="luster" x1="0%" y1="100%" x2="95%" y2="10%">
+      <stop stop-color="#000" stop-opacity=".3" offset="0"/>
+      <stop stop-color="#ccc" stop-opacity="0" offset=".8"/>
+      <stop stop-color="#fff" stop-opacity=".2" offset="1"/>
+    </linearGradient>
+    <g id="rustre" author="Azgaar" license="https://creativecommons.org/publicdomain/zero/1.0">
+      <path d="M100 55l30 45-30 45-30-45zm-12 45a12 12 0 1024 0 12 12 0 10-24 0"/>
+    </g>
+    <style xmlns="http://www.w3.org/1999/xhtml" type="text/css"></style>
+  </defs>
+  <g clip-path="url(#shield_871305465)">
+    <rect class="field" x="0" y="0" width="200" height="200" fill="#fafafa"/>
+    <g class="ordinary" i="0" fill="#ffe066" stroke="none" stroke-width="1">
+      <path d="M 10,40 h190 l-65,60 65,60 h-190 Z" fill="none" stroke="#ffe066" stroke-width="33.3"/>
+    </g>
+    <g class="ordinary" i="1" transform="translate(-5 0)" fill="#333333" stroke="none" stroke-width="1">
+      <path d="M 10,40 h190 l-65,60 65,60 h-190 Z" fill="none" stroke="#333333" stroke-width="10" transform="translate(15 15) scale(.85)"/>
+    </g>
+    <g class="charge" i="0" charge="rustre" fill="#333333" transform="translate(-25 0) rotate(90 100 100)" stroke="none" style="--secondary: #333333; --tertiary: #333333; --stroke: none; --background: block;">
+      <use xlink:href="#rustre" transform="translate(2 2) scale(0.98)"/>
+    </g>
+  </g>
+  <path class="grad" d="M 10,40 h190 l-65,60 65,60 h-190 Z" fill="url(#luster)" stroke="#333333" stroke-width="1" style="pointer-events: none;"/>
+</svg>

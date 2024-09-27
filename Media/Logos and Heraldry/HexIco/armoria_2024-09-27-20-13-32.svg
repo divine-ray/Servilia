@@ -1,0 +1,20 @@
+<svg width="1294" height="1896" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><defs><clipPath id="shield_405174157"><path d="M 100,12 176.2,56 176.2,144 100,188 23.8,144 23.8,56 Z"/></clipPath><style>.secondary {
+      fill: var(--secondary);
+    }
+    .tertiary {
+      fill: var(--tertiary);
+    }
+    .pseudostroke {
+      fill: var(--stroke);
+    }
+    .background {
+      display: var(--background);
+    }</style><linearGradient id="luster" x1="0%" y1="100%" x2="95%" y2="10%">
+            <stop stop-color="#000" stop-opacity=".3" offset="0"/>
+            <stop stop-color="#ccc" stop-opacity="0" offset=".8"/>
+            <stop stop-color="#fff" stop-opacity=".2" offset="1"/>
+          </linearGradient><g id="lozenge" author="Azgaar" license="https://creativecommons.org/publicdomain/zero/1.0">
+    <polygon points="100 60 135 100 100 140 65 100"/>
+  </g><g id="rustre" author="Azgaar" license="https://creativecommons.org/publicdomain/zero/1.0">
+    <path d="M100 55l30 45-30 45-30-45zm-12 45a12 12 0 1024 0 12 12 0 10-24 0"/>
+  </g><style xmlns="http://www.w3.org/1999/xhtml" type="text/css"></style></defs>   <g clip-path="url(#shield_405174157)"><rect class="field" x="0" y="0" width="200" height="200" fill="#b63a3a"/><g class="ordinary" i="0" fill="#ffe066" stroke="none" stroke-width="1"><path d="M 100,12 176.2,56 176.2,144 100,188 23.8,144 23.8,56 Z" fill="none" stroke="#ffe066" stroke-width="10" transform="translate(15 15) scale(.85)"/></g><g class="charge" i="0" charge="lozenge" fill="#ffe066" stroke="none" style="--secondary: #ffe066; --tertiary: #ffe066; --stroke: none; --background: block;"><use xlink:href="#lozenge" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(-50 -50) scale(1.5)"/></g><g class="charge" i="1" charge="rustre" fill="#b63a3a" stroke="none" style="--secondary: #b63a3a; --tertiary: #b63a3a; --stroke: none; --background: block;"><use xlink:href="#rustre" xmlns:xlink="http://www.w3.org/1999/xlink"/></g></g> <path class="grad" d="M 100,12 176.2,56 176.2,144 100,188 23.8,144 23.8,56 Z" fill="url(#luster)" stroke="#333333" stroke-width="1" style="pointer-events: none;"/>   </svg>

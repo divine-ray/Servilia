@@ -1,0 +1,16 @@
+<svg width="1294" height="1896" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><defs><clipPath id="shield_731580128"><path d="M 10,40 h180 v120 h-180 Z"/></clipPath><clipPath id="division_731580128"><polygon points="200,0 0,200 200,200"/></clipPath><style>.secondary {
+      fill: var(--secondary);
+    }
+    .tertiary {
+      fill: var(--tertiary);
+    }
+    .pseudostroke {
+      fill: var(--stroke);
+    }
+    .background {
+      display: var(--background);
+    }</style><linearGradient id="luster" x1="0%" y1="100%" x2="95%" y2="10%">
+            <stop stop-color="#000" stop-opacity=".3" offset="0"/>
+            <stop stop-color="#ccc" stop-opacity="0" offset=".8"/>
+            <stop stop-color="#fff" stop-opacity=".2" offset="1"/>
+          </linearGradient><pattern id="barry-gules-purpure" width="25" height="100" viewBox="0 0 25 100" patternUnits="userSpaceOnUse"><rect width="25" height="100" fill="#522d5b"/><rect x="0" y="25" width="25" height="25" fill="#d7374a"/><rect x="0" y="75" width="25" height="25" fill="#d7374a"/></pattern><pattern id="barry-argent-azure" width="25" height="100" viewBox="0 0 25 100" patternUnits="userSpaceOnUse"><rect width="25" height="100" fill="#377cd7"/><rect x="0" y="25" width="25" height="25" fill="#fafafa"/><rect x="0" y="75" width="25" height="25" fill="#fafafa"/></pattern><style xmlns="http://www.w3.org/1999/xhtml" type="text/css"></style></defs>   <g clip-path="url(#shield_731580128)"><rect class="field" x="0" y="0" width="200" height="200" fill="url(#barry-gules-purpure)"/><g class="division" clip-path="url(#division_731580128)"><rect x="0" y="0" width="200" height="200" fill="url(#barry-argent-azure)"/></g></g> <path class="grad" d="M 10,40 h180 v120 h-180 Z" fill="url(#luster)" stroke="#333333" stroke-width="1" style="pointer-events: none;"/>   </svg>

@@ -1,0 +1,18 @@
+<svg width="1294" height="1896" viewBox="2.5 0 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><defs><clipPath id="shield_157526920"><path d="M 10,40 h190 l-65,60 65,60 h-190 Z"/></clipPath><style>.secondary {
+      fill: var(--secondary);
+    }
+    .tertiary {
+      fill: var(--tertiary);
+    }
+    .pseudostroke {
+      fill: var(--stroke);
+    }
+    .background {
+      display: var(--background);
+    }</style><radialGradient id="spotlight" cx="35%" cy="35%" r="100%">
+            <stop stop-color="#fff" stop-opacity=".3" offset="0"/>
+            <stop stop-color="#fff" stop-opacity=".15" offset=".2"/>
+            <stop stop-color="#000" stop-opacity="0" offset=".7"/>
+          </radialGradient><g id="roundel" author="Azgaar" license="https://creativecommons.org/publicdomain/zero/1.0">
+    <circle cx="100" cy="100" r="30"/>
+  </g><style xmlns="http://www.w3.org/1999/xhtml" type="text/css"></style></defs>   <g clip-path="url(#shield_157526920)"><rect class="field" x="0" y="0" width="200" height="200" fill="#fafafa"/><g class="ordinary" i="0" fill="#333333" stroke="none" stroke-width="1"><path d="M 10,40 h190 l-65,60 65,60 h-190 Z" fill="none" stroke="#333333" stroke-width="33.3"/></g><g class="ordinary" i="1" transform="translate(-5 0)" fill="#26c061" stroke="none" stroke-width="1"><path d="M 10,40 h190 l-65,60 65,60 h-190 Z" fill="none" stroke="#26c061" stroke-width="10" transform="translate(15 15) scale(.85)"/></g></g> <path class="grad" d="M 10,40 h190 l-65,60 65,60 h-190 Z" fill="url(#spotlight)" stroke="#333333" stroke-width="1" style="pointer-events: none;"/> <g class="charge" i="0" charge="roundel" fill="#333333" transform="translate(-25 0)" stroke="none" style="--secondary: #333333; --tertiary: #333333; --stroke: none; --background: block;"><use xlink:href="#roundel" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(2 2) scale(0.98)"/></g>  </svg>

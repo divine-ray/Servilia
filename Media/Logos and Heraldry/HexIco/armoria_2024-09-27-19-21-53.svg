@@ -1,0 +1,18 @@
+<svg width="1294" height="1896" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><defs><clipPath id="shield_665860040"><path d="M 100,12 176.2,56 176.2,144 100,188 23.8,144 23.8,56 Z"/></clipPath><clipPath id="division_665860040"><path d="m 0,115 v -20 h 7 l -5,10 h 10 l 5,-10 h 10l -5,10 h 10 l 5,-10 h 10l -5,10 h 10 l 5,-10 h 10l -5,10 h 10 l 5,-10 h 10l -5,10 h 10 l 5,-10 h 10l -5,10 h 10 l 5,-10 h 10l -5,10 h 10 l 5,-10 h 10l -5,10 h 10 l 5,-10 h 10l -5,10 h 10 l 5,-10 h 10 l -5,10 h 10 l 5,-10 h 3 v 20 V200 H0 Z"/></clipPath><style>.secondary {
+      fill: var(--secondary);
+    }
+    .tertiary {
+      fill: var(--tertiary);
+    }
+    .pseudostroke {
+      fill: var(--stroke);
+    }
+    .background {
+      display: var(--background);
+    }</style><linearGradient id="luster" x1="0%" y1="100%" x2="95%" y2="10%">
+            <stop stop-color="#000" stop-opacity=".3" offset="0"/>
+            <stop stop-color="#ccc" stop-opacity="0" offset=".8"/>
+            <stop stop-color="#fff" stop-opacity=".2" offset="1"/>
+          </linearGradient><g id="annulet" author="Azgaar" license="https://creativecommons.org/publicdomain/zero/1.0">
+    <path d="M70 100c0 16.569 13.431 30 30 30 16.569 0 30-13.431 30-30 0-16.569-13.431-30-30-30-16.569 0-30 13.431-30 30m10 0c0-11.046 8.954-20 20-20s20 8.954 20 20-8.954 20-20 20-20-8.954-20-20"/>
+  </g><style xmlns="http://www.w3.org/1999/xhtml" type="text/css"></style></defs>   <g clip-path="url(#shield_665860040)"><rect class="field" x="0" y="0" width="200" height="200" fill="#333333"/><g class="division" clip-path="url(#division_665860040)"><rect x="0" y="0" width="200" height="200" fill="#d7374a"/></g><g class="ordinary" i="0" transform="translate(0 -34)" fill="#b63a3a" stroke="none" stroke-width="1"><g><polygon points="0,75 100,140 200,75 200,35 100,100 0,35"/></g></g><g class="charge" i="0" charge="annulet" fill="#cc7f19" stroke="none" style="--secondary: #cc7f19; --tertiary: #cc7f19; --stroke: none; --background: block;"><use xlink:href="#annulet" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(25 65) scale(0.75)"/></g></g> <path class="grad" d="M 100,12 176.2,56 176.2,144 100,188 23.8,144 23.8,56 Z" fill="url(#luster)" stroke="#333333" stroke-width="1" style="pointer-events: none;"/>   </svg>
