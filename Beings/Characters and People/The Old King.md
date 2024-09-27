@@ -24,4 +24,4 @@ Known as [[King Erl the Yellow]], Earlking or other permutations during his reig
 ![[King in Yellow.jpg]]
 
 > [!INFO] Outdated
-> He was the first king to sit atop the [[throne of ascension]], and the last to be granted divine reason by it. In the end, everything eventually demands, and forcibly takes, its toll. 
+> He was the first king to sit atop the throne of ascension, and the last to be granted divine reason by it. In the end, everything eventually demands, and forcibly takes, its toll. 
