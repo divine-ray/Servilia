@@ -1,4 +1,4 @@
-[[Amidan Hexlogos]]
+[[Amidan Hexlogos]] [[Empire of Thylyist Heraldry]]
 # [[League of Islands]]
 https://azgaar.github.io/Armoria/?coa={"t1":"barry-gules-purpure","shield":"flag","division":{"division":"perBendSinister","line":"straight","t":"barry-argent-azure"}}
 
