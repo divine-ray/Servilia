@@ -2,6 +2,7 @@
 tags:
   - Amida
   - Regions
+  - Numerator
 ---
 Sectors is the designation given for the chassis of a [[Numerator]]. As every numerator is able and required to manage their structure, these reflect the numerator's character and collective identity. 
 This self-governance, long trials and conflicts have led to them being treated as states of their own. 
