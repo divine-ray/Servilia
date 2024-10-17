@@ -23,7 +23,7 @@ You/The Player may choose from one of the following to cheat death, however, it 
 	%%A sophisticated autonomous construct with high degrees of freedom, which is forced to complete some task during the campaign.%% 
 
 - Frozen/[[The Cold|Cold]] Husk
-	%%Frozen/Cold Husk as a entity that has obtainend some degree of autonomy from a Heart of Cold. %%
+	%%Frozen/Cold Husk as a entity that has obtained some degree of autonomy from a Heart of Cold. %%
 ***
 
 
