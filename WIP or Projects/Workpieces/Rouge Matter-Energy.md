@@ -10,4 +10,4 @@ This portal ability is driven by experimental technology in it's parent Numerato
 Or rouge, autonomous fragments that cannot reason and are driven by simulated dopamine kicks. 
 	Raw, primal in nature, killing for nothing but adrenaline as it lacks a body to sustain and feed.
 
-Likely originated/birthed from a [[Memory]] fracture of a [[Numerator]] through assault of physical and psychical (digital) means. 
+Likely originated/birthed from a [[Memory Arrays]] fracture of a [[Numerator]] through assault of physical and psychical (digital) means. 
