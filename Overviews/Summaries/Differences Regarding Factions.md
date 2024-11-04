@@ -4,7 +4,7 @@ tags:
   - Faction
   - Overview
 ---
-## Thylyist
+## [[Empire of Thylyist|Thylyist]]
 ### Boons
 - Attunement to all things mechanical
 - Easy access to various military and economic resources
@@ -17,7 +17,7 @@ tags:
 	> Magic? doesn‘t exist
 
 Kill-on-Sight orders from Dragonkin, Frisco and Exile/Nolka
-## Sepulchre
+## [[Sepulchre]]
 ### Boons
 - Sense of community; shared goods across the necropolis (i.e. less requirements for money)
 - Diplomatic relations to Frisco
