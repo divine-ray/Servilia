@@ -5,6 +5,7 @@
     "tags": "tags",
     "fc-date": "text",
     "Homework": "checkbox",
-    "hotlinks": "multitext"
+    "hotlinks": "multitext",
+    "previous-page": "text"
   }
 }
