@@ -1,7 +1,11 @@
 ---
-tags: faction
---- 
-A loose group of first-generation songbirds, who broke their shackles (both metaphorically and physically) from the Lavish.
+tags:
+  - Faction
+  - Pseudoneo
+  - Tribe
+---
+
+A loose group of first-generation [[Songbird|Songbirds]], who broke their shackles (both metaphorically and physically) from the Lavish.
 Seen more times than not around the [[Dwarves]], as they source their parts from the dwarven machinations. 
 They're the only known songbirds that can reproduce solely by themselves. 
 Ancestors to the [[Empire of Winds]], as they are built tough and enduring. 

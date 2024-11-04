@@ -1,4 +1,8 @@
-#Settlements #Faction 
+---
+tags:
+  - Settlements
+  - Frisco-Bay
+---
 The only other noteworthy human capital besides Thylyist, namesake to the [Bay](Frisco%20Bay) and [[Frisco Bay Confederation|Confederation]].
 Originally founded by alive[^1] outcasts from Thylyist, they freed themselves from the nonsense of conservatism and doctrine, making them the de-facto leader in economic and scientific strength. 
 Central railway node, since the Friscoan built most if not all of the [[Railroad and Trains of Servilia Assoc.]].

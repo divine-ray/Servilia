@@ -2,10 +2,10 @@
 tags:
   - Lunatics
   - Settlements
-  - Faction
 ---
 ## Overview
-A community of isolated and deranged sorcerers who devote their time towards the study and use of celestial bodies and formations. A decent part of their population is made from other outcasts and strangers.  
+The capital of [[Lunatius]], a nation of isolated and deranged sorcerers who devote their time towards the study and use of celestial bodies and formations. 
+A decent part of their population is made from other outcasts and strangers.  
 The only remaining actively practising guild for Astral Sorcery.
 Townsfolk and activity are only seen past sundown and cease after sunrise; during the day, every citizen sleeps until nightfall. There are only few accommodations and housing-for-hire that offer a "normal" opening schedule for foreigners.
 ### Location
@@ -28,4 +28,5 @@ An overgrown temple ruin, which appears restored upon the night of the equinox. 
 
 A ruined tower of shattered stone walls, said to be haunted by the ghost of the last empress of a long-forgotten empire. Offerings placed in the crudely-worked altar will be gone by the next full moon, but no one proofed if it actually is the bespoke ghost or just beggars. 
 ![[The Oculus of Night]]
+
 ![[Lunar Gateways]]
