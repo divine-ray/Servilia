@@ -14,7 +14,7 @@ Notable events are described in [[Before the First Era]].
 #### Alliance and Peace
 The time during which Humans, Lavish and all others coexisted without conflict or war.
 Alliances and collaborations between species were common, science and magic were thriving. 
-One such collaboration resulted in the [[ti-mud'ĝál Ĝiš-hur|Create Life Plan]] to birth the [[Varuú]], the pseudoneo species to replace Humanity. 
+One such collaboration resulted in the [[ti-mud'ĝál Ĝiš-hur|Create Life Plan]] to birth the [[Vaaruú]], the pseudoneo species to replace Humanity. 
 Lasted around {1200 earthen years}. 
 
 Thylyist developed into a fully-fledged nation/empire from the former fort installation of Thylyist, which sheltered the remains of the Mekhanites during the end of the [[Nølkā-Mekhanite War]].
@@ -31,4 +31,4 @@ The end of the First Era was foreshadowed by the Thylyian order to redirect the 
 A final echo of democracy was quelled after the [[Followers of Mekhane|Mekhanites]] executed the [[Council of Thylyist]] in the coup d'état later known as [[Betrayal]]. 
 Betrayal of their upheld goals, of liberty, of free thought. Turning down, turning to face the past and revering standstill and oppressing anyone who considers otherwise. 
 
-After the forcible gathering of apotheotic Nølkā and similar entities/people within the erected mountains, Thylyist turned the vast armadas of Pseudoneo entities against the lavish and [[Varuú]], and then issued them^[The Pseudoneo.] to execute themselves, effectively reverting and stalling all progress made since the inception. 
+After the forcible gathering of apotheotic Nølkā and similar entities/people within the erected mountains, Thylyist turned the vast armadas of Pseudoneo entities against the lavish and [[Vaaruú]], and then issued them^[The Pseudoneo.] to execute themselves, effectively reverting and stalling all progress made since the inception. 

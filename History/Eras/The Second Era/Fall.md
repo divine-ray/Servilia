@@ -120,7 +120,7 @@ to remember,  this tragic individual
 ***
 
 > [!tldr] Summary
-> Through a coordinated operation sometime during the [[War]] the majority of [[Varuú]] in [[lost]]
+> Through a coordinated operation sometime during the [[War]] the majority of [[Vaaruú]] in [[lost]]
 
 
 

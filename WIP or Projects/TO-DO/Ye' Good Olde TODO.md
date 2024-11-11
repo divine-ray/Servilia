@@ -77,7 +77,7 @@
 
 
 ## Species
-- [ ] [[Varuú]] 
+- [ ] [[Vaaruú]] 
 the experiments of lavish pseudoneo capabilities on humanoids, infused with twilight, building the city known as `[[Lost City of the Ninth Forest|Tombstone]]`, and the \[\[Archive of Old]]. Probably the first group to be shoved into Exile. 
 - [x] eurasian shadowmaw, also rebrand to fit (Padia?)
 - ### northern glasswing??

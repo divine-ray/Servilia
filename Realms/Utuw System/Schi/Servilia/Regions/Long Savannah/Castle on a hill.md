@@ -8,5 +8,5 @@ After the devastation of it and the surrounding areas, scavengers and pillagers 
 
 Headquarters to the [[Children of The Flame]]. Epicentre of the [[Scorched Acres]], hard shell to the [[Crimson Heart]], protecting it and the children from any outsiders. 
 
-Otherwise Home to a few hollowed elvs/[[Varuú]], who get supervised by benevolent gnomes/gremlins.
+Otherwise Home to a few hollowed elvs/[[Vaaruú]], who get supervised by benevolent gnomes/gremlins.
 

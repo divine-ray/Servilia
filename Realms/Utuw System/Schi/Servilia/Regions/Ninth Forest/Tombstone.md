@@ -7,7 +7,7 @@ aat-render-enabled: true
 ---
 
 > [!NOTE]
-> This page covers the [[The Second Era|present]] state of [[Làma'el-iri]], the initial settlement/city-state of the [[Varuú]]. 
+> This page covers the [[The Second Era|present]] state of [[Làma'el-iri]], the initial settlement/city-state of the [[Vaaruú]]. 
 
 
 A overgrown city, situated in the [[Ninth Forest]], [[Fall|laid to waste]] and rot long ago. Perhaps another victim of vessel raids?

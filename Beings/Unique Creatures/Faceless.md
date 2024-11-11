@@ -4,7 +4,7 @@ tags:
   - Vaaruu
 ---
 
-A curse or other [[Fall|misfortune]] has driven these poor [[Varuú|people]] insane, yet not letting them die.
+A curse or other [[Fall|misfortune]] has driven these poor [[Vaaruú|people]] insane, yet not letting them die.
 Possibly hollow or undead people which have lost all mental integrity.
 
 Upon careful inspection, you recognise their catastrophically degraded mental condition.
