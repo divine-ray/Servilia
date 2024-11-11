@@ -1,10 +1,8 @@
--  [ ] #TODO 
-
-The [[Faceless]] now haunting/residing within [[Tombstone|Tombstone]] are the withered remains from [[Varuú|descendants]] of a highly ambitious project, that being the combination of Dragonborne and Pseudoneo technology.
+The [[Faceless]] now haunting/residing within [[Tombstone|Tombstone]] are the withered remains from [[Vaaruú|descendants]] of a highly ambitious project, that being the combination of [[Dragonkin]] and [[Pseudoneo]] technology.
 Given their notable skills in arcane engineering and twilit weaving alike, they created many marvels in all fields of the crafts. Little of their inventions remain, those known are instruments of terror and destruction. 
 ## Downfall
 *[[Fall of the Lavish|During the end of the First Era]]*
-The [[Fall|carnage]] brought upon them[^1] caused the few surviving citizens to go insane from the trauma, tearing their local twilit continuum apart. This caused the orderly disassembly of Tombstone, as their buildings were infused with twilit and Amarisk. 
+The [[Fall|carnage]] brought upon [[Second Mekhanite War|them]][^1] caused the few surviving citizens to go insane from the trauma, tearing their local twilit continuum apart. This caused the orderly disassembly of [[Làma'el-iri]] into the ruins now known as [[Tombstone]]tone, as their buildings were infused with twilit and Amarisk. 
 > [!WARNING]- Outdated 
 > basically the faceless now inhibiting Tombstone were somehow affiliated to the immense pool of knowledge that the archive of old (thylyist + lavish) is/was
 > this made them capable of producing the [[OA-WS BST Model 7ⁿ]] amongst other now-legendary arms and tools
