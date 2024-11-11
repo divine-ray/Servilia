@@ -13,4 +13,4 @@ What as this? Is this what pure darkness looks like, instilled upon metal?
 Did some fool try and succeed with turning [[The Void|nothing]] into something?
 It eludes touch, shaping itself away, fleeting into liquid like wretched quicksilver.
 
-Working this beast of a material is nigh impossible using conventional measures of hearth and hammer. Possibly it’s evasion could be used against itself…h
+Working this beast of a material is nigh impossible using conventional measures of hearth and hammer. Possibly it’s evasion could be used against itself…
