@@ -1,6 +1,8 @@
 ---
-tags: Amida, Settlements, Faction
---- 
+tags:
+  - Faction
+  - Amida
+---
 
 Post-Revolution [[Empire of Thylyist]] which caused major turnovers in cultural and social norms, which led to a very liberal but unstable culture and population.
 The downfall (and execution) of most of the [[Council of Thylyist]] also lifted the veil that propaganda was shaping around magic and the outside world
@@ -18,7 +20,7 @@ Poverty is common, and food is scarce.
 - possibly discovered a [Lavish](The Lavish Empire) colony within [[Heaugi]]'s oceans, who are defending their refuge with extreme means and violence
 
 Amida as megacity has lifted the Thylyian dogma against non-human[^1] sentience, but ghettos and racism is still a daily issue and major source of criminality.
-[[Varuú]] people still reside in their busted society in the Ninth Forest, but some deviants (Dark elves?) moved to Amida.
+[[Vaaruú]] people still reside in their busted society in the Ninth Forest, but some deviants (Dark elves?) moved to Amida.
 
 #### ![[Numerator]]
 
