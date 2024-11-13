@@ -2,6 +2,7 @@
 tags:
   - Workpiece
   - TODO
+  - Quackery
 ---
 [[Random Shit I found On Etsy]]
 
