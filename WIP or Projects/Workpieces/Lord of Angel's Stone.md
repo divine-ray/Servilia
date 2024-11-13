@@ -1,6 +1,7 @@
 ---
 tags:
   - Workpiece
+  - Quackery
 ---
 %%[[Random Shit I found On Etsy]]%%
 `[REDACTED]` is the universal consciousness being known as the lord of angels, legend has it that he ascended as human flesh to become his present form.^[[[Nølkā]] figure?]
@@ -9,7 +10,7 @@ Divine Light Sanctuary is a unique ascension piece funnelling ones conscious to 
   
 One will come into contact their upper via' open in a unseen manner, in particular the system above the crown via, linked with the connection to the soul, allowing one to merge with the soul blueprint to be accessed, allowing for past life gifts to emerge from this interaction.
 
-> [!NOTE] Nonsense
+> [!FAIL] Nonsense
 > 
 > *Greatly enhances the blissful mental state, whenever one connects the normally active emotional and mental bodies become silent further supporting the flowering of open communication with light beings.*  
 > *With Divine Light Sanctuary Kami crystal you're openly having the lord of angels download various higher ascension programs to advance soul growth and that of the planet as well.*  
