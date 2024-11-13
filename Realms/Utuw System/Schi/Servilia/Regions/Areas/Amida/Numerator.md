@@ -2,6 +2,8 @@
 tags:
   - Amida
   - Area
+aliases:
+  - Numerators
 ---
 Big if not titanic organic and sentient supercomputers in search for a solution to the [[Curse of the Undead]]. Their entire structure houses a [[Sector]] each, as they govern infrastructure. 
 Numerators were able to interact with the control of the [[SC-AM]] project and tap the power output for [[Amida]].
