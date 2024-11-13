@@ -3916,8 +3916,12 @@ function TagFolderViewComponent($$anchor, $$props) {
   push($$props, true);
   append_styles($$anchor, $$css3);
   const $$stores = setup_stores(), $searchString = () => store_get(searchString, "$searchString", $$stores);
-  let vaultName = prop($$props, "vaultName", 3, ""), title = prop($$props, "title", 3, ""), tags = prop($$props, "tags", 19, (() => [])), viewType = prop($$props, "viewType", 3, "tags");
+  let vaultName = prop($$props, "vaultName", 3, ""), title = prop($$props, "title", 15, ""), tags = prop($$props, "tags", 31, (() => proxy([]))), viewType = prop($$props, "viewType", 3, "tags");
   const isMainTree = derived((() => 0 == tags().length));
+  null === $$props.stateStore || void 0 === $$props.stateStore || $$props.stateStore.subscribe((state2 => {
+    tags(state2.tags);
+    title(state2.title);
+  }));
   let updatedFiles = state(proxy([]));
   appliedFiles.subscribe((async filenames => {
     set(updatedFiles, proxy(null != filenames ? filenames : []));
@@ -4485,6 +4489,7 @@ var TagFolderViewBase = class extends import_obsidian5.ItemView {
       tags: [],
       title: ""
     };
+    this.stateStore = writable(this.state);
     this.plugin = plugin;
     this.showMenu = this.showMenu.bind(this);
     this.showOrder = this.showOrder.bind(this);
@@ -4504,15 +4509,12 @@ var TagFolderViewBase = class extends import_obsidian5.ItemView {
     return "stacked-levels";
   }
   async setState(state2, result) {
-    var _a;
     this.state = {
+      ...this.state,
       ...state2
     };
     this.title = state2.tags.join(",");
-    this.component.$set({
-      tags: state2.tags,
-      title: null != (_a = state2.title) ? _a : ""
-    });
+    this.stateStore.set(this.state);
     return await Promise.resolve();
   }
   getState() {
@@ -4542,7 +4544,8 @@ var TagFolderViewBase = class extends import_obsidian5.ItemView {
         openScrollView: this.plugin.openScrollView,
         isViewSwitchable: this.plugin.settings.useMultiPaneList,
         switchView: this.switchView,
-        saveSettings: this.saveSettings.bind(this)
+        saveSettings: this.saveSettings.bind(this),
+        stateStore: this.stateStore
       }
     });
     return await Promise.resolve();
