@@ -11,5 +11,3 @@ Seemingly devoid of higher life, but few scientific expeditions have been made h
 No signs of intelligent life have been found here, either, other than the remains of the Lavish.
 
 Eventually transitions into the [[Scorched Acres]], home to the Children of the Flame.
-
- 
