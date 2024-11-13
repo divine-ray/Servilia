@@ -3,7 +3,7 @@ tags:
   - Thylyist
   - Faction
 aliases:
-  - Strategic Planning and Coordination Department
+  - Strategic Planning and Coordination System
   - Thylyist Military
 ---
 *Strategic Planning and Coordination Department*
