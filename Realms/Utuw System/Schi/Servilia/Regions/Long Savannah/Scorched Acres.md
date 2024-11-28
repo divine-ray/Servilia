@@ -2,7 +2,7 @@
 tags:
   - Area
 ---
-Stretches of desert, shaped by the [[Crimson Heart]]. 
+Stretches of desert, shaped by the [[Scarlet Hearth]]. 
 Once grassland like its parent, the [[Long Savannah]], for it has been dried and burnt by the flames. 
 Little plants remain, those surviving bent from and to the everlasting cinders omnipresent throughout the unkind sandy stretches. 
 

@@ -16,7 +16,7 @@
 ## Unity
 1. Make Peace between [[Empire of Thylyist|Thylyist]]-[[Frisco Bay Confederation]]
 2. Negotiate a treaty to the [[Twilit]] (for consented use)
-3. Bring [[The Cold]] and [[Crimson Heart]] together, allowing them to synergize
+3. Bring [[The Cold]] and [[Scarlet Hearth]] together, allowing them to synergize
 ## Progress 
 After Thylyist has been couped:
 1. Lead the Way to [[Amida]] 

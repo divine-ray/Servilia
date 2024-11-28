@@ -11,7 +11,7 @@ but alive regardless.
 
 to the [burnt desert](Scorched%20Acres.md)
 in the south
-stands [another heart](Crimson%20Heart),
+stands [another heart](Scarlet%20Hearth.md),
 filled with flame, set ablaze. 
 
 [[When Forces Meet|they both know another]]

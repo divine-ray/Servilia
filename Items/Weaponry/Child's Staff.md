@@ -2,7 +2,7 @@
 
 **Staff**
 
-**Origin:** *Elemental Fire.* The item was forged through the power of elemental fire by [[Crimson Heart]]. It is hot to the touch, likely red or orange, and is made from boron steel. It has heat or fire-based powers, and can cause local violations of thermodynamics to source heat.
+**Origin:** *Elemental Fire.* The item was forged through the power of elemental fire by [[Scarlet Hearth]]. It is hot to the touch, likely red or orange, and is made from boron steel. It has heat or fire-based powers, and can cause local violations of thermodynamics to source heat.
 
 **Major Property:** *Elemental Cursing.* This Staff strikes its victims with intense, localised bursts of elemental heat, which will burn, scar and cauterise the targeted area, causing horrible wounds that will not heal. Fire or any other heat source in proximity to the victim will attempt to redirect itself towards the subject, as to damage it further. 
 

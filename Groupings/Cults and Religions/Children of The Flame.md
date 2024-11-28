@@ -1,7 +1,7 @@
 #Children-of-the-Flame #Cult 
  
 
-The children of the flame, worshippers of the flaming [[Crimson Heart]] feeding on sacrificed Amarisk (precisely the burst of Amarisk released on death).
+The children of the flame, worshippers of the flaming [[Scarlet Hearth]] feeding on sacrificed Amarisk (precisely the burst of Amarisk released on death).
 The bodies or physical appearance of the higher up cultists get slowly undergoes pyrolysis/cremation into animate figures of ashes.
 	A sign of progressing cremation is the loss of a functional skeleton, which usually is "celebrated" by a full 360° turn of the head.
 High-ranking individuals are revered as [[Ashen]]. 

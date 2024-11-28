@@ -1,5 +1,5 @@
 #Quest 
-**Main objective: Supply the [[Crimson Heart]] with suitable Sacrifices.**
+**Main objective: Supply the [[Scarlet Hearth]] with suitable Sacrifices.**
 
  
 
