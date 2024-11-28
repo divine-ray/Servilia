@@ -177,7 +177,7 @@
             "format": "{{era_name}}",
             "endsYear": false,
             "isEvent": true,
-            "category": null,
+            "category": "ID_2988791aba29",
             "isStartingEra": false,
             "date": {
               "year": 128,
@@ -239,11 +239,22 @@
         "year": 1443
       },
       "events": [],
-      "categories": [],
+      "categories": [
+        {
+          "id": "ID_2988791aba29",
+          "color": "#f9b790",
+          "name": "History"
+        },
+        {
+          "id": "ID_e829b91a3aba",
+          "color": "#fcf599",
+          "name": "Act"
+        }
+      ],
       "path": [],
       "supportInlineEvents": true,
       "inlineEventTag": "Event",
-      "dateFormat": "YYYY-MM-DD"
+      "dateFormat": "DD-MM-YYYY"
     }
   ],
   "configDirectory": null,
