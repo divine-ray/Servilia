@@ -4,16 +4,15 @@
   "aprils-automatic-timelines",
   "dataview",
   "editing-toolbar",
-  "granite",
   "obsidian-plugin-todo",
   "obsidian-version-history-diff",
   "notes-dater",
-  "readability-score",
   "persistent-graph",
   "supercharged-links-obsidian",
   "obsidian-timelines",
-  "calendarium",
   "tag-wrangler",
   "obsidian-tagfolder",
-  "better-export-pdf"
+  "better-export-pdf",
+  "granite",
+  "calendarium"
 ]
