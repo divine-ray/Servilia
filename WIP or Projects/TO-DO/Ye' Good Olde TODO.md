@@ -66,7 +66,7 @@
 - [x] `[[Green Swale of Seven Spires]]` in the ninth forest
 - [x] `[[Ninth Forest]]`
 	- [ ] forest of talking trees (dirty paws)
-- [x] [[The Broken Orchestra]]
+- [x] `[[The Broken Orchestra]]`
 - [x] Abyss (transition into the void/twilight)
 	- [ ] cave system spanning from the ninth forest to the palga basin 
 - [x] Seacurbury Fair
@@ -77,7 +77,7 @@
 
 
 ## Species
-- [ ] [[Vaaruú]] 
+- [x] `[[Vaaruú]] `
 the experiments of lavish pseudoneo capabilities on humanoids, infused with twilight, building the city known as `[[Lost City of the Ninth Forest|Tombstone]]`, and the \[\[Archive of Old]]. Probably the first group to be shoved into Exile. 
 - [x] eurasian shadowmaw, also rebrand to fit (Padia?)
 - ### northern glasswing??
