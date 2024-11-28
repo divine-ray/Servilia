@@ -2,6 +2,7 @@
 tags:
   - Event
   - Structure
+  - TODO
 ---
 ## Hunter's Gatherings
 Every Full Moon of Heaugi, all participating hunters gather up on a lodge within the Ninth Forest.

@@ -4,6 +4,7 @@ tags:
   - Event
   - Thylyist
   - Mekhanites
+  - TODO
 ---
 The long-plotted and anticipated overthrowing and coup d'état of the fully functional and well-established democratic [[Council of Thylyist]]. 
 Primary forces involved were the Highest [[Followers of Mekhane|Priests of Mekhane]] and their [[Gearforged Vanguard|Zealous Soldiers]]. 
