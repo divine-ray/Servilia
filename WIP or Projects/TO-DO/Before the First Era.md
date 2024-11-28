@@ -8,8 +8,6 @@ timelines:
   - timeline
 aat-render-enabled: true
 ---
-
-
 ## Creation Myth: 
 ![[Creation Myth]]
 
