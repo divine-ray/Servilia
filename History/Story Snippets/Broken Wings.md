@@ -2,6 +2,7 @@
 tags:
   - Workpiece
   - Story-Fragment
+fc-date: 2039-09-03
 ---
 I want to fly, I want to learn to fly. I have these [wings](Songbird.md), but they are shattered and limp. Someone must've ripped them off their original body, they're covered in blood. 
 
