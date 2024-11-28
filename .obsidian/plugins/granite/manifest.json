@@ -1,11 +1,10 @@
 {
 	"id": "granite",
 	"name": "Granite",
-	"version": "0.1.1",
-	"minAppVersion": "0.19.0",
+	"version": "0.1.2",
+	"minAppVersion": "1.4.0",
 	"description": "A Goal Reinforcing And Note Improving Tiny Entity",
-	"author": "Obsidian, and the Obsidian TTRPG Community",
+	"author": "Obsidian Team, and the Obsidian TTRPG Community",
 	"authorUrl": "https://github.com/Obsidian-TTRPG-Community/gemmy_ttrpg",
-	"fundingUrl": "",
 	"isDesktopOnly": false
 }
