@@ -3,6 +3,7 @@ tags:
   - Story-Fragment
   - Thylyist
   - Workpiece
+fc-date: 
 ---
 A formation of figures strides in the serpentine catacombs of Thylyist, heading towards their destination at a determined, steady pace. 
 With respectful distance, a small squadron of guards follows, keeping pace. 
