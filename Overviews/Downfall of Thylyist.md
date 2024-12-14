@@ -13,7 +13,7 @@ storyline: "[[Downfall of Thylyist]]"
 - Overtaking through [[True Machinists]]
 - Violent revolution of the broad masses, achieved via [[The Word and Thought]]
 	Liberation from the propaganda/dogmas
-- Uprising of the populace due to their poverty and [[Thylyian Economy Situation|minimal standard of living]]
+- Uprising of the populace due to their poverty and [[Thylyian Economic Situation|minimal standard of living]]
 - Occupation or other military action from either [[Dragonkin]] or [[Frisco Bay Confederation]]
 - Citizen discovering magic artefacts and such;
 	- Liberation of the [[Archive of Old]], cascading spread of counter-knowledge
