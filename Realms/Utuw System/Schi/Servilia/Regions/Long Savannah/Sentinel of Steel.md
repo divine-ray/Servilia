@@ -2,15 +2,27 @@
 tags:
   - Location
 ---
-As if a corpse was poorly buried, with its partly rotten partly torn off limbs and skin shown in unsightly ways and pose. 
+The aged and weathered remains of something once capable of genocide, a one-machine-army. 
+It lies dormant, abandoned and stripped of what it once were, fully exposed to the elements.
+As if it was poorly buried, half of it is what is below the ground, the other half reaches for the sky, for freedom out of its earthly grave.
+Deep within, left alone even after eons of reckless salvaging and weathering, lies the casket, in which a condemned mind is left to go insane.
+The memories haunting this structure have attracted vermin. 
+What remains of its many watchful eyes recognises this vermin: it was once the enemy. 
+The same enemy that struck it down. 
+And now? 
+This very same death threat seeks shelter in its opponent's corpse.
+It is too powerless to act against this intrusion.
+It is forced to endure this humiliation. 
+***
+As if a corpse was poorly buried, with its partly-rotten partly-torn off limbs and skin shown in unsightly ways and pose. 
 Stagnant, yet suspended and dormant it lies there. 
 Partially aware, partially deceased. 
 Formerly a colossus who'd flatten entire cities at a mere tap; the zenith of Mekhane's Design Abused. 
 Becrept, befallen with it's archenemy, suffering a same fate, reduced into vermin: the [[Red Plague]]. 
+***
 
 
-
-> [!WARNING] AI slop
+> [!ERROR] AI slop
 > Amidst the rugged landscape, a solemn monument to a bygone era stands as the remnants of a defunct war machine once deployed by the Mekhanites in their relentless conflict against the Nolka. The skeletal husk of this colossal mechanical behemoth lies silent, a testament to the ferocity and ingenuity of the warfare that once engulfed the region.
 > 
 > **Titanic Frame:**
