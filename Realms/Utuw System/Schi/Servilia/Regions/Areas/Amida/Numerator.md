@@ -17,7 +17,7 @@ As each Numerator is sentient, they shifted and changed their structure to refle
 Most numerators have been granted governing permissions, and act as independent entity on behalf of themselves and their populace. 
 This has empowered nearly all nums in this category to enact immigration policies which applied a filter to their population median. 
 
-Each numerator possesses an avatar, which is usually entrapped within its chamber. Avatars outside their chamber are rarely seen, and oftentimes carry a prophetical gossip as it means that this numerator was not able to ‘remotely’ solve the problem at hand. 
+Each numerator possesses an avatar, which is usually entrapped within its [[chamber]]. Avatars outside their chamber are rarely seen, and oftentimes carry a prophetical gossip as it means that this numerator was not able to ‘remotely’ solve the problem at hand. 
 
 The collective of Numerators is possibly scheming a coup or other way to rid of the corporate board.
 ## Sectors, as divided by Numerator:
