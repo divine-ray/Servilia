@@ -9,6 +9,6 @@ Any other previous trial of directly [[Wedding|wedding]] an operator to a MECH h
 The first tests employed latex rubber (natural, synthetic and chlorinated), which has shown for the material to be unsuitable and too sensitive against damage and punctuation. 
 Following tests employed custom-grown semisynthetic suits composed of polymerised isoprene supported by collagen, with few weak spots hardened using chitin. The second generation also copies the cellular behaviours of the blood-brain barrier for interfacing, instead of a hard connector. 
 A study researching the viability of directly applying this insulating layer via a ”membrane printer” has been funded and is underway.
-
+… The next logical step would be to create a specific synthorga for this explicit purpose of acting as human-machine blood barrier.
 
 Even during the early prototyping phases several of these suits were stolen. Suspected personell is undergoing interrogation. 
