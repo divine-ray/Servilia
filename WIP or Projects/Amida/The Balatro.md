@@ -1,0 +1,1 @@
+[[23-45-01-21.01.25]] - a squad of MECHs considered terrorist-mercenaries. Callsign "M", lowercase m as insignia/alias.  
