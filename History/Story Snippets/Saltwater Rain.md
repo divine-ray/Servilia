@@ -19,4 +19,10 @@ The wish to be full, to be whole, yet, there's only nothing to be seen, to be do
 >ohpun myah aais
 >foh lo da sal wa rhaii
 >tii iishh ersi-tzi
-> uuah uahh u::uuuh-a
+> uuah uahh u::u'h-a
+
+It is the gods that weep, [[The Weather Deity]] shedding their sorrows upon the land
+Their tears burn the flesh and open old scars,
+Flood the minds with sorrow and regret, 
+Those feeble souls collapse 
+and become nothing but a source for a river of tears
