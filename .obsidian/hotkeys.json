@@ -41,5 +41,15 @@
       ],
       "key": "Backspace"
     }
+  ],
+  "file-explorer:new-file-in-new-pane": [],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
   ]
 }
