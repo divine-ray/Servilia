@@ -65,4 +65,4 @@ Rainworld: Concept of [[Numerator|Numerators]]
 | The East Pointers                    | What We Leave Behind                                                          | 82 Fires                                                |                                            |
 | Lord Huron                           | Lonesome Dreams (Bonus Track Version)                                         | The Ghost on the Shore                                  |                                            |
 | Tally Hall                           | Good & Evil                                                                   | Misery Fell                                             | [[Faceless]]                               |
-|                                      |                                                                               |                                                         |                                            |
+| Lovejoy                              | Wake Up & It's Over                                                           | Portrait of a Blank Slate                               | [[Report of a Broken Face]]                |
