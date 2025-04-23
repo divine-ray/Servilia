@@ -5,9 +5,16 @@ tags:
   - TODO
 ---
  - Shouting "Is there anybody out there?" or similar inquiries for the presence of a person will sound like a chorus is saying the "out there", amplifying it. 
-- At some point, a group of musical spirits might find companionship with the playing party, and provide a playing band for them.
+- At some point, a group of musical spirits might find companionship with the playing party, and provide a marching band for them.
 - [[The Wall]] grows over time, bricks added from seemingly nowhere. 
 - [[Echoes]] might occasionally crush open like a scarred wound into a [[Twilit Rift]].
 - [[Leyline|Tangled energes]] unfurl and fold atop heights, attracted by disaster and rejoice equal.
 - [Water is rotting](Waterrot.md), spreading disease and famine. 
-- 
+- All wheeled vehicles are relocated and neatly arranged at a distant location on one peculiar day. 
+- An awful sound causes all vegetation that heard it to turn to stones and rocks.
+- Shadows keep moving, even though if the shade-casting being has stopped moving. 
+- Cave entrances and other crevices are furnished with crude stools and tables, but left empty on second visit. 
+- [[Saltwater Rain]] burns into flesh and flowers.
+- On one occasion, fish are swimming through the air above their river, dropping into the water once noticed. 
+- In the [[Lunar Mangroves]], plants and mushroom fungi grow in patterns resembling teeth and geometric shapes. 
+- During winter, the snow becomes dark and charred, but no fire is to be seen. 
