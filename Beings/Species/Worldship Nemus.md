@@ -4,6 +4,8 @@ tags:
   - History
 aliases:
   - World-Tree
+  - Nemus
+  - Nemi
 ---
 An ancient breed of trees, distantly related to the norse Yggdrasil. Each capable of bearing planes of existence as fruits. 
 Once towering across the realm, their roots reaching beyond the twilit, their leaves rustling in the solar wind. 
