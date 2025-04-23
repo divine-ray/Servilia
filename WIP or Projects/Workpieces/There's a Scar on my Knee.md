@@ -24,7 +24,7 @@ It knows a language
 that I used to speak
 before i had a tongue
 before i was born.
-`//WHERE///ARE//WE//`
+`//WHERE//ARE//WE//`
 
 let it rest, let it in
 it likes the metal, the clicking of clockwork, the enigmatic mechanism 
