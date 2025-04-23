@@ -5,3 +5,4 @@ His Majesty had to bargain with the Flesh-Twisters to stop his bones and flesh f
 
 Its name is misleading, the Crown itself is not empty. It is full, full of the lives it consumed, of previous ascendants, forgotten rulers and toppled monarchs. 
 The Emptiness is what becomes of those who dare to take it on, those who delude themselves to believe their strength over this artifact. 
+Faint [[Echoes]] of the souls it consumed, a constant and neverending torrent of madness hailing down upon the fool who dons the crown.  
