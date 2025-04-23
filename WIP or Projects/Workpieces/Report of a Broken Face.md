@@ -16,6 +16,6 @@ This is how the Broken Blinds spend their day, left to their thinking.
 
 
 Unable to do anything but, these are the greatest minds of our era.
-Yes. These [[Hollowed]] . Not even human anymore.
+Yes. These [[Hollowed]]. Not even human anymore.
 
 ---

@@ -3,7 +3,6 @@ tags:
   - Item
   - Beyond
 ---
-
 [[God]]'s own telephone. 
 As the saying goes, modern problems require modern solutions.
 

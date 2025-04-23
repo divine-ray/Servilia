@@ -6,24 +6,15 @@ tags:
 ---
 [[Random Shit I found On Etsy]]
 
-Ultra Rare & Powerful Monatomic Andara Crystal Combo of Cosmic Ice, Tanzanite Fire & Elestial Starlight with Rainbows.  
-  
+Ultra Rare & Powerful Monatomic Andara Crystal Combo of Cosmic Ice, Tanzanite Fire \[C]Elestial Starlight with Rainbows.  
 '5th ∞ 9th Dimensional Energy Portal'  
-  
 (From my personal Collection, since 2018)  
-  
-Powerful beyond this plane, alters physical reality, High Frequency, Transporter for light emitting beings only. State-of-the-art Crystal technology.  
-  
+Powerful beyond this plane, alters physical reality, High Frequency, Transporter for light emitting beings only. State-of-the-art Crystal technology.    
 for Light Emitting Beings Only.  
-  
-Re-calibration - We are beginning to shift into the highest consciousness, us as humans have ever seen"  
-  
+  Re-calibration - We are beginning to shift into the highest consciousness, us as humans have ever seen"  
 There is something supernaturally powerful about this Tanzanite fire Andara, more than most Andaras I have come across.  
-  
 I consider it a Power Icon and force to reckon with, meaning its a powerful portal & two-way communications channel between human and the higher self, the traveler and the fields of dimensions of the blessed.  
-  
 This is shield and spiritual technology, the antitheses of the cabal flooding the collective consciousness with disinformation, scare stories, hate and deception. They are desperate to maintain possession of Humanity. They are meeting new waves of higher vibrational frequencies with intensive offensive of mind control, chemical weaponry and military warfare. AI technology is being advanced & embedded to the soul of humanity by dark forces. Like a sacred mirror meditating even on the images of this Andara may activate the light body.  
-  
   
 Dimensions 4.2" x 4.14" x 3.85" inches  
 Weight 844 grams '1 lbs. 14 oz.  
