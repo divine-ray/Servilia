@@ -4,8 +4,8 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "fc-date": "text",
-    "Homework": "checkbox",
     "hotlinks": "multitext",
-    "previous-page": "text"
+    "previous-page": "text",
+    "fc-calendar": "text"
   }
 }
