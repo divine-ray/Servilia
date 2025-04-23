@@ -1,0 +1,3 @@
+The poor street quality and transport situation in both [[Frisco Bay Confederation]] and [[Empire of Thylyist|Thylyist]] caused people to develop so-called roof routes:
+Reinforced shingles and other roofing material and signage, paired with makeshift bridging across street chasms allows for on-foot transit way above the ground.
+In the Confederation, a recent development of special boots embedded with springs and dampening mechanisms has resulted in a significant increase in both individual health (or rather, decreased accidents, as these are infamously dangerous) and speed.
