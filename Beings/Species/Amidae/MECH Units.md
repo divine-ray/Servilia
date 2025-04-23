@@ -14,7 +14,7 @@ The Intelligence piloting a mobile combat unit is classified under three categor
  2. Hybrid
 	 A subclass of 1.: Autonomous, these systems are oriented around providing assistance to a humanoid pilot, but can steer the unit with little to decent flexibility on its own.
  3. Restricted
-	 Limited cognition, able to execute complex tasks independently of a human, but not capable of improvising.
+	 Limited cognition, able to execute complex tasks independently of a human, but not capable of improvising. This class is favoured by [[ISONS]] and [[Numerator|Numerators]] as they can be directly linked to a numerator. 
 4. Blind, Deaf, Dumb (BDD)
 	 Barely considered intelligent, these units extend the pilot and thus cannot act independently.  
 ## Overarching Classes
@@ -28,5 +28,6 @@ MECHs fill these roles:
 	Can raise up its two front limbs to act as manipulators (Like a forklift). 
 - Feline-oriented sniper unit using restricted intel, quadrupedal stride. 
 - Digitigrade bipedal unit for close-quarter melee combat. AI/Hybrid.
+- [[MEER-C.A.T.]] - quadruped surveiliance and recon unit 
 
 
