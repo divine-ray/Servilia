@@ -2,6 +2,8 @@
 tags:
   - Lunatics
   - Settlements
+aliases:
+  - Stargard
 ---
 ## Overview
 The capital of [[Lunatius]], a nation of isolated and deranged sorcerers who devote their time towards the study and use of celestial bodies and formations. 
