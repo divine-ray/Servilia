@@ -3,6 +3,8 @@ tags:
   - Item
   - Commodity
   - Component
+aliases:
+  - Ithildine
 ---
 Spirit-infused alloy which only is visible during any first quarter to last quarter of the moons or under intense light, which we have not been able to achieve outside of complex focusing optics and the circumstances in a forge.
 
