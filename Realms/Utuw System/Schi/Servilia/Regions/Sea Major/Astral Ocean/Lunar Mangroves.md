@@ -18,7 +18,7 @@ The lunar phases of Opar are to be seen as elongated day-night-cycle within the 
 This phenomenon happens to drastically slow down metabolism and average activity, which makes this ecosystem extremely prone and vulnerable towards predators and beings that are not governed by the lunar phases. 
 
 Any foreign species which intrudes this area has either gone missing or got assimilated into the ecosystem, typically hue-shifting the pigmentation of the subject into a darker tone with due respect as to not disrupt the grand scheme.  
-Travellers are not welcome here. Such is the warning that emanates from the neglected ghost towns dotting the coast line, who tried thriving off the wildlife. 
+Travellers are not welcome here. Such is the warning that emanates from the abandoned fishing villages and port installations dotting the coast line, who tried thriving off the wildlife. 
 
 %% 
 - [ ] #TODO
