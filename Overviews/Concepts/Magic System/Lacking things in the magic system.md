@@ -12,5 +12,6 @@ tags:
 	- [ ] material usage in standard casting (pellets)
 	- [ ] side effects on the caster
 		- mental instability?
-		- deformation, physical warping of the Hiryn
+		- deformation, physical warping of the Hiryn (brain)
 - [ ] other, derived power sources (like blood, plants, etc.)
+- [ ] [[Rite of Ascension]], rites and rituals
