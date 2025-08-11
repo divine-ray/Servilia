@@ -5,7 +5,7 @@ tags:
   - Faction
 ---
 ## [[Empire of Thylyist|Empire of Thylyist]]
-Former city-state, grown to the size of a empire. 
+Former city-state, grown to the size of an empire. 
 The City of Thylyist is their capital, and epicentre of their official religion, the [[Followers of Mekhane]], originally conceived as bunker-fort installation shortly before the end of the [[Nølkā-Mekhanite War]].
 Their government is practically defunct. Instead, the religious elite ([[Council of Thylyist]]), and to a extend, the [[Gearforged Vanguard]] is de-facto ruling. The fanatical devotion impacts everyday life and has frozen technological and scientific progress, leaving them stuck in early steam-driven technology. However, this has been highly refined, leading to complex automatons and other steampunk machinery. 
 Throughout time, this fanaticism led them towards a senseless, rabid aggression towards anything considered magic by their elite, by which they brainwashed all citizens asides from select circles to believe that *their* technology is the only true there is. 
