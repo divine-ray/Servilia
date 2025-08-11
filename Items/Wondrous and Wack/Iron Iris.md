@@ -1,3 +1,8 @@
+---
+tags:
+  - Item
+  - Magical
+---
 #### Wondrous #Item 
 This hollow iron sphere is inscribed with an eye-like iris, and a brass hinge and clasp allow it to open.  
 You can use an action to hold the open oculus to your eye and speak its command word.
