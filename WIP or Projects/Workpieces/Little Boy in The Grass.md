@@ -14,3 +14,5 @@ His body remains, untouched by death and decay, curled, like we found him.
 A funeral was arranged, but his body refused to be put into the casket. 
 The lid of the casket did not close, we were left clueless and bewildered. 
 We cannot tell the difference between dead or alive, regardless of how we spun it around. 
+
+%%he was a hollow, in which an ascendant ripened. [[Rite of Ascension]]%%
