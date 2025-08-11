@@ -14,6 +14,7 @@ storyline: "[[Downfall of Thylyist]]"
 - Violent revolution of the broad masses, achieved via [[The Word and Thought]]
 	Liberation from the propaganda/dogmas
 - Uprising of the populace due to their poverty and [[Thylyian Economic Situation|minimal standard of living]]
+	- Possibly amplified by indirect sieging by Frisco through impeding supply lines
 - Occupation or other military action from either [[Dragonkin]] or [[Frisco Bay Confederation]]
 - Citizen discovering magic artefacts and such;
 	- Liberation of the [[Archive of Old]], cascading spread of counter-knowledge
