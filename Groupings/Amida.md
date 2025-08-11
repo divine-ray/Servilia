@@ -3,7 +3,6 @@ tags:
   - Faction
   - Amida
 ---
-
 Post-Revolution [[Empire of Thylyist]] which caused major turnovers in cultural and social norms, which led to a very liberal but unstable culture and population.
 The downfall (and execution) of most of the [[Council of Thylyist]] also lifted the veil that propaganda was shaping around magic and the outside world
 - Huge leaps in technological development due to incorporated [Lavish](The Lavish Empire) technology salvages and the beginning of [[Arcane Engineering]] and artificial life sciences (in human culture)
@@ -14,7 +13,7 @@ The government is de-facto [[Board of Amida|controlled by Corporations]], which 
 Crime gangs empowered themselves to be the second government, mostly unscathed and otherwise dodging the feeble and underfunded the attempts of the corporations. 
 Poverty is common, and food is scarce. 
 
-[[Ancients]] got unexiled (probably) due to [[Fountainhead]] modifications 
+[[Ancients]] and [[ascendants]] got unexiled (probably) due to [[Fountainhead]] modifications 
 [[Lavish]] technology (re-)enabled the modification of life, which led to the stereotypical implant culture of cyberpunk scenarios and to extremely durable semiorganic creatures, which got used to erect the space elevator in the centre of Sector 9
 - intense space colonialism with the capability of easy space-faring
 - possibly discovered a [Lavish](The Lavish Empire) colony within [[Heaugi]]'s oceans, who are defending their refuge with extreme means and violence
