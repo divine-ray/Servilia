@@ -7,7 +7,7 @@ tags:
 The category for lifeforms and beings created by [[The Lavish Empire|Lavish]] scientists as smart, self-directed workforce, typically for tasks outside of their reach of the Palga Basin, and by extend, the Astral Ocean and Sea Major.
 A relatively common, shared trait amongst pseudoneo zoophytes is the combination of complex life^[read: large species, typically apex predators] , plant life and [[Arcane Engineering]] into a single, autonomous and self-supplying unit.  Typically, a species of pseudoneo units is created with one specific task and purpose present throughout their design and abilities. 
 
-Many pseudoneo beings can source their energy from both biomass/food and sunlight (photosynthesis), whereas specimens utilising concentrated electricity or the arcane are rare, but present. Electricity as power source has also been observed, but not credibly verified. 
+Many pseudoneo beings can source their energy from both biomass/food and sunlight (photosynthesis), whereas specimens utilising concentrated electricity or the arcane are rare, but present. Electricity as power source has been observed, but not credibly verified. 
 Most eccentric energy sources such as chemotrophy or lithothrophy seem to be possible within extreme cases, but never have been sighted. 
 
 Through the aeons of creation and experience, the sheer variety of Pseudoneos has led to them being classified as own phylum by modern-day Friscoan researchers. 
