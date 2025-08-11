@@ -2,6 +2,8 @@
 tags:
   - Faction
   - Organisation
+aliases:
+  - The Zubin Society
 ---
 A loose group of drug addicts, united in consumption of their [[Ethershade|drug]]. Their drug is special, since everyone who consumes it shares all hallucinations with the rest of the society. 
 The whereabouts of the drug or their leader is unknown, but he is revered as their Messiah, who allowed them to break free from their simple mind.
