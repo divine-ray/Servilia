@@ -1,0 +1,1 @@
+possibly; [[Return of Automatia]]; [[Gearforged Vanguard]] tasked and paid [[Schurkistan]] to make the Ship Automatia disappear to halt their research progress, possibly because the automation/automaton aspect of this ship violated Mekhanite beliefs that they're the only ones with the divine right to create this kind of machinery. 
