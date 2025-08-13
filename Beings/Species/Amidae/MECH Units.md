@@ -3,12 +3,23 @@ tags:
   - Workpiece
   - Overview
   - Amida
+aliases:
+  - MECH Unit
+  - MECHs
+  - MECH
 ---
 *something about mechas.* 
 MECH stands for Mobile Entity / Combat Hybrid. 
 For aerial units please refer to [[ACE-V|ACE/V]] units (Aerial Combat Entity/Vehicle).
+
+Those classes directly controlled or assisted by a humanoid are divided between piloted units and operated units. 
+Both operators and pilots insist on being distinguished from one another, in addition to not being seen as "common" infantry, which many users deem inferior.
+Piloted units are used with a [[SUIT Interfaces|SUIT Interface]]. 
+Operated units are notably more complex, usually C.1 or C.2 and requiring [[Gel Tank Plights|Plights]]. It is strictly necessary to use a [[MODI Suits|MODI]] to translate between human neural activity and the combination of digital processing and synthetic neural activity present in MECHs. 
+Direct [[Standard Neural Interface|interfaces]], with translation inbuilt into the plight or mech, are deemed feasible and may be entering initial prototyping first. 
 ## Intelligence Classifications
-The Intelligence piloting a mobile combat unit is classified under three categories:
+In other documents, the classification is abbreviated into C.1-C.4
+The Intellect piloting a mobile combat unit is classified under three categories:
 1. Autonomous
 	 Fully independent cognition, capable of reasoning and own actions. 
  2. Hybrid
