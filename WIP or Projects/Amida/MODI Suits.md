@@ -1,3 +1,10 @@
+---
+tags:
+  - Amida
+aliases:
+  - MODI
+  - MODI Suit
+---
 Morphing Organic Device Interface
 
 A colony organism comprised of amoeba, jellyfish polyps and slime mould, encased in a metallicised chitinous shell. 
