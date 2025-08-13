@@ -14,12 +14,12 @@ General population is aware of the rough task of the numerators but they don't r
 
 As each Numerator is sentient, they shifted and changed their structure to reflect and express themselves, which contributed to the erratic and organic looks of Amida as whole. 
 
-Most numerators have been granted governing permissions, and act as independent entity on behalf of themselves and their populace. 
-This has empowered nearly all nums in this category to enact immigration policies which applied a filter to their population median. 
+Most numerators have been granted governing permissions, and act as independent entity on behalf of themselves and their populace. The few exceptions to this rule are the numerators, whose chassis acts as HQ to one of the corporations, who collectively agreed on throttling^[both choking and to limit] the capabilities of their numerator intellect.
+This has empowered nearly all numerators in this category to enact immigration policies which applied a filter to their population median. 
 
-Each numerator possesses an avatar, which is usually entrapped within its [[chamber]]. Avatars outside their chamber are rarely seen, and oftentimes carry a prophetical gossip as it means that this numerator was not able to ‘remotely’ solve the problem at hand. 
+Each numerator possesses an [[Avatar]], which is usually entrapped within its [[chamber]]. Avatars outside their chamber are rarely seen, and oftentimes carry a prophetical gossip as it means that this numerator was not able to ‘remotely’ solve the problem at hand. 
 
-The collective of Numerators is possibly scheming a coup or other way to rid of the corporate board.
+The collective of Numerators is possibly scheming a coup or other way to rid of the corporate board in pursuit of greater freedom of primarily themselves and secondarily of the populace. 
 ## Sectors, as divided by Numerator:
 - [[Amida-5]] is the government/corporate HQ and management
 	Control
