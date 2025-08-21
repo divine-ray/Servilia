@@ -1,7 +1,7 @@
 ---
 tags:
-  - Workpiece
   - Hollow-Mountains
+  - Story-Fragment
 ---
 come, little one. let us observe.  watch over these others. they shall learn to fly. its sad seeing them, limp and glum, on the floor.
 we shall teach them flight. allow them to ascend and conquer the air, follow our lead. you have to tell them: spread your wings, breathe, flap, repeat. flight is important. we need the air. 
