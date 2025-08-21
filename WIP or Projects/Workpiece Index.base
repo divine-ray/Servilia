@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.hasTag("Workpiece")
+    - '!file.path.contains("Apartment 403")'
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.path
+    sort:
+      - property: file.path
+        direction: ASC
+  - type: cards
+    name: View
