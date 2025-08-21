@@ -1,6 +1,6 @@
 ---
 tags:
-  - Workpiece
+  - Numerator
 ---
 [[Numerator]] intellects/consciousness’ are able of willingly fragment themselves to create subpersonas dedicated to handling specialised tasks. 
 These subpersonas typically do not get an [[Avatar]] unless their specialisation explicitly demands one. 
