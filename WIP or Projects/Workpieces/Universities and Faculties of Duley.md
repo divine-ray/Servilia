@@ -18,7 +18,8 @@ It’d be more reasonable and approachable to have one faculty/insitution harbou
 	- Field Research
 	- [[Arcane Engineering]]
 	- Weaving and Casting
-- Literacy and Media
+- [[Linguistics and Communication]]
+	- Literacy and Media
 	- Publishing[^1]
 	- 
 
