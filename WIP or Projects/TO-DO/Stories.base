@@ -1,0 +1,17 @@
+filters:
+  or:
+    - "!storyline.isEmpty()"
+    - file.hasTag("Story-Fragment")
+    - file.inFolder("History/Story Snippets")
+    - file.path.startsWith("Somewhat Coherent")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - storyline
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: storyline
+        direction: ASC
