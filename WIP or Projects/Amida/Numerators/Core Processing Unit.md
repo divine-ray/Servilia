@@ -1,12 +1,13 @@
 ---
 tags:
-  - Workpiece
+  - Numerator
+  - Amida
 aliases:
   - Numerator Core
   - CPU
 ---
 Up and below in the cavern, there is a opening.
-Below [The Holy Symbol](🝋) of The Code<sup>x</sup> rests the Processing Unit of this Numerator, blessed and perfected. 
+Below [The Holy Symbol](🝋) of The Code<sup>(x)</sup>  rests the Processing Unit of this Numerator, blessed and perfected. 
 Bedded in suspension, mounted into what little air there is through levitation. Striking temperatures which shatter the steel of the olden ones, it is cryogenic, through which bizarre abilities and phenomena are harnessed. 
 
 Shrouded in the veil of darkness, nothing but the status lights remain visible at any time.
