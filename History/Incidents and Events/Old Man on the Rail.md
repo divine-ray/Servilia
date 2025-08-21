@@ -1,7 +1,7 @@
 ---
 tags:
-  - Workpiece
   - Event
+  - Story-Fragment
 fc-date: 1443-01-10
 fc-category: Act
 ---

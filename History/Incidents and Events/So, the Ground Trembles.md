@@ -1,6 +1,5 @@
 ---
 tags:
-  - Workpiece
   - History
 ---
 A great rumbling, dust rising from fleeting cracks, thunders!

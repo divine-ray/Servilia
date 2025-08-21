@@ -1,8 +1,8 @@
 ---
 tags:
-  - Workpiece
   - Poetry
   - Location
+  - Story-Fragment
 ---
 Out there in the fields 
 	stands a shack

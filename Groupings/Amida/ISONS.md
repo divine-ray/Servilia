@@ -1,6 +1,5 @@
 ---
 tags:
-  - Workpiece
   - Faction
   - Amida
 ---

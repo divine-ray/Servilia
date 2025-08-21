@@ -2,7 +2,6 @@
 tags:
   - Children-of-the-Flame
   - Religion
-  - Workpiece
   - Written-Text
 ---
 Excerpt One:

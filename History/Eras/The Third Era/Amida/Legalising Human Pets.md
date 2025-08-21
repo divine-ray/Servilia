@@ -1,6 +1,5 @@
 ---
 tags:
-  - Workpiece
   - Amida
 ---
 A law in [[Amida]] legalising the adoption/consentual purchase of humans, keeping them as pets. 

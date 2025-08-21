@@ -1,6 +1,5 @@
 ---
 tags:
-  - Workpiece
   - Character
 storyline: "[[Return of Automatia]]"
 ---

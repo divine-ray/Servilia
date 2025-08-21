@@ -1,6 +1,5 @@
 ---
 tags:
-  - Workpiece
   - Character
 ---
 A man who goes around town, alluring through his mystery. Shrouded in a long, dragging coat he roams. Mostly hidden behind a mask of leather scraps, but his raspy voice tells tall tales, yet believable. He speaks of foreign lands, those beyond the walls. We know that there is none, so he must be a poet. 

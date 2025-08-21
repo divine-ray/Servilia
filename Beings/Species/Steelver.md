@@ -1,6 +1,7 @@
 ---
 tags:
-  - Workpiece
+  - Creature
+  - Species
 ---
 Steal Beaver;
 a nocturnal critter presumably related to a regular beaver, who diverged after exposure to [[Divinity]].

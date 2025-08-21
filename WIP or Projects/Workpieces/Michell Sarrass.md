@@ -1,6 +1,7 @@
 ---
 tags:
-  - Workpiece
+  - Character
+  - Frisco-Bay
 ---
 He’s a government-employed inspector and safety officer assigned to [[Frisco Universal Oil]]. 
 Succumbed to heavy alcohol consumption from the stress he endures, alongside how terrible of a person [[Rodrick “John Oil” DeVries]] is.

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Workpiece
+  - Amida
 ---
 [[Numerator]], [[Anatomy of a Numerator]]
 a tower/spire on the rough centre containing an important organ or component, possibly the communications array.

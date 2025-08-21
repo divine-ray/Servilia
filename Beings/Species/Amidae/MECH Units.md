@@ -1,6 +1,5 @@
 ---
 tags:
-  - Workpiece
   - Overview
   - Amida
 aliases:

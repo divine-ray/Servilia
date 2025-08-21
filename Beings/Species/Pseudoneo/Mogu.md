@@ -1,7 +1,7 @@
 ---
 tags:
-  - Workpiece
   - Pseudoneo
+  - Species
 aliases:
   - Forgers
   - Feits
