@@ -1,0 +1,2 @@
+GUARDDOG units are pony-sized Restricted class quadrupedal MECHs, exclusively assigned for bodyguarding and personal protection duties. typically, ISONS patrols consist of two humanoids and a GUARDDOG. they're equipped with claws, a maw and a low-powered Kinetics firearm.
+GUARDDOG units are weakly linked to the local numerator's security subpersona. this link can be overridden with [[protocol :: SEIZE]], which puts all weakly linked MECHs into direct control of the numerator.
