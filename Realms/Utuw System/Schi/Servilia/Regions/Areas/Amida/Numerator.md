@@ -2,6 +2,7 @@
 tags:
   - Amida
   - Area
+  - Numerator
 aliases:
   - Numerators
 ---
