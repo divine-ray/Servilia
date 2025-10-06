@@ -32,6 +32,6 @@ No private business run for profit with more than a thousand employees may use t
 
 Unless the User has made substantial changes to the Work, or uses it only as a part of a new work (eg. as a library, as a part of an anthology, etc.), they are prohibited from selling the Work. That prohibition includes processing the Work with machine learning models.
 ## Sanctions
-If the Licencor notifies the User that they have not complied with the rules of the license, they can keep their license by complying within 30 days after the notice. If they do not do so, their license ends immediately.
+If the Licensor notifies the User that they have not complied with the rules of the license, they can keep their license by complying within 30 days after the notice. If they do not do so, their license ends immediately.
 ## Warranty
 This Work is provided “as is”, without warranty of any kind, express or implied. The Licensor will not be liable to anyone for any damages related to the Work or this license, under any kind of legal claim as far as the law allows.
