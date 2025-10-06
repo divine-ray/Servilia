@@ -3,7 +3,9 @@ tags:
   - APAS-Ltd
   - Amida
 ---
-> Organic Reinforced Core and Neurogenesis Environment Suit
+> Organic Reinforcement and Neurogenesis Environment Suit
+
+%%rename to organic reinforcement and …? for a smoother acronym of ORaNGES?%%
 
 Sucessor to the APE-S, advanced and more modular, directly integrating a C.2-Hybrid Intellect with the user. 
 
