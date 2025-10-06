@@ -3,6 +3,9 @@
 ![[Strange Flask]]
 
 Either acquired by magical item shop, loot, or from within [[Sepulchre]].
+
+When thrown uncorked, the contents spill out as a decently large puddle or covering of searing embers, hot enough to cause grievous wounds and damage clothing and footwear. 
+
 #### Item Properties
 - Consumable
 - Healing 
