@@ -13,3 +13,7 @@ Given their inheritance and legacy, they have adapted to traverse the ninth fore
 An unknown amorphous organism that has spread throughout the waterways of section of the ninth forest, infesting one [[Worldship Nemus|Nemus]] and warping it to provide a shell to this organism, turning it to the core of the white woods.
 
 (trying to reference DARKWOOD, but bleached)
+***
+The anomaly here at play is breaking up the veil and weave, which transplaced the general decay and detrition of the deeper twilit into the realworld. 
+***
+Th
