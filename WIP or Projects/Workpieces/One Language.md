@@ -1,7 +1,6 @@
 ---
 tags:
   - Workpiece
-  - KEYGEN-CHURCH
 ---
 There shall only be:
 1. [[One Language]];
