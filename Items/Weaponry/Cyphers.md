@@ -9,6 +9,8 @@ Greater cyphers simply loose their power after activation, lesser cyphers shatte
 Superior cyphers may be used several times, but will discharge in a chain when force is acted upon it.
 Greater cyphers may be "recharged" by re-applying their lost power/catalyst using a spell/ritual. Also applies for superior cyphers, as long as they remain intact. 
 
+Known to Academics and Scholars of Duley as "solid-state spell fragment". 
+
 ## Superior 
 - A *smouldering*, raw shard of *bloody* ruby, with streaks of *glimmering embers* within it. Upon activation, it summons a fireball (6m sucessful dex save, 8d6 fire on fail, half on sucess) at either a desired or its own position (manual/thrown). It can cast up to eight fireballs before depletion. 
 - A smooth and polished amber, containing a *tiny flame*.  Upon use, the amber turns ashen grey and a wall of inextinguishable flame emerges on the spot of activation, which can melt any metal. 
@@ -16,11 +18,11 @@ Greater cyphers may be "recharged" by re-applying their lost power/catalyst usin
   Upon activation, it flash-freezes any substance until it's brittle in a radius of 3m. With each use, a centimetre of it melts away into common water, until the deep-frozen core at 15cm depletion remains (this equates to 5 uses).
 ## Greater 
 - A dragon's claw engraved with *glowing* symbols. When activated, the cypher grants the target advantage on attack rolls until the end of their next turn.
-- Grey Cypher:  A glass spindle filled with *silvery liquid*.  When broken over a weapon, the weapon is transmuted into a unknown metal.  It deals an additional 2d6 points of damage until the end of the session, after which the weapon disintegrates.
+- A glass spindle filled with *silvery liquid*.  When broken over a weapon, the weapon is transmuted into a unknown metal.  It deals an additional 2d6 points of damage until the end of the session, after which the weapon disintegrates.
 - A jagged shard of emerald containing a *flickering flame*. When impaled into flesh, the cypher melts into eternal fire that lasts for a day.
 - A *broken* jade cube *warped by magic*. When thrown at a target, the cypher causes a small earthquake (knocked prone, Dex save negates).
 - A copper fragment smeared with *crimson blood*. When launched at a target, the cypher explodes with a thunderous bang (3d6 thunder damage and deafened, Con save half and negates).
-- A broken oaken staff *engraved with geometric patterns*. When held and activated, the cypher conjures a permanent wall of stone.
+- A splinter of an oaken staff *engraved with geometric patterns*. When held and activated, the cypher conjures a permanent wall of stone.
 - Crystal Fragment:  A large fragment of an obsidian sphere, containing a *shifting cloud of light*.  When held and activated, the cypher allows you to scry an individual creature known by name. However, you can only see their face.
 - A hydra's tooth engraved with *glowing symbols*. When activated, the cypher pushes all adjacent creatures fifteen metres away from the point of activation.
 - Cypher of the Iron King:  A jagged iron spike, *smeared with blood*. When impaled into the flesh of another creature, that creature becomes your thrall, as per the spell dominate person.
