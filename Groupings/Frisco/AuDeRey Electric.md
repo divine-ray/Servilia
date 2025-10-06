@@ -3,6 +3,7 @@ tags:
   - Faction
   - Frisco-Bay
   - Fix-Me
+  - Company
 ---
 The currently leading company in electricity generation, owning the majority of (coal-fired) steam engine based powerhouses around the Bay. 
 The name is a portmanteau of it's founders, [[Irwick Austin]], [[Mike Delanow]] and [[Sir Rey]]. This trio has found together over research, construction and funding of the in-development [[Steam Turbines]].
