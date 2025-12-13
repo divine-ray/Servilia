@@ -39,7 +39,7 @@ Start here:
 ### Timeline
 A coherent story/timeline is yet to come. 
 However, the History of Servilia can roughly be divided into "The Past", "The Present" and "The Future".
-Read [[The First Era]], [[The Second Era]] and [[The Third Era]] respectively. 
+Read [[The First Era]], [[The Second Era]] and [[Third Era]]  respectively. 
 [[Before the First Era]] is quite relevant for the groundwork and establishing themes and overtones. 
 #### The First Era:
  Primarily characterised by the unity and coexistence of the three dominant species, the [[Lavish]], Humans (in [[Empire of Thylyist|Thylyist]]) and [[Dragonkin]]. 
