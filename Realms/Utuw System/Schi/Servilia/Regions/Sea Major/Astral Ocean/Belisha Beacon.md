@@ -17,7 +17,7 @@ We‘ve also made way into the structure through subterranean ways, as it appare
 
 
 
-> [!hint] AI Slop
+> [!error] AI Slop
 > Certainly, let's adapt the details to include contemporary to fictitious aircraft in the air traffic control functions:
 >In a far-off fantasy world, a lighthouse stands atop a former mountain peak, now a series of islands due to geological processes and flooding. This seemingly ordinary structure conceals advanced alien technology and functions as a mystical air traffic control center for both seafaring vessels and contemporary to fictitious aircraft.
 >

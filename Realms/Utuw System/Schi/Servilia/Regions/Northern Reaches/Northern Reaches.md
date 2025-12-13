@@ -7,7 +7,7 @@ A displaced polar cap, frozen over in eternal winter under the frigid grasp of [
 
 This region is heavily influenced by a now-dead volcanism and the everlasting freeze originating from [[The Cold]].
 
-Most significant are towering [[Alp Peaks]], which add the unique climatic aspect by blocking off winds from the sea, a distant and deviated arm of the Astral Ocean.
+Most significant are towering [[Alp Peaks]], which add the unique climatic aspect by blocking off winds from the sea, a distant and deviated arm of the [[Astral Ocean]].
 
 These peaks seem to be haunted by poltergeists and memetic nightmares, but only during night. This may be a influence from the deviated sea. An above average occurrence of sɹǝuunɹ ʇɥƃᴉu 𝒽𝒶𝓋𝑒 𝒷𝑒𝑒𝓃`spotted` h e r e ¿¡
 
