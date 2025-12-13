@@ -3,7 +3,7 @@ tags:
   - Story-Fragment
   - Amida
 ---
-The faceplate folded over their skin, its adaptive lattice enveloping their entire profile, having cold metal scales pressed onto their skin as the latex mask was evacuated.In the brief window of absolute enclosure they gasped for air, left vulnerable and only able to trust the process to not suffocate them.
+The faceplate folded over their skin, its adaptive lattice enveloping their entire profile, having cold metal scales pressed onto their skin as the latex mask was evacuated. In the brief window of absolute enclosure they gasped for air, left vulnerable and only able to trust the process to not suffocate them.
 
 But this was short and respite had arrived, as the insertion introduced the nasal tubes and feeding pipe into their orifices. 
 
