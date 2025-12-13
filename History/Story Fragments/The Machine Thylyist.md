@@ -1,8 +1,8 @@
 ---
 tags:
-  - Workpiece
   - Mekhanites
   - Story-Fragment
+  - Thylyist
 storyline: "[[Downfall of Thylyist]]"
 ---
 Below the city and it's citadel lies the heart;
