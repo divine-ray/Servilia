@@ -20,8 +20,8 @@ storyline: "[[Downfall of Thylyist]]"
 	- Liberation of the [[Archive of Old]], cascading spread of counter-knowledge
 - Whistle-blowing or other information leaks, leading way to public enlightenment
 - [[Assassination of Council Members]] or other ways to destabilise the iron fist grip of the [[Council of Thylyist]]
-- [[Daeva Revolutionists]]
 - This guy:![[Sketching Characters#^644954]]
+- [[The Machine Thylyist]] taking action.
 ## Older, taken from TODO-2
 - someone finds a relic of times before the betrayal?
 - one of the Mekhanites‘ vow of silence breaks?

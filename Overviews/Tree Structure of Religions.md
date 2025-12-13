@@ -6,7 +6,7 @@ tags:
 ---
 # #Mekhanites Faith
 
-- Old Mekhane Faith (Extinct)
+- [[Old Mekhane Faith]] (Extinct)
 	- [[Followers of Mekhane]]
 		- [[True Machinists]]
 	- [[
