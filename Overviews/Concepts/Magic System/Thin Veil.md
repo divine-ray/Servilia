@@ -1,3 +1,12 @@
+---
+aliases:
+  - Thin Veils
+tags:
+  - Magic-System
+  - Twilit
+  - Concept
+  - Area
+---
 A small area in which the [[weave]] is threadbare and not entirely solid. 
 This commonly leads to other [[Planes.canvas|Planes]] breaching, causing odd and unusual events. 
 With the weave and veil being permeable to things [[Between]] and [[Beyond]], these areas are considered very risky to traverse and avoided at all costs by travellers. 

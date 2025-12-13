@@ -6,7 +6,7 @@ tags:
 ---
 - [ ] where does it actually come from? ([[Amarisk]])
 - [ ] procedures for the implants, description
-- [ ] function and role of gauntlets Vs staves/wands
+- [ ] function and role of gauntlets Vs staves/wands vs prothesis-s
 - [ ] education (i.e. how does a commonfolk learn about magic)
 - [ ] describe the limiting factors of spellcasting and scaling
 	- [ ] material usage in standard casting (pellets)
@@ -15,3 +15,4 @@ tags:
 		- deformation, physical warping of the Hiryn (brain)
 - [ ] other, derived power sources (like blood, plants, etc.)
 - [ ] [[Rite of Ascension]], rites and rituals
+- [ ] Rewrite [[Astral Ocean]] and [[Eternal Sea]] to accommodate the [[Celestial Sea and Ocean Theory]]
