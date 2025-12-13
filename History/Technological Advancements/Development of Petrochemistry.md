@@ -5,7 +5,7 @@ tags:
 ---
 "It had to happen sometime"
 
-Crude oil deposits are mostly found around and in the [[Long Savannah]] and somewhere in the proximity of the atoll islands in the astral ocean, the latter to remain untouched for ages since the realisation of offshore oil deposits being far away.
+Crude oil deposits are mostly found around and in the [[Long Savannah]] and somewhere in the proximity of the atoll islands in the [[astral ocean]], the latter to remain untouched for ages since the realisation of offshore oil deposits being far away.
 The expensive extraction of oil has left coal/wood (gasification) favoured for fuelling purposes, with processing of the fractions into fuel and polymers yet to be found. 
 
 The general Frisco Bay area widely employs coal gas mantles for lighting open-air spaces like streets and squares. It caused too many fire outbreaks indoors to pass the initial testing applications. Instead, [[Arcane and Anomalous Studies]] have started to contract elemental fire spirits to supplement candlelight and open fires like hearths and firepits.
