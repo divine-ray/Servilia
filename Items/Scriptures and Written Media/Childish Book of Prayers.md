@@ -4,6 +4,8 @@ tags:
   - Religion
   - Written-Text
 ---
+An ordinary book, bound in hard paper. Its edges are charred, still warm to the touch. Ash and soot burnt into the paper turned any existing text illegible. 
+
 Excerpt One:
 	We are the Children. The [[Children of The Flame]]. 
 	The Flame...
