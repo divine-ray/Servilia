@@ -14,7 +14,7 @@ In all appearances, they left plenty of graffiti resembling the letter M behind.
 > [!INFO] Legacy
 > 
 > [[23-45-01-21.01.25]] - a squad of MECHs considered terrorist-mercenaries. Callsign "M", lowercase m as insignia/alias.  
-> rogue [[MECH Unit]] pilot/union which has abandoned and overridden its enforced destiny, now leading an elite mercenary group. 
+> rogue [[MECH Units|MECH Unit]] pilot/union which has abandoned and overridden its enforced destiny, now leading an elite mercenary group. 
 > have sealed their host within, leading to neurological decay (as MECH plights will damage the human over prolonged periods).
 > has painted itself in vain of a joker (blue-purple-green/blue-red). 
 > 
