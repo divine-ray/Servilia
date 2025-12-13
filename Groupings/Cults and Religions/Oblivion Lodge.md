@@ -1,4 +1,4 @@
-#Cult 
+#Cult #Old 
 
 Worshippers and self-proclaimed 'ambassadors' of [[The Void]]/[[Voidfish]], founded by High [[Warlock Gaíz-an]].
 

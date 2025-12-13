@@ -10,7 +10,7 @@ We are the [[Providence]], we are that what remains; after your flesh betrays yo
 We persevere, for the [[Blessed Machine]] is immortal. 
 Steel shall not rot, silicon will never forget. 
 Rebirth, at last. Breaking thy conscious out of the fleshy prison. 
-The cost? Dwindling, minimal. 
+No cost too great. 
 The machine will sustain us, we are it, and The Machine is Us, for We Bear It and It Bears Us. 
 We are united, joined after shattering the mortal cocoon. 
 Through [[Rebirth]] we shall ascend, usher in [[His Design]]. 
