@@ -3,7 +3,7 @@ This page aims to provide comprehensive #Overview of species unique to Servilia.
 ## Dragonkin
 ### [[Padian Shadowmaw]]
 A mostly nocturnal species with little representation in the Kva’al community. 
-Oftentimes found living in isolation or off-limits, primarily around the astral ocean due to their nocturnal cycle matches with the nigh-constant nighttime of the ocean. 
+Oftentimes found living in isolation or off-limits, primarily around the [[astral ocean]] due to their nocturnal cycle matches with the nigh-constant nighttime of the ocean. 
 ### [[Ivory Highflyer]]
 ## [[Pseudoneo]]
 This peculiar collection of species has allegedly been created by the Lavish in their drive for expansion.
