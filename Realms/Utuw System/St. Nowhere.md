@@ -21,3 +21,10 @@ But something else.. maybe won’t. That’s your dreams and hopes.
 I can’t really apologize here - it’s just how it goes. 
 I only found solace in believing in nothing, nihilism, as they call it. 
 Pretty sure that’s the only way you can exist here without going nuts. 
+***
+An exile, a prison, for those that transcended their bodies and fled their planets. 
+Cut off from the material plane, above and beyond any common conceptual spaces and planes. To them, The Ocean is a puddle, yet the skies are a false ceiling. 
+
+In this involuntary community, sanity has lost any meaning and value. Being eternal and yet finite wreaks havoc unto the human mind; it is not made to endure eons worth of divinity. 
+
+These poor wretches possess next to no influence on the material plane, and what little they have is heavily distorted.
