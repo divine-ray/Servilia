@@ -2,6 +2,7 @@
 tags:
   - Item
   - Artifact
+  - Old
 ---
 The wind is blowing on these cold, cold grounds.
 My boots are a-roaming on these cold, cold lands.

@@ -2,12 +2,12 @@
 tags:
   - Creature
   - The-Cold
+  - Old
 ---
+A lump of frozen necrotic tissue, eerily shaped to resemble a slowly beating heart. 
+Its severed, open arteries struggle to pump air, which leaves this lump noticeably colder than the environment. <br>
+The surface is frozen-cold to the touch, enough to cover itself with most peculiar ice patterns. These patterns present entirely different habits, as though normal surface ice. Staring too long at these patterns causes an almost hypnotic pull, transferring the freezing temperatures within the heart unto the observer. 
 
-A small heart, consisting out of mostly indiscernible mass, which is frozen necrotic tissue and biomass. 
-
-It seems to chill the air around it, covering itself with ornate ice crystals. 
-Inspecting these crystals instils a sense of dread in the observer.
 
 ***
 

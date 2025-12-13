@@ -2,6 +2,7 @@
 tags:
   - Item
   - Magic-System
+  - Old
 ---
 The brand of the [[Voidfish]], slowly carving out the unfortunate body it has been placed upon. 
 It oozes, which seems to attempt to lash onto anything it grabs. 
