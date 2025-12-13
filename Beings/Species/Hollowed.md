@@ -1,4 +1,4 @@
-#Undead #enemies 
+#Undead 
 
 A poor undead fellow who succumbed to the [[Curse of the Undead]].
 Most of them are located in the infirmary of [[Sepulchre]].

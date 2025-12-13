@@ -1,7 +1,6 @@
 ---
 tags:
-  - Diffused-Light
-  - Apartment-403
+  - Creature
 ---
 The soul- and mindless poppets of [[The Void]]. 
 Carved out hollows, stripped of humanity through masks and rags, thrown into the pit to be filled with sheer nothing. 

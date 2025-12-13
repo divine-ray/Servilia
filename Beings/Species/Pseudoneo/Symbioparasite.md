@@ -3,6 +3,8 @@ tags:
   - Pseudoneo
   - Creature
   - Species
+aliases:
+  - Symbioparasites
 ---
 A refined amoeba, capable of entering bodies and interacting with their nervous system.
 Originally developed as [[Pseudoneo]] by the Lavish to augment their bodies and capabilities (such as offloading coordination).
