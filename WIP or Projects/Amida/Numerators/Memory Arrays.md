@@ -1,6 +1,8 @@
 ---
 tags:
   - Numerator
+aliases:
+  - Memory Array
 ---
 Through which remembrance is given; made. 
 Storage, in its vast expanses; retaining every detail of the [[Sector]]. 
