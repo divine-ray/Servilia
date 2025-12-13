@@ -17,7 +17,7 @@ so I’m assuming it is in relation to god-became nolka in cooperation with a gr
  ![[SICK]]
 
 
-## Beyond the Pale Veil
+## Beyond the Veil
 possibly the utuw system is enclosed or wrapped in a Dyson sphere by a unknown actor?
 or to contain something considered malicious?
 
@@ -29,4 +29,4 @@ or to contain something considered malicious?
 [[Downfall of Thylyist]]
 
 The Story of the child 
-a child, seen as object, 
+a child, seen as object, [[Little Boy in The Grass]]

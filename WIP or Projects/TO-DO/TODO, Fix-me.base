@@ -1,0 +1,8 @@
+filters:
+  or:
+    - file.tags.contains("TODO")
+    - file.tags.contains("Fix-Me")
+    - file.path.endsWith("TO-DO")
+views:
+  - type: table
+    name: Table

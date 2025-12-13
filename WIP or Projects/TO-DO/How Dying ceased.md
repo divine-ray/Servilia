@@ -1,3 +1,7 @@
+---
+aliases:
+  - Cessation of Death
+---
 #Structure 
 > [!Outdated]
 > 1. Schi-ut-Pula became depressed or otherwise unable to handle their responsibility

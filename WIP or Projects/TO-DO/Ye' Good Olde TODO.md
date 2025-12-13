@@ -23,18 +23,17 @@
 		- [x] `[[Citadel of the Gear]]`
 - [x] \[\[Lost City of the Ninth Forest|Tombstone]], the City of Lost/Faceless
 - [x] [[Witches]] in the ninth forest
-- [ ] [[Daeva Revolutionists]]
 ### Frisco Bay
 - [ ] [[Frisco Bay]]
-- [ ] [[Duley and Port]]'s university district 
-	- [ ] also "the place where it's build" i.e. all the workshops, docks, etc. 
-### [[The Third Era]]: 
+- [x] `[[Duley and Port]]'s university distri`ct 
+	- [x] also "the place where it's build" i.e. all the workshops, docks, etc. 
+### [[Third Era]]: 
 - [x] `[[APAS Ltd.]]` : Continuation of Ommoran Arms in the third age, stands for Active/Passive Arms Systems Limited
 	corpo that has a decent stock and rule over the world, akin to militech from CP2077
 - [ ] [[Cyberware]] and stuff for biotech implants, third age
 - [x] SICK Club
 - [ ] `[[Amida]]`
-	- [x] Rough description of each [[Sector]],`[[Like Obelisks, as far as another Realm]]`
+	- [x] Rough description of each `[[Sector]]`,`[[Like Obelisks, as far as another Realm]]`
 	- [ ] History or rather how Amida rose from Thylyist, [[Talking 'bout a Revolution]]
 	- [x] Amidan Infrastructure and Utilities U.P.C. (unlimited professional corp.)
 		state-owned infrastructure and utilities Corp., contracting workers, etc.
@@ -62,7 +61,7 @@
 - [ ] Maou'oru (that one faint dream of the weird railway beach dude)
 - [x] Evelyn as the stock character "prostitute with a heart of gold/wisdom"
 ## Locations, Areas, etc
-- [ ] \[\[Scorched Acres]]
+- [x] `[[Scorched Acres]]`
 - [x] `[[Green Swale of Seven Spires]]` in the ninth forest
 - [x] `[[Ninth Forest]]`
 	- [ ] forest of talking trees (dirty paws)
@@ -95,7 +94,7 @@ the experiments of lavish pseudoneo capabilities on humanoids, infused with twil
 - [ ] Materials
 	- [ ]  `[[Splinter of Blazes]]`, other fire related items (Gem of Cinders, simmering rock, etc. )
 	- [ ] Various metal plates for armour making 
-## Oh, the magic
+## Oh, the [[Lacking Things in the Magic System]]
 Write down the entire custom spellcasting system, using gloves/books/wands/staves
 - Spellcasting system using gauntlets, wands, staves and books, who'se modular
 - Amarisk writeup 

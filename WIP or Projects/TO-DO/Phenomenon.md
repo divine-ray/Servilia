@@ -19,3 +19,4 @@ tags:
 - In the [[Lunar Mangroves]], plants and mushroom fungi grow in patterns resembling teeth and geometric shapes. 
 - During winter, the snow becomes dark and charred, but no fire is to be seen. 
 - A thick fog stirs up from nearby bodies of water, hiding watchful eyes. 
+- Those who watch the watchers will be blinded. 
