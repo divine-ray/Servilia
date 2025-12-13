@@ -1,6 +1,7 @@
 ---
 tags:
   - Workpiece
+  - Frisco-Bay
 ---
 > the sea near to the coast is quite shallow which forbids large, deep-sea sailing ships from porting at inland harbours, requiring fleets of smaller vessels to transfer the cargo. In some cases carriages are used. 
 > #TODO #Location 

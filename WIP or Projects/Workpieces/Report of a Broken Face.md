@@ -11,7 +11,7 @@ Those eyes blurry, washed out, an empty gaze upon an empty sky.
 Their face shattered, their eyes burnt, disfigured to achieve purity in mind.
 Their mouth wide agape, but nothing more than a hole for air to enter and leave through.
 Sat motionless in that thorny throne, inanimate as if dead, yet the ghastly wind proves otherwise.
-This is how the Broken Blinds spend their day, left to their thinking.
+This is how the [[Blind Dreamers]] spend their day, left to their thinking.
 
 
 

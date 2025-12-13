@@ -1,6 +1,5 @@
 ---
 tags:
-  - Workpiece
   - Divine
 ---
 The weather deity, survivor of [[Theophagy|Death of Divinity]]. Rather, they have reformed from its [[Corse]] into what It is now, the four faces of the skies;

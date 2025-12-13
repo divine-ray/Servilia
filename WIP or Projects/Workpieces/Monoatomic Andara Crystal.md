@@ -20,13 +20,10 @@ awarded, such as support for completely healthy being, cell rejuvenation and
 Expansion of consciousness.  
 There are different monoatomic crystals in different qualities and different  
 chemical compositions worldwide.  
-The crystals with the highest Etherium concentration come from Sierra Nevada, among others  
-they are also among the oldest in the world. The bigger the crystal, the bigger it is  
-Etherium content, the higher the etherium content in the crystals, the more powerful they are  
-Vibration.  
+The crystals with the highest Etherium concentration come from Sierra Nevada, these crystals anre also among the oldest in the world. The bigger the crystal, the bigger its  
+Etherium content, the higher the etherium content in the crystals, the more powerful they are.
 Under the influence of pressure and heat, the Prima Matra was transformed into crystals.  
-Depending on what the composition of the Prima Matra was, as well as the process of heating,  
-The cooling, as well as the pressure conditions, created crystals in different colors and shapes  
+Depending on what the composition of the Prima Matra was, as well as the process of heating, the cooling, as well as the pressure conditions, created crystals in different colors and shapes  
 and structures.  
 The crystals vibrate in a so-called 5-dimensional vibration field, which is also called  
 Vibration of Divine Perfection is referred to.  

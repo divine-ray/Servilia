@@ -1,6 +1,6 @@
 ---
 tags:
-  - Workpiece
+  - Story-Fragment
 ---
 %%Please forgive me, my child. It was 05:23 to 06:06.%%
 You do not know why you are here, but you have finally made it to the location you‘ve been sent to.
