@@ -1,4 +1,4 @@
-#Item #Commodity #Component 
+#Item #Commodity #Component #Old
 "Besides my bed i keep a bottle of dreams..."
 
 Created by placing a [[Strange Flask]] opened in proximity to a resting place. 

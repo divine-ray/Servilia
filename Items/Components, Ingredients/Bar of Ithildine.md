@@ -3,6 +3,7 @@ tags:
   - Item
   - Commodity
   - Component
+  - Old
 aliases:
   - Ithildine
 ---
