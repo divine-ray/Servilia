@@ -1,5 +1,5 @@
 {
-  "dateFormat": "DD-MM-YYYY",
-  "timeFormat": "",
+  "dateFormat": "YYYY-MM-DD",
+  "timeFormat": "HH:mm:ss",
   "folder": "Apartment 403/Templates"
 }

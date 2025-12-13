@@ -1,5 +1,5 @@
 {
-  "format": "DD-MM-YY",
-  "folder": "Apartment 403/Work and Future/School/Days after Days",
-  "template": "Apartment 403/Work and Future/School/Daily Note Template"
+  "format": "YYYY-MM-DD",
+  "folder": "Apartment 403/Daily Notes",
+  "template": "Apartment 403/Daily Notes/Daily Note Template"
 }

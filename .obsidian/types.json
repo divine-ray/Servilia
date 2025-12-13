@@ -6,6 +6,14 @@
     "fc-date": "text",
     "hotlinks": "multitext",
     "previous-page": "text",
-    "fc-calendar": "text"
+    "fc-calendar": "text",
+    "start": "date",
+    "end": "date",
+    "timebox": "multitext",
+    "progress": "text",
+    "completion": "checkbox",
+    "date": "date",
+    "registered": "datetime",
+    "taxonomy": "multitext"
   }
 }

@@ -1,0 +1,863 @@
+{
+  "workspaces": {
+    "specification": {
+      "main": {
+        "id": "1b756049c976c1e5",
+        "type": "split",
+        "children": [
+          {
+            "id": "51a7c576a4fde790",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e109bcf8d33b944e",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              },
+              {
+                "id": "861d13a4287a284e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Apartment 403/Systemics/Specification Document for Conversion V3.1.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Specification Document for Conversion V3.1"
+                }
+              },
+              {
+                "id": "d42612129e2b78e5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Apartment 403/Systemics/Criteria for Conversion V3.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Criteria for Conversion V3"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "d48b9a09f3e2bfa3",
+            "type": "split",
+            "children": [
+              {
+                "id": "3808e52a302f9d9a",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "8cfa14981d493ed4",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Apartment 403/Systemics/Specification Document for Conversion V3.1.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "Specification Document for Conversion V3.1"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "9dddb7b328d586ef",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "ddbc79c7dff5392d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Apartment 403/Systemics/Criteria for Conversion V3.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "Criteria for Conversion V3"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e5226d527c3b5e0d",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "3785835e2932df2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d32ac6c065dd6061",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"tags\"]",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e69472c287e10974",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequencyReverse",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3b79dc51692368e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "e46744ef7ef3bb21",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "104f3ca3d710a8fa",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-link-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Link Folder"
+            }
+          }
+        ],
+        "currentTab": 0
+      },
+      "right": {
+        "id": "9c6e8c906a5c96fd",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "8eeaf0d4162fb9f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WIP or Projects/Workpieces/16.06.25~05-17-28.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1a0637a91d912ee0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "67909447e1d80c4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Realms/Planes.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "cf297d5c69e21bcb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0f4319c4dbfdb596",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "11b11283f98ffc5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "WIP or Projects/Workpieces/16.06.25~05-17-28.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "c471e01ef47893d0",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_8a09e9fa085a",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 21,
+                    "month": 4,
+                    "year": 1625
+                  },
+                  "viewState": 2,
+                  "displaying": {
+                    "day": 21,
+                    "month": 4,
+                    "year": 1625
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": true,
+                  "displayWeeks": true
+                },
+                "id": "ID_ab8a8a991a5b",
+                "child": "ID_9b2a08eb4999"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "d09f8832fab36cd5",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_8a09e9fa085a",
+                "id": "ID_9b2a08eb4999",
+                "parent": "ID_ab8a8a991a5b"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          },
+          {
+            "id": "91c39cce416d005d",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_8a09e9fa085a",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 3,
+                    "month": 0,
+                    "year": 1425
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": true,
+                  "displayWeeks": true
+                },
+                "id": "ID_0bd9fb093a58"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "66a2af0aa626f47a",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_8a09e9fa085a",
+                "id": "ID_6a2a5bba1a0b",
+                "parent": "ID_698a0a5b182a"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          },
+          {
+            "id": "f6778e7bbbbe2e3c",
+            "type": "leaf",
+            "state": {
+              "type": "sync",
+              "state": {},
+              "icon": "refresh-ccw",
+              "title": "Sync changes"
+            }
+          },
+          {
+            "id": "652dba114aebf139",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_8a09e9fa085a",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 3,
+                    "month": 0,
+                    "year": 1425
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": true,
+                  "displayWeeks": true
+                },
+                "id": "ID_19fb3b7ab878"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "8381bed0cc4b2867",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo"
+            }
+          },
+          {
+            "id": "208884c0e7e11d3a",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_8a09e9fa085a",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 3,
+                    "month": 0,
+                    "year": 1425
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeeks": true,
+                  "displayWeather": true
+                },
+                "id": "ID_48a8695919aa"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ],
+        "currentTab": 13
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:Create new base": false,
+          "zk-prefixer:Create new unique note": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "daily-notes:Open today's daily note": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-5e-statblocks:Open Creature pane": false,
+          "3d-graph:3D Graph": false,
+          "calendarium:Open Calendarium": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "d42612129e2b78e5",
+      "mtime": "2025-10-26T21:51:49+01:00"
+    },
+    "blank slate": {
+      "main": {
+        "id": "1b756049c976c1e5",
+        "type": "split",
+        "children": [
+          {
+            "id": "51a7c576a4fde790",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e109bcf8d33b944e",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e5226d527c3b5e0d",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "3785835e2932df2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d32ac6c065dd6061",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"tags\"]",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e69472c287e10974",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequencyReverse",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3b79dc51692368e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "e46744ef7ef3bb21",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "104f3ca3d710a8fa",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-link-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Link Folder"
+            }
+          }
+        ],
+        "currentTab": 0
+      },
+      "right": {
+        "id": "9c6e8c906a5c96fd",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "8eeaf0d4162fb9f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WIP or Projects/Workpieces/16.06.25~05-17-28.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1a0637a91d912ee0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "67909447e1d80c4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Realms/Planes.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "cf297d5c69e21bcb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0f4319c4dbfdb596",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "11b11283f98ffc5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "WIP or Projects/Workpieces/16.06.25~05-17-28.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "c471e01ef47893d0",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_8a09e9fa085a",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 21,
+                    "month": 4,
+                    "year": 1625
+                  },
+                  "viewState": 2,
+                  "displaying": {
+                    "day": 21,
+                    "month": 4,
+                    "year": 1625
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": true,
+                  "displayWeeks": true
+                },
+                "id": "ID_ab8a8a991a5b",
+                "child": "ID_9b2a08eb4999"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "d09f8832fab36cd5",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_8a09e9fa085a",
+                "id": "ID_9b2a08eb4999",
+                "parent": "ID_ab8a8a991a5b"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          },
+          {
+            "id": "91c39cce416d005d",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_8a09e9fa085a",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 3,
+                    "month": 0,
+                    "year": 1425
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": true,
+                  "displayWeeks": true
+                },
+                "id": "ID_0bd9fb093a58"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "66a2af0aa626f47a",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_8a09e9fa085a",
+                "id": "ID_6a2a5bba1a0b",
+                "parent": "ID_698a0a5b182a"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          },
+          {
+            "id": "f6778e7bbbbe2e3c",
+            "type": "leaf",
+            "state": {
+              "type": "sync",
+              "state": {},
+              "icon": "refresh-ccw",
+              "title": "Sync changes"
+            }
+          },
+          {
+            "id": "652dba114aebf139",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_8a09e9fa085a",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 3,
+                    "month": 0,
+                    "year": 1425
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": true,
+                  "displayWeeks": true
+                },
+                "id": "ID_19fb3b7ab878"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "8381bed0cc4b2867",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo"
+            }
+          },
+          {
+            "id": "208884c0e7e11d3a",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_8a09e9fa085a",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 3,
+                    "month": 0,
+                    "year": 1425
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeeks": true,
+                  "displayWeather": true
+                },
+                "id": "ID_48a8695919aa"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ],
+        "currentTab": 13
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:Create new base": false,
+          "zk-prefixer:Create new unique note": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "daily-notes:Open today's daily note": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-5e-statblocks:Open Creature pane": false,
+          "3d-graph:3D Graph": false,
+          "calendarium:Open Calendarium": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "e109bcf8d33b944e",
+      "mtime": "2025-10-26T21:32:42+01:00"
+    }
+  },
+  "active": "blank slate"
+}
