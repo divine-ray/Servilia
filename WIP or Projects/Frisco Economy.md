@@ -6,12 +6,12 @@ tags:
 ---
 how do we approach the [[Frisco Economy]] to have the continuous self-improvement and competition for optimisation BUT without the part where companies squeeze every single penny out of their employees, dry up all resources and mess up the government and market just to generate more money for the tycoons?
 
-one of the current solutions, well, rather enforcement is the [[FEOA]], but we did not write out the actual policies or summaries
+one of the current solutions, well, rather enforcement is the [[Finance and Economic Overwatch Agency|FEOA]], but we did not write out the actual policies or summaries
 
 I’m going to gloss over the economics of pre-electricity and electronics frisco here because I don’t wanna bother
 also because cybersyn
 
-the government or a specific board thereof (board? amid reference??), along with a bunch of neutral experts, come up with a document or portfolio entailing the economy projection of the upcoming year, and any excess of that is redirected towards welfare, research and development/advancing standard of living 
+the government or a specific board thereof (board? amida reference??), along with a bunch of neutral experts, come up with a document or portfolio entailing the economy projection of the upcoming year, and any excess of that is redirected towards welfare, research and development/advancing standard of living 
 
 companies do have to report their business reports to the FEOA through electronic means, and  falsifying information will be punished through FEOA squads, and the difference between local reports (real) and false report (fake) will be forcibly extracted 
 
