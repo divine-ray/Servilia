@@ -1,3 +1,5 @@
+# #Old
+
 The Queen of Shadows is a being from #Beyond who rules over the shadow realm.
 She's a [[Shnūt]] , to be precise. 
 Laid in a constant conflict with [[The Navigator]], for their intents are clashing. 
