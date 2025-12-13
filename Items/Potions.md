@@ -2,6 +2,7 @@
 tags:
   - Weapon
   - Item
+  - Old
 ---
 Any "Time of application" is skipped if the container is thrown.
 ### Utility
