@@ -1,0 +1,2 @@
+small and compact robots/machines/units which ’stick’ to larger [[MECH Units]] during recovery, extraction and maintenance.  
+Remora units use silicon based computing. Their autonomy is graded restricted, although cumulative, as a squad of Remora is designed to act as collective, akin to bird flocks. As their host MECHs are usually graded autonomous, they are authorised to assert control over the active Remora flock. 
