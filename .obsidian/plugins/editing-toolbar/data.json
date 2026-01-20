@@ -1,5 +1,5 @@
 {
-  "lastVersion": "3.1.13",
+  "lastVersion": "3.1.18",
   "aestheticStyle": "glass",
   "positionStyle": "top",
   "menuCommands": [
@@ -210,6 +210,11 @@
       "id": "editing-toolbar:workplace-fullscreen-focus",
       "name": "workplace-Fullscreen ",
       "icon": "exit-fullscreen"
+    },
+    {
+      "id": "editing-toolbar:custom-toggle-comment",
+      "name": "Toggle Comment",
+      "icon": "codeblock-glyph"
     }
   ],
   "followingCommands": [],
@@ -221,11 +226,12 @@
   "shouldShowMenuOnSelect": false,
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
-  "cMenuNumRows": 12,
+  "cMenuNumRows": 32,
   "cMenuWidth": 502,
-  "cMenuFontColor": "#a5a5a5",
-  "cMenuBackgroundColor": "#d3f8b6",
+  "cMenuFontColor": "#953734",
+  "cMenuBackgroundColor": "#ff4d4f",
   "autohide": false,
+  "Iscentered": false,
   "custom_bg1": "#FFB78B8C",
   "custom_bg2": "#CDF4698C",
   "custom_bg3": "#A0CCF68C",
@@ -240,7 +246,18 @@
   "horizontalPosition": 0,
   "verticalPosition": 0,
   "formatBrushes": {},
-  "customCommands": [],
+  "customCommands": [
+    {
+      "id": "custom-toggle-comment",
+      "name": "Toggle Comment",
+      "prefix": "%%",
+      "suffix": "%%",
+      "char": 0,
+      "line": 0,
+      "islinehead": false,
+      "icon": "codeblock-glyph"
+    }
+  ],
   "viewTypeSettings": {},
   "toolbarBackgroundColor": "rgba(var(--background-secondary-rgb), 0.7)",
   "toolbarIconColor": "var(--text-normal)",

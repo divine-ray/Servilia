@@ -1,60 +1,59 @@
 {
-  "autoParse": true,
+  "addToDefaultIfMissing": true,
   "calendars": [
     {
       "name": "Schi'an Calendar",
-      "description": "The Calendar and Timeline of Schi.",
-      "id": "ID_8afa1b3a8b1b",
-      "showIntercalarySeparately": true,
+      "description": "Calendar of Schi",
+      "id": "ID_8a09e9fa085a",
       "static": {
         "incrementDay": false,
-        "firstWeekDay": 0,
+        "firstWeekDay": null,
         "overflow": true,
         "weekdays": [
           {
             "type": "day",
-            "name": "Jelunedai",
-            "id": "ID_a8a8fb09fb3a"
+            "name": "Jelune",
+            "id": "ID_981a1bca9bca"
           },
           {
             "type": "day",
-            "name": "Disuldai",
-            "id": "ID_e9cbaa892aa9"
+            "name": "Disul",
+            "id": "ID_98cac8a9a978"
           },
           {
             "type": "day",
-            "name": "Sadorndai",
-            "id": "ID_9ae93a8a8af9"
+            "name": "Sadorn",
+            "id": "ID_ebf9b8d85a19"
           },
           {
             "type": "day",
-            "name": "Lundai",
-            "id": "ID_98492b8bd87a"
+            "name": "Lundia",
+            "id": "ID_7a9a2bbaabaa"
           },
           {
             "type": "day",
             "name": "Erdai",
-            "id": "ID_4919ea794a5a"
+            "id": "ID_2be92a7acb49"
           },
           {
             "type": "day",
             "name": "Jovdai",
-            "id": "ID_6aba4ab9992b"
+            "id": "ID_08695a9978b8"
           },
           {
             "type": "day",
-            "name": "Duardao",
-            "id": "ID_285a0b9b4aba"
+            "name": "Brespod",
+            "id": "ID_c8b85aaafb9b"
           },
           {
             "type": "day",
-            "name": "Brespodao",
-            "id": "ID_c9caab0a79ca"
+            "name": "Duaro",
+            "id": "ID_f8b88b5afb18"
           },
           {
             "type": "day",
-            "name": "Senindao",
-            "id": "ID_8b09d8f909aa"
+            "name": "Senin",
+            "id": "ID_aa1b4a68e9bb"
           }
         ],
         "months": [
@@ -62,63 +61,71 @@
             "type": "month",
             "name": "Durthrou",
             "length": 27,
-            "id": "ID_5ad8396b8a58",
+            "id": "ID_384aeb39db49",
             "interval": 1,
             "offset": 0
           },
           {
             "type": "month",
-            "name": "Bakkrou",
+            "name": "Navarn",
             "length": 27,
-            "id": "ID_ab59db1b6989",
+            "id": "ID_5afad92a7a1a",
             "interval": 1,
             "offset": 0
           },
           {
             "type": "month",
-            "name": "Nikarou",
+            "name": "Bakk",
             "length": 27,
-            "id": "ID_f9c83a4bf87a",
+            "id": "ID_4919fafa6b19",
             "interval": 1,
             "offset": 0
           },
           {
             "type": "month",
-            "name": "Banarou",
-            "length": 25,
-            "id": "ID_e8699b788bda",
-            "interval": 1,
-            "offset": 0
-          },
-          {
-            "type": "month",
-            "name": "Stvilisou",
+            "name": "Nika",
             "length": 27,
-            "id": "ID_bb9899ab2a78",
+            "id": "ID_ba0ae8880819",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Banara",
+            "length": 27,
+            "id": "ID_699b7aa97aeb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Stvlisa",
+            "length": 27,
+            "id": "ID_db291babca68",
             "interval": 1,
             "offset": 0
           },
           {
             "type": "month",
             "name": "Apsni",
-            "length": 27,
-            "id": "ID_b8f9aacb8ba8",
+            "length": 28,
+            "id": "ID_88fafbeb7828",
             "interval": 1,
             "offset": 0
           },
           {
             "type": "month",
-            "name": "Zarni",
-            "length": 27,
-            "id": "ID_68a8d958d96b",
+            "name": "Zari",
+            "length": 28,
+            "id": "ID_7b7bea98aa18",
             "interval": 1,
             "offset": 0
           },
           {
             "type": "month",
-            "name": "Listnji",
-            "length": 25,
-            "id": "ID_ab093a6be9f8",
+            "name": "Listija",
+            "length": 28,
+            "id": "ID_7b88298b490b",
             "interval": 1,
             "offset": 0
           }
@@ -129,157 +136,392 @@
             "cycle": 11,
             "offset": 0,
             "faceColor": "#b0b0b0",
-            "shadowColor": "#404040",
-            "id": "ID_8878f9a82b6b"
+            "shadowColor": "#372121",
+            "id": "ID_fb598a7a2a09"
           },
           {
             "name": "Kynoly",
             "cycle": 37,
             "offset": 0,
-            "faceColor": "#ae5113",
-            "shadowColor": "#390c04",
-            "id": "ID_8b2a6b4a58ea"
+            "faceColor": "#f03333",
+            "shadowColor": "#541303",
+            "id": "ID_fbf998d93b7a"
           },
           {
             "name": "Heaugi",
             "cycle": 64,
             "offset": 0,
-            "faceColor": "#7875ff",
-            "shadowColor": "#0e2e62",
-            "id": "ID_ba49b99b5a4a"
+            "faceColor": "#a09eff",
+            "shadowColor": "#0d3068",
+            "id": "ID_79f9eaa9c9eb"
           }
         ],
         "displayMoons": true,
         "displayDayNumber": true,
         "leapDays": [],
-        "eras": [
-          {
-            "id": "ID_b818596aba08",
-            "type": "era",
-            "name": "Genesis",
-            "description": "",
-            "format": "{{era_name}}",
-            "endsYear": false,
-            "isEvent": false,
-            "category": null,
-            "isStartingEra": true,
-            "date": {
-              "year": 1441,
-              "month": 0,
-              "day": 1
-            }
-          },
-          {
-            "id": "ID_0a1b79a9094b",
-            "type": "era",
-            "name": "Before the First Era",
-            "description": "",
-            "format": "{{era_name}}",
-            "endsYear": false,
-            "isEvent": true,
-            "category": "ID_2988791aba29",
-            "isStartingEra": false,
-            "date": {
-              "year": 128,
-              "month": 0,
-              "day": 1
-            },
-            "end": {
-              "year": 236,
-              "month": 1,
-              "day": 2
-            }
-          },
-          {
-            "id": "ID_0b18e9ab682a",
-            "type": "era",
-            "name": "First Era",
-            "description": "",
-            "format": "{{era_name}}",
-            "endsYear": false,
-            "isEvent": true,
-            "category": null,
-            "isStartingEra": false,
-            "date": {
-              "year": 236,
-              "month": 2,
-              "day": 3
-            },
-            "end": {
-              "year": 1258,
-              "month": 7,
-              "day": 17
-            }
-          },
-          {
-            "id": "ID_cb2a197b3979",
-            "type": "era",
-            "name": "Second Era",
-            "description": "",
-            "format": "{{era_name}}",
-            "endsYear": false,
-            "isEvent": false,
-            "category": null,
-            "isStartingEra": false,
-            "date": {
-              "day": 18,
-              "month": 0,
-              "year": 1285
-            }
-          }
-        ],
-        "padMonths": 1,
-        "padDays": 2,
-        "years": [],
-        "useCustomYears": false
+        "eras": []
       },
       "current": {
-        "day": 10,
+        "day": 3,
         "month": 0,
-        "year": 1443
+        "year": 1425
       },
-      "events": [],
-      "categories": [
+      "events": [
         {
-          "id": "ID_2988791aba29",
-          "color": "#f9b790",
-          "name": "History"
+          "id": "ID_bb782829084b",
+          "name": "Before the First Era",
+          "note": "Structure/TO-DO/Before the First Era.md",
+          "date": {
+            "year": 1,
+            "month": 0,
+            "day": 1
+          },
+          "end": {
+            "year": 122,
+            "month": 3,
+            "day": 3
+          },
+          "description": "",
+          "auto": true,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range"
         },
         {
-          "id": "ID_e829b91a3aba",
-          "color": "#fcf599",
-          "name": "Act"
+          "id": "ID_29ebdbbaebf8",
+          "name": "The First Era",
+          "note": "History/Eras/The First Era/The First Era.md",
+          "date": {
+            "year": 122,
+            "month": 3,
+            "day": 3
+          },
+          "end": {
+            "year": 1258,
+            "month": 7,
+            "day": 17
+          },
+          "description": "",
+          "auto": true,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range"
+        },
+        {
+          "name": "The Second Era",
+          "description": null,
+          "date": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "id": "ID_58da0b5b3aa8",
+          "note": "History/Eras/The Second Era/The Second Era",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Undated"
+        },
+        {
+          "name": "Triple Crescent",
+          "description": "TBA",
+          "date": {
+            "day": 3,
+            "month": 0,
+            "year": 1026
+          },
+          "id": "ID_9a18a9584908",
+          "note": "Three Moons",
+          "category": "ID_5a3888183a4a",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "One Oh One",
+          "description": "Full, new and Full Moon\n",
+          "date": {
+            "day": 16,
+            "month": 1,
+            "year": 1026
+          },
+          "id": "ID_8ba86a3a4bca",
+          "note": "Three Moons",
+          "category": "ID_5a3888183a4a",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Wanderer's Gathering",
+          "description": "All wanderes around the realm gather up at a secret place, exchanging routes and gossip. ",
+          "date": {
+            "day": 12,
+            "month": 0,
+            "year": 1025
+          },
+          "id": "ID_9b3aba09d919",
+          "note": "History/Incidents and Events/Gatherings",
+          "category": "ID_989859282acb",
+          "formulas": [
+            {
+              "type": "interval",
+              "number": 38,
+              "timespan": "days"
+            }
+          ],
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Triple Full Moon",
+          "description": "TRIPLE FOOL MOON\n",
+          "date": {
+            "day": 12,
+            "month": 6,
+            "year": 1026
+          },
+          "id": "ID_8b681929d94b",
+          "note": "History/Incidents and Events/Three Moons",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Full Two News",
+          "description": null,
+          "date": {
+            "day": 14,
+            "month": 2,
+            "year": 1025
+          },
+          "id": "ID_6a48e9392aa8",
+          "note": "History/Incidents and Events/Three Moons",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "id": "ID_895b2ba96b49",
+          "name": "Before the First Era",
+          "note": "Structure/TO-DO/Before the First Era.md",
+          "date": {
+            "year": 1,
+            "month": 0,
+            "day": 1
+          },
+          "end": {
+            "year": 3,
+            "month": 3,
+            "day": 122
+          },
+          "description": "",
+          "auto": true,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range"
+        },
+        {
+          "id": "ID_3a4ad80afad9",
+          "name": "Development of Printing",
+          "note": "History/Eras/The Second Era/Development of Printing.md",
+          "date": {
+            "year": 1625,
+            "month": 4,
+            "day": 21
+          },
+          "end": null,
+          "description": "",
+          "auto": true,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range"
+        },
+        {
+          "id": "ID_d82b9919d9a9",
+          "name": "Fall",
+          "note": "History/Eras/The Second Era/Fall.md",
+          "date": {
+            "year": 1287,
+            "month": 3,
+            "day": 4
+          },
+          "end": null,
+          "description": "",
+          "auto": true,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range"
+        },
+        {
+          "id": "ID_bbeae80a9a38",
+          "name": "The Second Era",
+          "note": "History/Eras/The Second Era/The Second Era.md",
+          "date": {
+            "year": 1285,
+            "month": 7,
+            "day": 17
+          },
+          "end": {
+            "year": 1754,
+            "month": 1,
+            "day": 28
+          },
+          "description": "",
+          "auto": true,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range",
+          "category": null
+        },
+        {
+          "name": "Seacurbury Fair",
+          "description": null,
+          "date": {
+            "year": 1425,
+            "month": 4,
+            "day": 1
+          },
+          "id": "ID_19aa69ea68fb",
+          "note": "Seacurbury Fair",
+          "category": null,
+          "end": {
+            "year": 1425,
+            "month": 6,
+            "day": 1
+          },
+          "formulas": [
+            {
+              "type": "interval",
+              "number": 654,
+              "timespan": "days"
+            }
+          ],
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range"
+        },
+        {
+          "id": "ID_ab3a1b889b3a",
+          "name": "Frisco Bay Confederation",
+          "note": "Groupings/Frisco/Frisco Bay Confederation.md",
+          "date": {
+            "year": 1377,
+            "month": 2,
+            "day": 22
+          },
+          "end": null,
+          "description": "",
+          "auto": true,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range"
         }
       ],
-      "path": [],
-      "supportInlineEvents": true,
-      "inlineEventTag": "Event",
-      "dateFormat": "DD-MM-YYYY"
+      "categories": [
+        {
+          "id": "ID_989859282acb",
+          "color": "#6fe8e8",
+          "name": "Gatherings"
+        },
+        {
+          "id": "ID_5a3888183a4a",
+          "color": "#2918bf",
+          "name": "Celestial"
+        },
+        {
+          "id": "ID_0a1a1ae97b8a",
+          "color": "#f9164b",
+          "name": "History"
+        }
+      ],
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportTimelines": false,
+      "syncTimelines": true,
+      "timelineTag": "#timeline",
+      "displayWeeks": true,
+      "showIntercalarySeparately": false,
+      "inlineEventTag": null,
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1249562903,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      }
     }
   ],
   "configDirectory": null,
+  "currentCalendar": null,
   "dailyNotes": false,
   "dateFormat": "DD-MM-YYYY",
-  "defaultCalendar": "ID_8afa1b3a8b1b",
-  "eventPreview": true,
+  "defaultCalendar": "ID_8a09e9fa085a",
+  "eventPreview": false,
   "exit": {
     "saving": false,
     "event": false,
-    "calendar": false,
-    "savingEvent": false
+    "calendar": false
   },
-  "eventFrontmatter": true,
-  "parseDates": true,
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "settingsToggleState": {
+    "calendars": true,
+    "events": false,
+    "advanced": true
+  },
+  "showIntercalary": false,
   "version": {
-    "major": 1,
-    "minor": 5,
+    "major": 2,
+    "minor": 0,
     "patch": 0,
     "beta": null
   },
-  "debug": true,
-  "askedToMoveFC": false,
+  "debug": false,
   "askedAboutSync": true,
   "syncBehavior": "Always",
-  "inlineEventsTag": null,
-  "paths": []
+  "autoParse": true
 }
