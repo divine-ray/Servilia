@@ -9,6 +9,9 @@ timelines:
 tags:
   - History
   - Eras
+aliases:
+  - Today
+  - Melonare
 ---
 %%Melonare%%
 ### Authority and Reign %%This is the Present.%%
